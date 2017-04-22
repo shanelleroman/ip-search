@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <!-- http://getbootstrap.com/ -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+
+        <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet"/>
+
+        <meta charset="utf-8"/>
+        <meta content="initial-scale=1, width=device-width" name="viewport"/>
+
+        <title>C$50 Finance: {% block title %}{% endblock %}</title>
+
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <header>
+                <a href="/"><img alt="Logo" src="{{ url_for('static', filename='law-scale-banner-photo.jpg') }}"/></a>
+            </header>
+
+            {% if session.user_id %}
+                <nav>
+                    <ul class="nav nav-pills">
+                        <li><a href="{{ url_for('index') }}">Portfolio</a></li>
+                        <li><a href="{{ url_for('quote') }}">Quote</a></li>
+                        <li><a href="{{ url_for('buy') }}">Buy</a></li>
+                        <li><a href="{{ url_for('sell') }}">Sell</a></li>
+                        <li><a href="{{ url_for('history') }}">History</a></li>
+                        <li><a href="{{ url_for('logout') }}"><strong>Log Out</strong></a></li>
+                    </ul>
+                </nav>
+            {% endif %}
+
+            {% if get_flashed_messages() %}
+            <div>
+                <div class="alert alert-info" role="alert">
+                    {{ get_flashed_messages() | join(" ") }}
+                </div>
+            </div>
+            {% endif %}
+
+            <section>
+                {% block section %}{% endblock %}
+            </section>
+
+            <footer>
+                This is C$50 Finance.
+            </footer>
+
+        </div>
+
+    </body>
+
+</html>

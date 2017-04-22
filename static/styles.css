@@ -1,0 +1,62 @@
+.alert
+{
+    /* constrain alert to content */
+    display: inline-block;
+}
+
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1 
+{
+    color: red;
+}
+
+img
+{
+    width: 100%;
+    /* constrain images on small screens */
+   /* max-width: 100%;*/ 
+}
+
+nav
+{
+    /* center navigation pills */
+    display: inline-block;
+}
+
+input[type=range] {
+    display: inline-block;
+    width: 25%;
+}
+
+
+section .form-control
+{
+    /*enter form controls */
+    /*display: inline-block;*/ 
+
+    /* override Bootstrap's 100% width for form controls */
+    /*width: auto;*/
+    width: 20px;
+} 
+
+section td
+{
+    /* left-align tables' cells */
+    text-align: left;
+}
+
+footer
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 1em 0 1em 0;
+}
