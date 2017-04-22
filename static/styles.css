@@ -17,6 +17,13 @@ h1
     color: red;
 }
 
+p 
+{
+    text-align: left;
+}
+
+
+
 img
 {
     width: 100%;
@@ -30,9 +37,20 @@ nav
     display: inline-block;
 }
 
+textarea 
+{
+    margin-left = 0;
+}
+
 input[type=range] {
-    display: inline-block;
+    text-align: left;
+    display: inline;
     width: 25%;
+}
+
+section .topics 
+{
+    text-align: left;
 }
 
 

@@ -7,12 +7,13 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-	return "hello world! my name is SD"
+	return render_template('form.html')
+
+@app.route('/results', methods=['GET', 'POST'])
+def results():
+	return render_template("results.html")
 	
-# takes client query, scrapes facebook group and returns json response
-@app.route('/query')
-def query():
-	return "hello"
+
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
