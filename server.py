@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-	return "hello world!"
+	return "hello world! my name is SD"
 	
 # takes client query, scrapes facebook group and returns json response
 @app.route('/query')
