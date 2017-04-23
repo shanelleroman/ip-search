@@ -1,0 +1,30 @@
+				
+				<h1 class = "blog-title"> Blog </h1>
+			</div>
+				<div class = "row">
+					<div class= "col-sn-8 blog-main">
+						{%post for post in posts%}
+						<div class = "blog-post">
+							<h2 class = "blog-post-tite"> {{post.title}} </h2>
+
+							<p>{{post.content}} </p>
+						</div>div>
+						{% endfor %}
+					</div>
+					<div class = "col-sm-3 col-sm-offset-1 blog-sidebar">
+						<div class = "sidebar-module sidebar-module-inset">
+							<h4>Search</h4>
+							<form class = "form-inline" method = "GET" action = "search">
+								<div class = "form-group">
+									<label for = "query"> Name</label>
+									<input type = "text" class = "form-control" name ="query" id = "query">
+								</div>
+								<button type = "submit" class = "btn btn-primary">Search </button>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
