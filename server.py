@@ -1,5 +1,5 @@
 #!flask/bin/python
-from flask import Flask, jsonify, render_template, request, url_for, Response, make_response
+from flask import Flask, jsonify, render_template, request, url_for, Response, make_response, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
 import flask_whooshalchemy as wa
 
@@ -26,6 +26,8 @@ class Document(db.Model):
     name = db.Column((db.String(30)))
     #text = db.Column(db.String(100))
     text = db.Column((db.Text()))
+    original = db.Column((db.BLOB()))
+
 
 
 wa.whoosh_index(app, Document)
@@ -33,10 +35,14 @@ wa.whoosh_index(app, Document)
 @app.route("/add")
 def add():
     content = ''
-    title = 'sample.txt'
+    title = 'hw.txt'
+
     with open(title, 'r') as content_file:
         content = content_file.read()
-        post = Document(name = title, text= content)
+        content = content.decode('utf8')
+        with open('hw.pdf', 'r') as orig_file:
+            original = content_file.read()
+        post = Document(name = title, text= content, original=original)
         db.session.add(post)
         db.session.commit()
     pass
@@ -48,6 +54,10 @@ def index():
 @app.route('/results', methods=['GET', 'POST'])
 def results():
     results = Document.query.whoosh_search(request.form.get('query')).all()
+    for x, result in enumerate(results):
+        if x == 0:
+            return send_from_directory('', result.name.strip('.txt') + '.pdf')
+
     return render_template("results.html", results=results)
 
 if __name__ == '__main__':
