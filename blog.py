@@ -30,7 +30,7 @@ wa.whoosh_index(app, Post)
 @app.route("/")
 def index():
     #give you all the posts
-    post = Post.query.all()
+    posts = Post.query.all()
     return render_template('index.html', posts = posts)
 
 @app.route("/add")

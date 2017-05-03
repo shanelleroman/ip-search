@@ -20,9 +20,18 @@ Fair Use Form
 	<input type="radio" name="appropriation art" id="aa" value="appropriation art"><br>
 	<label for="other">Other</label>
 	<input type="radio" name="gender" id="other" value="other"><br><br>
-	<p><textarea name="Text1" cols="40" rows="5"></textarea></p>
-	<input type="submit" value="Search!"/>
-
+	<!-- <p><textarea name="Text1" cols="40" rows="5"></textarea></p>
+	<input type="submit" value="Search!"/> -->
+	<div class = "sidebar-module sidebar-module-inset">
+	<h4>Search</h4>
+		<form class = "form-inline" method = "POST" action = "results" >
+			<div class = "form-group">
+				<label for = "query"> Name</label>
+				<input type = "text" class = "form-control" name ="query" id = "query" style="width: 400px">
+			</div>
+			<button type = "submit" class = "btn btn-primary">Search </button>
+		</form>
+	</div>
 	</div>
 </form>
 {% endblock %}

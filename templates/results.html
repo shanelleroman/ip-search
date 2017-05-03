@@ -5,5 +5,13 @@ Search Results
 {% endblock %}
 
 {% block section %}
-<p> Results = check</p>
+	<div class= "col-sn-8 blog-main">
+	{% for course in courses %}
+	<div class = "blog-post">
+		<h2 class = "blog-post-tite"> {{course.name}} </h2>
+		<p>{{course.description}} </p>
+	</div>
+	{% endfor %}
+
 {% endblock %}
+
