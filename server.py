@@ -6,8 +6,8 @@ import flask_whooshalchemy as wa
 app = Flask(__name__)
 
 #setting the congfig values
-#appconfig['SQLALCHEMY_DATABASE_URI'] = 'mysql://prettypr_search:prettyprinted@prettyprinted.com/prettypr_whoosh'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///help.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///ip-search.db'
+
 #really important: sql track modifications: allows whoosh alcehemy to know
 #when something changes in the database
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
@@ -19,16 +19,27 @@ app.config['DEBUG'] = True
 app.config['WHOOSH_BASE'] = 'whoosh'
 
 db = SQLAlchemy(app)
-class Course(db.Model):
+class Document(db.Model):
     #defines which columns can be searched
-    __searchable__ = ['name', 'description']#three columns, one primary key
+    __searchable__ = ['name', 'text']#three columns, one primary key
     id= db.Column(db.Integer, primary_key=True)
     name = db.Column((db.String(30)))
-    description = db.Column(db.String(100))
+    #text = db.Column(db.String(100))
+    text = db.Column((db.Text()))
 
 
-wa.whoosh_index(app, Course)
+wa.whoosh_index(app, Document)
 
+@app.route("/add")
+def add():
+    content = ''
+    title = 'sample.txt'
+    with open(title, 'r') as content_file:
+        content = content_file.read()
+        post = Document(name = title, text= content)
+        db.session.add(post)
+        db.session.commit()
+    pass
 
 @app.route('/')
 def index():
@@ -36,12 +47,8 @@ def index():
 
 @app.route('/results', methods=['GET', 'POST'])
 def results():
-    #courses = Course.query.all()
-    #courses = request.args.get('query')
-    courses = Course.query.whoosh_search(request.form.get('query')).all()
-    #courses = Course.query.whoosh_search(request.args.get('query')).all()
-    #posts = Post.query.whoosh_search(request.args.get('query')).all()
-    return render_template("results.html", courses=courses)
+    results = Document.query.whoosh_search(request.form.get('query')).all()
+    return render_template("results.html", results=results)
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.

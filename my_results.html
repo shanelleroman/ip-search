@@ -6,12 +6,11 @@ Search Results
 
 {% block section %}
 	<div class= "col-sn-8 blog-main">
-	{% for result in results %}
+	{% for course in courses %}
 	<div class = "blog-post">
-		<h2 class = "blog-post-tite"> {{result.name}} </h2>
-		<p>{{result.text}} </p>
+		<h2 class = "blog-post-tite"> {{course.name}} </h2>
+		<p>{{course.description}} </p>
 	</div>
 	{% endfor %}
 
 {% endblock %}
-

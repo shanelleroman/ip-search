@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Fair Use Form
+{% endblock %}
+
+{% block section %}
+<h1>Want to see a pdf?</h1>
+
+<embed src="{{ url_for('templates', filename='hw4.pdf') }}" />
+
+{% endblock %}
