@@ -33,36 +33,27 @@ class Document(db.Model):
 
 wa.whoosh_index(app, Document)
 
-@app.route("/add")
-def add():
-    # script to run through all of the files 
-    for file in os.listdir('./pdfs'):
-        if file.endswith('.pdf'):
-            file_in = os.getcwd() +  '/pdfs/' + file 
-            file_out = os.getcwd() + '/textfiles/' + file.strip('pdf') + 'txt'
-            # os.system('touch ' + file_out)
-            # print file_out      
-            # function_call = 'python pdf2txt.py -o ' + file_out + ' '  + file_in
-            # print function_call
-            #os.system(function_call)
-            with open(file_in, 'r') as pdf_file:
-                original = pdf_file.read()
-                with open(file_out, 'r') as text_file:
-                    text_content = text_file.read().decode('utf-8')
-                    file_name = file.strip('pdf')
-                    post = Document(name=file_name, text=text_content, original = original)
-                    db.session.add(post)
-                    db.session.commit()
-    # with open(title, 'r') as content_file:
-    #     content = content_file.read()
-    #     content = content.decode('utf8')
-    #     with open('hw.pdf', 'r') as orig_file:
-    #         original = content_file.read()
-    #     post = Document(name = title, text= content, original=original)
-    #     db.session.add(post)
-    #     db.session.commit()
-    pass
+# @app.route("/add")
+# def add():
+#     # script to run through all of the files 
+#     for file in os.listdir('./pdfs'):
+#         if file.endswith('.pdf'):
+#             file_in = os.getcwd() +  '/pdfs/' + file 
+#             file_out = os.getcwd() + '/textfiles/' + file.strip('pdf') + 'txt'
+#             with open(file_in, 'r') as pdf_file:
+#                 original = pdf_file.read()
+#                 with open(file_out, 'r') as text_file:
+#                     text_content = text_file.read().decode('utf-8')
+#                     file_name = file.strip('pdf')
+#                     post = Document(name=file_name, text=text_content, original = original)
+#                     db.session.add(post)
+#                     db.session.commit()
+#     pass
 
+@app.route('/query_results', methods= ['GET', 'POST'])
+def query_results():
+    results = Document.query.whoosh_search(request.form.get('query')).all()
+    return render_template("results_list.html", results=results)
 @app.route('/')
 def index():
 	return render_template('form.html')
