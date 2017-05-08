@@ -42,6 +42,11 @@ textarea
     margin-left = 0;
 }
 
+section .query_results {
+    text-align: left;
+    display: inline;
+}
+
 input[type=range] {
     text-align: left;
     display: inline;

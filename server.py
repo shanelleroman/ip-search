@@ -25,7 +25,7 @@ class Document(db.Model):
     __searchable__ = ['name', 'text']#three columns, one primary key
     id= db.Column(db.Integer, primary_key=True)
     name = db.Column((db.String(30)))
-    #text = db.Column(db.String(100))
+    userFacingName = db.Column(db.String(255))
     text = db.Column((db.Text()))
     original = db.Column((db.BLOB()))
 
@@ -35,6 +35,7 @@ wa.whoosh_index(app, Document)
 
 # @app.route("/add")
 # def add():
+#     db.session.
 #     # script to run through all of the files 
 #     for file in os.listdir('./pdfs'):
 #         if file.endswith('.pdf'):
@@ -54,20 +55,19 @@ wa.whoosh_index(app, Document)
 def query_results():
     results = Document.query.whoosh_search(request.form.get('query')).all()
     return render_template("results_list.html", results=results)
+
 @app.route('/')
 def index():
 	return render_template('form.html')
 
 @app.route('/results', methods=['GET', 'POST'])
 def results():
-    results = Document.query.whoosh_search(request.form.get('query')).all()
-    for x, result in enumerate(results):
-        if x == 0:
-            file_name = result.name.strip('.txt') + '.pdf'
-            print file_name
-            if os.path.isfile(file_name):
-                return send_from_directory('', file_name)
-
+    query = request.args.get('q')
+    file_name = query + 'pdf'
+    print file_name
+    file_path = os.getcwd() + '/pdfs/' + query + 'pdf'
+    if os.path.isfile(file_path):
+        return send_from_directory('pdfs', file_name)
     return render_template("results.html", results=results)
 
 if __name__ == '__main__':

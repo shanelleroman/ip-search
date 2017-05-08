@@ -6,7 +6,7 @@ Fair Use Form
 
 {% block section %}
 <h1>Want to know if you are violating copyright?</h1>
-<form action="{{ url_for('results') }}" method="post">
+<form action="{{ url_for('query_results') }}" method="post">
 	<h5>Rate your idea on the scale 1 - 10 according to the following factors</h5>
 	<p> Purpose and character of the use: from commercial to nonprofit educational purposes <input type="range" name="points" min="0" max="10" step="1" size="2" /> </p>
 	<p> Nature of the copyrighted work<input type="range" name="points" min="0" max="10" step="1" size="2" /> </p>
@@ -24,7 +24,7 @@ Fair Use Form
 	<input type="submit" value="Search!"/> -->
 	<div class = "sidebar-module sidebar-module-inset">
 	<h4>Search</h4>
-		<form class = "form-inline" method = "POST" action = "results" >
+		<form class = "form-inline" method = "POST" action = "query_results" >
 			<div class = "form-group">
 				<label for = "query"> Name</label>
 				<input type = "text" class = "form-control" name ="query" id = "query" style="width: 400px">

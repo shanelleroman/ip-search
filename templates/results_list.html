@@ -5,13 +5,12 @@ Search Results
 {% endblock %}
 
 {% block section %}
-	<div class= "col-sn-8 blog-main">
+	<div class= "query_results">
+	<ul>
 	{% for result in results %}
-	<div class = "blog-post">
-		<h2 class = "blog-post-title"> {{result.name}} </h2>
-		<p>{{result.text}} </p>
-	</div>
+	<li> <a href="http://127.0.0.1:5000/results?q={{result.name}}">{{result.userFacingName}}</a></li>
 	{% endfor %}
+	</ul>
 
 {% endblock %}
 
