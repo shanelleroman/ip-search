@@ -1,0 +1,561 @@
+5/7/2017
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+Published on OpenJurist (http://openjurist.org)
+Home > 834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+834 F2d 1142 Brandir International Inc v.
+Cascade Paciﬁc Lumber Co L
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+834 F.2d 1142
+1988 Copr.L.Dec. P 26,200
+BRANDIR INTERNATIONAL, INC., Plaintiff-Appellant, 
+v. 
+CASCADE PACIFIC LUMBER CO., d/b/a Columbia Cascade Co., 
+Defendant-Appellee, 
+and 
+David L. Ladd, Register of Copyrights, United States 
+Copyright Ofﬁce, Third-Party Defendant.
+No. 828, Docket 86-6260.
+United States Court of Appeals, 
+Second Circuit.
+Argued March 2, 1987. 
+Decided Dec. 2, 1987.
+Blum Kaplan, New York City (Lawrence Rosenthal, Laura E. Goldbard, Anita K. Yeung, New York
+City, of counsel), for plaintiff-appellant.
+Fish & Neave, New York City (Donald E. Degling, Susan Progoff, Eric M. Lee, New York City, of
+counsel), for defendant-appellee.
+Before OAKES and WINTER, Circuit Judges, and ZAMPANO, District Judge.*
+OAKES, Circuit Judge:
+
+1
+In passing the Copyright Act of 1976 Congress attempted to distinguish between protectable "works
+of applied art" and "industrial designs not subject to copyright protection." See H.R.Rep. No. 1476,
+94th Cong., 2d Sess. 54, reprinted in 1976 U.S.Code Cong. & Admin.News 5659, 5667 (hereinafter
+H.R.Rep. No. 1476). The courts, however, have had difﬁculty framing tests by which the ﬁne line
+establishing what is and what is not copyrightable can be drawn. Once again we are called upon to
+draw such a line, this time in a case involving the "RIBBON Rack," a bicycle rack made of bent
+tubing that is said to have originated from a wire sculpture. (A photograph of the rack is contained in
+
+http://openjurist.org/print/340971
+
+the appendix to this opinion.) We are also
+
+1/11
+
+5/7/2017
+
+Advertisement 
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+the appendix to this opinion.) We are also
+called upon to determine whether there is any
+trademark protection available to the
+manufacturer of the bicycle rack, appellant
+Brandir International, Inc. The Register of
+Copyright, named as a third-party defendant
+under the statute, 17 U.S.C. Sec. 411, but
+electing not to appear, denied copyrightability.
+In the subsequent suit brought in the United
+States District Court for the Southern District of
+New York, Charles S. Haight, Jr., Judge, the
+district court granted summary judgment on
+both the copyright and trademark claims to
+defendant Cascade Paciﬁc Lumber Co., d/b/a
+Columbia Cascade Co., manufacturer of a
+similar bicycle rack. We afﬁrm as to the
+copyright claim, but reverse and remand as to
+the trademark claim.
+2
+
+Against the history of copyright protection well set out in the majority opinion in Carol Barnhart Inc. v.
+Economy Cover Corp., 773 F.2d 411, 415-18 (2d Cir.1985), and in Denicola, Applied Art and
+Industrial Design: A Suggested Approach to Copyright in Useful Articles, 67 Minn.L.Rev. 707, 709-
+17 (1983), Congress adopted the Copyright Act of 1976. The "works of art" classiﬁcation of the
+Copyright Act of 1909 was omitted and replaced by reference to "pictorial, graphic, and sculptural
+works," 17 U.S.C. Sec. 102(a)(5). According to the House Report, the new category was intended to
+supply "as clear a line as possible between copyrightable works of applied art and uncopyrighted
+works of industrial design." H.R.Rep. No. 1476, at 55, U.S.Code Cong. & Admin.News 1976, p.
+5668. The statutory deﬁnition of "pictorial, graphic, and sculptural works" states that "the design of a
+useful article, as deﬁned in this section, shall be considered a pictorial, graphic, or sculptural work
+only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features
+that can be identiﬁed separately from, and are capable of existing independently of, the utilitarian
+aspects of the article." 17 U.S.C. Sec. 101.1 The legislative history added gloss on the criteria of
+separate identity and independent existence in saying:
+3
+On the other hand, although the shape of an industrial product may be aesthetically satisfying and
+valuable, the Committee's intention is not to offer it copyright protection under the bill. Unless the
+shape of an automobile, airplane, ladies' dress, food processor, television set, or any other industrial
+product contains some element that, physically or conceptually, can be identiﬁed as separable from
+the utilitarian aspects of that article, the design would not be copyrighted under the bill.
+4
+H.R.Rep. No. 1476, at 55, U.S.Code Cong. & Admin.News 1976, p. 5668.
+5
+As courts and commentators have come to realize, however, the line Congress attempted to draw
+between copyrightable art and noncopyrightable design "was neither clear nor new." Denicola,
+supra, 67 Minn.L.Rev. at 720. One aspect of the distinction that has drawn considerable attention is
+the reference in the House Report to "physically or conceptually " (emphasis added) separable
+elements. The District of Columbia Circuit in Esquire, Inc. v. Ringer, 591 F.2d 796, 803-04
+
+http://openjurist.org/print/340971
+
+2/11
+
+5/7/2017
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+(D.C.Cir.1978) (holding outdoor lighting ﬁxtures ineligible for copyright), cert. denied, 440 U.S. 908,
+99 S.Ct. 1217, 59 L.Ed.2d 456 (1979), called this an "isolated reference" and gave it no signiﬁcance.
+Professor Nimmer, however, seemed to favor the observations of Judge Harold Leventhal in his
+concurrence in Esquire, who stated that "the overall legislative policy ... sustains the Copyright
+Ofﬁce in its effort to distinguish between the instances where the aesthetic element is conceptually
+severable and the instances where the aesthetic element is inextricably interwoven with the
+utilitarian aspect of the article." 591 F.2d at 807; see 1 Nimmer on Copyright Sec. 2.08[B] at 2-93 to
+2-96.2 (1986). But see Gerber, Book Review, 26 U.C.L.A.L.Rev. 925, 938-43 (1979) (criticizing
+Professor Nimmer's view on conceptual separability). Looking to the section 101 deﬁnition of works
+of artistic craftsmanship requiring that artistic features be "capable of existing independently of the
+utilitarian aspects," Professor Nimmer queries whether that requires physical as distinguished from
+conceptual separability, but answers his query by saying "[t]here is reason to conclude that it does
+not." See 1 Nimmer on Copyright Sec. 2.08[B] at 2-96.1. In any event, in Kieselstein-Cord v.
+Accessories by Pearl, Inc., 632 F.2d 989, 993 (2d Cir.1980), this court accepted the idea that
+copyrightability can adhere in the "conceptual" separation of an artistic element. Indeed, the court
+went on to ﬁnd such conceptual separation in reference to ornate belt buckles that could be and
+were worn separately as jewelry. Kieselstein-Cord was followed in Norris Industries, Inc. v.
+International Telephone & Telegraph Corp., 696 F.2d 918, 923-24 (11th Cir.), cert. denied, 464 U.S.
+818, 104 S.Ct. 78, 78 L.Ed.2d 89 (1983), although there the court upheld the Register's refusal to
+register automobile wire wheel covers, ﬁnding no "conceptually separable" work of art. See also
+Transworld Mfg. Corp. v. Al Nyman & Sons, Inc., 95 F.R.D. 95 (D.Del.1982) (ﬁnding conceptual
+separability sufﬁcient to support copyright in denying summary judgment on copyrightability of
+eyeglass display cases).
+6
+In Carol Barnhart Inc. v. Economy Cover Corp., 773 F.2d 411 (2d Cir.1985), a divided panel of this
+circuit afﬁrmed a district court grant of summary judgment of noncopyrightability of four life-sized,
+anatomically correct human torso forms. Carol Barnhart distinguished Kieselstein-Cord, but it surely
+did not overrule it. The distinction made was that the ornamented surfaces of the Kieselstein-Cord
+belt buckles "were not in any respect required by their utilitarian functions," but the features claimed
+to be aesthetic or artistic in the Carol Barnhart forms were "inextricably intertwined with the utilitarian
+feature, the display of clothes." 773 F.2d at 419. But cf. Animal Fair, Inc. v. Amfesco Indus., Inc., 620
+F.Supp. 175, 186-88 (D.Minn.1985) (holding bear-paw design conceptually separable from the
+utilitarian features of a slipper), aff'd mem., 794 F.2d 678 (8th Cir.1986). As Judge Newman's dissent
+made clear, the Carol Barnhart majority did not dispute "that 'conceptual separability' is distinct from
+'physical separability' and, when present, entitles the creator of a useful article to a copyright on its
+design." 773 F.2d at 420.
+7
+"Conceptual separability" is thus alive and well, at least in this circuit. The problem, however, is
+determining exactly what it is and how it is to be applied. Judge Newman's illuminating discussion in
+dissent in Carol Barnhart, see 773 F.2d at 419-24, proposed a test that aesthetic features are
+conceptually separable if "the article ... stimulate[s] in the mind of the beholder a concept that is
+separate from the concept evoked by its utilitarian function." Id. at 422. This approach has received
+favorable endorsement by at least one commentator, W. Patry, Latman's The Copyright Law 43-45
+(6th ed. 1986), who calls Judge Newman's test the "temporal displacement" test. It is to be
+distinguished from other possible ways in which conceptual separability can be tested, including
+whether the primary use is as a utilitarian article as opposed to an artistic work, whether the
+aesthetic aspects of the work can be said to be "primary," and whether the article is marketable as
+art, none of which is very satisfactory. But Judge Newman's test was rejected outright by the
+majority as "a standard so ethereal as to amount to a 'nontest' that would be extremely difﬁcult, if not
+impossible, to administer or apply." 773 F.2d at 419 n. 5.
+
+http://openjurist.org/print/340971
+
+3/11
+
+5/7/2017
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+Advertisement 
+
+8
+Perhaps the differences between the majority and
+the dissent in Carol Barnhart might have been
+resolved had they had before them the Denicola
+article on Applied Art and Industrial Design: A
+Suggested Approach to Copyright in Useful
+Articles, supra. There, Professor Denicola points
+out that although the Copyright Act of 1976 was
+an effort " 'to draw as clear a line as possible,' " in
+truth "there is no line, but merely a spectrum of
+forms and shapes responsive in varying degrees
+to utilitarian concerns." 67 Minn.L.Rev. at 741.
+Denicola argues that "the statutory directive
+requires a distinction between works of industrial
+design and works whose origins lie outside the
+design process, despite the utilitarian
+environment in which they appear." He views the statutory limitation of copyrightability as "an
+attempt to identify elements whose form and appearance reﬂect the unconstrained perspective of
+the artist," such features not being the product of industrial design. Id. at 742. "Copyrightability,
+therefore, should turn on the relationship between the proffered work and the process of industrial
+design." Id. at 741. He suggests that "the dominant characteristic of industrial design is the inﬂuence
+of nonaesthetic, utilitarian concerns" and hence concludes that copyrightability "ultimately should
+depend on the extent to which the work reﬂects artistic expression uninhibited by functional
+considerations."2 Id. To state the Denicola test in the language of conceptual separability, if design
+elements reﬂect a merger of aesthetic and functional considerations, the artistic aspects of a work
+cannot be said to be conceptually separable from the utilitarian elements. Conversely, where design
+elements can be identiﬁed as reﬂecting the designer's artistic judgment exercised independently of
+functional inﬂuences, conceptual separability exists.
+9
+We believe that Professor Denicola's approach provides the best test for conceptual separability
+and, accordingly, adopt it here for several reasons. First, the approach is consistent with the
+holdings of our previous cases. In Kieselstein-Cord, for example, the artistic aspects of the belt
+buckles reﬂected purely aesthetic choices, independent of the buckles' function, while in Carol
+Barnhart the distinctive features of the torsos--the accurate anatomical design and the sculpted
+shirts and collars--showed clearly the inﬂuence of functional concerns. Though the torsos bore
+artistic features, it was evident that the designer incorporated those features to further the
+usefulness of the torsos as mannequins. Second, the test's emphasis on the inﬂuence of utilitarian
+concerns in the design process may help, as Denicola notes, to "alleviate the de facto discrimination
+against nonrepresentational art that has regrettably accompanied much of the current analysis." Id.
+at 745.3 Finally, and perhaps most importantly, we think Denicola's test will not be too difﬁcult to
+administer in practice. The work itself will continue to give "mute testimony" of its origins. In addition,
+the parties will be required to present evidence relating to the design process and the nature of the
+work, with the trier of fact making the determination whether the aesthetic design elements are
+signiﬁcantly inﬂuenced by functional considerations.
+10
+Turning now to the facts of this case, we note ﬁrst that Brandir contends, and its chief owner David
+Levine testiﬁed, that the original design of the RIBBON Rack stemmed from wire sculptures that
+Levine had created, each formed from one continuous undulating piece of wire. These sculptures
+were, he said, created and displayed in his home as a means of personal expression, but apparently
+
+http://openjurist.org/print/340971
+
+4/11
+
+5/7/2017
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+were never sold or displayed elsewhere. He also created a wire sculpture in the shape of a bicycle
+and states that he did not give any thought to the utilitarian application of any of his sculptures until
+he accidentally juxtaposed the bicycle sculpture with one of the self-standing wire sculptures. It was
+not until November 1978 that Levine seriously began pursuing the utilitarian application of his
+sculptures, when a friend, G. Duff Bailey, a bicycle buff and author of numerous articles about urban
+cycling, was at Levine's home and informed him that the sculptures would make excellent bicycle
+racks, permitting bicycles to be parked under the overloops as well as on top of the underloops.
+Following this meeting, Levine met several times with Bailey and others, completing the designs for
+the RIBBON Rack by the use of a vacuum cleaner hose, and submitting his drawings to a fabricator
+complete with dimensions. The Brandir RIBBON Rack began being nationally advertised and
+promoted for sale in September 1979.
+11
+In November 1982 Levine discovered that another company, Cascade Paciﬁc Lumber Co., was
+selling a similar product. Thereafter, beginning in December 1982, a copyright notice was placed on
+all RIBBON Racks before shipment and on December 10, 1982, ﬁve copyright applications for
+registration were submitted to the Copyright Ofﬁce. The Copyright Ofﬁce refused registration by
+letter, stating that the RIBBON Rack did not contain any element that was "capable of independent
+existence as a copyrightable pictorial, graphic or sculptural work apart from the shape of the useful
+article." An appeal to the Copyright Ofﬁce was denied by letter dated March 23, 1983, refusing
+registration on the above ground and alternatively on the ground that the design lacked originality,
+consisting of "nothing more than a familiar public domain symbol." In February 1984, after the denial
+of the second appeal of the examiner's decision, Brandir sent letters to customers enclosing
+copyright notices to be placed on racks sold prior to December 1982.
+12
+Between September 1979 and August 1982 Brandir spent some $38,500 for advertising and
+promoting the RIBBON Rack, including some 85,000 pieces of promotional literature to architects
+and landscape architects. Additionally, since October 1982 Brandir has spent some $66,000,
+including full-, half-, and quarter-page advertisements in architectural magazines such as
+Landscape Architecture, Progressive Architecture, and Architectural Record, indeed winning an
+advertising award from Progressive Architecture in January 1983. The RIBBON Rack has been
+featured in Popular Science, Art and Architecture, and Design 384 magazines, and it won an
+Industrial Designers Society of America design award in the spring of 1980. In the spring of 1984 the
+RIBBON Rack was selected from 200 designs to be included among 77 of the designs exhibited at
+the Katonah Gallery in an exhibition entitled "The Product of Design: An Exploration of the Industrial
+Design Process," an exhibition that was written up in the New York Times.
+13
+Sales of the RIBBON Rack from September 1979 through January 1985 were in excess of
+$1,367,000. Prior to the time Cascade Paciﬁc began offering for sale its bicycle rack in August 1982,
+Brandir's sales were $436,000. The price of the RIBBON Rack ranges from $395 up to $2,025 for a
+stainless steel model and generally depends on the size of the rack, one of the most popular being
+the RB-7, selling for $485.
+14
+Applying Professor Denicola's test to the RIBBON Rack, we ﬁnd that the rack is not copyrightable. It
+seems clear that the form of the rack is inﬂuenced in signiﬁcant measure by utilitarian concerns and
+thus any aesthetic elements cannot be said to be conceptually separable from the utilitarian
+elements. This is true even though the sculptures which inspired the RIBBON Rack may well have
+been--the issue of originality aside--copyrightable.
+
+http://openjurist.org/print/340971
+
+5/11
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+5/7/2017
+15
+Brandir argues correctly that a copyrighted work of art does not lose its protected status merely
+because it subsequently is put to a functional use. The Supreme Court so held in Mazer v. Stein,
+347 U.S. 201, 74 S.Ct. 460, 98 L.Ed. 630 (1954), and Congress speciﬁcally intended to accept and
+codify Mazer in section 101 of the Copyright Act of 1976. See H.R.Rep. No. 1476 at 54-55. The
+district court thus erred in ruling that, whatever the RIBBON Rack's origins, Brandir's
+commercialization of the rack disposed of the issue of its copyrightability.
+16
+Had Brandir merely adopted one of the existing sculptures as a bicycle rack, neither the application
+to a utilitarian end nor commercialization of that use would have caused the object to forfeit its
+copyrighted status. Comparison of the RIBBON Rack with the earlier sculptures, however, reveals
+that while the rack may have been derived in part from one of more "works of art," it is in its ﬁnal
+form essentially a product of industrial design. In creating the RIBBON Rack, the designer has
+clearly adapted the original aesthetic elements to accommodate and further a utilitarian purpose.
+These altered design features of the RIBBON Rack, including the spacesaving, open design
+achieved by widening the upper loops to permit parking under as well as over the rack's curves, the
+straightened vertical elements that allow in- and above-ground installation of the rack, the ability to
+ﬁt all types of bicycles and mopeds, and the heavy-gauged tubular construction of rustproof
+galvanized steel, are all features that combine to make for a safe, secure, and maintenance-free
+system of parking bicycles and mopeds. Its undulating shape is said in Progressive Architecture,
+January 1982, to permit double the storage of conventional bicycle racks. Moreover, the rack is
+manufactured from 2 3/8-inch standard steam pipe that is bent into form, the six-inch radius of the
+bends evidently resulting from bending the pipe according to a standard formula that yields bends
+having a radius equal to three times the nominal internal diameter of the pipe.
+17
+Brandir argues that its RIBBON Rack can and should be characterized as a sculptural work of art
+within the minimalist art movement. Minimalist sculpture's most outstanding feature is said to be its
+clarity and simplicity, in that it often takes the form of geometric shapes, lines, and forms that are
+pure and free of ornamentation and void of association. As Brandir's expert put it, "The meaning is
+to be found in, within, around and outside the work of art, allowing the artistic sensation to be
+experienced as well as intellectualized." People who use Foley Square in New York City see in the
+form of minimalist art the "Tilted Arc," which is on the plaza at 26 Federal Plaza. Numerous
+museums have had exhibitions of such art, and the school of minimalist art has many admirers.
+18
+It is unnecessary to determine whether to the art world the RIBBON Rack properly would be
+considered an example of minimalist sculpture. The result under the copyright statute is not
+changed. Using the test we have adopted, it is not enough that, to paraphrase Judge Newman, the
+rack may stimulate in the mind of the reasonable observer a concept separate from the bicycle rack
+concept. While the RIBBON Rack may be worthy of admiration for its aesthetic qualities alone, it
+remains nonetheless the product of industrial design. Form and function are inextricably intertwined
+in the rack, its ultimate design being as much the result of utilitarian pressures as aesthetic choices.
+Indeed, the visually pleasing proportions and symmetricality of the rack represent design changes
+made in response to functional concerns. Judging from the awards the rack has received, it would
+seem in fact that Brandir has achieved with the RIBBON Rack the highest goal of modern industrial
+design, that is, the harmonious fusion of function and aesthetics. Thus there remains no artistic
+element of the RIBBON Rack that can be identiﬁed as separate and "capable of existing
+independently, of, the utilitarian aspects of the article." Accordingly, we must afﬁrm on the copyright
+claim.
+
+http://openjurist.org/print/340971
+
+6/11
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+5/7/2017
+19
+As to whether the conﬁguration of Brandir's bicycle rack can be protected under either section 43(a)
+of the Lanham Act, 15 U.S.C. Sec. 1125(a), or New York State unfair competition law, we are
+reminded that the design of a product itself may function as its packaging or protectable trade dress.
+See LeSportsac, Inc. v. K mart Corp., 754 F.2d 71, 75 (2d Cir.1985). The district court dismissed
+Brandir's claims, saying that its analysis of the copyright issue was sufﬁcient to dispose of the
+Lanham Act and common law claims. The court stated "the design feature of the Ribbon Racks is
+clearly dictated by the function to be performed, namely, holding up bicycles. If the steam pipes
+were not bent into the design, but instead remained ﬂat, the bicycles would not stand up, they would
+fall down." But as Judge Newman noted in his dissent in Carol Barnhart, 773 F.2d at 420 n. 1, the
+principle of conceptual separability of functional design elements in copyright law is different from
+the somewhat similar principle of functionality as developed in trademark law. For trademark
+purposes, he pointed out, a design feature "has been said to be functional if it is 'essential to the use
+or purpose of the article' or 'affects the cost or quality of the article.' " Id. (quoting Inwood
+Laboratories, Inc. v. Ives Laboratories, Inc., 456 U.S. 844, 850 n. 10, 102 S.Ct. 2182, 2187 n. 10, 72
+L.Ed.2d 606 (1982)); see LeSportsac, Inc. v. K mart Corp., 754 F.2d at 75-76 (trade dress of a
+product is eligible for protection if it has acquired a secondary meaning and is nonfunctional).4
+20
+Here, the district court limited its inquiry to determining whether portions of the RIBBON Rack
+performed the function of a bicycle rack. But the fact that a design feature performs a function does
+not make it essential to the performance of that function; it is instead the absence of alternative
+constructions performing the same function that renders the feature functional. Thus, the true test of
+functionality is not whether the feature in question performs a function, but whether the feature "is
+dictated by the functions to be performed," Warner Bros. Inc. v. Gay Toys, Inc., 724 F.2d 327, 331
+(2d Cir.1983) (quoted in LeSportsac, Inc. v. K mart Corp., 754 F.2d at 76), as evidenced by available
+alternative constructions. See Metro Kane Imports, Ltd. v. Rowoco, Inc., 618 F.Supp. 273, 275-76
+(S.D.N.Y.1985), aff'd mem., 800 F.2d 1128 (2d Cir.1986) (ﬁnding high-tech design of orange juice
+squeezer not dictated by function to be performed as there was no evidence that design permitted
+juicer to be manufactured at lower price or with altered performance). There are numerous
+alternative bicycle rack constructions. The nature, price, and utility of these constructions are
+material issues of fact not suitable for determination by summary judgment.5 For example, while it is
+true that the materials used by Brandir are standard-size pipes, we have no way of knowing whether
+the particular size and weight of the pipes used is the best, the most economical, or the only
+available size and weight pipe in the marketplace. We would rather think the opposite might be the
+case. So, too, with the dimension of the bends being dictated by a standard formula corresponding
+to the pipe size; it could be that there are many standard radii and that the particular radius of
+Brandir's RIBBON Rack actually required new tooling. This issue of functionality on remand should
+be viewed in terms of bicycle racks generally and not one-piece undulating bicycle racks speciﬁcally.
+See id. at 330-32; see also In re DC Comics, Inc., 689 F.2d 1042, 1045 (C.C.P.A.1982) (dolls
+generally and not Superman dolls are the class by which functionality is determined). We reverse
+and remand as to the trademark and unfair competition claims.
+21
+Judgment afﬁrmed as to the copyright claim; reversed and remanded as to the trademark and unfair
+competition claims.
+APPENDIX
+22
+NOTE: OPINION CONTAINS TABLE OR OTHER DATA THAT IS NOT VIEWABLE
+
+http://openjurist.org/print/340971
+
+7/11
+
+5/7/2017
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+APPENDIX
+23
+NOTE: OPINION CONTAINS TABLE OR OTHER DATA THAT IS NOT VIEWABLEWINTER, Circuit
+Judge, concurring in part and dissenting in part:
+24
+Although I concur in the reversal of the district court's grant of summary judgment on the trademark
+and unfair competition claims, I respectfully dissent from the majority's discussion and disposition of
+the copyright claim.
+25
+My colleagues, applying an adaptation of Professor Denicola's test, hold that the aesthetic elements
+of the design of a useful article are not conceptually separable from its utilitarian aspects if "[f]orm
+and function are inextricably intertwined" in the article, and "its ultimate design [is] as much the
+result of utilitarian pressures as aesthetic choices." Applying that test to the instant matter, they
+observe that the dispositive fact is that "in creating the Ribbon Rack, [Levine] has clearly adapted
+the original aesthetic elements to accommodate and further a utilitarian purpose." (emphasis
+added). The grounds of my disagreement are that: (1) my colleagues' adaptation of Professor
+Denicola's test diminishes the statutory concept of "conceptual separability" to the vanishing point;
+and (2) their focus on the process or sequence followed by the particular designer makes copyright
+protection depend upon largely fortuitous circumstances concerning the creation of the design in
+issue.
+26
+With regard to "conceptual separability," my colleagues deserve considerable credit for their efforts
+to reconcile Carol Barnhart Inc. v. Economy Cover Corp., 773 F.2d 411 (2d Cir.1985) with
+Kieselstein-Cord v. Accessories by Pearl, Inc., 632 F.2d 989 (2d Cir.1980). In my view, these cases
+are not reconcilable. Carol Barnhart paid only lip service to the fact that the "conceptual separability"
+of an article's aesthetic utilitarian aspects may render the design of a "useful article" a copyrightable
+"sculptural work." 17 U.S.C. Sec. 101 (1982). Actually, the Carol Barnhart majority applied a test of
+physical separability. They thus stated:
+27
+What distinguishes [the Kieselstein Cord ] buckles from the Barnhart forms is that the ornamented
+surfaces of the buckles were not in any respect required by their utilitarian functions; the artistic and
+aesthetic features could thus be conceived of as having been added to, or superimposed upon, an
+otherwise utilitarian article. The unique artistic design was wholly unnecessary to performance of the
+utilitarian function. In the case of the Barnhart forms, on the other hand, the features claimed to be
+aesthetic or artistic, e.g., the life-size conﬁguration of the breasts and the width of the shoulders are
+inextricably intertwined with the utilitarian feature, the display of clothes.
+28
+773 F.2d at 419 (emphasis added). In contrast, Kieselstein-Cord focused on the fact that the belt
+buckles at issue could be perceived as objects other than belt buckles:
+29
+We see in appellant's belt buckles conceptually separable sculptural elements, as apparently have
+the buckles' wearers who have used them as ornamentation for parts of the body other than the
+
+http://openjurist.org/print/340971
+
+8/11
+
+5/7/2017
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+waist.
+30
+632 F.2d at 993.
+31
+My colleagues' adaptation of the Denicola test tracks the Carol Barnhart approach, whereas I would
+adopt that taken in Kieselstein-Cord, which allows for the copyrightability of the aesthetic elements
+of useful articles even if those elements simultaneously perform utilitarian functions.1 The latter
+approach received its fullest elaboration in Judge Newman's dissent in Carol Barnhart, where he
+explained that "[f]or the [artistic] design features to be 'conceptually separate' from the utilitarian
+aspects of the useful article that embodies the design, the article must stimulate in the mind of the
+beholder a concept that is separate from the concept evoked by its utilitarian function." 773 F.2d at
+422 (Newman, J., dissenting).
+32
+In other words, the relevant question is whether the design of a useful article, however intertwined
+with the article's utilitarian aspects, causes an ordinary reasonable observer to perceive an aesthetic
+concept not related to the article's use. The answer to this question is clear in the instant case
+because any reasonable observer would easily view the Ribbon Rack as an ornamental sculpture.2
+Indeed, there is evidence of actual confusion over whether it is strictly ornamental in the refusal of a
+building manager to accept delivery until assured by the buyer that the Ribbon Rack was in fact a
+bicycle rack. Moreover, Brandir has received a request to use the Ribbon Rack as environmental
+sculpture, and has offered testimony of art experts who claim that the Ribbon Rack may be valued
+solely for its artistic features. As one of those experts observed: "If one were to place a Ribbon Rack
+on an island without access, or in a park and surround the work with a barrier, ... its status as a work
+of art would be beyond dispute."3
+33
+My colleagues also allow too much to turn upon the process or sequence of design followed by the
+designer of the Ribbon Rack. They thus suggest that copyright protection would have been
+accorded "had Brandir merely adopted ... as a bicycle rack" an enlarged version of one of David
+Levine's original sculptures rather than one that had wider upper loops and straightened vertical
+elements. I cannot agree that copyright protection for the Ribbon Rack turns on whether Levine
+serendipitously chose the ﬁnal design of the Ribbon Rack during his initial sculptural musings or
+whether the original design had to be slightly modiﬁed to accommodate bicycles. Copyright
+protection, which is intended to generate incentives for designers by according property rights in
+their creations, should not turn on purely fortuitous events. For that reason, the Copyright Act
+expressly states that the legal test is how the ﬁnal article is perceived, not how it was developed
+through various stages. It thus states in pertinent part:
+34
+the design of a useful article ... shall be considered a ... sculptural work only if, and only to the extent
+that, such design incorporates ... sculptural features that can be identiﬁed separately from, and are
+capable of existing independently of, the utilitarian aspects of the article.
+35
+17 U.S.C. Sec. 101 (1982) (emphasis added).
+
+http://openjurist.org/print/340971
+
+9/11
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+5/7/2017
+36
+I therefore dissent from the decision so far as it relates to copyrightability but concur in its discussion
+and holding as to the trademark and unfair competition claims.
+*
+Of the United States District Court for the District of Connecticut, sitting by designation
+1
+The statute also deﬁnes "useful article" as one "having an intrinsic utilitarian function that is not
+merely to portray the appearance of the article or to convey information. An article that is normally a
+part of a useful article is considered a 'useful article.' " 17 U.S.C. Sec. 101
+2
+Professor Denicola rejects the exclusion of all works created with some utilitarian application in view,
+for that would not only overturn Mazer v. Stein, 347 U.S. 201, 74 S.Ct. 460, 98 L.Ed. 630 (1954), on
+which much of the legislation is based, but also "a host of other eminently sensible decisions, in
+favor of an intractable factual inquiry of questionable relevance." 67 Minn.L.Rev. at 741. He adds
+that "[a]ny such categorical approach would also undermine the legislative determination to
+preserve an artist's ability to exploit utilitarian markets." Id. (citing 17 U.S.C. Sec. 113(a) (1976))
+3
+We are reminded not only by Judge Gesell in the district court in Esquire, 414 F.Supp. 939, 941
+(D.D.C.1976), but by Holmes in Bleistein v. Donaldson Lithographing Co., 188 U.S. 239, 251-52, 23
+S.Ct. 298, 300-01, 47 L.Ed. 460 (1903), by Mazer v. Stein, 347 U.S. at 214, 74 S.Ct. at 468, and by
+numerous other opinions, that we judges should not let our own view of styles of art interfere with
+the decisionmaking process in this area. Denicola suggests that the shape of a Mickey Mouse
+telephone is copyrightable because its form is independent of function, and "[a] telephone shape
+owing more to Arp, Brancusi, or Moore than Disney may be equally divorced from utilitarian
+inﬂuence." 67 Minn.L.Rev. at 746. This is true, of course, of the artist Christo's "Running Fence,"
+approved (following Professor Nimmer) as an example of conceptual separability in Keiselstein-
+Cord, 632 F.2d at 993
+4
+Because the district court viewed the rack as entirely functional, it therefore did not reach the next
+step of determining whether Brandir's RIBBON Rack had acquired secondary meaning by the time
+Cascade started to manufacture its bicycle rack
+5
+Indeed, in addition to the numerous bicycle racks on the market, one may observe trees, awning
+supports, parking meters, signs, ﬁre plugs, and many other objects used as bicycle racks
+1
+Indeed, Kieselstein-Cord approved Professor Nimmer's example of Christo's "Running Fence" as an
+object whose sculptural features were conceptually, but not physically, separable from its utilitarian
+aspects. 632 F.2d at 993; see 1 Nimmer on Copyright Sec. 2.08[B] at 2-96.1 & n. 112.2 (1987). The
+fact that the Running Fence's aesthetic features were "inextricably intertwined" with its functional
+aspects, however, creates doubt as to whether it is a copyrightable "sculptural work" under Carol
+Barnhart or the instant decision
+
+http://openjurist.org/print/340971
+
+10/11
+
+834 F2d 1142 Brandir International Inc v. Cascade Paciﬁc Lumber Co L
+
+5/7/2017
+2
+The reasonable observer may be forgiven, however, if he or she does not recognize the Ribbon
+Rack as an example of minimalist art
+3
+The Copyright Ofﬁce held that the Ribbon Rack was not copyrightable because it lacked originality.
+There may be some merit in that view in light of the Ribbon Rack's use of standard radii. This issue,
+however, was not raised in defendant's motion for summary judgment, was not addressed by the
+district court, and is not implicated here
+
+Source URL: http://openjurist.org/834/f2d/1142/brandir-international-inc-v-cascade-paciﬁc-lumber-co-l
+
+http://openjurist.org/print/340971
+
+11/11
+
+

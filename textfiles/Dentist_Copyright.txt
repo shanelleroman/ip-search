@@ -1,0 +1,277 @@
+Dentist who used copyright to silence her patients is on the run | Ars Technica
+
+5/7/17, 1:21 PM
+
+https://arstechnica.com/tech-policy/2013/07/dentist-who-used-copyright-to-silence-her-patients-is-on-the-run/
+
+Page 1 of 7
+
+LAW & DISORDER —Dentist who usedcopyright tosilence herpatients is on therunDr. Makhnevich threatened patients whowrote bad Yelp reviews with lawsuits. - 7/28/2013, 6:00 PMDentists can be scary even when they don't threaten theirpatients over online reviews.David Squire / ﬂickrJOE MULLIN     BIZ & ITTECHSCIENCEPOLICYCARSGAMING & CULTUREFORUMSSIGNINDentist who used copyright to silence her patients is on the run | Ars Technica
+
+5/7/17, 1:21 PM
+
+https://arstechnica.com/tech-policy/2013/07/dentist-who-used-copyright-to-silence-her-patients-is-on-the-run/
+
+Page 2 of 7
+
+A lawsuit regarding a dentist and herticked-off patient was meant to be a testof a controversial copyright contractcreated by a company called MedicalJustice. Just a day after the lawsuit wasﬁled, though, Medical Justice backeddown, saying it was “retiring” that contract.Now, more than a year after the lawsuitwas ﬁled, the case against Dr. StacyMakhnevich seems to have turned into acase about a fugitive dentist. Makhnevichis nowhere to be found, won’t defend thelawsuit, and her lawyers have asked towithdraw from the case.No-criticism contractpromised additional“privacy”In 2010, Robert Lee was experiencingserious dental pain. He went to see Dr.Stacy Makhnevich, the “Classical SingerDentist of New York,” in part because shewas a preferred provider for his dentalinsurance company. Before Makhnevichtreated him, she asked him to sign acontract titled “Mutual Agreement toMaintain Privacy.”The contractworked like this:in return forclosing“loopholes” inHIPAA privacy law,Lee promised torefrain frompublishing any“commentary” ofmidtowndentist.comHow To Turn Shadow IT’s RisksInto InnovationSPONSOR CONTENTDentist who used copyright to silence her patients is on the run | Ars Technica
+
+5/7/17, 1:21 PM
+
+Makhnevich,
+online or elsewhere. The contract
+speciﬁed that Lee should “not denigrate,
+defame, disparage, or cast aspersions
+upon the Dentist.”
+
+And the kicker: if he did write such
+reviews, the copyright would be assigned
+to the dentist. She’d own it.
+
+This “I own your criticism” contract would
+soon be put to the test, because Lee was
+an extremely unhappy customer. “Avoid at
+all cost!” he wrote in a one-star Yelp
+review. “Scamming their customers!
+Overcharged me by about $4000 for what
+should have been only a couple-hundred
+dollar procedure.”
+
+The forms Makhnevich was using,
+provided to her by a company called
+Medical Justice, were already the subject
+of considerable controversy. Two tech-
+savvy law professors, Eric Goldman of
+Santa Clara University and Jason Schultz of
+UC Berkeley, launched a website to ﬁght
+the contracts, which garnered
+considerable press. Former Ars Technica
+writer Tim Lee chronicled his own
+experience with a Philadelphia dentist
+who was using the contract.
+
+The “Mutual Agreement” was essentially a
+work-around to try to stiﬂe patient
+reviews. Doctors, or any other business,
+who believe that an online review is, say,
+defamatory, can go ahead and sue a
+reviewer—but they don’t have an easy way
+to get the review down. Review sites like
+Yelp are protected by Section 230 of the
+Communications Decency Act, which
+
+https://arstechnica.com/tech-policy/2013/07/dentist-who-used-copyright-to-silence-her-patients-is-on-the-run/
+
+Page 3 of 7
+
+Dentist who used copyright to silence her patients is on the run | Ars Technica
+
+5/7/17, 1:21 PM
+
+immunizes the platforms hosting such
+user-generated content, as long as they
+don’t edit it heavily. Review sites in the US
+don’t typically remove posts when a
+business claims defamation.
+
+Copyright, however, is a different story.
+Section 230 doesn’t cover intellectual
+property laws, and Yelp has to react
+quickly to claims that a user has violated
+copyright law.
+
+Users of the Medical Justice form were
+counting on that, and it worked. In
+September 2011, staff members of Dr.
+Makhnevich sent DMCA takedown notices
+to Yelp and DoctorBase. That was followed
+up with invoices sent to Robert Lee, saying
+he owed $100 per day for copyright
+infringement. Accompanying letters
+threatened to pursue “all legal actions”
+against him.
+
+Makhnevich
+disappears: The
+Streisand Effect “gone
+bonkers”
+
+Lee got in touch with attorney Paul Levy at
+Public Citizen, who has a history of taking
+on Internet free-speech issues, and was
+looking for a way to challenge the Medical
+Justice contract. In November 2011, Public
+Citizen ﬁled a lawsuit seeking class action
+status, arguing that Lee’s reviews were fair
+use and non-defamatory. The lawsuit also
+alleged that Makhnevich’s “don’t criticize
+me” contracts were violations of New York
+business laws and dental ethics rules.
+
+https://arstechnica.com/tech-policy/2013/07/dentist-who-used-copyright-to-silence-her-patients-is-on-the-run/
+
+Page 4 of 7
+
+Dentist who used copyright to silence her patients is on the run | Ars Technica
+
+5/7/17, 1:21 PM
+
+Levy envisioned a courtroom showdown
+with Medical Justice—but the case hasn’t
+panned out that way. Medical Justice
+hasn't defended the contract. And in the
+last few months, Makhnevich seems to
+have disappeared entirely. Her own
+lawyers can’t get in touch with her. On
+Tuesday, US District Judge Paul Crotty held
+a conference about whether the lawyers
+should be allowed to withdraw from the
+case. (They’ll be allowed to, with a few
+conditions.)
+
+“Defendant Makhnevich has closed its
+business in New York, has closed its
+oﬃces, and has not made herself available
+to respond to this matter,” wrote
+Makhnevich’s lawyers on June 25. At that
+time, they hadn’t communicated with
+Makhnevich in three months, and that
+communication had been through her
+assistant.
+
+“We brought this lawsuit to make sure she
+stopped and to point out to other dentists
+that they couldn't do this,” said Levy in an
+interview with Ars. “We thought Medical
+Justice would step in to defend her.
+Instead, they walked away from it and left
+her holding the bag. And now she’s left her
+lawyers holding the bag.”
+
+Levy is seeking to get Lee back the money
+he was overcharged and to have notice
+sent to Makhnevich’s other patients that
+the contracts they signed don’t prevent
+them from writing reviews. He’s also
+seeking to get legal fees paid for; it cost
+$3,000 to serve Makhnevich, he noted.
+
+It isn’t clear whether Makhnevich is
+
+https://arstechnica.com/tech-policy/2013/07/dentist-who-used-copyright-to-silence-her-patients-is-on-the-run/
+
+Page 5 of 7
+
+Dentist who used copyright to silence her patients is on the run | Ars Technica
+
+5/7/17, 1:21 PM
+
+practicing dentistry or not, but the
+disappearing act she pulled in this case
+would suggest she isn’t.
+
+“It’s quite possible that the consequence
+of her having this contract is that she had
+to give up her dental practice,” said Levy.
+“It’s the Streisand effect gone bonkers.”
+
+Unless she shows up soon, the case is
+likely to end in a default judgment. At that
+point Levy would attempt to collect
+payment from her insurance company, or
+any other source. “She may have some
+assets,” said Levy. “Dental equipment is
+not cheap.”
+
+JOE MULLIN
+Joe has covered the
+intersection of law and
+technology, including the
+world's biggest copyright and
+patent battles, since 2007.
+
+EMAIL
+joe.mullin@arstechnica.com //
+TWITTER @joemullin
+
+READER COMMENTS
+
+SHARE THIS STORY
+
+← PREVIOUS STORY
+
+NEXT STORY →
+
+Related Stories
+
+Sponsored Stories
+Powered by
+
+https://arstechnica.com/tech-policy/2013/07/dentist-who-used-copyright-to-silence-her-patients-is-on-the-run/
+
+Page 6 of 7
+
+Dentist who used copyright to silence her patients is on the run | Ars Technica
+
+5/7/17, 1:21 PM
+
+Powered by
+
+Countries With
+the Most Carbon
+Emissions
+@GraphiqHQ
+
+80% of Men Can't
+Ace This Car
+Engine Quiz! Can
+You?
+HowStuffWorks
+
+Common Tricks
+All Liars Have,
+Enter Any Name
+TruthFinder
+
+Archaeleogists
+Make A Discovery
+That Leaves Them
+Speechless
+theBrofessional.net
+
+Get Your Glucose
+Readings Sent
+Right to Your
+Smartphone
+Dexcom
+
+Millennial
+Employee Turn-
+Offs: Outdated
+Tech at the Oﬃce
+Oracle
+
+Today on Ars
+
+RSS FEEDS
+VIEW MOBILE SITE
+VISIT ARS TECHNICA
+UK
+ABOUT US
+
+CONTACT US
+STAFF
+ADVERTISE WITH US
+REPRINTS
+
+CNMN Collection
+WIRED Media Group
+Use of this Site constitutes acceptance of our User Agreement (effective 1/2/14) and Privacy Policy (effective 1/2/14), and Ars
+Technica Addendum (effective 5/17/2012). Your California Privacy Rights. The material on this site may not be reproduced,
+distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+
+https://arstechnica.com/tech-policy/2013/07/dentist-who-used-copyright-to-silence-her-patients-is-on-the-run/
+
+Page 7 of 7
+
+

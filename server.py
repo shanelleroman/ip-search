@@ -1,4 +1,5 @@
 #!flask/bin/python
+import os  
 from flask import Flask, jsonify, render_template, request, url_for, Response, make_response, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
 import flask_whooshalchemy as wa
@@ -34,17 +35,32 @@ wa.whoosh_index(app, Document)
 
 @app.route("/add")
 def add():
-    content = ''
-    title = 'hw.txt'
-
-    with open(title, 'r') as content_file:
-        content = content_file.read()
-        content = content.decode('utf8')
-        with open('hw.pdf', 'r') as orig_file:
-            original = content_file.read()
-        post = Document(name = title, text= content, original=original)
-        db.session.add(post)
-        db.session.commit()
+    # script to run through all of the files 
+    for file in os.listdir('./pdfs'):
+        if file.endswith('.pdf'):
+            file_in = os.getcwd() +  '/pdfs/' + file 
+            file_out = os.getcwd() + '/textfiles/' + file.strip('pdf') + 'txt'
+            # os.system('touch ' + file_out)
+            # print file_out      
+            # function_call = 'python pdf2txt.py -o ' + file_out + ' '  + file_in
+            # print function_call
+            #os.system(function_call)
+            with open(file_in, 'r') as pdf_file:
+                original = pdf_file.read()
+                with open(file_out, 'r') as text_file:
+                    text_content = text_file.read().decode('utf-8')
+                    file_name = file.strip('pdf')
+                    post = Document(name=file_name, text=text_content, original = original)
+                    db.session.add(post)
+                    db.session.commit()
+    # with open(title, 'r') as content_file:
+    #     content = content_file.read()
+    #     content = content.decode('utf8')
+    #     with open('hw.pdf', 'r') as orig_file:
+    #         original = content_file.read()
+    #     post = Document(name = title, text= content, original=original)
+    #     db.session.add(post)
+    #     db.session.commit()
     pass
 
 @app.route('/')
@@ -56,7 +72,10 @@ def results():
     results = Document.query.whoosh_search(request.form.get('query')).all()
     for x, result in enumerate(results):
         if x == 0:
-            return send_from_directory('', result.name.strip('.txt') + '.pdf')
+            file_name = result.name.strip('.txt') + '.pdf'
+            print file_name
+            if os.path.isfile(file_name):
+                return send_from_directory('', file_name)
 
     return render_template("results.html", results=results)
 

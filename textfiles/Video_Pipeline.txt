@@ -1,0 +1,847 @@
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+Video Pipeline, Inc. v. Buena Vista Home
+Entertainment, Inc.buena Vista Home
+Entertainment, Inc.; Miramax Film Corp.,
+Counterclaim-plaintiffs v. Video Pipeline,
+Inc., Counterclaim-defendantvideo
+Pipeline, Inc., Appellant, 342 F.3d 191 (3d
+Cir. 2003)
+
+U.S. Court of Appeals for the Third Circuit - 342 F.3d 191 (3d Cir. 2003)
+
+Argued January 21, 2003
+Opinion filed August 26, 2003
+As Amended September 19, 2003
+
+COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED Paul R. Fitzmaurice
+(Argued), Lisa A. Sabatino, Pelino & Lentz, Philadelphia, PA, for Appellant.
+
+Gary A. Rosen (Argued), Law Offices of Gary A. Rosen, P.C., Patrick Madamba, Jr., Esquire, Akins,
+Grump, Strauss, Hauer & Feld, Philadelphia, PA, for Appellee.
+
+Jon A. Baumgarten, William M. Hart, Proskauer Rose LLP, New York, NY, for Amicus Curiae
+Motion Picture Association of America, Inc.
+
+Before: BECKER,   NYGAARD, and AMBRO, Circuit Judges.
+
+*
+
+OPINION OF THE COURT
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 1 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+AMBRO, Circuit Judge.
+
+In this copyright case we review the District Court's entry of a preliminary injunction against Video
+Pipeline, Inc.'s on-line display of "clip previews." A "clip preview," as we use the term, is an
+approximately two-minute segment of a movie, copied without authorization from the film's
+copyright holder, and used in the same way as an authorized movie "trailer." We reserve the term
+"trailer" for previews created by the copyright holder of a particular movie (or under the copyright
+holder's authority).
+
+Video Pipeline challenges the injunction on the ground that its internet use of the clip previews is
+protected by the fair use doctrine and, alternatively, that appellees Buena Vista Home
+Entertainment, Inc. and Miramax Film Corp.   may not receive the benefits of copyright protection
+because they have engaged in copyright misuse. We reject both arguments, and affirm.
+
+1
+
+BACKGROUND
+Video Pipeline compiles movie trailers onto videotape for home video retailers to display in their
+stores. To obtain the right to distribute the trailers used in the compilations, Video Pipeline enters
+into agreements with various entertainment companies. It entered into such an agreement, the
+Master Clip License Agreement ("License Agreement"), with Disney in 1988, and Disney thereafter
+provided Video Pipeline with over 500 trailers for its movies.
+
+In 1997, Video Pipeline took its business to the web, where it operates VideoPipeline.net and
+VideoDetective.com. The company maintains a database accessible from VideoPipeline.net, which
+contains movie trailers Video Pipeline has received throughout the years. Video Pipeline's internet
+clients — retail web sites selling home videos — use VideoPipeline.net to display trailers to site
+visitors. The site visitors access trailers by clicking on a button labeled "preview" for a particular
+motion picture. The requested trailer is then "streamed" for the visitor to view (because it is
+streamed the trailer cannot be downloaded to or stored on the visitor's computer). The operators of
+the web sites from which the trailers are accessed — Video Pipeline's internet clients — pay a fee to
+have the trailers streamed based on the number of megabytes shown to site visitors. Video Pipeline
+has agreements to stream trailers with approximately 25 online retailers, including Yahoo!,
+Amazon, and Best Buy.
+
+As noted, Video Pipeline also operates VideoDetective.com. On this web site, visitors can search for
+movies by title, actor, scene, genre, etc. When a search is entered, the site returns a list of movies
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 2 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+and information about them, and allows the user to stream trailers from VideoPipeline.net. In
+addition to displaying trailers, VideoDetective.com includes a "Shop Now" button to link the user
+to a web site selling the requested video. Visitors to VideoDetective.com can also win prizes by
+playing "Can You Name that Movie?" after viewing a trailer on the site.
+
+Video Pipeline included in its online database trailers it received under the License Agreement
+from Disney. Because the License Agreement did not permit this use, Disney requested that Video
+Pipeline remove the trailers from the database. It complied with that request.
+
+On October 24, 2000, however, Video Pipeline filed a complaint in the District Court for the
+District of New Jersey seeking a declaratory judgment that its online use of the trailers did not
+violate federal copyright law. Disney shortly thereafter terminated the License Agreement.
+
+Video Pipeline decided to replace some of the trailers it had removed at Disney's request from its
+database. In order to do so, it copied approximately two minutes from each of at least 62 Disney
+movies to create its own clip previews of the movies. (Again, to distinguish between the previews
+created under the copyright holder's authority and those created by Video Pipeline, we call the
+former "trailers" and the latter "clip previews" or "clips." We use the term "previews" generically.)
+
+Video Pipeline stores the clip previews in its database and displays them on the internet in the
+same way it had displayed the Disney trailers. In content, however, the clip previews differ from
+the trailers. Each clip preview opens with a display of the Miramax or Disney trademark and the
+title of the movie, then shows one or two scenes from the first half of the movie, and closes with the
+title again. Disney's trailers, in contrast, are designed to entice sales from a target market by using
+techniques such as voice-over, narration, editing, and additional music. Video Pipeline's clip
+2
+previews use none of these marketing techniques.  
+
+Disney also makes its trailers available online. It displays them on its own web sites in order to
+attract and to keep users there (a concept called "stickiness") and then takes advantage of the users'
+presence to advertise and sell other products. Disney has also entered into agreements to link its
+trailers with other businesses, and, for example, has such a link with the Apple Computer home
+page.
+
+Video Pipeline amended its complaint to seek a declaratory judgment allowing it to use the clip
+previews. Disney filed a counterclaim alleging copyright infringement. The District Court entered a
+preliminary injunction, later revised, prohibiting Video Pipeline from displaying clip previews of
+Disney films on the internet. See Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.,
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 3 of 18
+
+3
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+3
+192 F. Supp. 2d 321 (D.N.J. 2002). Video Pipeline appeals.  
+
+DISCUSSION
+We review for an abuse of discretion the District Court's decision to grant Disney's request for a
+preliminary injunction. Adams v. Freedom Forge Corp., 204 F.3d 475, 484 (3d Cir. 2000). Under
+this standard, questions of law receive de novo review, and questions of fact are reviewed for clear
+error. Id.
+
+To obtain a preliminary injunction, a party must show (1) that it is "reasonably likely to succeed on
+the merits" of its copyright infringement claim and (2) a likelihood that it will suffer irreparable
+harm if the injunction is denied. Id. Other issues to consider if relevant are (3) the likelihood of
+irreparable harm to the non-moving party and (4) the public interest. Id. Video Pipeline presents
+no arguments for issues (3) and (4), so we shall not discuss them, assuming instead that the
+District Court correctly held that these factors favored issuing the injunction. We therefore address
+the first two issues.
+
+Subject to the fair use exception discussed below (and other exceptions not relevant here),
+copyright owners have the exclusive right (1) to reproduce the copyrighted work, (2) to prepare
+derivative works, (3) to distribute copies, (4) to perform publicly a copyrighted motion picture, and
+(5) to display publicly the individual images of a copyrighted motion picture. 17 U.S.C. § 106. To
+make out a prima facie case of copyright infringement for preliminary injunction purposes, Disney
+needed to show that the display of the clip previews likely violates any provision of § 106. See 17
+U.S.C. §§ 501(a), (b).   The District Court held that Video Pipeline's clip previews likely infringe
+Disney's exclusive rights under three of § 106's provisions: subsection (2), concerning derivative
+works; subsection (4), dealing with public performance of motion pictures; and subsection (5),
+relating to public display of individual images of a motion picture.
+
+4
+
+On appeal, Video Pipeline challenges the District Court's holding that the clip previews likely
+violate § 106(2), asserting that the clips cannot properly be classified as derivative works. It does
+not contest the Court's determination as to subsections (4) and (5). Because proof of a violation of
+any one subsection of § 106 states a case of illegal infringement, the District Court's decision that
+Disney made a prima facie showing of infringement on the basis of subsections (4) and (5) would
+not be affected by any conclusion we might make as to whether the clip previews are derivative in
+nature. As Video Pipeline's display of excerpts taken from the copyrighted movies clearly comes
+within the prohibition on public display of motion pictures, and images from a motion picture, we
+turn to whether Video Pipeline's use should nonetheless be countenanced on the ground that it
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 4 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+falls within the "fair use" doctrine.
+
+Congress's constitutional power to provide for copyright protection "is intended to motivate the
+creative activity of authors... by the provision of a special reward, and to allow the public access to
+the products of their genius after the limited period of exclusive control has expired." Sony Corp. of
+Am. v. Universal City Studios, Inc., 464 U.S. 417, 429, 104 S. Ct. 774, 78 L. Ed. 2d 574 (1984). At
+times, however, "rigid application of the copyright statute... would stifle the very creativity which
+that law is designed to foster." Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 577, 114 S. Ct.
+1164, 127 L. Ed. 2d 500 (1994). When that is the case, the fair use doctrine may be implicated.
+
+Congress codified the judicially created "fair use" defense at § 107 of the 1976 Copyright Act, which
+permits a "fair use of a copyrighted work." 17 U.S.C. § 107. A fair use, although not specifically
+defined by the statute, is one made "for purposes such as criticism, comment, news reporting,
+teaching ..., scholarship, or research." Id. It is an affirmative defense for which the alleged infringer
+bears the burden of proof.
+
+In judging the fairness of a particular use, courts must take into account the following non-
+exhaustive list of factors:
+
+(1) the purpose and character of the use, including whether such use is of a commercial nature or is
+for nonprofit educational purposes;
+
+(2) the nature of the copyrighted work;
+
+(3) the amount and substantiality of the portion used in relation to the copyrighted work as a
+whole; and
+
+(4) the effect of the use upon the potential market for or value of the copyrighted work. Id. The four
+statutory factors "do not represent a score card that promises victory to the winner of the
+majority." Pierre N. Leval, Toward a Fair Use Standard, 103 Harv. L. Rev. 1105, 1110 (1990).
+Rather, each factor is "to be explored, and the results weighed together, in light of the purposes of
+copyright." Campbell, 510 U.S. at 578, 114 S. Ct. 1164 (citations omitted). Thus, as we apply
+copyright law, and the fair use doctrine in particular, we bear in mind its purpose to encourage
+"creative activity" for the public good. Sony Corp., 464 U.S. at 429, 104 S. Ct. 774.
+
+This focus on copyright's purpose makes relevant a comparison of the copy with the original: where
+the copier uses none of his own creative activity to transform the original work, holding the fair use
+doctrine inapplicable will not likely interfere with copyright's goal of encouraging creativity. Thus,
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 5 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+in the typical fair use case, the analysis under each statutory factor concentrates on the copy and
+the original work from which it derives. In this case, however, our analysis of the four statutory
+factors will take into account where relevant Disney's original full-length films and its trailers. We
+examine in this way the fairness of the online display of the clip previews because, among other
+things, the statute directs our attention under factor four to the effect of the allegedly infringing
+uses on both the potential market for any derivative works (the parties do not dispute that Disney's
+trailers qualify as derivative works) and the potential market for the originals. See Campbell, 510
+U.S. at 590.
+
+Once again, the first factor requires that we consider "the purpose and character of the use,
+including whether such use is of a commercial nature or is for nonprofit educational purposes." §
+107(1). The District Court concluded that the purpose and character of Video Pipeline's clip
+previews weigh against finding fair use. We agree.
+
+If a new work is used commercially rather than for a nonprofit purpose, its use will less likely
+qualify as fair. Campbell, 510 U.S. at 585, 114 S. Ct. 1164. As Video Pipeline charges a fee to stream
+the clip previews, its use of the copies is commercial (as the District Court found).
+
+The commercial nature of the use does not by itself, however, determine whether the purpose and
+character of the use weigh for or against finding fair use. Id. at 583-84, 114 S. Ct. 1164. We look as
+well to any differences in character and purpose between the new use and the original. We consider
+whether the copy is "transformative" of the work it copied because it "alter [ed] the first with new
+expression, meaning, or message," or instead "whether the new work merely supersedes the objects
+of the original creation." Id. at 579, 114 S. Ct. 1164 (citations and alteration in original omitted).
+
+Video Pipeline asserts that its use of the clip previews substantially transforms the full-length films
+from which they derive because the clips and the movies have different purposes. According to
+Video Pipeline, the original works have an aesthetic and entertainment purpose while the clip
+previews serve only to provide information about the movies to internet users or as advertisements
+for the company's retail web site clients.   To the extent that the character and purpose of the clip
+previews and the original full-length films diverge, however, the clips share the same character and
+purpose as Disney's derivative trailers. Whatever informational or promotional character and
+purpose the trailers possess, so do the clip previews. Consequently, the clips are likely to
+"supersede the objects of" Disney's derivatives. Campbell, 510 U.S. at 579, 114 S. Ct. 1164 (citations
+omitted).   Although the clips are copied from Disney's original rather than its derivative works, it
+is highly relevant to our inquiry here that the clips will likely serve as substitutes for those
+derivatives.
+
+6
+
+5
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 6 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+Video Pipeline also urges us to take into account the functional character and purpose of the
+database in which it stores trailers and clip previews, apparently hoping we will discern no
+significant difference between its database and the internet search engine used in Kelly v. Arriba
+Soft Corp., 336 F.3d 811 (9th Cir. 2003).   In Kelly, Arriba Soft Corp.'s search engine located
+images on other web sites in response to a user's request and displayed the results in thumbnail-
+size pictures, with a link that would take the user to the web site on which the image was found. Id.
+at 815. The Court held that the display of the thumbnail images was a fair use. Id.
+
+7
+
+Video Pipeline's database does not, however, serve the same function as did Arriba Soft's search
+engine. As used with retailers' web sites, VideoPipeline.net does not improve access to authorized
+previews located on other web sites. Rather, it indexes and displays unauthorized copies of
+copyrighted works. VideoDetective.com does permit viewers to link to legitimate retailers' web
+sites, but a link to a legitimate seller of authorized copies does not here, if it ever would, make
+prima facie infringement a fair use.
+
+Finally, we note that Video Pipeline's clip previews — to reiterate, approximately two-minute
+excerpts of full-length films with movie title and company trademark shown — do not add
+significantly to Disney's original expression. Video Pipeline itself asserts, and the District Court
+found, 192 F. Supp. 2d at 337, that the clip previews "involved no new creative ingenuity." The
+Court did recognize that deciding which scene or scenes to include in a clip preview requires some
+creative choice. Id. But as Video Pipeline disclaims the use of any creative ingenuity, we have no
+difficulty viewing those decisions as involving creativity only in a theoretical, and most narrow,
+sense. Hence, it is dubious what "new expression, meaning, or message" Video Pipeline has
+brought to its copies. Campbell, 510 U.S. at 579, 114 S. Ct. 1164.
+
+It is useful to compare the clip previews with a movie review, which might also display two-minute
+segments copied from a film. The movie reviewer does not simply display a scene from the movie
+under review but as well provides his or her own commentary and criticism. In so doing, the critic
+may add to the copy sufficient "new expression, message, or meaning" to render the use fair. Id.
+Here, in contrast, the fact that "a substantial portion," indeed almost all, "of the infringing work
+was copied verbatim from the copyrighted work" with no additional creative activity "reveal [s] a
+dearth of transformative character or purpose." Id. at 587, 114 S. Ct. 1164. Consequently, rejecting
+the fair use defense in this case will not likely "stifle the very creativity" that the Copyright Clause
+"is designed to foster." Id. at 577, 114 S. Ct. 1164.
+
+With this context, the District Court correctly concluded that Video Pipeline's clip previews lack
+any significant transformative quality. Thus, the commercial nature of the clip previews weighs
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 7 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+more strongly against Video Pipeline's use. Campbell, 510 U.S. at 580, 114 S. Ct. 1164 (If "the
+alleged infringer merely uses [the original work] to get attention or to avoid the drudgery in
+working up something fresh, the claim to fairness in borrowing from another's work diminishes
+accordingly (if it does not vanish), and other factors, like the extent of its commerciality, loom
+larger."). Given the shared character and purpose of the clip previews and the trailers (so that the
+clips will likely serve as a substitute for the trailers) and the absence of creative ingenuity in the
+creation of the clips, the first factor strongly weighs against fair use in this case.
+
+The second statutory fair use factor directs courts to consider "the nature of the copyrighted work."
+§ 107(2). "This factor calls for recognition that some works are closer to the core of intended
+copyright protection than others, with the consequence that fair use is more difficult to establish
+when the former works are copied." Campbell, 510 U.S. at 586, 114 S. Ct. 1164. Fictional, creative
+works come closer to this core than do primarily factual works. Harper & Row Publishers, Inc. v.
+Nation Enters., 471 U.S. 539, 563, 105 S. Ct. 2218, 85 L. Ed. 2d 588 (1985). The Disney movies at
+issue — including, for example, Beauty and the Beast, Fantasia, Pretty Woman, and Dead Poet's
+Society — are paradigms of creative, non-factual expression. And Disney's trailers share
+imaginative aspects with the originals.
+
+Video Pipeline argues that this factor nonetheless weighs in its favor because Disney released to the
+public its movies, if not all of its trailers, prior to Video Pipeline's display of the clip previews.   It is
+true that Disney would have a stronger case against fair use had it not yet made its movies available
+for the public's viewing pleasure. See id. at 554, 105 S. Ct. 2218 (" [T]he unpublished nature of a
+work is a key ... factor tending to negate a defense of fair use.") (quoting S.Rep. No. 94-473 at 64
+(1975)) (alteration and quotation marks in original omitted).
+
+8
+
+But the second statutory factor does not necessarily weigh in favor of finding fair use simply
+because the public already has access to the original work. Rather, that Disney's movies and trailers
+contain mainly creative expression, not factual material, suggests that the use is not fair regardless
+of the published or unpublished status of the original. See e.g., Campbell, 510 U.S. at 586, 114 S. Ct.
+1164 (holding that the song Pretty Woman fit "within the core of the copyright's protective
+purposes" because of its creative expression, without considering that the original had already been
+made available to the public). The District Court therefore properly relied on the creative, non-
+factual expression involved in Disney's movies and trailers to hold that this factor weighs against
+the fair use defense.
+
+3. Amount and Substantiality of the Work Copied
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 8 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+The third factor requires an analysis of "the amount and substantiality of the portion used in
+relation to the copyrighted work as a whole." § 107(3). The District Court determined that this
+factor also weighed in Disney's favor. 192 F. Supp. 2d at 340.
+
+As Video Pipeline points out, its previews excerpt only about two minutes from movies that last one
+and a half to two hours. Quantitatively then, the portion taken is quite small.
+
+But the third factor "calls for thought not only about the quantity of the materials used, but about
+their quality and importance, too." Campbell, 510 U.S. at 587, 114 S. Ct. 1164. The District Court
+found that the clip previews, "for the most part, were used to provide the potential customer with
+some idea of the plot of each motion picture, its overall tone, and a glimpse of its leading
+characters." 192 F. Supp. 2d at 339. Although the plot, tone, and leading characters are, of course,
+significant aspects of the films, the two-minute "glimpse" provided by the clips is made up only of
+scenes taken from the first half of the Disney films. Disney has not claimed, for instance, that any
+of the clips "give away" the ending of a movie, or ruin other intended surprises for viewers of the
+full-length films. Moreover, as advertisements, the clip previews are meant to whet the customer's
+appetite, not to sate it; accordingly, they are not designed to reveal the "heart" of the movies.
+Simply put, we have no reason to believe that the two-minute clips manage in so brief a time, or
+even intend, to appropriate the "heart" of the movies. Compare Harper & Row, 471 U.S. at 564-55,
+105 S. Ct. 2218 (weighing this factor against finding fair use because the alleged infringer "took
+what was essentially the heart of the book").
+
+Because the clip previews copy a relatively small amount of the original full-length films and do not
+go to the "heart" of the movies, this factor, contrary to the District Court's determination, weighs in
+favor of finding fair Video Pipeline's display of its clips.
+
+Finally, courts should evaluate "the effect of the use upon the potential market for or value of the
+copyrighted work." § 107(4). The District Court considered the question to be whether Video
+Pipeline's "use of the copyrighted work affects or materially impairs the marketability of the
+copyrighted motion pictures," and, finding the evidence equivocal, concluded that the fourth factor
+weighed neither for nor against finding a likelihood of fair use. 192 F. Supp. 2d at 340, 343.
+
+As mentioned above, this final factor "must take [into] account not only ... harm to the original but
+also ... harm to the market for derivative works." Campbell, 510 U.S. at 590, 114 S. Ct. 1164.
+Because the issues pertaining to the potential harm to the market for Disney's derivative trailers
+are more straightforward, we focus our analysis on this area and do not review the District Court's
+conclusion as to harm to the market for the original full-length films.   It is in this context that we
+
+9
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 9 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+conclude that the fourth factor weighs in Disney's favor.
+
+Video Pipeline argued in the District Court that no market exists, or could exist, for movie previews
+because no one "ever paid or will ever pay any money merely to see trailers." But in fact retail
+websites are paying Video Pipeline to display both trailers and clip previews. Moreover, Video
+Pipeline takes too narrow a view of the harm contemplated by this fourth factor. The statute directs
+us to consider "the effect of the use upon the. . . value of the copyrighted work," not only the effect
+upon the "market," however narrowly that term is defined. § 107(4); see also Worldwide Church of
+God v. Philadelphia Church of God, Inc., 227 F.3d 1110, 1119 (9th Cir. 2000) (drawing such a
+distinction). And the value "need not be limited to monetary rewards; compensation may take a
+variety of forms." Id.; see also Sony Corp., 464 U.S. at 447 n. 28, 104 S. Ct. 774 (stating in a
+different context that the "copyright law does not require a copyright owner to charge a fee for the
+use of his works, and ... the owner of a copyright may well have economic or noneconomic reasons
+for permitting certain kinds of copying to occur without receiving direct compensation from the
+copier").
+
+Disney introduced evidence that it has entered an agreement to cross-link its trailers with the
+Apple Computer home page and that it uses on its own websites "the draw of the availability of
+authentic trailers to advertise, cross-market and cross-sell other products, and to obtain valuable
+marketing information from visitors who chose [sic] to register at the site or make a purchase
+there." App. 945; see also Kelly, 336 F.3d at 821 ("Kelly's images are related to several potential
+markets. One purpose of the photographs is to attract internet users to his web site, where he sells
+advertising space as well as books and travel packages. In addition, Kelly could sell or license his
+photographs to other web sites or to a stock photo database, which then could offer the images to
+its customers."). In light of Video Pipeline's commercial use of the clip previews and Disney's use of
+its trailers as described by the record evidence, we easily conclude that there is a sufficient market
+for, or other value in, movie previews such that the use of an infringing work could have a harmful
+effect cognizable under the fourth factor.
+
+We have already determined that the clip previews lack transformative quality and that, though the
+clips are copies taken directly from the original full-length films rather than from the trailers,
+display of the clip previews would substitute for the derivative works. As a result, the clips, if Video
+Pipeline continues to stream them over the internet, will "serve [] as a market replacement" for the
+trailers, "making it likely that cognizable market harm to the [derivatives] will occur." Campbell,
+510 U.S. at 591, 114 S. Ct. 1164. For instance, web sites wishing to show previews of Disney movies
+may choose to enter licensing agreements with Video Pipeline rather than Disney, as at least 25
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 10 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+have already done. And internet users searching for previews of Disney films may be drawn by the
+clip previews to web sites other than Disney's, depriving Disney of the opportunity to advertise and
+sell other products to those users.
+
+10
+
+ 
+
+Consequently, "`unrestricted and widespread conduct of the sort engaged in by [Video Pipeline]
+. . . would result in a substantially adverse impact on the potential market' for the [derivative
+works]." Id. at 590, 114 S. Ct. 1164 (quoting 3 M. Nimmer & D. Nimmer, Nimmer on Copyright §
+13.05(A) (4) (1993)). We therefore hold that the District Court should have weighed this factor
+against recognizing the fair use defense in this case.
+
+* * * * * *
+Three of the four statutory factors indicate that Video Pipeline's internet display of the clip
+previews will not qualify as a fair use. From our consideration of each of those factors, we cannot
+conclude that Video Pipeline's online display of its clip previews does anything but "infringe [] a
+work for personal profit." Harper & Row, 471 U.S. at 563, 105 S. Ct. 2218. The District Court
+therefore correctly held that Video Pipeline has failed to show that it will likely prevail on its fair
+use defense.
+
+Video Pipeline further contends that Disney has misused its copyright and, as a result, should not
+receive the protection of copyright law. Video Pipeline points to certain licensing agreements that
+Disney has entered into with three companies and sought to enter into with a number of other
+companies operating web sites.
+  Each of these licensing agreements provides that Disney, the
+licensor, will deliver trailers by way of hyperlinks   for display on the licensee's web site. The
+Agreements further state:
+
+12
+
+11
+
+The Website in which the Trailers are used may not be derogatory to or critical of the
+entertainment industry or of [Disney] (and its officers, directors, agents, employees, affiliates,
+divisions and subsidiaries) or of any motion picture produced or distributed by [Disney]... [or] of
+the materials from which the Trailers were taken or of any person involved with the production of
+the Underlying Works. Any breach of this paragraph will render this license null and void and
+Licensee will be liable to all parties concerned for defamation and copyright infringement, as well
+as breach of contract....
+
+As Video Pipeline sees it, such licensing agreements seek to use copyright law to suppress criticism
+and, in so doing, misuse those laws, triggering the copyright misuse doctrine.
+
+Neither the Supreme Court nor this Court has affirmatively recognized the copyright misuse
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 11 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+doctrine. See Dun & Bradstreet Software Servs., Inc. v. Grace Consulting, Inc., 307 F.3d 197, 221
+(3d Cir. 2002). There is, however, a well-established patent misuse doctrine, see, e.g., Morton Salt
+Co. v. G.S. Suppiger Co., 314 U.S. 488, 62 S. Ct. 402, 86 L. Ed. 363 (1942); W.L. Gore & Assocs.,
+Inc. v. Carlisle Corp., 529 F.2d 614 (3d Cir. 1976), and, as noted below, other courts of appeals
+have extended the doctrine to the copyright context.
+
+The misuse doctrine extends from the equitable principle that courts "may appropriately withhold
+their aid where the plaintiff is using the right asserted contrary to the public interest." Morton Salt,
+314 U.S. at 492, 62 S. Ct. 402. Misuse is not cause to invalidate the copyright or patent, but instead
+"precludes its enforcement during the period of misuse." Practice Management Info. Corp. v.
+American Med. Assoc., 121 F.3d 516, 520 n. 9 (9th Cir. 1997) (citing Lasercomb America, Inc. v.
+Reynolds, 911 F.2d 970, 979 n.22 (4th Cir. 1990)). To defend on misuse grounds, the alleged
+infringer need not be subject to the purported misuse. Morton Salt, 314 U.S. at 494, 62 S. Ct. 402
+("It is the adverse effect upon the public interest of a successful infringement suit in conjunction
+with the patentee's course of conduct which disqualifies him to maintain the suit, regardless of
+whether the particular defendant has suffered from the misuse of the patent."); Lasercomb, 911
+F.2d at 979 (" [T]he fact that appellants here were not parties to one of Lasercomb's standard
+license agreements is inapposite to their copyright misuse defense. The question is whether
+Lasercomb is using its copyright in a manner contrary to public policy, which question we have
+answered in the affirmative.").
+
+Misuse often exists where the patent or copyright holder has engaged in some form of anti-
+competitive behavior. See, e.g., Morton Salt, 314 U.S. at 492, 62 S. Ct. 402 (explaining that public
+policy "forbids the use of the patent to secure an exclusive right or limited monopoly not granted by
+the Patent Office"); Practice Management, 121 F.3d at 521 (finding copyright misuse where license
+to use copyrighted good prohibited licensee from using competing goods); Lasercomb, 911 F.2d at
+979 (holding the copyright holder misused its copyright by including in licensing agreements a
+provision that neither the licensee company nor its officers, employees, et al., could develop
+competing goods for the term of the agreement, ninety-nine years). More on point, however, is the
+underlying policy rationale for the misuse doctrine set out in the Constitution's Copyright and
+Patent Clause: "to promote the Progress of Science and useful Arts." Const. Art. I, § 8, cl. 8; see also
+Morton Salt, 314 U.S. at 494, 62 S. Ct. 402 ("The patentee, like these other holders of an exclusive
+privilege granted in furtherance of a public policy [trademark and copyright holders], may not
+claim protection of his grant by the courts where it is being used to subvert that policy.");
+Lasercomb, 911 F.2d at 978 ("The question is ... whether the copyright is being used in a manner
+violative of the public policy embodied in the grant of a copyright."). The "ultimate aim" of
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 12 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+copyright law is "to stimulate artistic creativity for the general public good." Sony Corp., 464 U.S.
+at 432, 104 S. Ct. 774; see also Eldred v. Ashcroft, 537 U.S. 186, 123 S. Ct. 769, 787, 154 L. Ed. 2d
+683 (2003) (" [C]opyright's purpose is to promote the creation and publication of free
+expression.") (emphasis in original). Put simply, our Constitution emphasizes the purpose and
+value of copyrights and patents. Harm caused by their misuse undermines their usefulness.
+
+Anti-competitive licensing agreements may conflict with the purpose behind a copyright's
+protection by depriving the public of the would-be competitor's creativity. The fair use doctrine and
+the refusal to copyright facts and ideas also address applications of copyright protection that would
+otherwise conflict with a copyright's constitutional goal. See Eldred, 123 S. Ct. at 789; Campbell,
+510 U.S. at 575 & n. 5, 114 S. Ct. 1164. But it is possible that a copyright holder could leverage its
+copyright to restrain the creative expression of another without engaging in anti-competitive
+behavior or implicating the fair use and idea/expression doctrines.
+
+13
+ 
+
+For instance, the concurring opinion, written for a majority of the judges, in Rosemont Enters.,
+Inc. v. Random House, Inc., 366 F.2d 303 (2d Cir. 1966), concluded that pursuant to the unclean
+hands doctrine the District Court should not have entered a preliminary injunction against an
+alleged copyright infringer where the copyright holder sought to use his copyright "to restrict the
+dissemination of information." Id. at 311 (Lumbard, C.J., concurring). In Rosemont Enters., a
+corporation acting for the publicity-shy Howard Hughes purchased the copyright to an article
+about Hughes solely to bring an infringement suit to enjoin the publication of a forthcoming
+biography on Hughes. Id. at 313. The concurring opinion reasoned:
+
+The spirit of the First Amendment applies to the copyright laws at least to the extent that the courts
+should not tolerate any attempted interference with the public's right to be informed regarding
+matters of general interest when anyone seeks to use the copyright statute which was designed to
+protect interests of quite a different nature.
+
+Id. at 311; see also Eldred, 123 S. Ct. at 790 n. 24 (" [I]t is appropriate to construe copyright's
+internal safeguards to accommodate First Amendment concerns.").
+
+Although Rosemont Enters. did not concern an anti-competitive licensing agreement as in the
+typical misuse case, it focused — as do the misuse cases — on the copyright holder's attempt to
+disrupt a copyright's goal to increase the store of creative expression for the public good. 366 F.2d
+at 311 ("It would be contrary to the public interest to permit any man to buy up the copyright to
+anything written about himself and to use his copyright ownership to restrain other [s] from
+publishing biographical material concerning him."); Lasercomb, 911 F.2d at 978 (" [T]he company
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 13 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+is required to forego utilization of the creative abilities of all its officers, directors and employees in
+the area of [computer assisted design and computer assisted manufacture] die-making software. Of
+yet greater concern, these creative abilities are withdrawn from the public."). A copyright holder's
+attempt to restrict expression that is critical of it (or of its copyrighted good, or the industry in
+which it operates, etc.) may, in context, subvert — as do anti-competitive restrictions — a
+copyright's policy goal to encourage the creation and dissemination to the public of creative
+activity.
+
+The licensing agreements in this case do seek to restrict expression by licensing the Disney trailers
+for use on the internet only so long as the web sites on which the trailers will appear do not
+derogate Disney, the entertainment industry, etc. But we nonetheless cannot conclude on this
+record that the agreements are likely to interfere with creative expression to such a degree that they
+affect in any significant way the policy interest in increasing the public store of creative activity.
+The licensing agreements do not, for instance, interfere with the licensee's opportunity to express
+such criticism on other web sites or elsewhere. There is no evidence that the public will find it any
+more difficult to obtain criticism of Disney and its interests, or even that the public is considerably
+less likely to come across this criticism, if it is not displayed on the same site as the trailers.
+Moreover, if a critic wishes to comment on Disney's works, the fair use doctrine may be implicated
+regardless of the existence of the licensing agreements. Finally, copyright law, and the misuse
+doctrine in particular, should not be interpreted to require Disney, if it licenses its trailers for
+display on any web sites but its own, to do so willy-nilly regardless of the content displayed with its
+copyrighted works. Indeed such an application of the misuse doctrine would likely decrease the
+public's access to Disney's works because it might as a result refuse to license at all online display
+of its works.
+
+Thus, while we extend the patent misuse doctrine to copyright, and recognize that it might operate
+beyond its traditional anti-competition context, we hold it inapplicable here. On this record
+Disney's licensing agreements do not interfere significantly with copyright policy (while holding to
+the contrary might, in fact, do so). The District Court therefore correctly held that Video Pipeline
+will not likely succeed on its copyright misuse defense.
+
+On the basis of Disney's prima facie infringement case and its likelihood of success against Video
+Pipeline's asserted defenses, the District Court presumed Disney would suffer irreparable injury if
+a preliminary injunction did not issue. Generally, "a showing of a prima facie case of copyright
+infringement or reasonable likelihood of success on the merits raises a presumption of irreparable
+harm." Apple Computer, Inc. v. Franklin Computer Corp., 714 F.2d 1240, 1254 (3d Cir. 1983).
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 14 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+When, however, "material peripheral to the [copyright holder's] business has been infringed," we
+"require a stronger showing of irreparable harm as the [copyright holder's] likelihood of success on
+the merits wanes." Marco v. Accent Publ'g Co., 969 F.2d 1547, 1553 (3d Cir. 1992). Video Pipeline
+has likely infringed Disney's movies, which are certainly more than peripheral to its business. Even
+if we were to consider here (as we did under the fourth fair use factor) that the likely market harm
+will be to the derivative market for trailers rather than to the market for the full-length features,
+and that the trailer market may be only peripheral to Disney's business, Disney has shown a strong
+likelihood of success on the merits, and so need not make a particularly strong showing of
+irreparable harm.
+
+Regardless, the record indicates that Disney will likely incur incalculable losses from the clip
+previews' competition with the trailers — especially in terms of internet users' attraction to (and
+the "stickiness" of) Disney's and others' web sites and the concomitant opportunities for sales and
+marketing on those sites. Disney will therefore likely suffer irreparable harm if Video Pipeline is
+not enjoined. Moreover, given the verbatim copying, lack of creative ingenuity, and profit-driven
+purpose of the clip previews, we have no concern that this case is one in which the creative and
+expressive goals of copyright law would be served better by denying an injunction. See Campbell,
+510 U.S. at 578 n.10, 114 S. Ct. 1164.
+
+CONCLUSION
+The District Court correctly held that Disney will likely succeed on the merits of its copyright
+infringement case, given its prima facie showing and that Video Pipeline's attempts to defend on
+fair use and copyright misuse grounds will likely fail. The Court's conclusion as to irreparable harm
+was also correct. We therefore affirm the entry of the preliminary injunction prohibiting Video
+Pipeline from displaying its clip previews on the internet.
+
+ 
+
+Judge Becker concluded his term as Chief Judge on May 4, 2003
+ 
+
+Buena Vista holds an exclusive license to distribute Miramax and Walt Disney Pictures and
+Television home videos. Buena Vista, Miramax, and Walt Disney Pictures and Television are
+subsidiaries of The Walt Disney Co. Because of this connection and for simplicity's sake, we refer to
+the appellees collectively and individually as "Disney."
+ 
+
+*
+
+1
+
+2
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 15 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+We have reviewed as part of the record several of the clip previews and trailers
+ 
+
+3
+
+4
+
+5
+
+The District Court's jurisdiction arose under 28 U.S.C. § 1331 and 28 U.S.C. § 1338. We have
+jurisdiction over this interlocutory appeal pursuant to 28 U.S.C. § 1292(a) (1)
+On August 7, 2003, the District Court entered summary judgment in Disney's favor as to various
+claims and counterclaims, some of which overlap with what is before us. See Video Pipeline, Inc. v.
+Buena Vista Home Entertainment, Inc., 2003 WL 21811891 (D.N.J. Aug.7, 2003). The obvious
+question is whether this appeal is moot. We have concluded, however, that a live controversy
+remains because the District Court has not entered a final judgment or a permanent injunction in
+place of the preliminary one and has not otherwise revoked or altered the injunction on appeal. See
+generally Grupo Mexicano de Desarrollo, S.A. v. Alliance Bond Fund, Inc., 527 U.S. 308, 313-18,
+119 S. Ct. 1961, 144 L. Ed. 2d 319 (1999).
+
+ 
+
+There is no dispute as to Disney's copyright ownership in the full-length motion pictures at issue
+ 
+
+We note that the clip previews do not constitute mere "information" about the movies, as would,
+for example, a list of the names of the actors starring in a film, or a statement of the rating it
+received. Were Video Pipeline dealing only in this type of information, the fair use doctrine might
+not be implicated at all because copyright protection does not include facts and ideas, but only
+their expression See Harper & Row Publishers, Inc. v. Nation Enters., 471 U.S. 539, 547, 105 S. Ct.
+2218, 85 L. Ed. 2d 588 (1985); 17 U.S.C. § 102(b). Regardless, the clips are part of — not
+information about — Disney's expressive creations. See id. at 569, 105 S. Ct. 2218 ("Any copyright
+infringer may claim to benefit the public by increasing public access to the copyrighted work.").
+Additionally, it is not clear to us that the use of a copy — not accompanied by any creative
+expression on the part of the copier — as an advertisement for the original would qualify as a type
+of use intended to be recognized by the fair use doctrine. See Campbell, 510 U.S. at 578-79, 114 S.
+Ct. 1164 ("The enquiry [under the first factor] may be guided by the examples given in the
+preamble to § 107, looking to whether the use is for criticism, or comment, or news reporting, and
+the like. . . ."); id. at 585, 114 S. Ct. 1164 ("The use, for example, of a copyrighted work to advertise a
+product, even in a parody, will be entitled to less indulgence under the first factor of the fair use
+enquiry than the sale of a parody for its own sake, let alone one performed a single time by
+students in school.").
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 16 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+We need not resolve these issues, however, because (as we conclude in the text) the purpose and
+character of the use of the clip previews and that of Disney's derivative works — its trailers — are
+the same.
+
+ 
+
+6
+
+We see little significance in whether the trailers use marketing techniques that the clip previews do
+not
+ 
+
+A database is a discrete collection of data (here, previews) set up for efficient retrieval. By
+comparison, a search engine refers to a system that locates data (or images,etc.) from other web
+sites; thus, a search engine will retrieve data that is not in the engine operator's control.
+VideoPipeline.net is a database, not a search engine.
+ 
+
+The record does suggest that Video Pipeline streamed over the internet clip previews of some
+Disney movies not yet released to the public
+ 
+
+7
+
+8
+
+9
+
+The District Court declined to consider the potential harm to the market for derivatives on the
+ground that Disney had not argued the issue. Disney did, however, so argue in both its briefs in
+support of its motion for a preliminary injunction, and it submitted evidence to support those
+arguments. Video Pipeline also responded in the District Court to the merits of Disney's arguments
+concerning potential harm to the market for its derivative works. Consequently, Video Pipeline
+suffers no harm by our addressing this issue
+ 
+10
+
+Record evidence indicates that clip previews were streamed over the internet more than 30,000
+times between November 2000 and April 2001
+ 
+
+11
+
+12
+
+The record contains three signed licensing agreements and numerous letters sent by Disney to
+other companies asking them to sign the same agreement
+ 
+
+A hyperlink allows an internet user to connect to another web site
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 17 of 18
+
+Video Pipeline, Inc. v. Buena Vista Home Entertainment, Inc.buena Vista …ntvideo Pipeline, Inc., Appellant, 342 F.3d 191 (3d Cir. 2003) :: Justia
+
+5/7/17, 1:20 PM
+
+ 
+
+13
+
+See Note, Clarifying the Copyright Misuse Defense: The Role of Antitrust Standards and First
+Amendment Values, 104 Harv. L. Rev. 1289, 1304-06 (1991) (advocating application of the
+copyright misuse defense where "the plaintiff has improperly used its copyright power to restrain
+free trade in ideas," and explaining: "The copyright misuse defense provides a necessary
+complement to the idea/expression dichotomy [under which an author's expression may be
+copyrighted, but an idea may not] and fair use doctrine in vindicating the public interest in the
+dissemination of ideas. The idea/expression limitation merely restricts the scope of the particular
+copyright being sued upon, and absent a claim of misuse, it cannot be brought to bear on improper
+licensing restrictions or other misconduct. As with the misuse defense, fair use doctrine excuses
+copying that would otherwise be infringement in order to vindicate the copyright policy promoting
+the diffusion of ideas. Unlike misuse doctrine, however, the fair use inquiry directs courts'
+attention to the social value of the defendant's conduct rather than the social harm caused by the
+plaintiff's use of its copyright.").
+
+http://law.justia.com/cases/federal/appellate-courts/F3/342/191/515519/
+
+Page 18 of 18
+
+

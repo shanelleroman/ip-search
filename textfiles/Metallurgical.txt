@@ -1,0 +1,1042 @@
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+Legal Research
+Law Dictionaries
+Law Schools
+Federal Judges
+Federal Courts
+Federal Contracts
+790 F. 2d 1195 - Metallurgical Industries Inc v. Fourtek Inc
+Home
+Federal Reporter, Second Series
+790 F.2d.
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc
+
+790 F.2d 1195
+
+55 USLW 2040, 229 U.S.P.Q. 945
+
+METALLURGICAL INDUSTRIES INC., Plaintiff-Appellant,
+v.
+FOURTEK, INC., Irving Bielefeldt, Norman Montesino, Gary
+Boehm, Michael Sarvadi & Smith International,
+Inc., Defendants-Appellees.
+
+No. 84-1773.
+
+United States Court of Appeals,
+Fifth Circuit.
+
+June 2, 1986.
+
+Hubbard, Thurman, Turner & Tucker, John Feather, Geary, Stahl & Spencer, Gerald P. Urbach, Dallas, Tex.,
+Carella, Byrne, Bain & Gilfillan, John N. Bain, Richard E. Kummer, Roseland, N.J., for plaintiff-appellant.
+
+Christie, Parker & Hale, Richard D. Seibel, E. Roderick Cline, Pasadena, Cal., Richards, Harris & Medlock, V.
+Bryan Medlock, Jr., Martin Korn, Dallas, Tex., for Smith Intern.
+
+Crutsinger & Booth, John Booth, Monty L. Ross, Stinson, Mag & Fizzell, William Frank Carroll, Dallas, Tex., for
+Bielefeldt.
+
+Vernon, McKinley & Lybrand, James L. Schutza, Dallas, Tex., for Montesino, Boehm & Sarvadi.
+
+Appeal from the United States District Court for the Northern District of Texas.
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 1 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+Before GEE, RANDALL and GARWOOD, Circuit Judges.
+
+GEE, Circuit Judge:
+
+Advertisement
+
+Ask a Lawyer Online
+Now - Lawyers
+Answer in Minutes
+
+1
+
+Today's case requires us to review Texas
+law on the misappropriation of trade
+secrets. Having done so, we conclude that
+the district court misconceived the nature
+and elements of this cause of action, a
+misconception that led it to direct a
+verdict erroneously in favor of appellee
+Bielefeldt. We also conclude that the court
+abused its discretion in excluding certain
+evidence. Accordingly, we affirm in part,
+reverse in part, and remand the case for a
+new trial.
+
+I. FACTS OF THE CASE
+
+2
+
+We commence with a brief description of the scientific process concerned. Tungsten carbide is a metallic
+compound of great value in certain industrial processes. Combined with the metal cobalt, it forms an extremely
+hard alloy known as "cemented tungsten carbide"1 used in oil drills, tools for manufacturing metals, and wear-
+resistent coatings. Because of its great value, reclamation of carbide from scrap metals is feasible. For a long time,
+however, the alloy's extreme resistence to machining made reclamation difficult. In the late 1960's and early
+1970's, a new solution--known as the zinc recovery process--was devised, a solution based on carbide's reaction
+with zinc at high temperatures. In the crucibles of a furnace, molten zinc will react with the cobalt in the carbide
+to cause swelling and cracking of the scrap metal. After this has occurred, the zinc is distilled from the crucible,
+leaving the scrap in a more brittle state. The carbide is then ground into a powder, usable in new products as an
+alternative to virgin carbide. This process is the generally recognized modern method of carbide reclamation.
+
+3
+
+Metallurgical Industries has been in the business of reclaiming carbide since 1967, using the more primitive
+"cold-stream process." In the mid-1970's, Metallurgical began to consider using the zinc recovery process. In that
+connection, it came to know appellee Irvin Bielefeldt, a representative of Therm-O-Vac Engineering &
+Manufacturing Company (Therm-O-Vac). Negotiations led to a contract authorizing Therm-O-Vac to design and
+construct two zinc recovery furnaces, the purchase order for the first being executed in July 1976.
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 2 of 22
+
+Questions Answered Every 9Seconds. Get Legal AnswersOnline & Save Time!justanswer.com790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+4
+
+The furnace arrived in April 1977. Dissatisfied with its performance, Metallurgical modified it extensively. First, it
+inserted chill plates in one part of the furnace to create a better temperature differential for distilling the zinc.
+Second, Metallurgical replaced the one large crucible then in place with several smaller crucibles to prevent the
+zinc from dispersing in the furnace. Third, it replaced segmented heating elements which had caused electrical
+arcing with unitary graphite heating elements. Last, it installed a filter in the furnace's vacuum-pumps, which
+zinc particles had continually clogged. These efforts proved successful and the modified furnace soon began
+commercial operation.
+
+5
+
+In the market for a second furnace in mid-1978, Metallurgical provided to Consarc, another furnace
+manufacturer, all its hard-won information about zinc-recovery furnace design. Apparently allowed to watch the
+first furnace operate, Consarc employees learned of its modifications. Because Consarc proved unwilling or
+unable to build what Metallurgical wanted, however, the agreement fell through, and Metallurgical returned to
+Therm-O-Vac for its second furnace. A purchase order was signed in January 1979, and the furnace arrived that
+July. Further modifications again had to be made, but commercial production was allegedly achieved in January
+1980.
+
+6
+
+In 1980, after Therm-O-Vac went bankrupt, Bielefeldt and three other former Therm-O-Vac employees--Norman
+Montesino, Gary Boehm, and Michael Sarvadi--formed Fourtek, Incorporated. Soon thereafter, Fourtek agreed to
+build a zinc recovery furnace for appellee Smith International, Incorporated (Smith). The furnace Fourtek
+provided incorporated the modifications Metallurgical had made in its furnaces; chilling systems, pump filters,
+multiple crucibles, and unitary heating elements. Smith has been unable to use this furnace commercially,
+however, because a current shortage of carbide scrap prevents its economically feasible operation.
+
+7
+
+Metallurgical nevertheless brought a diversity action against Smith, Bielefeldt, Montesino, Boehm, and Sarvadi in
+November 1981.2 In its complaint, Metallurgical charged the defendants with misappropriating its trade secrets.
+Other causes of action, not brought forward on appeal, were breach of contract, interference with business
+relations, conversion, and unfair competition. Trial began on June 4, 1984, and Metallurgical spent the next ten
+days presenting its case in chief. During this time, testimony indicated Metallurgical's frequent notices to
+Bielefeldt that the process was a secret and that the disclosures to him were made in confidence. Another witness
+recounted meetings in which the modifications were agreed to; Bielefeldt was allegedly unconvinced about the
+efficacy of these changes and contributed little to the discussion. Metallurgical also presented evidence that it had
+expended considerable time, effort, and money to modify the furnaces.
+
+8
+
+Advertisement
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 3 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+Aberdeen Manufacturing
+Webinar - Dploy a Tool to
+Measure Goals
+
+Such evidence apparently did not impress the
+trial court; at the close of Metallurgical's case,
+it granted the defendants' motions for
+directed verdicts. Ruling from the bench, the
+court provided an array of reasons for its
+order. The principal reason advanced was the
+court's conclusion that no trade secret is
+involved. At trial, Metallurgical acknowledged
+that the individual changes, by themselves,
+are not secrets; chill plates and pump filters,
+for example, are well-known. Metallurgical's
+position instead was that the process, taken
+as a whole, is a trade secret in the carbide
+business. The court, however, refused to
+recognize any protection Texas law provides
+to a modification process. It also concluded that the information Bielefeldt obtained from working with
+Metallurgical is too general to be legally protected. Finally, it ruled that "negative know-how"--the knowledge of
+what not to do--is unprotected. All these findings seem to have coalesced into a general conclusion by the court
+that this case involves no trade secret. The trial court went on to provide further rationales for its decision; it
+ruled that there was evidence of neither Bielefeldt's improper use nor disclosure of any secret, nor of
+Metallurgical's having been damaged by any improper misappropriation. Metallurgical appeals all these
+conclusions against Bielefeldt and Smith only. It also contends that the court erred in excluding certain evidence.
+
+II. RULES OF REVIEW
+
+9
+
+We begin our discussion by noting the applicable standard of review. In Boeing Co. v. Shipman, 411 F.2d 365, 374
+(5th Cir.1969) (en banc), we enounced the standard for deciding whether a directed verdict is proper:
+
+10
+
+[T]he [trial] court should consider all of the evidence--not just that evidence which supports the non-mover's
+case--but in the light and with all reasonable inferences most favorable to the party opposed to the motion. If the
+facts and inferences point so strongly and overwhelmingly in favor of one party that the Court believes that
+reasonable men could not arrive at a contrary verdict, granting of the motions is proper. On the other hand, if
+there is substantial evidence opposed to the motions, that is, evidence of such quality and weight that reasonable
+and fair-minded men in the exercise of impartial judgment might reach different conclusions, the motions should
+be denied, and the case submitted to the jury.
+
+11
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 4 of 22
+
+Watch this webinar and learnstrategies to measure operationalperformance!go.tbmcg.com790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+The standard of review on appeal is the same. See, e.g., Bobb v. Modern Products, Inc., 648 F.2d 1051, 1057 (5th
+Cir.1981). We must therefore consider all evidence and inferences most favorably to Metallurgical.
+
+12
+
+Because the district court provided so many reasons for its order, we feel compelled to discuss the law of trade
+secrets in detail. Our discussion concentrates on Texas law, despite a clause in both purchase order agreements
+that their interpretation is to be made under New Jersey law. This stems from the nature of this case; as will be
+explained below, we are dealing with a cause of action sounding in tort, not one based on contract.
+
+13
+
+Individual attention to the various elements of this tort is necessary to provide an easily-understood analysis, but
+we can here briefly summarize the discussion. A plaintiff must certainly show that a "trade secret" is involved; the
+definition of this term is therefore crucial and must be based on several factors. If the trial court concludes that a
+trade secret exists, it then must determine whether the defendant committed any wrongdoing. One who breaches
+the confidence reposed in him by the holder of a trade secret and one who obtains the secret can be held
+accountable. No defendant may be liable, however, unless he has "disclosed" or "used" the secret improperly;
+again, defining these terms is required. These considerations are the sum and substance of the cause of action
+involved. After expounding the substantive law, we then turn to issues regarding the district court's evidentiary
+rulings and the relief available to Metallurgical.
+
+14
+
+III. DEFINING A "TRADE SECRET"
+
+15
+
+We begin by reviewing the legal definition of a trade secret. Of course, to qualify as one, the subject matter
+involved must, in fact, be a secret; "[m]atters of general knowledge in an industry cannot be appropriated by one
+as his secret." Wissman v. Boucher, 150 Tex. 326, 240 S.W.2d 278, 280 (1951); see also Zoecon Industries v.
+American Stockman Tag Co., 713 F.2d 1174, 1179 (5th Cir.1983) ("a customer list of readily ascertainable names
+and addresses will not be protected as a trade secret"). Smith emphasizes the absence of any secret because the
+basic zinc recovery process has been publicized in the trade. Acknowledging the publicity of the zinc recovery
+process, however, we nevertheless conclude that Metallurgical's particular modification efforts can be as yet
+unknown to the industry. A general description of the zinc recovery process reveals nothing about the benefits
+unitary heating elements and vacuum pump filters can provide to that procedure. That the scientific principles
+involved are generally known does not necessarily refute Metallurgical's claim of trade secrets.
+
+16
+
+Metallurgical, furthermore, presented evidence to back up its claim. One of its main witnesses was Arnold Blum,
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 5 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+a consultant very influential in the decisions to modify the furnaces. Blum testified as to his belief that
+Metallurgical's changes were unknown in the carbide reclamation industry. The evidence also shows
+Metallurgical's efforts to keep secret its modifications. Blum testified that he noted security measures taken to
+conceal the furnaces from all but authorized personnel. The furnaces were in areas hidden from public view,
+while signs warned all about restricted access. Company policy, moreover, required everyone authorized to see
+the furnace to sign a non-disclosure agreement. These measures constitute evidence probative of the existence of
+secrets. One's subjective belief of a secret's existence suggests that the secret exists. Security measures, after all,
+cost money; a manufacturer therefore presumably would not incur these costs if it believed its competitors
+already knew about the information involved. In University Computing Co. v. Lykes-Youngstown Corp., 504 F.2d
+518, 535 (5th Cir.1974), we regarded subjective belief as a factor to consider in determining whether secrecy
+exists. Because evidence of security measures is relevant, that shown here helps us conclude that a reasonable
+jury could have found the existence of the requisite secrecy.
+
+17
+
+Smith argues, however, that Metallurgical's disclosure to other parties vitiated the secrecy required to obtain
+legal protection. As mentioned before, Metallurgical revealed its information to Consarc Corporation in 1978; it
+also disclosed information in 1980 to La Floridienne, its European licensee of carbide reclamation technology.
+Because both these disclosures occurred before Bielefeldt allegedly misappropriated the knowledge of
+modifications, others knew of the information when the Smith furnace was built. This being so, Smith argues, no
+trade secret in fact existed.
+
+18
+
+Although the law requires secrecy, it need not be absolute. Public revelation would, of course, dispel all secrecy,
+but the holder of a secret need not remain totally silent:
+
+19
+
+He may, without losing his protection, communicate it to employees involved in its use. He may likewise
+communicate it to others pledged to secrecy.... Nevertheless, a substantial element of secrecy must exist, so that
+except by the use of improper means, there would be difficulty in acquiring the information.
+
+20
+
+Restatement of Torts, Sec. 757 Comment b (1939). We conclude that a holder may divulge his information to a
+limited extent without destroying its status as a trade secret. To hold otherwise would greatly limit the holder's
+ability to profit from his secret. If disclosure to others is made to further the holder's economic interests, it
+should, in appropriate circumstances, be considered a limited disclosure that does not destroy the requisite
+secrecy. The only question is whether we are dealing with a limited disclosure here.
+
+21
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 6 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+Prior caselaw provides no guidance on what constitutes limited disclosure. Metallurgical cites Hyde Corp. v.
+Huffines, 158 Tex. 566, 314 S.W.2d 763, cert. denied 358 U.S. 898, 79 S.Ct. 223, 3 L.Ed.2d 148 (1958), and Sikes
+v. McGraw Edison Co., 665 F.2d 731 (5th Cir.), cert. denied 458 U.S. 1108, 102 S.Ct. 3488, 73 L.Ed.2d 1369
+(1982), in contending that subsequent disclosure of a trade secret does not free one from the constraint of a prior
+confidential disclosure. In both of these cases, however, publication of the trade secret by its holder followed an
+improper use by one in whom the holder had confided. This factual difference renders these cases inapposite.
+
+22
+
+Looking instead to the policy considerations involved, we glean two reasons why Metallurgical's disclosures to
+others are limited and therefore insufficient to extinguish the secrecy Metallurgical's other evidence has
+suggested. First, the disclosures were not public announcements; rather, Metallurgical divulged its information
+to only two businesses with whom it was dealing. This case thus differs from Luccous v. J.C. Kinley Co., 376
+S.W.2d 336 (Tex.1964), in which the court concluded that the design of a device could not be a trade secret
+because it had been patented--and thus revealed to all the world--before any dealing between the parties. Second,
+the disclosures were made to further Metallurgical's economic interests. Disclosure to Consarc was made with the
+hope that Consarc could build the second furnace. A longstanding agreement gave La Floridienne the right, as a
+licensee, to the information in exchange for royalty payments. Metallurgical therefore revealed its discoveries as
+part of business transactions by which it expected to profit.
+
+23
+
+Metallurgical's case would have been stronger had it also presented evidence of confidential relationships with
+these two companies, but we are unwilling to regard this failure as conclusively disproving the limited nature of
+the disclosures. Smith correctly points out that Metallurgical bears the burden of showing the existence of
+confidential relationships. Contrary to Smith's assertion, however, confidentiality is not a requisite; it is only a
+factor to consider. Whether a disclosure is limited is an issue the resolution of which depends on weighing many
+facts. The inferences from those facts, construed favorably to Metallurgical, is that it wished only to profit from
+its secrets in its business dealings, not to reveal its secrets to the public. We therefore are unpersuaded by Smith's
+argument.
+
+24
+
+Existing law, however, emphasizes other requisites for legal recognition of a trade secret. In Huffines, 314 S.W.2d
+763, a seminal case of trade secret law, Texas adopted the widely-recognized pronouncements of the American
+Law Institute's Restatement of the Law. The Texas Supreme Court quoted the Restatement's definition of a trade
+secret:
+
+25
+
+A trade secret may consist of any formula, pattern, device, or compilation of information which is used in one's
+business, and which gives him an opportunity to obtain an advantage over competitors who do not know it. It
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 7 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+may be a chemical compound, a process of manufacturing, treating or preserving materials, a pattern for a
+machine or other device or a list of customers.
+
+26
+
+Id. at 776, quoting Restatement of Torts, Sec. 757 Comment b (1939). From this the criterion of value to the
+holder of the alleged secret arises, a criterion we have noted before. In Zoecon Industries, 713 F.2d at 1179, we
+concluded that a customer list was a trade secret in part because the list gave to its owner an advantage "over
+competitors who did not have this information." See also Lykes-Youngstown Corp., 504 F.2d at 535 ("[e]vidence
+was adduced at trial that [the product in question] had unique capabilities and features which made it a valuable
+competitive product").
+
+27
+
+Metallurgical met the burden of showing the value of its modifications. Lawrence Lorman, the company's vice
+president, testified that the zinc recovery process gave Metallurgical an advantage over its two competitors by
+aiding in the production of the highest quality reclaimed carbide powder. The quality of the powder, in fact,
+makes it an alternative to the more costly virgin carbide. Lorman testified that customers regarded
+Metallurgical's zinc reclaimed powder as a better product than that reclaimed by the coldstream process used by
+others. This evidence clearly indicates that the modifications that led to the commercial operation of the zinc
+recovery furnace provided a clear advantage over the competition.
+
+28
+
+Another requisite is the cost of developing the secret device or process. In Huffines' companion case, K & G Oil,
+Tool & Service Co. v. G & G Fishing Tool Service, 158 Tex. 594, 314 S.W.2d 782, 790 (1958), the court recognized
+the cost involved in developing the device in question; "[t]he record shows ... that much work and ingenuity have
+been applied to the development of a practical and successful device." See also Zoecon Industries, 713 F.2d at
+1179 ("even if the names and addresses were readily ascertainable through trade journals as the defendants
+allege, the other information could be compiled only at considerable expense"). No question exists that
+Metallurgical expended much time, effort, and money to make the necessary changes. It clearly has met the
+burden of demonstrating the effort involved in making a complex manufacturing process work.
+
+29
+
+That the cost of devising the secret and the value the secret provides are criteria in the legal formulation of a
+trade secret shows the equitable underpinnings of this area of the law. It seems only fair that one should be able
+to keep and enjoy the fruits of his labor. If a businessman has worked hard, has used his imagination, and has
+taken bold steps to gain an advantage over his competitors, he should be able to profit from his efforts. Because a
+commercial advantage can vanish once the competition learns of it, the law should protect the businessman's
+efforts to keep his achievements secret. As is discussed below, this is an area of law in which simple fairness still
+plays a large role.
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 8 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+30
+
+We do not say, however, that all these factors need exist in every case. Because each case must turn on its own
+facts, no standard formula for weighing the factors can be devised. Secrecy is always required, of course, but
+beyond that there are no universal requirements. In a future case, for example, should the defendant's breach of
+confidence be particularly egregious, the injured party might still seek redress in court despite the possibility that
+the subject matter was discovered at little or no cost or that the object of secrecy is not of great value to him. The
+definition of "trade secret" will therefore be determined by weighing all equitable considerations. It is easy to
+recognize the possibility of a trade secret here, however, because Metallurgical presented evidence of all three
+factors discussed above.
+
+31
+
+Appellees posit two other reasons why Metallurgical's modification process cannot be defined as a trade secret.
+The first is premised on characterizing the process in question as the installation of various devices all well
+known to modern manufacturing. This being so, the argument runs, the process itself can be no secret, either.
+The technologies of chill plates, multiple crucibles, pump filters, and unitary graphite heating elements are all
+said to be public knowledge. This may well be so, but it does not prevent Metallurgical from seeking legal
+protection. Ventura Manufacturing Co. v. Locke, 454 S.W.2d 431 (Tex.Civ.App.1970), involved a process of
+finding and cleaning small yet valuable titanium scraps lost during the manufacturing of airplanes. Appellee
+Locke refined a previously unsuccessful process by implementing new procedures, none of which was innovative.
+The court nevertheless found that his efforts could constitute a trade secret:
+
+32
+
+Obviously, the basic proposition involved in the cleaning of dirty parts by commercial detergents involves no
+trade secret. Also, the use of production line techniques as such must be considered as a matter of general
+knowledge. On the other hand, we cannot say that the details of the procedure followed in the cleaning of these
+fasteners are matters of general knowledge. To the contrary, the record demonstrates that such details as the
+types and amounts of chemicals to be used and the times and temperatures for cleaning the fasteners were
+developed by Ventura through extensive trial and error and at considerable expense.
+
+33
+
+Id. at 434. Similarly, in Sikes, 665 F.2d 731, 736, we quoted with approval the following passage from Water
+Services, Inc. v. Tesco Chemicals, 410 F.2d 163, 173 (5th Cir.1969).3
+
+34
+
+It is clear that the theory of the Treat-A-Matic was not new to the industry. The court also found that the design
+was apparent from inspection, and that the system had been sold and advertised without restriction. These
+findings are supported by the evidence. But these findings are not conclusive. The trade secret here was the
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 9 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+application of known techniques and the assembly of available components to create the first successful system
+in the industry.... As the Second Circuit stated in Imperial Chemical, Ltd. v. National Distillers & Chemical Corp.
+(2 Cir.1965) 342 F.2d 737, 742, "a trade secret can exist in a combination of characteristics and components each
+of which, by itself, is in the public domain, but the unified process, design and operation of which in unique
+combination, affords a competitive advantage and is a protectible secret."
+
+35
+
+We believe these cases cogently refute appellees' assertions to the contrary.
+
+36
+
+The second defense advances a supposed concept of "negative know how" in reliance on one sentence from Hurst
+v. Hughes Tool Co., 634 F.2d 895 (5th Cir.) cert. denied 454 U.S. 829, 102 S.Ct. 123, 70 L.Ed.2d 105 (1981). The
+court there ruled that Hughes Tool Company did not really use the information Hurst provided; "Hurst's
+information, while of some benefit, provided only negative, 'what not to do,' input to Hughes." Id. at 899. Both
+the district court and Smith interpret this to mean that negative know-how cannot constitute a trade secret. The
+sentence in Hurst, however, has nothing to do with whether the information was a trade secret. It is not found in
+the section of the opinion dealing with the existence of a trade secret; rather, we were determining whether
+Hughes Tool Company could be found to have used commercially any secrets Hurst conveyed.
+
+37
+
+Regardless of this misreading, the argument that negative know-how is involved here is unpersuasive. We do not
+understand how the changes that we have described can be seen as only showing what not to do. Metallurgical's
+evidence shows that it encountered many problems with the furnaces Therm-O-Vac delivered. Striving to solve
+these problems, Metallurgical took several steps to modify the furnaces. Installing unitary heating elements, chill
+plates, multiple crucibles, and pump filters are all "positive" steps resulting from conclusions on what to do.
+These changes allegedly turned unuseuable furnaces into ones fit for commercial operation. One may say, of
+course, that these actions result from realizations of what not to do; but so does every human process: the
+selection of one action at a given moment involves the rejection of every other conceivable one that might have
+been chosen. Using multiple crucibles, for example, stems from the conclusion that a single large crucible should
+not be used. This characterization, however, can always describe the invention or modification of a device.
+Knowing what not to do often leads automatically to knowing what to do. Although we decline to hold that this
+distinction will always be unavailing, in this case at least we regard the distinction between "positive" and
+"negative" knowledge to be unintelligible. Because this final claim of Smith is unpersuasive, we conclude that the
+evidence which was presented at trial could have led a reasonable jury to believe a trade secret existed.
+
+IV. EXISTENCE OF A CONFIDENTIAL RELATIONSHIP
+
+38
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 10 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+Deciding whether a confidential relationship existed between Metallurgical and Bielefeldt must naturally precede
+an inquiry into his possible breach of Metallurgical's confidence. Once again, we look to the Restatement of Torts
+as our starting point:
+
+39
+
+One who discloses or uses another's trade secrets, without a privilege to do so, is liable to the other if ... (b) his
+disclosure or use constitutes a breach of confidence reposed in him by the other in disclosing the secret to him.
+
+40
+
+* * *
+
+41
+
+* * *
+
+42
+
+A breach of confidence under the rule stated in this Clause may also be a breach of contract which subjects the
+actor to liability.... But whether or not there is a breach of contract, the rule stated in this Section subjects the
+actor to liability if his disclosure or use of another's trade secret is a breach of the confidence reposed in him by
+the other in disclosing the secret to him.
+
+43
+
+Huffines, 314 S.W.2d at 769, quoting Restatement, Sec. 757 and comment j. In Huffines, the Texas Court cited
+several cases to emphasize this message. Quoted at great length was Adolph Gottscho v. American Marking
+Corp., 18 N.J. 467, 114 A.2d 438 (1955). The Gottscho court stressed the blameworthy conduct of the defendant
+as the basis of this tort:
+
+44
+
+[Defendants] now seek to appropriate these trade secrets to their own use and profit by a violation of their
+contractual agreements and a betrayal of the confidence reposed in them by plaintiff. This they may not do; such
+conduct is abhorrent to our conception of ordinary honesty.... Jackson learned the plaintiff's trade secrets in
+confidence and, in violation of his fiduciary obligations, he disclosed and used them for purposes other than his
+employer's benefit.... His conduct was grossly improper and gave rise to the plaintiff's cause of action, based on
+long-settled equitable principles and supported by the marked changes in the attitude of the law towards the
+need for commercial morality.
+
+45
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 11 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+114 A.2d at 441-42, quoting Julius Hyman & Co. v. Velsicol Corp., 123 Colo. 563, 604-06, 233 P.2d 977, 999
+(1952), cert. denied 342 U.S. 870, 72 S.Ct. 199, 96 L.Ed. 671 (1951). Our review of the evidence on the existence of
+a confidential relationship is hampered to some degree by the district court's exclusion of several items of
+evidence. As we discuss below, the exclusions were improper; but regardless of the evidence excluded, the record
+contains testimony of Metallurgical's president, Ira Friedman, that he informed Bielefeldt of the confidentiality
+Metallurgical expected. Although these references are few, they would have sufficed to allow a reasonable jury to
+have believed that a confidential relationship existed between Metallurgical and Bielefeldt.
+
+V. OBTAINING SECRETS FROM ANOTHER
+
+46
+
+At this point we must devote separate attention to Smith, which stands in a different light from Bielefeldt. It had
+no significant dealings with Metallurgical and apparently was not heavily involved in the design of the furnace it
+purchased. The question therefore becomes whether Smith as purchaser, and thus as beneficiary of Bielefeldt's
+alleged misappropriation, can also be held liable for it.
+
+47
+
+The law imposes liability not only on those who wrongfully misappropriate trade secrets by breach of confidence
+but also, in certain situations, on others who might benefit from the breach:
+
+48
+
+One who discloses or uses another's trade secret, without a privilege to do so, is liable to the other if ... (c) he
+learned the secret from a third person with notice of the facts that it was a secret and that the third person's
+disclosure of it was otherwise a breach of his duty to the other....
+
+49
+
+* * *
+
+50
+
+* * *
+
+51
+
+One has notice of facts under the rule stated in this Section when he knows of them or when he should know of
+them.... He should know of them if, from the information which he has, a reasonable man would infer the facts in
+question, or if, under the circumstances, a reasonable man would be put on inquiry and an inquiry pursued with
+reasonable intelligence and diligence would disclose the facts.
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 12 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+52
+
+Restatement, Sec. 757 & comment 1. Under this standard, we believe a reasonable jury could find that Smith
+should have inquired into the relationship between Bielefeldt and Metallurgical. Testimony shows that, during
+negotiations for the purchase of a furnace, Bielefeldt told Smith of his current involvement in then-pending
+litigation with Metallurgical regarding trade secrets in New Jersey. Smith learned that Metallurgical claimed
+ownership of the design and manufacturing processes of the zinc recovery furnace, a furnace which Smith wished
+Bielefeldt to build. Apparently satisfied by Bielefeldt's assertion of the meritlessness of Metallurgical's claims,
+Smith eventually gave him the go-ahead for construction of the furnace. There is no indication that it ever
+investigated the danger that Bielefeldt was wrongfully misappropriating the ideas of others. The evidence as it
+stood at the end of Metallurgical's presentation thus suggests that Smith knew of possible problems and did
+nothing but rely on Bielefeldt's dismissals. We think that this inattention to possible wrongdoing, unless refuted,
+amounts to a failure to reasonably inquire into the facts involved. Under Sec. 757(c), Smith might therefore be
+held accountable, provided it used any trade secrets conveyed. This brings us to the next issue.
+
+VI. DISCLOSURE OR USE OF A TRADE SECRET
+
+53
+
+Wrongful misappropriation occurs if one "discloses or uses another's trade secret without a privilege to do so...."
+Restatement, Sec. 757. The district court directed verdict for appellees in part because it saw no evidence of
+Bielefeldt's actual use or disclosure of Metallurgical's secrets. In reviewing this conclusion, we keep in mind the
+rule of Boeing Co. v. Shipman by scouring the record for reasonable inferences favorable to Metallurgical. One
+fact jumps out from this review: in their original form, the furnaces delivered to Metallurgical differed from those
+that Smith purchased. The former furnaces lacked the key features needed to achieve commercial operation,
+while the latter possessed those features--features that Metallurgical had devised by extensive and expensive trial
+and error. Bielefeldt himself testified that he did not look to public sources of information in designing the Smith
+furnace; he instead claimed that he relied on his memory. That his earlier efforts lacked the features at issue
+suggests that his "memories" may well have been of working with Metallurgical. This issue is therefore an
+inappropriate ground for a directed verdict.
+
+54
+
+Smith's liability can arise, however, only if it in turn used the secrets gained from Bielefeldt. "Use," as it turns out,
+is not so easily defined. Smith claims that it never used any secrets gained because its inability to procure
+substantial quantities of scrap carbide prevented commercial operation of the furnace Fourtek provided. Lykes-
+Youngstown, 504 F.2d 518, guides us in determining commercial use. We must first recognize the unfortunate
+blurring of analyses in that case. The Lykes-Youngstown court's discussion of commercial use was in the context
+of inquiring whether damages might be available. It is preferable, of course, to divorce these concepts.
+Commercial use is an element of the tort as enounced in Sec. 757 of the Restatement; while the nature of the use
+may be relevant in determining the proper extent of damages, its existence must also be shown to establish
+wrongdoing in the first place. Despite this confusion, Lykes-Youngstown provides useful analysis.
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 13 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:26 PM
+
+55
+
+Metallurgical looked to that case in arguing that the law provides a liberal definition of "commercial use." Lykes-
+Youngstown does indeed state a broad definition; "any misappropriation, followed by an exercise of control and
+dominion ... must constitute a commercial use...." 504 F.2d at 542. Lykes-Youngstown differs from our case,
+however, in one very important respect. It was a case in which "the trade secret itself was what was to be sold...."
+Id. at 540. The court there explicitly contrasted a case like ours, "where the trade secret is used to improve
+manufacturing, and subsequently manufactured items were sold at a profit...." Id. Although the court made this
+distinction in determining the proper method of computing damages, we think it also applies logically to
+developing a definition of "use." The discussion in Lykes-Youngstown following this distinction is therefore
+inapposite to our case, for which we instead employ the everyday meaning of the term. If Smith has not put the
+furnace into commercial operation to produce carbide powder it can then use, then no commercial use has
+occurred. Because Metallurgical failed to provide any evidence that Smith has so far benefitted from any
+misappropriation, directed verdict in Smith's favor was proper. Should it in future seek to profit from use or sale
+of the furnace, a new fact situation will be presented.
+
+VII. EVIDENTIARY MATTERS
+
+56
+
+We now turn our attention to certain evidentiary rulings the district court made to exclude various documentary
+and testimonial items of evidence. At trial, Metallurgical offered Exhibit 246 in evidence; entitled "Non-
+Disclosure Agreement" and dated June 11, 1976, this document predates any purchase agreement between
+Metallurgical and Therm-O-Vac. In it, Bielefeldt agreed to hold all information gained from Metallurgical in
+confidence, using or disclosing this knowledge only with Metallurgical's approval.4 On July 30, 1976,
+Metallurgical and Therm-O-Vac signed the purchase order for the first furnace. Entered into evidence as Exhibit
+826, the order form contained two clauses of significance here: an integration clause5 and one entitled "Property
+Interest."6 An analogous pair of documents also surrounds the purchase of the second furnace. Exhibits 247 and
+247A are different copies of a Non-Disclosure Agreement dated March 1, 1978. Also signed by Bielefeldt, this
+agreement provided detailed recognition of the confidentiality involved and the expectation of nondisclosure
+absent Metallurgical's permission.7 On January 31, 1979, the parties signed the purchase order for the second
+furnace; this document, received in evidence as Exhibit 57, contained integration and nondisclosure provisions
+identical to those of Exhibit 826.
+
+57
+
+The district court eventually withdrew exhibits 246, 247, and 247A from evidence because of Texas' parol
+evidence rule, holding that the integration clauses of exhibits 826 and 57 "abrogated all prior agreements
+between the parties." The Texas parol evidence rule bars evidence of a prior or contemporaneous agreement that
+contradicts or changes the express terms of an unambiguous written agreement. See, e.g., Caviness Packing Co.,
+Inc. v. Corbett, 587 S.W.2d 543, 545 (Tex.Civ.App.--Amarillo 1979, writ ref. n.r.e.). If Metallurgical were suing
+only on the contract, then the parol evidence rule unquestionably would bar evidence of prior agreements. This is
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 14 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+not the case, however; the cause of action we are addressing on appeal is independent of any contract. See
+Huffines, 314 S.W.2d at 769. Even if the parties had not executed the purchase agreements, Metallurgical could
+have sued for misappropriation of its trade secrets. Exhibits 246, 247 and 247A are relevant in showing that this
+tort occurred. They were offered to show the parties' recognition of the unique nature of the zinc recovery process
+and the confidential relationship then existing; their purpose was not to change or undermine the agreements
+embodied in the purchase order. We regard their significance as stemming from legal concepts completely
+independent of any contractual relationship,8 their consequences, moreover, do not impinge upon the legal effect
+of that relationship. We thus conclude that the exclusion of these exhibits was an abuse of the district court's
+discretion.
+
+58
+
+The district court also excluded certain testimony of Friedman, Bielefeldt, and Paul Durkin, a former employee of
+Metallurgical. Because these exclusions were also premised on the applicability of the parol evidence rule, they
+too were improper. On appeal, appellees argue that the testimony was cumulative anyway, but we are
+unconvinced. On retrial, therefore, testimony about the parties' understanding of confidentiality existing before
+the purchase order agreements should not be excluded because of the parol evidence rule.
+
+59
+
+We may not disturb the district court's exclusion of the evidence, however, if that ruling can be upheld on other
+grounds, regardless of whether the court relied on those grounds. Fed.R.Evid. 103 requires a finding of error to
+be based on the exclusion of evidence only if "a substantial right of the party is affected." If other grounds exist
+supporting the evidence's exclusion, the district court's reliance on the parol evidence rule can constitute only
+harmless error. See United Communications, Inc. v. American Television & Communications Corp., 536 F.2d
+1310, 1318 n. 6 (10th Cir.1976); 11 Wright & Miller, Federal Practice and Procedure: Civil Sec. 2885 (1973). It is
+thus necessary to address the best evidence rule and authentication challenges Bielefeldt raises regarding
+exhibits 247 and 247A. At trial, the court expressed concern about whether these exhibits satisfied the best
+evidence rule, but eventually did not base their exclusion on the rule. Bielefeldt now maintains, as he maintained
+at trial, that the exhibits' authenticity was insufficiently confirmed and that the exhibits were inaccurate copies of
+the original, which has apparently been lost.
+
+60
+
+Exhibit 247 is a poorly-xeroxed copy of the March 1, 1978 nondisclosure agreement. Because parts of the copy
+were difficult to read, Metallurgical introduced into evidence Exhibit 247A, a more legible reproduction. Both
+copies have unintelligible markings on the lower left hand corner. The markings do not cover the agreement's
+text or Bielefeldt's signature. Because they do not appear to alter or modify the typed text of the agreement, it is
+difficult, if not impossible, to see how their presence can affect the case in any way. While these markings might
+distinguish the copies from the original document, the alteration seems of a most trivial kind. The record
+therefore reveals no genuine issue as to the authenticity of the copies' contents; no suggestion of unfairness
+arises, moreover, by admitting the copies into evidence. The copies should not be excluded because of some
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 15 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+small, unintelligible markings that apparently have nothing to do with the issues of this case. Rather, these
+markings should go to only the weight attached to the exhibits. See Greater Kansas City Laborers Pension Fund v.
+Thummel, 738 F.2d 926, 928 (8th Cir.1984).
+
+61
+
+Authentication of Exhibit 247 came from the testimony of Ira Friedman, who claimed to have been present when
+Bielefeldt signed the document. No testimony, however, authenticated Exhibit 247A. That exhibit appears to be a
+slightly enlarged and clearer copy of either the original or Exhibit 247. Authentication of Bielefeldt's signature
+can be made by comparing it to that of Exhibit 247, already authenticated. Had the case gone to the jury, it could
+have assumed this task. See Fed.R.Evid. 901(b)(3). We therefore refuse to affirm the ruling excluding these
+exhibits' exclusion on any other ground.
+
+VIII. REMEDIES AND OTHER MATTERS
+
+62
+
+We now come to the issue of remedies available to Metallurgical. The district court apparently found crucial
+Smith's inability to operate its furnace profitably. Because there was no commercial use, it concluded that
+damages were unavailable. We have already concluded that Smith did not "use" the alleged secrets Bielefeldt
+provided; to say that this circumstance precludes all remedies goes too far, however. The court failed to
+distinguish consideration of the individual appellees; Smith is out of the picture, but Bielefeldt remains. Should
+he be found liable on retrial, the appropriate damages should be based on the tenets of Lykes-Youngstown. We
+there adopted the concept of the "reasonable royalty." This does not mean a simple percentage of actual profits;
+instead, the trier of fact, should it find Bielefeldt liable, must determine "the actual value of what has been
+appropriated." 504 F.2d at 537, quoting Vitro Corp. v. Hall Chemical Co., 292 F.2d 678, 683 (6th Cir.1961). We
+later expounded this concept:
+
+63
+
+[T]he proper measure is to calculate what the parties would have agreed to as a fair price for licensing the
+defendant to put the trade secret to the use the defendants intended at the time the misappropriation took place.
+
+64
+
+In calculating what a fair licensing price would have been had the parties agreed, the trier of fact should consider
+such factors as the resulting and foreseeable changes in the parties' competitive posture; the prices past
+purchasers or licensees may have paid; the total value of the secret to the plaintiff, including the plaintiff's
+development cost and the importance of the secret to the plaintiff's business; the nature and extent of the use the
+defendant intended for the secret, and finally whatever other unique factors in the particular case might have
+been affected by the parties' agreement, such as the ready availability of alternative process.
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 16 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+65
+
+Id. at 540. Estimation of damages, however, should not be based on sheer speculation. If too few facts exist to
+permit the trier of fact to calculate proper damages, then a reasonable remedy in law is unavailable. In that
+instance, a permanent injunction is a proper remedy for the breach of a confidential relationship. Zoecon
+Industries, 713 F.2d at 1180, citing Huffines, 314 S.W.2d at 778. In this case, moreover, an injunction against
+Bielefeldt in no way depends on whether Smith achieved commercial use. Should Metallurgical prove its point on
+retrial, therefore, it has a remedy available to right the wrong done it.
+
+66
+
+We emphasize the limited consequences of today's decision. In no way do we pass judgment on whether
+Bielefeldt committed any wrong; that task is for the trier of fact. We hold only that the opportunity for this
+determination to be made must be given. It may be that on retrial Bielefeldt can successfully show that his
+knowledge came from somewhere else or that the process of modification was no secret.
+
+67
+
+We conclude by recognizing the other appellees in this case. Our decision has focused exclusively on Bielefeldt
+and Smith. Metallurgical, however, also named the other officers of Fourtek as appellees.9 It thereby forced
+Norman Montesino, Gary Boehm, and Michael Sarvadi to file an appellate brief. Only in their brief do we learn
+that Metallurgical itself moved to dismiss all counts against these three, a motion which the court granted. No
+evidence in the case was presented against them. Only in Metallurgical's reply brief, moreover, do we discover
+that "Metallurgical does not urge this appeal as to Montesino, Boehm, and Sarvadi...." We regard the naming of
+these three as appellees, thus forcing them to submit a brief, as constituting a frivolous appeal. We therefore
+award attorney's fees and single costs to Montesino, Boehm, and Sarvadi in accordance with Fed.R.App.P. 38. On
+remand, they are to submit their claims for fees to the district court.
+
+68
+
+The district court's order is AFFIRMED in part, REVERSED in part, and the cause is REMANDED.
+
+1
+
+Hereafter referred to simply as "carbide"
+
+2
+
+Metallurgical is a New Jersey corporation. The individual appellees reside in Texas, and Fourtek is a Texas
+corporation. Smith is a California corporation having a Texas office
+
+3
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 17 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+Tesco, to be sure, concerns Georgia law, but Georgia, like Texas, recognizes the Restatement definition of trade
+secret; and we think our language there apposite here." Sikes, 665 F.2d at 736
+
+4
+
+The document provides as follows:
+
+The undersigned hereby agrees that what they [sic] witness and all information, either written or orally received
+during visit to M.I., and relating to Metallurgical International products, manufacturing procedures, or
+equipment will be held in confidence, and will not be transmitted, used or disclosed to, any person or
+organization without the express written approval of Metallurgical International.
+
+5
+
+Entitled "Other Understandings," this provision states in part:
+
+All previous communication between the parties hereto, either oral or written, with reference to this proposal, is
+hereby abrogated, it being understood that there are no agreements, understandings or guarantees whatever
+other than contained in this proposal and supplements thereto.
+
+6
+
+This clause reads as follows:
+
+It is understood that portions of the design of the equipment covered by this proposal may be of proprietary
+nature to one or both parties. It is agreed that neither PURCHASER nor Therm-O-Vac will disclose design
+features of the equipment to third parties without prior written agreement.
+
+7
+
+Recitation of the entire document is necessary to show the extent of the parties' expectations:
+
+WHEREAS, Therm-O-Vac Engineering and Manufacturing, Inc. has constructed a zinc reclamation process for
+the recovery of tungsten carbide cobalt for Metallurgical International, Inc., based on specifications developed by
+the mutual efforts of Therm-O-Vac and Metallurgical; and
+
+WHEREAS, from the date of the installation of the zinc reclamation process Metallurgical has modified same
+based on the experience of Metallurgical with the use of the zinc reclamation process; and
+
+WHEREAS, Metallurgical has purchased the zinc reclamation process from Therm-O-Vac;
+
+NOW, THEREFORE, Therm-O-Vac agrees with Metallurgical to hold all information concerning the zinc
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 18 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+reclamation process confidential and further agrees to refrain from manufacturing, using or selling the zinc
+reclamation process or any information concerning same which is in any way similar to the zinc reclamation
+process developed and constructed for Metallurgical to any other person, firm or corporation unless and until
+permission to do so is received in writing from Metallurgical International, Inc.
+
+IN WITNESS WHEREOF, Therm-O-Vac Engineering and Manufacturing, Inc. has caused these promises to be
+executed by its respective representative and caused its respective signature to be affixed hereto.
+
+/s/ Erwin Bielefeldt
+
+8
+
+A possible response to this argument is that, while the tort of misappropriating a trade secret is theoretically
+distinct from a cause of action on the contract, in this case the tort is swallowed by the subsequent contractual
+agreements; therefore, the response would run, the parol evidence rule remains applicable in governing the
+admissibility of evidence. To accept this position, however, would require us to deny in the first place to
+Metallurgical a cause of action based on breach of confidence. Because the entire dispute would be contractual,
+duties imposed by tort law would become irrelevant. This consequence is contrary to the Restatement's
+philosophy that contractual duties are irrelevant in dealing with a breach of confidence. Cf. Hendricks v. Wall,
+277 S.W. 207 (Tex.Civ.App.--El Paso 1925, writ ref'd) (a contract intending or inducing a fiduciary's breach of
+trust is void). As discussed earlier, the language of Huffines strongly emphasizes the importance of providing tort
+liability as a way of promoting business honesty and commercial fairness. Influenced by such emphatic
+statements, we are unwilling to let this cause of action die because of the presence of contracts. Instead, we
+acknowledge the possible importance of any agreements in proving or disproving a requisite element(s) of the
+tort and providing an independent basis for a contractual cause of action
+
+9
+
+Fourtek, Inc. was also named as appellee but it has gone into bankruptcy
+
+Bloomberg Law® - Request a Free Trial Today
+
+Advertisement
+
+Print
+Email
+
+Short URL:
+Advertisement
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 19 of 22
+
+Integrated Legal Research & Business Intelligence: 24/7 Support Go tobna.com/Bloomberg-Law790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+Top Local Lawyers
+
+Scott Leventhal
+DUI-DWI, Accident & Injury,
+Criminal, Workers'
+Compensation
+
+New Haven, CT
+
+see profile
+
+Learn more about Lawyer.com Membership
+
+Advertisement
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 20 of 22
+
+790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+Bloomberg
+Law® - Request
+a Free Trial
+Today
+
+Like Share 1.4K people like this.
+
+OpenJurist
+
+Follow
+
++1
+
++ 14
+
+Home
+Federal Reporter, Second Series
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 21 of 22
+
+Integrated LegalResearch & BusinessIntelligence: 24/7Supportbna.com790 F2d 1195 Metallurgical Industries Inc v. Fourtek Inc | OpenJurist
+
+5/7/17, 1:27 PM
+
+790 F.2d.
+
+Home
+
+Browse OpenJurist
+
+Learn the Law
+
+Terms of Use
+
+http://openjurist.org/790/f2d/1195/metallurgical-industries-inc-v-fourtek-inc
+
+Page 22 of 22
+
+

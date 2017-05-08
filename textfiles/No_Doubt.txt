@@ -1,0 +1,836 @@
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+ 
+
+ 
+
+LAWYER LOGIN
+
+Home  /  Browse Decisions  /  Cal.App.4th  /  192 Cal.App.4th  /  192 Cal.App.4th 1018 (2011)
+
+ 
+
+NO  DOUBT  v.  ACTIVISION  PUBLISHING,  INC.
+NO  DOUBT  v.  ACTIVISION  PUBLISHING,  INC.
+
+No. B223996.
+
+192 Cal.App.4th 1018 (2011)
+
+Email  |  Print  |  Comments (0)
+
+NO DOUBT, Plainti! and Respondent, v. ACTIVISION PUBLISHING, INC., Defendant and Appellant.
+
+Court of Appeals of California, Second District, Division Four.
+
+February 15, 2011.
+
+View Case
+
+Cited Cases
+
+Citing Case
+
+Attorney(s) appearing for the Case
+
+Quinn Emanuel Urquhart & Sullivan, Susan R. Estrich, Stan Karas and Michael T. Zeller for Defendant and Appellant.
+
+Proskauer Rose, Gil N. Peles and Bert H. Deixler for Plainti! and Respondent.
+
+OPINION
+
+WILLHITE, J.—
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 1 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+INTRODUCTION
+
+The rock band No Doubt brought suit against the video game publisher Activision Publishing, Inc. (Activision), based on Activision's release of the
+Band Hero video game featuring computer-generated images of the members of No Doubt. No Doubt licensed the likenesses of its members for
+use in Band Hero, but contends that Activision used them in objectionable ways outside the scope of the parties' licensing agreement. Activision
+ﬁled  a  special  motion  to  strike  under  Code  of  Civil  Procedure  section  425.16,  contending  that  No  Doubt  cannot  demonstrate  a  probability  of
+prevailing on its claims for violation of the right of publicity (Civ. Code, § 3344 and common law) and unfair competition (Bus. & Prof. Code, §
+17200)  because  its  use  of  the  No  Doubt  likenesses  is  protected  by  the  First  Amendment.  Activision  appeals  from  the  trial  court's  denial  of  its
+motion.  Applying  the  transformative  use  test  ﬁrst  adopted  in  Comedy III Productions, Inc. v. Gary Saderup, Inc.  (2001)  25  Cal.4th  387  [106
+Cal.Rptr.2d 126, 21 P.3d 797], we conclude that the creative elements of the Band Hero video game do not transform the images of No Doubt's
+band  members  into  anything  more  than  literal,  fungible  reproductions  of  their  likenesses.  Therefore,  we  reject  Activision's  contention  that  No
+Doubt's  right  of  publicity  claim  is  barred  by  the  First  Amendment.  In  addition,  we  disagree  with  Activision's  contention  that  No  Doubt  must
+demonstrate  that  Activision  used  the  likenesses  of  the  band  members  in  an  "explicitly  misleading"  way  in  order  to  prevail  on  its  unfair
+competition claim. Accordingly, we a"rm the trial court's judgment.
+
+FACTUAL  AND  PROCEDURAL  BACKGROUND
+
+Band Hero Dispute
+
+Defendant Activision is a leading international video game distributor and the creator and owner of the interactive Band Hero video game. Band
+Hero is
+
+[192 Cal.App.4th 1023]
+[192 Cal.App.4th 1023]
+ The game allows players to simulate performing in a rock
+a version of Activision's Guitar Hero franchise that has sold over 40 million units.
+band in time with popular songs. By choosing from a number of playable characters, known as "avatars," players can "be" a guitarist, a singer, or
+a drummer. Some of the available avatars are ﬁctional characters created and designed by Activision while others are digital representations of
+real-life rock stars. Players can also design their own unique ﬁctional avatars. Represented by the avatars of their choosing, players "perform" in
+various settings, such as venues in Paris and Madrid, a rock show at a shopping mall, and even outer space.
+
+1
+
+In  addition  to  allowing  players  to  perform  over  60  popular  songs,  Band  Hero  permits  players  to  create  their  own  music  and  then  play  their
+compositions using an avatar. As with all the Guitar Hero video games, as players advance in the Band Hero game, they can "unlock" characters
+and use them to play songs of the players' choosing, including songs the players have composed as well as songs made famous by other artists.
+
+Plainti!  No  Doubt  is  an  internationally  recognized  rock  band  featuring  Gwen  Stefani  as  its  lead  singer.  No  Doubt  entered  into  a  professional
+services  and  character  licensing  agreement  (Agreement)  with  Activision  permitting  Activision  to  include  No  Doubt  as  one  of  the  rock  bands
+featured in Band Hero.
+
+The pertinent language of the Agreement is as follows: "This Agreement sets out the terms upon which Artist [(No Doubt)] has agreed to grant to
+Activision certain rights to utilize Artist's name(s), likeness(es), logo(s), and associated trademark(s) and other related intellectual property rights
+(the `Licensed Property') and to provide Activision certain production and marketing services in connection with Activision's `Band Hero' video
+game (the `Game')." The Agreement speciﬁcally provides that "Artists grant to Activision the non-exclusive, worldwide right and license to use
+the Licensed Property (including Artist's likeness as provided by or approved by Artist) solely in the one (1) Game for all gaming platforms and
+formats,  on  the  packaging  for  the  Game,  and  in  advertising,  marketing,  promotional  and  PR  materials  for  the  Game."  In  a  section  entitled
+"Approval Rights," the Agreement states that "Artist's likeness as implemented in the Game (the `Character Likeness'), any use of Artist's name
+and/or  likeness  other  than  in  a  `billing  block'  fashion  on  the  back  of  the  packaging  for  the  Game,  and  the  b-roll  and  photography  or  other
+representation of the Services or of Artist, shall be subject to Artist's prior written approval. [¶] Activision shall submit each of the above (i.e., the
+Character Likeness, name uses, and b-roll and photography or other representation) to Artist for review and Artist shall have
+
+[192 Cal.App.4th 1024]
+[192 Cal.App.4th 1024]
+ten (10) business days to either approve or disapprove. . . . [¶] Activision shall not be required to submit for approval uses of previously approved
+assets,  provided  such  uses  fall  within  the  rights  granted  herein  (e.g.,  using  a  previously  approved  Character  Likeness  depiction  in  multiple
+advertising materials)."
+
+As part of the Agreement, Activision agreed to license no more than three No Doubt songs for use in Band Hero, subject to No Doubt's approval
+over the song choice. (Ultimately, the game included two No Doubt songs.) No Doubt agreed to participate in one day of game production services
+"for the purposes of photographing and scanning Artist's likeness, and capturing Artist's motion-capture data."
+
+Pursuant to the Agreement, the members of No Doubt participated in a full-day motion capture photography session at Activision's studios so
+that the band members' Band Hero avatars would accurately reﬂect their appearances, movements, and sounds. No Doubt then closely reviewed
+the motion capture photography and the details related to the appearance and features of their avatars to ensure the representations would meet
+their approval. The end results are avatars that closely match the appearance of each of the No Doubt band members.
+
+Approximately two weeks prior to the release of Band Hero, No Doubt became aware of the "unlocking" feature of the game that would permit
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 2 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+Approximately two weeks prior to the release of Band Hero, No Doubt became aware of the "unlocking" feature of the game that would permit
+players to use No Doubt's avatars to perform any of the songs included in the game, including songs that No Doubt maintains it never would have
+performed. Two of No Doubt's members could be unlocked at the seventh level of the game, and the remaining members could be unlocked at
+level  nine.  The  band  also  learned  that  female  lead  singer  Gwen  Stefani's  avatar  could  be  made  to  sing  in  a  male  voice,  and  the  male  band
+members'  avatars  could  be  manipulated  to  sing  songs  in  female  voices.  The  individual  band  member  avatars  could  be  made  to  perform  solo,
+without their band members, as well as with members of other groups. No Doubt contends that in the numerous communications with No Doubt,
+Activision  never  communicated  its  intention  to  permit  such  manipulations  of  the  No  Doubt  avatars.  Rather,  No  Doubt  insists,  Activision
+represented that No Doubt's likenesses within Band Hero would be used only in conjunction with the selected No Doubt songs.
+
+When No Doubt complained about the additional exploitation of their likenesses, Activision admitted that it had hired actors to impersonate No
+Doubt in order to create the representations of the band members' performances of the additional musical works other than the No Doubt songs
+licensed  for  the  game.  No  Doubt  demanded  that  Activision  remove  the  "unlocking"  feature  for  No  Doubt's  avatars,  but  Activision  refused.
+Activision
+
+[192 Cal.App.4th 1025]
+[192 Cal.App.4th 1025]
+contends  that  No  Doubt's  request  came  only  after  the  programming  had  been  ﬁnalized  and  the  manufacturers  had  approved  the  game  for
+manufacture.
+
+Procedural History
+
+No  Doubt  ﬁled  a  complaint  against  Activision  in  superior  court,  seeking  injunctive  relief  and  damages  for  Activision's  allegedly  unauthorized
+exploitation of No Doubt's name, performances and likenesses. No Doubt alleged six causes of action: (1) fraudulent inducement; (2) violation of
+statutory and common law right of publicity; (3) breach of contract; (4) unfair business practices in violation of Business and Professions Code
+section 17200; (5) injunctive relief; and (6) rescission.
+
+2
+
+Activision  ﬁled  a  special  motion  to  strike  pursuant  to  Code  of  Civil  Procedure  section  425.16  (section  425.16)  speciﬁcally  with  respect  to  No
+Doubt's claims for violation of the right of publicity and unfair competition. The superior court denied the anti-SLAPP (strategic lawsuit against
+public participation) motion, holding that Activision failed to meet the required threshold showing that the challenged causes of action arose from
+protected activity in furtherance of free speech rights, and that Activision's literal reproductions of the images of the No Doubt members did not
+constitute a "transformative" use su"cient to bring them within the protection of the First Amendment. The court found that even if Activision
+had satisﬁed its initial burden, No Doubt had demonstrated a probability of prevailing on its claims because it convincingly argued that Activision
+had contracted away any First Amendment right to exploit the images of the No Doubt members except as provided by the agreement between the
+parties. As such, the court held, Activision had "waived the anti-SLAPP protections."
+
+This timely appeal followed.
+
+DISCUSSION
+
+I.  Anti-SLAPP Motion Procedure
+
+(1) Section 425.16 provides, in pertinent part, that "[a] cause of action against a person arising from any act of that person in furtherance of the
+
+[192 Cal.App.4th 1026]
+[192 Cal.App.4th 1026]
+person's right of petition or free speech under the United States Constitution or the California Constitution in connection with a public issue shall
+be subject to a special motion to strike, unless the court determines that the plainti! has established that there is a probability that the plainti!
+will prevail on the claim." (§ 425.16, subd. (b)(1).) The purpose of the statute is "to provide a procedural remedy to dispose of lawsuits that are
+brought to chill the valid exercise of constitutional rights." (Rusheen v. Cohen (2006) 37 Cal.4th 1048, 1055-1056 [39 Cal.Rptr.3d 516, 128 P.3d
+713]; see § 425.16, subd. (a).) The provisions of section 425.16 must be "construed broadly" to e!ectuate the statute's purpose. (§ 425.16, subd.
+(a).)
+
+(2) A special motion to strike under section 425.16 entails a two-step process. (Navellier v. Sletten (2002) 29 Cal.4th 82, 88 [124 Cal.Rptr.2d 530,
+52 P.3d 703] (Navellier).) First, the defendant must make a threshold showing that the challenged cause of action arises from protected activity.
+(Rusheen v. Cohen, supra,  37  Cal.4th  at  p.  1056.)  If  the  defendant  makes  this  showing,  the  burden  shifts  to  the  plainti!  to  demonstrate  a
+probability of prevailing on the merits of the claim. (Ibid.) The plainti! must state and substantiate a legally su"cient claim: "`[p]ut another way,
+the plainti! "must demonstrate that the complaint is both legally su"cient and supported by a su"cient prima facie showing of facts to sustain a
+favorable  judgment  if  the  evidence  submitted  by  the  plainti!  is  credited."  [Citations.]'"  (Ibid.)  For  purposes  of  this  inquiry,  "the  trial  court
+considers the pleadings and evidentiary submissions of both the plainti! and the defendant [citation] . . . ." (Wilson v. Parker, Covert & Chidester
+(2002) 28 Cal.4th 811, 821 [123 Cal.Rptr.2d 19, 50 P.3d 733]; see § 425.16 subd. (b)(2).) However, "`the court does not weigh the evidence or make
+credibility  determinations.  [Citations.]'"  (Ross v. Kish  (2006)  145  Cal.App.4th  188,  197  [51  Cal.Rptr.3d  484].)  In  addition  to  considering  the
+substantive  merits  of  the  plainti!'s  claims,  the  trial  court  must  also  consider  all  available  defenses  to  the  claims,  including  constitutional
+defenses. (Traditional Cat Assn., Inc. v. Gilbreath (2004) 118 Cal.App.4th 392, 398 [13 Cal.Rptr.3d 353].)
+
+"Only a cause of action that satisﬁes both prongs of the anti-SLAPP statute—i.e., that arises from protected speech or petitioning and lacks even
+minimal merit—is a SLAPP, subject to being stricken under the statute." (Navellier, supra, 29 Cal.4th at p. 89.) We review de novo whether the
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 3 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+minimal merit—is a SLAPP, subject to being stricken under the statute." (Navellier, supra, 29 Cal.4th at p. 89.) We review de novo whether the
+trial  court  should  have  granted  Activision's  special  motion  to  strike,  conducting  an  independent  review  of  the  entire  record.  (Soukup v. Law
+O"ces of Herbert Haﬁf (2006) 39 Cal.4th 260, 269, fn. 3 [46 Cal.Rptr.3d 638, 139 P.3d 30].)
+
+II.  No Doubt's Claims Arose from Protected Activity
+
+(3) A defendant satisﬁes its initial burden under section 425.16 by demonstrating that the act underlying the challenged claims ﬁts one of the
+
+[192 Cal.App.4th 1027]
+[192 Cal.App.4th 1027]
+categories described in section 425.16, subdivision (e). (Navellier, supra, 29 Cal.4th at p. 88.) One of these categories is "conduct in furtherance of
+the exercise of the constitutional right of petition or the constitutional right of free speech in connection with a public issue or an issue of public
+interest." (§ 425.16, subd. (e)(4).)
+
+(4) Video games generally are considered "expressive works" subject to First Amendment protections. (Kirby v. Sega of America, Inc. (2006) 144
+Cal.App.4th  47,  58  [50  Cal.Rptr.3d  607]  (Kirby);  see Video Software Dealers Ass'n. v. Schwarzenegger  (9th  Cir.  2009)  556  F.3d  950,  958,  cert.
+granted sub nom. Schwarzenegger v. Entertainment Merchants Ass'n.  (2010)  ___  U.S.  ___  [176  L.Ed.2d  784,  130  S.Ct.  2398]; Romantics v.
+Activision Publishing, Inc.  (E.D.Mich.  2008)  574  F.Supp.2d  758,  765-766  [ﬁnding  that  Activision's  Guitar  Hero  video  game  is  "an  expressive
+artistic  work  that  is  entitled  to  First  Amendment  protection"].)  Further,  Activision's  use  of  No  Doubt's  likenesses  in  Band  Hero  is  a  matter  of
+public  interest  because  of  the  widespread  fame  No  Doubt  has  achieved;  "`"there  is  a  public  interest  which  attaches  to  people  who,  by  their
+accomplishments,  mode  of  living,  professional  standing  or  calling,  create  a  legitimate  and  widespread  attention  to  their  activities  .  .  .  ."
+[Citation.]' [Citation.]" (Stewart v. Rolling Stone LLC (2010) 181 Cal.App.4th 664, 677-678 [105 Cal.Rptr.3d 98] [magazine's publication of "indie
+rock" bands' names was matter of public interest].) Accordingly, the use of No Doubt's likenesses in the Band Hero video game meets the ﬁrst
+requirement of the anti-SLAPP statute.
+
+3
+
+(5) No Doubt contends that Activision cannot satisfy the threshold showing under section 425.16 because a contract issue, not Activision's right to
+free speech, is at the heart of the parties' dispute. However, in Navellier, our Supreme Court responded to a similar argument from the plainti!s
+who were suing based on the defendants' alleged breach of an agreement to release claims. The court held that the plainti!s had set up a "false
+dichotomy" between actions that target the performance of contractual obligations and those that target the exercise of free speech and petition
+rights, because "conduct alleged to constitute breach of contract may also come within
+
+[192 Cal.App.4th 1028]
+[192 Cal.App.4th 1028]
+constitutionally protected speech or petitioning." (Navellier, supra, 29 Cal.4th at p. 92.) Thus, contrary to No Doubt's contention, cases that center
+on a contractual dispute are not categorically excluded from the protection of the anti-SLAPP statute.
+
+No Doubt relies on Duncan v. Cohen (N.D.Cal., July 22, 2008, No. C 08-2243 BZ) 2008 WL 2891065, but that case is distinguishable. There, the
+plainti! brought numerous claims against the defendants based on the defendants' attempt to make a ﬁlm based on the plainti!'s novel, The
+River Why.  The  district  court  denied  the  defendants'  anti-SLAPP  motion,  ﬁnding  that  the  claims  did  not  arise  out  of  protected  activity:  "The
+[defendants] are not claiming their rights to use material from The River Why are based on free speech. Rather they contend their rights are based
+on a contract. . . . This action centers on copyright and contract claims, not protected activity, and the anti-SLAPP statute does not apply." (Id. at
+p. *2.) By contrast, Activision asserts that it has a First Amendment right to exploit the likenesses of No Doubt in Band Hero, separate and apart
+from its argument that the license from No Doubt permitted Activision's use.
+
+Having concluded that Activision met its burden to show that the challenged claims arose out of protected activity, we discuss below the second
+prong of section 425.16.
+
+III.  No Doubt's Probability of Success on the Merits of the Claims
+
+A.  Right of Publicity Claim
+
+(6) No Doubt has alleged a claim for violation of the right of publicity under Civil Code section 3344 (section 3344) as well as under common law.
+Section  3344  provides  in  pertinent  part:  "Any  person  who  knowingly  uses  another's  name,  voice,  signature,  photograph,  or  likeness,  in  any
+manner, on or in products, merchandise, or goods, or for purposes of advertising or selling, or soliciting purchases of, products, merchandise,
+goods or services, without such person's prior consent . . . shall be liable for any damages sustained by the person or persons injured as a result
+thereof." (§ 3344, subd. (a).) The common law claim for misappropriation of the right of publicity is similar, except there is no requirement that
+the misappropriation have been done knowingly. (Kirby, supra, 144 Cal.App.4th at p. 55.)
+
+(7) Generally, "plainti!s' burden in opposing an anti-SLAPP motion [is] to substantiate each element of their cause of action, and not merely to
+counter defendant's a"rmative defenses." (Balzaga v. Fox News Network, LLC (2009) 173 Cal.App.4th 1325, 1337 [93 Cal.Rptr.3d 782].) Because
+one of the elements of both the statutory and common law claim for violation of
+
+[192 Cal.App.4th 1029]
+[192 Cal.App.4th 1029]
+the right of publicity is a lack of prior consent on No Doubt's part, No Doubt's claim would fail if Activision were found to hold a valid license to
+use No Doubt's likenesses in the manner in which they are used in Band Hero. (Neal v. Electronic Arts, Inc. (W.D.Mich. 2005) 374 F.Supp.2d 574,
+579 [dismissing plainti!'s claims of misappropriation "because the use in question was clearly licensed"].) However, Activision argued below that
+for purposes of ruling on the anti-SLAPP motion, the trial court did not need to resolve the issue whether the challenged use of the No Doubt
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 4 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+for purposes of ruling on the anti-SLAPP motion, the trial court did not need to resolve the issue whether the challenged use of the No Doubt
+avatars  was  outside  the  parties'  license  agreement.  Rather  than  contesting  No  Doubt's  ability  to  support  the  "lack  of  consent"  element  or  any
+other substantive element of its right of publicity claim, for purposes of its section 425.16 motion Activision asserted below, and contends here,
+only that the First Amendment provides a complete defense to the claim. Thus, we limit our analysis to the strength of that First Amendment
+defense.
+
+4
+
+1.  "Transformative Use" Defense
+
+Activision  contends  that  its  use  of  No  Doubt's  likenesses  in  Band  Hero  constitutes  "protected  First  Amendment  activity  involving  an  artistic
+work," and thus No Doubt's right of publicity claim is completely barred. As discussed above, "[v]ideo games are expressive works entitled to as
+much  First  Amendment  protection  as  the  most  profound  literature."  (Kirby, supra,  144  Cal.App.4th  at  p.  58.)  However,  Activision's  First
+Amendment right of free expression is in tension with the rights of No Doubt to control the commercial exploitation of its members' likenesses.
+
+In Comedy III Productions, Inc. v. Gary Saderup, Inc., supra, 25 Cal.4th 387, 391 (Comedy III), our Supreme Court directly confronted this tension.
+The court recognized that the right of publicity has a "potential for frustrating
+
+[192 Cal.App.4th 1030]
+[192 Cal.App.4th 1030]
+the fulﬁllment" of both purposes of the First Amendment: "First, `"to preserve an uninhibited marketplace of ideas" and to repel e!orts to limit
+the  "`uninhibited,  robust  and  wide-open'  debate  on  public  issues."'  [Citation.]  Second,  to  foster  a  `fundamental  respect  for  individual
+development and self-realization. . . .' [Citations.]" (Comedy III, supra, 25 Cal.4th at pp. 396-397.) "Because celebrities take on public meaning,
+the  appropriation  of  their  likenesses  may  have  important  uses  in  uninhibited  debate  on  public  issues,  particularly  debates  about  culture  and
+values. And because celebrities take on personal meanings to many individuals in the society, the creative appropriation of celebrity images can be
+an important avenue of individual expression. . . . [¶] . . . [T]he very importance of celebrities in society means that the right of publicity has the
+potential of censoring signiﬁcant expression by suppressing alternative versions of celebrity images that are iconoclastic, irreverent, or otherwise
+attempt to redeﬁne the celebrity's meaning." (Id. at p. 397.)
+
+(8)  But,  the  court  concluded,  not  all  expression  with  respect  to  celebrities  is  insulated  by  the  First  Amendment.  "The  right  of  publicity,  like
+copyright, protects a form of intellectual property that society deems to have some social utility. `Often considerable money, time and energy are
+needed to develop one's prominence in a particular ﬁeld. Years of labor may be required before one's skill, reputation, notoriety or virtues are
+su"ciently developed to permit an economic return through some medium of commercial promotion. [Citations.] For some, the investment may
+eventually create considerable commercial value in one's identity.' [Citation.]" (Comedy III, supra, 25 Cal.4th at p. 399.) "[T]he state's interest in
+preventing the outright misappropriation of such intellectual property by others is not automatically trumped by the interest in free expression or
+dissemination of information . . . ." (Id. at p. 401.)
+
+(9) The court in Comedy III articulated "what is essentially a balancing test between the First Amendment and the right of publicity based on
+whether the work in question adds signiﬁcant creative elements so as to be transformed into something more than a mere celebrity likeness or
+imitation."  (Comedy III, supra,  25  Cal.4th  at  p.  391.)  Thus,  "[w]hen  artistic  expression  takes  the  form  of  a  literal  depiction  or  imitation  of  a
+celebrity for commercial gain, directly trespassing on the right of publicity without adding signiﬁcant expression beyond that trespass, the state
+law  interest  in  protecting  the  fruits  of  artistic  labor  outweighs  the  expressive  interests  of  the  imitative  artist."  (Id.  at  p.  405,  fn.  omitted.)  A
+celebrity  may  enforce  "the  right  to  monopolize  the  production  of  conventional,  more  or  less  fungible,  images"  of  that  celebrity.  (Ibid.)  On  the
+other hand, a work claimed to violate a celebrity's right of publicity is entitled to First Amendment protection where "added creative elements
+signiﬁcantly transform the celebrity depiction . . . ." (25 Cal.4th at p. 405, fn. 10.) "Another way of stating the inquiry is whether the celebrity
+
+[192 Cal.App.4th 1031]
+[192 Cal.App.4th 1031]
+likeness is one of the `raw materials' from which an original work is synthesized, or whether the depiction or imitation of the celebrity is the very
+sum and substance of the work in question. We ask, in other words, whether a product containing a celebrity's likeness is so transformed that it
+has become primarily the defendant's own expression rather than the celebrity's likeness." (Id. at p. 406.) The inquiry boils down to "whether the
+literal and imitative or the creative elements predominate in the work." (Id. at p. 407.)
+
+The court then applied its newly minted "transformative use" test to the facts before it. The plainti! was the owner of the rights to the comedy
+act  known  as  The  Three  Stooges.  The  defendant  was  an  artist  who  sold  lithographs  and  T-shirts  bearing  a  likeness  of  The  Three  Stooges
+reproduced from a charcoal drawing the artist had created. (Comedy III, supra, 25 Cal.4th at p. 393.) The owner sued for violation of the right of
+publicity under Civil Code section 3344.1, the companion statute to section 3344 that extends the right of publicity to the heirs and assignees of
+deceased personalities.
+
+5
+
+The court rejected the artist's contention that the plainti!'s claim was barred by the First Amendment. The court could "discern no signiﬁcant
+transformative  or  creative  contribution"  in  the  artist's  literal  reproduction  of  the  likenesses  of  The  Three  Stooges  in  its  charcoal  drawing.
+(Comedy III, supra,  25  Cal.4th  at  p.  409.)  The  artist's  "undeniable  skill  is  manifestly  subordinated  to  the  overall  goal  of  creating  literal,
+conventional depictions of The Three Stooges so as to exploit their fame." (Ibid.)
+
+The court was careful to note that, in some circumstances, literal reproductions of celebrity portraits may be protected by the First Amendment.
+The court used the example of silk screens created by artist Andy Warhol using images of celebrities such as Marilyn Monroe, Elizabeth Taylor,
+and  Elvis  Presley.  "Through  distortion  and  the  careful  manipulation  of  context,  Warhol  was  able  to  convey  a  message  that  went  beyond  the
+commercial exploitation of celebrity images and became a form of ironic social comment on the dehumanization of celebrity itself." (Comedy III,
+supra, 25 Cal.4th at pp. 408-409.)
+
+The  Supreme  Court  again  addressed  the  balance  between  the  First  Amendment  and  celebrities'  rights  of  publicity  in  Winter,  in  which  the
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 5 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+The  Supreme  Court  again  addressed  the  balance  between  the  First  Amendment  and  celebrities'  rights  of  publicity  in  Winter,  in  which  the
+defendant was sued for misappropriation under section 3344 after publishing a series of comic books featuring two villainous half-worm, half-
+human characters named the "Autumn brothers." (Winter, supra, 30 Cal.4th at p. 886.) The characters were quite obviously based on the musician
+brothers Edgar and Johnny Winter, sharing their same long white hair and albino features. (Ibid.)
+
+[192 Cal.App.4th 1032]
+[192 Cal.App.4th 1032]
+Applying the "transformative use" test set forth in Comedy III, the court held that the Winter brothers' claim was barred by the First Amendment
+as a matter of law. The court found that the comic depictions at issue were "not just conventional depictions of plainti!s but contain signiﬁcant
+expressive  content  other  than  plainti!s'  mere  likenesses.  Although  the  ﬁctional  characters  Johnny  and  Edgar  Autumn  are  less-than-subtle
+evocations of Johnny and Edgar Winter, the books do not depict plainti!s literally. Instead, plainti!s are merely part of the raw materials from
+which  the  comic  books  were  synthesized.  To  the  extent  the  drawings  of  the  Autumn  brothers  resemble  plainti!s  at  all,  they  are  distorted  for
+purposes of lampoon, parody, or caricature. And the Autumn brothers are but cartoon characters—half-human and half-worm—in a larger story,
+which is itself quite expressive." (Winter, supra, 30 Cal.4th at p. 890.) The comic books featured "fanciful, creative characters, not pictures of the
+Winter brothers," in stark contrast to Comedy III, where the artist "essentially sold, and devoted fans bought, pictures of The Three Stooges, not
+transformed expressive works by the artist." (Id. at p. 892.)
+
+In Kirby, the Court of Appeal applied the "transformative use" test in a case involving the alleged use of a celebrity's likeness in a video game. The
+plainti!, Kierin Kirby, achieved fame as the lead singer of the musical group Deee-Lite which was popular in the early 1990's. Kirby alleged that
+video game distributor Sega violated her common law and statutory rights of publicity when it released the video game Space Channel 5 (SC5) that
+included as its main character a computer-generated woman named "Ulala" allegedly based on Kirby. (Kirby, supra, 144 Cal.App.4th at p. 51.)
+
+SC5 is set in outer space, in the 25th century, and Ulala is a reporter who is sent to "investigate an invasion of Earth by dance-loving aliens who
+shoot earthlings with ray guns, causing them to dance uncontrollably." (Kirby, supra, 144 Cal.App.4th at p. 52.) To advance in the game, players
+attempt  to  have  Ulala  match  the  dance  moves  of  various  aliens  and  competitor  reporters.  (Ibid.)  A  Japanese  choreographer  and  dancer  created
+Ulala's six main dance moves. (Id. at p. 51.)
+
+Kirby contended that Sega misappropriated her likeness by giving Ulala similar facial features to her own as well as by borrowing her distinctive
+look that combines retro and futuristic elements, including red or pink hair, platform shoes, brightly colored formﬁtting clothes, and short skirts.
+(Kirby, supra,  144  Cal.App.4th  at  pp.  51,  55-56.)  In  addition,  Ulala's  name  is  a  phonetic  variation  of  "ooh  la  la,"  which  Kirby  alleged  was  her
+"signature" lyrical expression included in three of her songs. (Ibid.)
+
+The Court of Appeal concluded that there was a question of fact as to whether Sega had misappropriated Kirby's likeness in creating the character
+[192 Cal.App.4th 1033]
+[192 Cal.App.4th 1033]
+Ulala. (Kirby, supra, 144 Cal.App.4th at pp. 55-56.) However, the court found that even assuming Sega used Kirby's likeness, the First Amendment
+provided a complete defense. "[N]otwithstanding certain similarities, Ulala is more than a mere likeness or literal depiction of Kirby," as Ulala's
+physique, primary hairstyle and costumes, and dance moves di!ered from Kirby's. (144 Cal.App.4th at p. 59.) "Moreover, the setting for the game
+that features Ulala—as a space-age reporter in the 25th century—is unlike any public depiction of Kirby. . . . Taken together, these di!erences
+demonstrate  Ulala  is  `transformative,'  and  respondents  added  creative  elements  to  create  a  new  expression"  such  that  the  First  Amendment
+barred  Kirby's  claim.  (144  Cal.App.4th  at  p.  59.)  Ulala  was  not  merely  "an  imitative  character  contrived  of  `minor  digital  enhancements  and
+manipulations'" (id. at p. 60), and unlike the use of the likenesses of The Three Stooges in Comedy III, any imitation of Kirby's likeness was not
+"the  sum  and  substance"  of  Ulala's  character  (id.  at  p.  61).  Rather,  like  the  "Autumn  brothers"  comic  book  characters  in Winter,  "`Ulala  is  a
+"fanciful, creative character" who exists in the context of a unique and expressive video game.'" (Ibid.)
+
+With these cases as a backdrop, we now turn to Activision's use of No Doubt's likenesses in Band Hero.
+
+2.  Use of No Doubt's Likenesses in Band Hero Is Not "Transformative"
+
+Activision does not dispute that the avatars of No Doubt are computer-generated recreations of the real band members, painstakingly designed to
+mimic  their  likenesses.  Indeed,  as  part  of  the  licensing  agreement  between  Activision  and  No  Doubt,  No  Doubt  posed  for  motion-capture
+photography to enable Activision to reproduce their likenesses, movements, and sounds with precision. Activision intentionally used these literal
+reproductions so that players could choose to "be" the No Doubt rock stars. The game does not permit players to alter the No Doubt avatars in any
+respect;  they  remain  at  all  times  immutable  images  of  the  real  celebrity  musicians,  in  stark  contrast  to  the  "fanciful,  creative  characters"  in
+Winter and Kirby. (Winter, supra, 30 Cal.4th at p. 892; see Kirby, supra, 144 Cal.App.4th at p. 61.)
+
+(10) No Doubt asserts that such realistic depictions categorically disqualify their Band Hero avatars from First Amendment protection. However, as
+Comedy III held, even literal reproductions of celebrities can be "transformed" into expressive works based on the context into which the celebrity
+image  is  placed.  (Comedy III, supra,  25  Cal.4th  at  p.  409  [noting,  for  instance,  the  Warhol  silk  screens  featuring  celebrity  portraits,  through
+"careful manipulation of context," convey an ironic message about the "dehumanization of celebrity" through reproductions of celebrity images];
+see also ETW
+
+[192 Cal.App.4th 1034]
+[192 Cal.App.4th 1034]
+Corp. v. Jireh Publishing, Inc. (6th Cir. 2003) 332 F.3d 915, 918, 936, 938 (ETW) [a painting featuring three literal likenesses of Tiger Woods in
+di!erent poses in the foreground, with the Augusta National Clubhouse behind him and the likenesses of other famous golﬁng champions looking
+down on him, found worthy of First Amendment protection because it was a "panorama" of Woods's historic 1997 victory at the world-famous
+Masters  Tournament  and  conveyed  a  message  about  the  signiﬁcance  of  Woods's  achievement  through  images  suggesting  that  Woods  would
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 6 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+Masters  Tournament  and  conveyed  a  message  about  the  signiﬁcance  of  Woods's  achievement  through  images  suggesting  that  Woods  would
+eventually join the ranks of the world's best golfers].) Thus, when the context into which a literal celebrity depiction is placed creates "`something
+new,  with  a  further  purpose  or  di!erent  character,  altering  the  ﬁrst  [likeness]  with  new  expression,  meaning,  or  message,'"  the  depiction  is
+protected by the First Amendment. (Comedy III, supra, 25 Cal.4th at p. 404; see also id. at p. 405, fn. 10 [work is insulated by 1st Amend. only
+where "added creative elements signiﬁcantly transform the celebrity depiction . . ." (italics added)].)
+
+Nonetheless, although context may create protected expression in the use of a celebrity's literal likeness, the context in which Activision uses the
+literal likenesses of No Doubt's members does not qualify the use of the likenesses for First Amendment protection. Activision contends that as in
+Kirby,  where  Sega  used  Kirby's  likeness  in  a  unique  and  expressive  video  game,  Activision's  use  of  No  Doubt's  likenesses  in  Band  Hero  is
+transformative because the video game shows the No Doubt avatars "surrounded by unique, creative elements, including in fanciful venues such
+as outer space . . . and performing songs that No Doubt avowedly would never perform in real life." Indeed, according to Activision, No Doubt's
+objection  that  the  band  can  be  made  to  perform  songs  it  would  never  perform  demonstrates  that  the  use  of  the  No  Doubt  avatars  is
+transformative.
+
+However,  that  the  members  of  No  Doubt  object  to  being  shown  performing  certain  songs  is  irrelevant  to  whether  that  element  of  Band  Hero
+combined with others transforms the literal depictions of No Doubt's members into expression that is more Activision's than pure mimicry. In
+that inquiry, it is the di!erences between Kirby and the instant case, not the similarities, which are determinative. In Kirby, the pop singer was
+portrayed as an entirely new character—the space-age news reporter Ulala. In Band Hero, by contrast, no matter what else occurs in the game
+during the depiction of the No Doubt avatars, the avatars perform rock songs, the same activity by which the band achieved and maintains its
+fame. Moreover, the avatars perform those songs as literal recreations of the band members. That the avatars can be manipulated to perform at
+fanciful venues including outer space or to sing songs the real band would object to singing, or that the avatars appear in the context of a video
+game  that  contains  many  other  creative  elements,  does  not  transform  the  avatars  into  anything  other  than  exact  depictions  of  No  Doubt's
+members doing exactly what they do as celebrities. (Hilton v. Hallmark Cards (9th Cir.
+
+[192 Cal.App.4th 1035]
+[192 Cal.App.4th 1035]
+2010) 599 F.3d 894, 911 (Hilton) [Hallmark card featuring Paris Hilton's head on a cartoon waitress's body was not a "transformative use" as in
+Kirby because, despite some di!erences, the "basic setting" was the same as an episode of Hilton's television show in which she is depicted as
+6
+"born to privilege, working as a waitress"];
+ Keller v. Elec. Arts, Inc. (N.D.Cal., Feb. 8, 2010, No. C 09-1967 CW) 2010 U.S.Dist. Lexis 10719, app.
+pending [NCAA Football video game literally depicting college football player held not "transformative" where player was represented as exactly
+what  he  was—the  starting  quarterback  for  Arizona  State  University—and  game's  setting—a  football  ﬁeld—was  "identical  to  where  the  public
+found [plainti!] during his collegiate career"].)
+
+Moreover, Activision's use of lifelike depictions of No Doubt performing songs is motivated by the commercial interest in using the band's fame to
+market Band Hero, because it encourages the band's sizeable fan base to purchase the game so as to perform as, or alongside, the members of No
+Doubt. Thus, insofar as the depiction of No Doubt is concerned, the graphics and other background content of the game are secondary, and the
+expressive elements of the game remain "manifestly subordinated to the overall goal of creating a conventional portrait of [No Doubt] so as to
+commercially exploit [its] fame." (Comedy III, supra, 25 Cal.4th at p. 408.) In other words, nothing in the creative elements of Band Hero elevates
+the depictions of No Doubt to something more than "conventional, more or less fungible, images" of its members that No Doubt should have the
+right to control and exploit. (Comedy III, supra, 25 Cal.4th at p. 405.) Thus, the trial court did not err in denying Activision's motion to strike the
+right of publicity claim based on Activision's assertion of a First Amendment defense.
+
+7
+
+[192 Cal.App.4th 1036]
+[192 Cal.App.4th 1036]
+
+B.  Unfair Competition Claim
+
+(11)  To  state  a  claim  for  unfair  competition  under  Business  and  Professions  Code  section  17200  (section  17200),  a  plainti!  must  show  that
+"`members of the public are likely to be deceived'" by a particular business practice. (Bank of the West v. Superior Court (1992) 2 Cal.4th 1254,
+1267 [10 Cal.Rptr.2d 538, 833 P.2d 545]; see In re Tobacco II Cases (2009) 46 Cal.4th 298, 324 [93 Cal.Rptr.3d 559, 207 P.3d 20] [California's unfair
+competition  law  protects  the  public  from  fraud,  deceit  and  unlawful  conduct].)  No  Doubt  alleges  that  Activision  violated  section  17200  by
+deceiving the public into believing that No Doubt authorized the use of its name and likeness for the unlocking feature of Band Hero and that "No
+Doubt approves and endorses the appearance of its members individually performing songs that are wholly inappropriate and out of character for
+No Doubt."
+
+Activision makes the novel argument that we should construe section 17200 to require No Doubt to prove that Activision's challenged use of No
+Doubt's avatars "explicitly misleads the public," i.e., that Activision overtly represented that No Doubt approved the unlocking feature as well as
+all  the  songs  their  avatars  can  be  made  to  sing.  Activision  derives  this  heightened  standard  from  federal  cases  construing  the  Lanham  Act  (15
+U.S.C. § 1051 et seq.) in
+
+[192 Cal.App.4th 1037]
+[192 Cal.App.4th 1037]
+the context of alleged trademark infringement by artistic works deserving of First Amendment protection. For the reasons discussed below, we
+hold that No Doubt is not obligated to prove that the use of its avatars in Band Hero is "explicitly misleading" in order to prevail on its section
+17200 claim.
+
+(12) To provide context for Activision's argument, we begin with a brief discussion of how federal courts have applied the Lanham Act to artistic
+works alleged to infringe trademarks. The purpose of the Lanham Act, 15 United States Code section 1051 et seq., "is to `avoid confusion in the
+marketplace'  by  allowing  a  trademark  owner  to  `prevent[]  others  from  duping  consumers  into  buying  a  product  they  mistakenly  believe  is
+sponsored by the trademark owner.' [Citation.] Trademark law aims to protect trademark owners from a false perception that they are associated
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 7 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+sponsored by the trademark owner.' [Citation.] Trademark law aims to protect trademark owners from a false perception that they are associated
+with or endorse a product. [Citation.] Generally, to assess whether a defendant has infringed on a plainti!'s trademark, we apply a `likelihood of
+confusion' test that asks whether use of the plainti!'s trademark by the defendant is `likely to cause confusion or to cause mistake, or to deceive
+as to the a"liation, connection, or association' of the two products. [Citation.]" (Mattel, Inc. v. Walking Mountain Productions (9th Cir. 2003) 353
+F.3d 792, 806-807; see Franklin Mint Co. v. Manatt, Phelps & Phillips, LLP (2010) 184 Cal.App.4th 313, 342 [109 Cal.Rptr.3d 143].)
+
+When the challenged use of a trademark appears in an artistic work that implicates First Amendment protections, some courts have concluded
+that the standard "likelihood of confusion" test under the Lanham Act is inadequate to address First Amendment concerns. The seminal case is
+Rogers v. Grimaldi (2d Cir. 1989) 875 F.2d 994 (Rogers), in which the Second Circuit developed an alternative to the "likelihood of confusion" test
+to be used for titles of artistic works that borrow names protected by trademark.
+
+In Rogers, the actress Ginger Rogers sued under the Lanham Act, contending that the title of a movie, Ginger and Fred (Metro-Goldwyn-Mayer
+1986), which told the story of two ﬁctional Italian cabaret performers who imitated Rogers and Fred Astaire in their cabaret act, created the false
+impression that Rogers was associated with the ﬁlm or that the ﬁlm was about her. The trial court held that the Lanham Act did not apply to any
+movie title "`within the realm of artistic expression.'" (Rogers, supra, 875 F.2d at p. 997.) The Second Circuit found that while the trial court's
+approach correctly took into account First Amendment concerns, it "unduly narrows the scope of the [Lanham] Act," because it would insulate
+from liability titles that were truly deceptive about their source or sponsorship. (875 F.2d at p. 997.)
+
+The Second Circuit struck a di!erent balance, holding that "in general the Act should be construed to apply to artistic works only where the public
+[192 Cal.App.4th 1038]
+[192 Cal.App.4th 1038]
+interest  in  avoiding  consumer  confusion  outweighs  the  public  interest  in  free  expression.  In  the  context  of  allegedly  misleading  titles  using  a
+celebrity's name, that balance will normally not support application of the Act unless the title has no artistic relevance to the underlying work
+whatsoever, or, if it has some artistic relevance, unless the title explicitly misleads as to the source or the content of the work." (Rogers, supra,
+875 F.2d at p. 999.) Under this test, for instance, a defendant is liable under the Lanham Act if he uses a celebrity name in a book title when the
+name bears no relation at all to the content of the book, thereby confusing the public into thinking otherwise—a situation in which the use of the
+name has no artistic relevance to the work. (875 F.2d at p. 999.) And even if the celebrity name does bear some relevance to the content of the
+book (that is, has some artistic relevance to the work), the title cannot explicitly deceive the public as to its source or content, such as by claiming
+that it is an "`authorized biography'" of the celebrity when it is not (an explicit misrepresentation as to the source or content). (Ibid.)
+
+Applying this test in Rogers, the Second Circuit concluded that the Lanham Act claim failed. The title, Ginger and Fred, had genuine relevance to
+the ﬁlm's story—the characters in the ﬁlm imitated Rogers and Astaire in the characters' cabaret act. Further, nothing about the ﬁlm title overtly
+suggested that Rogers was involved with or was the subject of the ﬁlm, and the risk that some members of the public would reach either of these
+erroneous conclusions was outweighed by the interests in the ﬁlm's artistic expression, which contrasted the "elegance and class" Rogers and
+Astaire embodied with the "gaudiness and banality of contemporary television." (Rogers, supra, 875 F.2d at p. 1001.)
+
+In Mattel, Inc. v. MCA Records, Inc. (9th Cir. 2002) 296 F.3d 894 (MCA), the Ninth Circuit adopted the Rogers test and found that it barred the
+Barbie trademark holder's Lanham Act claim over a song entitled Barbie Girl, an expressive work poking fun at the values Barbie represented. (Id.
+at p. 902.) The Ninth Circuit, along with several other federal circuit courts, has since extended the Rogers test beyond titles of artistic works to
+artistic works in general. (See, e.g., E.S.S. Entertainment 2000 v. Rock Star Videos (9th Cir. 2008) 547 F.3d 1095, 1099 (E.S.S.) [ﬁnding Rogers test
+could be applied to the use of a trademark in the body of the work]; ETW, supra, 332 F.3d at p. 928, fn. 11 [holding the rule of Rogers is generally
+applicable to all Lanham Act cases involving artistic works where the defendant "has articulated a colorable claim" that the work is protected by
+the 1st Amend.]; Cli!s Notes v. Bantam Doubleday Dell Publishing Group (2d Cir. 1989) 886 F.2d 490, 495.)
+
+Activision  contends  that  we  should  construe  section  17200  to  incorporate  the Rogers  standard  as  an  element  of  No  Doubt's  unfair  competition
+claim, because the claim is "`substantially congruent'" to a trademark infringement
+
+[192 Cal.App.4th 1039]
+[192 Cal.App.4th 1039]
+claim under the Lanham Act, given that for both "the `"ultimate test"' is `"whether the public is likely to be deceived or confused by the similarity
+of the marks."' [Citations.]" (Academy of Motion Picture Arts v. Creative House (9th Cir. 1991) 944 F.2d 1446, 1457; see also MCA, supra, 296 F.3d
+at p. 902 [same likelihood of confusion test applies to Lanham Act claim and state law claim for unfair competition].) In other words, just as a
+defendant's  artistic  expression  that  infringes  upon  a  trademark  generally  will  only  be  actionable  under  the  Lanham  Act  if  it  is  "explicitly
+misleading," Activision contends its use of No Doubt's likenesses should not be actionable under section 17200 unless that use was "explicitly
+misleading."
+
+8
+
+Even  if  the Rogers  "explicitly  misleading"  test  might  be  applied  to  some  section  17200  claims  involving  the  unauthorized  use  of  a  celebrity's
+likeness  (a  conclusion  we  do  not  reach),
+  the  test  does  not  apply  to  No  Doubt's  section  17200  claim.  Activision  overlooks  the  overarching
+conclusion  in Rogers  that  the  public  interest  in  avoiding  consumer  confusion  must  be  balanced  against  the  public  interest  in  free  expression.
+(Rogers, supra,  875  F.2d  at  p.  999.)  The  "explicitly  misleading"  standard  comes  into  play  only  after  a  determination  has  been  made  that  a
+challenged  use  of  a  trademark  is  worthy  of  heightened  First  Amendment  protection.  (ETW, supra,  332  F.3d  at  p.  926  [Rogers  test  applies  to
+Lanham  Act  "false  endorsement"  claim  only  where  the  defendant  "has  articulated  a  colorable  claim  that  the  use  of  a  celebrity's  identity  is
+protected  by  the  First  Amendment"]; Facenda v. N.F.L. Films, Inc.  (3d  Cir.  2008)  542  F.3d  1007,  1015  [before  considering  whether Rogers  test
+applies,
+
+[192 Cal.App.4th 1040]
+[192 Cal.App.4th 1040]
+
+court must determine whether allegedly infringing work is a work of artistic expression entitled to heightened 1st Amend. protection].)
+
+(13) Here, we have already concluded that Activision's use of No Doubt's avatars is not "transformative" because the avatars are simply precise
+computer-generated  reproductions  of  the  band  members  that  do  not  meld  with  the  other  elements  of  Band  Hero  to  become,  in  essence,
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 8 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+computer-generated  reproductions  of  the  band  members  that  do  not  meld  with  the  other  elements  of  Band  Hero  to  become,  in  essence,
+Activision's  own  artistic  expression.  In  the  case  of  such  a  "nontransformative"  use  of  celebrity  likenesses,  "the  public  interest  in  avoiding
+consumer confusion outweighs the public interest in free expression" (Rogers, supra, 875 F.2d at p. 999), and it would make little sense to require
+No Doubt to make the almost impossible showing that Activision's nontransformative use of the No Doubt avatars was "explicitly misleading." Of
+course,  to  prevail  on  its  section  17200  claim,  No  Doubt  will  still  have  to  demonstrate  that  members  of  the  public  are  likely  to  be  deceived  by
+Activision's use of the likenesses.
+
+In sum, the trial court did not err in denying Activision's motion to strike No Doubt's section 17200 claim based on Activision's contention that its
+challenged use of the No Doubt avatars was not explicitly misleading.
+
+DISPOSITION
+
+The judgment is a"rmed. No Doubt shall recover its costs and attorneys fees on appeal.
+
+Suzukawa, J., concurred.
+
+EPSTEIN, P. J., Concurring in part and concurring in the judgment.—
+
+The  majority  opinion  in  this  case  a"rms  the  decision  of  the  trial  court,  which  denied  Activision's  special  motion  to  strike  under  Code  of  Civil
+Procedure  section  425.16  (the  anti-SLAPP  (strategic  lawsuit  against  public  participation)  law).  I  agree  with  that  result,  and  concur  in  the
+judgment. In its analysis, the majority decides, ﬁrst, that appellant's claims arose from First Amendment-protected activity, and hence satisfy the
+ﬁrst prong of the test for motions under the anti-SLAPP statute. I agree with the majority's reasoning and conclusion on that issue. (See Navellier
+v. Sletten (2002) 29 Cal.4th 82, 88 [124 Cal.Rptr.2d 530, 52 P.3d 703].)
+
+The majority then discusses the second prong of the test: whether No Doubt made a prima facie showing of probability that it would prevail on the
+merits of its lawsuit. It does so on a First Amendment basis, ﬁnding that the challenge to Activision Publishing, Inc.'s use of No Doubt characters
+and likenesses in its video game does not satisfy the "transformative use" doctrine of Comedy III Productions, Inc. v. Gary Saderup, Inc. (2001) 25
+Cal.4th 387,
+
+[192 Cal.App.4th 1041]
+[192 Cal.App.4th 1041]
+391 [106 Cal.Rptr.2d 126, 21 P.3d 797] (Comedy III). Because of that conclusion, it does not reach No Doubt's claim that Activision had no such
+right in light of its contract with No Doubt. (Maj. opn., ante, at pp. 1035-1036, fn. 7.)
+
+I  would  decide  the  case  the  other  way  around:  I  would  conclude  that,  under  the  facts  of  this  case,  the  contract  between  the  parties  precludes
+Activision's  First  Amendment  claim,  making  it  unnecessary  to  reach  the  "transformative  use"  issue.  (See Teachers' Retirement Bd. v. Genest
+(2007)  154  Cal.App.4th  1012,  1043  [65  Cal.Rptr.3d  326]  [a  fundamental  principle  of  constitutional  adjudication  is  that  court  will  not  decide
+constitutional  questions  unless  absolutely  required  to  do  so  in  order  to  dispose  of  matter  before  it],  and  authority  cited.)  That  said,  I  do  not
+dispute the majority's reasoning on that issue.
+
+The majority opinion fairly and accurately sets out the factual and procedural history of the case, as well as the principal authorities for reviewing
+trial court decisions under the anti-SLAPP law. There is no need to reprise that discussion here.
+
+What is central in this case (and not involved in Comedy III and other cases cited) is that Activision's entire right to formulate avatars taken from
+No Doubt performers is based on its license agreement with No Doubt. In that document (written on Activision letterhead) No Doubt licensed the
+use by Activision of "certain rights" as to the No Doubt name, likenesses, logos and associated trademarks, and related intellectual property (the
+"Licensed  Property")  in  a  Band  Hero  video  game.  No  Doubt  (styled  "Artist"  in  the  agreement)  agreed  to  participate  in  a  performance  session
+which  Activision  could  photograph  and  scan  for  the  creation  of  avatars  based  on  the  No  Doubt  characters  and  performance.  The  agreement
+subordinated Activision's right to use avatars based on No Doubt "Licensed Property" upon approval by No Doubt "over the songs to be used,"
+which approval was not to be unreasonably withheld. The "Approval Rights" section of the contract reserved to No Doubt (with exceptions not
+germane here) the right of prior approval of any use of the character likenesses (and set out a system for obtaining such approval, including a
+provision that a failure by No Doubt to approve or disapprove after speciﬁed notiﬁcation may be deemed approval), and of "the songs to be used,"
+which approval was not to be "unreasonably withheld."
+
+In  sum,  this  was  a  commercial  agreement  that  granted  a  limited  license  to  Activision  for  use  of  No  Doubt's  character  likenesses  in  songs,  all
+subject  to  No  Doubt's  prior  approval.  Activision's  exploitation  of  the  intellectual  property  was  subject  to  the  terms  of  the  agreement.  Having
+agreed to its terms, Activision cannot be heard to claim that its use of the property in ways expressly prohibited by the agreement is protected by
+the First Amendment.
+
+[192 Cal.App.4th 1042]
+[192 Cal.App.4th 1042]
+Activision  was  not  acting  as  a  lampooner  or  commentator,  nor  in  any  context  other  than  as  a  licensee  of  No  Doubt's  intellectual  property.  It
+proceeded to include in its Band Hero game No Doubt intellectual property, avatars, and sound depictions in a manner which No Doubt did not
+approve, had no opportunity to approve, and would not have approved. Since its rights to use this property in a video game were governed by the
+license  agreement,  Activision  is  precluded  from  relying  on  the  "transformative  use"  doctrine  to  defend  this  breach  of  the  agreement.  Stated
+another way, the license agreement is antithetical to a First Amendment claim that it had a right to exploit No Doubt's intellectual property in
+breach of the license agreement.
+
+I would a"rm the trial court's ruling on this basis.
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 9 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+I would a"rm the trial court's ruling on this basis.
+
+FootNotes
+
+1. The parties submitted DVD's depicting the game, which we have reviewed.
+
+2. Activision initially removed the case to federal court, contending that No Doubt's claims were preempted by the federal Digital Millenium
+Copyright Act (Pub.L. No. 105-304 (Oct. 28, 1998) 112 Stat. 2860). Activision then answered the complaint and ﬁled cross-claims for breach of
+contract and unjust enrichment based on No Doubt's alleged failure to provide marketing and promotional services as the band had contracted to
+do. The federal district court remanded the case to state court, ﬁnding that No Doubt's claims as alleged were not preempted by the copyright act.
+(No Doubt v. Activision Publishing, Inc. (C.D.Cal. 2010) 702 F.Supp.2d 1139.)
+
+3. As Activision observes, in concluding that the challenged claims did not satisfy the ﬁrst prong, the trial court erred in focusing on whether the
+First Amendment provided a complete bar to No Doubt's claim. "`The Legislature did not intend that in order to invoke the special motion to
+strike the defendant must ﬁrst establish her actions are constitutionally protected under the First Amendment as a matter of law. . . .' [Citations.]"
+(Navellier, supra, 29 Cal.4th at pp. 94-95.) "`Instead, under the statutory scheme, a court must generally presume the validity of the claimed
+constitutional right in the ﬁrst step of the anti-SLAPP analysis, and then permit the parties to address the issue in the second step of the analysis,
+if necessary. [Citation.] Otherwise, the second step would become superﬂuous in almost every case, resulting in an improper shifting of the
+burdens.' [Citations.]" (City of Los Angeles v. Animal Defense League (2006) 135 Cal.App.4th 606, 621 [37 Cal.Rptr.3d 632].)
+
+4. We have previously held that "`[a]lthough section 425.16 places on the plainti! the burden of substantiating its claims, a defendant that
+advances an a"rmative defense to such claims properly bears the burden of proof on the defense. [Citation.]' [Citation.]" (Premier Medical
+Management Systems, Inc. v. California Ins. Guarantee Assn. (2006) 136 Cal.App.4th 464, 477 [39 Cal.Rptr.3d 43]; see also Seltzer v. Barnes (2010)
+182 Cal.App.4th 953, 969 [106 Cal.Rptr.3d 290].) Other courts have suggested, however, that the burden remains on the plainti! to overcome the
+a"rmative defenses by demonstrating that the "`"defenses are not applicable to the case as a matter of law or by a prima facie showing of facts
+which, if accepted by the trier of fact, would negate such defenses."'" (Birkner v. Lam (2007) 156 Cal.App.4th 275, 285 [67 Cal.Rptr.3d 190],
+quoting Paul for Council v. Hanyecz (2001) 85 Cal.App.4th 1356, 1367 [102 Cal.Rptr.2d 864], disapproved on another ground in Equilon Enterprises
+v. Consumer Cause, Inc. (2002) 29 Cal.4th 53, 68, fn. 5 [124 Cal.Rptr.2d 507, 52 P.3d 685].) It makes no di!erence here which party bears the
+burden on the a"rmative defenses, because, as discussed further below, we conclude that Activision's First Amendment defense fails as a matter
+of law. (See Winter v. DC Comics (2003) 30 Cal.4th 881, 888 [134 Cal.Rptr.2d 634, 69 P.3d 473] (Winter) [holding that courts can often resolve as a
+matter of law whether a claim is barred by the 1st Amend.].)
+
+5. The test developed in Comedy III "applies equally" to claims under section 3344. (Winter, supra, 30 Cal.4th at p. 888.)
+
+6. An earlier Ninth Circuit decision, Ho!man v. Capital Cities/ABC, Inc. (9th Cir. 2001) 255 F.3d 1180, arguably reached a di!erent conclusion on
+facts somewhat similar to those in Hilton. In Ho!man, the court found that the First Amendment barred Dustin Ho!man's claim that Los Angeles
+Magazine (LAM) had violated his right of publicity when it published an article that included a photographic image of the head of Ho!man in his
+"Tootsie" character superimposed on the body of a cartoon male who was wearing an evening gown and high heels. (Ho!man, supra, 255 F.3d at
+p. 1183.) The court only brieﬂy addressed the transformative use defense, ﬁnding that "[e]ven if we were to consider LAM an `artist' and the
+altered `Tootsie' photograph `artistic expression' subject to the Comedy III decision, there is no question that LAM's publication of the `Tootsie'
+photograph contained `signiﬁcant transformative elements'" because "Ho!man's body was eliminated and a new, di!erently clothed body was
+substituted in its place." (Id. at p. 1184, fn. 2.) In Hilton, the Ninth Circuit noted that Ho!man had not addressed the transformative use defense
+in great depth because the Supreme Court decided Comedy III only after oral argument in the Ho!man case had taken place. Thus, Hilton
+concluded that Ho!man was not controlling Ninth Circuit authority on the issue of the transformative use defense. (Hilton, supra, 599 F.3d at p.
+912, fn. 15.) We similarly do not ﬁnd Ho!man's brief discussion or application of the transformative use defense compelling.
+
+7. Because we hold that Activision's use of No Doubt's likenesses is not protected by the First Amendment, we need not consider No Doubt's
+argument that Activision waived its First Amendment rights by entering a licensing agreement that allegedly limits its rights to use the
+likenesses. The concurring opinion would a"rm the trial court's judgment on the basis of the licensing agreement, interpreting it as a waiver by
+Activision of any First Amendment rights it may have had. The concurrence suggests that we should not reach the question of the validity of
+Activision's First Amendment defense because of the principle of judicial restraint that counsels against unnecessarily addressing constitutional
+questions. (Department of Alcoholic Beverage Control v. Alcoholic Beverage Control Appeals Bd. (2006) 40 Cal.4th 1, 17, fn. 13 [50 Cal.Rptr.3d 585,
+145 P.3d 462].) This principle of constitutional adjudication is most often relied upon as the justiﬁcation for refraining from deciding the
+constitutionality of a statute when the matter can be decided on statutory or other grounds. (E.g., Thompson v. Department of Corrections (2001)
+25 Cal.4th 117, 128-129 [105 Cal.Rptr.2d 46, 18 P.3d 1198] [where plainti!'s complaint asserted both statutory and constitutional grounds for
+invalidating prison regulation, court would address the statutory issue ﬁrst]; Santa Clara County Local Transportation Authority v. Guardino
+(1995) 11 Cal.4th 220, 230-231 [45 Cal.Rptr.2d 207, 902 P.2d 225] [where tax was challenged under state statute and state Constitution, it was
+proper to begin with statutory challenge].) Here, however, we are not being called upon to pass on the constitutionality of legislation, but rather
+to consider a First Amendment defense to a right of publicity claim in the context of a suit between private citizens. Moreover, while the principle
+of restraint in deciding constitutional issues has broader application, we are also mindful that courts must "`"`closely scrutinize waivers of
+constitutional rights'"" and "`"`"indulge every reasonable presumption against a waiver"'"'" of First Amendment rights, which "`"may only be
+made by a `clear and compelling' relinquishment of them."'" (Sanchez v. County of San Bernardino (2009) 176 Cal.App.4th 516, 528 [98
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 10 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+made by a `clear and compelling' relinquishment of them."'" (Sanchez v. County of San Bernardino (2009) 176 Cal.App.4th 516, 528 [98
+Cal.Rptr.3d 96]; see Ferlauto v. Hamsher (1999) 74 Cal.App.4th 1394, 1400 [88 Cal.Rptr.2d 843].) Given these circumstances, we believe the best
+path is to decide this case based upon what we view as a relatively straightforward application of the "transformative use" doctrine, and not on an
+interpretation of the licensing agreement, an issue on which we express no opinion.
+
+8. Although the "explicitly misleading" requirement of the Rogers test makes obvious sense when the title of an artistic work is at issue, and thus
+conventional "speech" is involved, we question whether it should apply when the actionable wrong is the misappropriation of a celebrity's
+likeness in a video game. In any event, no California court has interpreted section 17200 to require a showing that the defendant's actionable
+conduct was "explicitly misleading" when the First Amendment is implicated. In arguing that such a showing is required under California law,
+Activision relies solely on E.S.S., in which the Ninth Circuit concluded that the First Amendment defense based on the Rogers test "applies equally
+to ESS's state law claims," which necessarily included its section 17200 claim. (E.S.S., supra, 547 F.3d at p. 1101.) Of course, we are not bound by
+the Ninth Circuit's interpretation that the Rogers test applies to section 17200 claims. (Myers Building Industries, Ltd. v. Interface Technology,
+Inc. (1993) 13 Cal.App.4th 949, 971, fn. 19 [17 Cal.Rptr.2d 242].) Moreover, E.S.S. contains no analysis supporting its conclusion that the Rogers
+test should apply to section 17200 claims, because the plainti! conceded that the Rogers test applied, and the Ninth Circuit thus had no cause to
+discuss the issue. (E.S.S., supra, 547 F.3d at pp. 1099-1100.) Further, E.S.S. did not concern the literal reproduction of a celebrity's likeness, but
+rather alleged trademark and trade dress infringement by a virtual depiction of a strip club that shared certain characteristics with a real strip
+club. (Id. at pp. 1097-1098.)
+
+We note that in Kirby, in considering a section 17200 claim based on Sega's use of Kirby's likeness, the Court of Appeal did not apply the Rogers
+test. Rather, the court used the transformative use test of Comedy III. The court found under that test that the First Amendment barred both the
+plainti!'s right of publicity claim and her section 17200 claim. (Kirby, supra, 144 Cal.App.4th at p. 61.)
+
+Comment
+
+Your Name
+
+Your Email
+
+Comments
+
+Submit
+
+1000
+1000 Characters Remaining
+
+Leagle.com reserves the right to edit or remove comments but is under no obligation to do so, or to explain individual moderation decisions.
+
+Related
+Litigation Attorney
+
+Probate Lawyer
+
+Real Estate Lawyer
+
+Attorney Directory
+
+→
+
+→
+
+→
+
+→
+
+ 
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 11 of 12
+
+NO DOUBT v. ACTIVISION PUBLISHING, INC. | 192 Cal.App.4th 1018 (2011) | Leagle.com
+
+5/7/17, 3:57 PM
+
+Copyright © 2015, Leagle, Inc.
+
+Disclaimer | Terms of Use | Privacy Statement | About Us |
+
+Contact Us
+
+http://www.leagle.com/decision/In%20CACO%2020110215018/NO%20DOUBT%20v.%20ACT%20IVISION%20PUBLISHING,%20INC
+
+Page 12 of 12
+
+

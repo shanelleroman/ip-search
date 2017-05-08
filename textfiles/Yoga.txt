@@ -1,0 +1,936 @@
+FOR PUBLICATION
+
+UNITED STATES COURT OF APPEALS
+
+FOR THE NINTH CIRCUIT
+
+No. 13-55763
+
+D.C. No.
+
+2:11-cv-05506-
+
+ODW-SS
+
+OPINION
+
+BIKRAM’S YOGA COLLEGE OF INDIA,
+L.P., a California limited
+partnership; BIKRAM CHOUDHURY,
+an Individual,
+
+Plaintiffs-Appellants,
+
+v.
+
+EVOLATION YOGA, LLC, a New
+York limited liability company;
+MARK DROST, an Individual; ZEFEA
+SAMSON, an Individual,
+
+Defendants-Appellees.
+
+Appeal from the United States District Court
+
+for the Central District of California
+
+Otis D. Wright II, District Judge, Presiding
+
+Argued and Submitted
+
+May 8, 2015—Pasadena, California
+
+Filed October 8, 2015
+
+Before: John T. Noonan, Kim McLane Wardlaw,
+
+and Mary H. Murguia, Circuit Judges.
+
+Opinion by Judge Wardlaw
+
+2
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+SUMMARY*
+
+Copyright
+
+Affirming the district court’s grant of partial summary
+judgment, the panel held that a sequence of yoga poses and
+breathing exercises was not entitled to copyright protection.
+
+The  panel  held  that  under  17  U.S.C.  §  102(b),  the
+“Sequence,” developed by Bikram Choudhury and described
+in his 1979 book, Bikram’s Beginning Yoga Class, was not a
+proper subject of copyright protection because it was an idea,
+process, or system designed to improve health, rather than an
+expression  of  an  idea.    Because  the  Sequence  was  an
+unprotectible  idea,  it  was  also  ineligible  for  copyright
+protection as a compilation or choreographic work.
+
+COUNSEL
+
+Ivana  Cingel  (argued),  Carla  Christofferson  and  Daniel
+Petrocelli,  O’Melveny  &  Myers  LLP,  Los  Angeles,
+California, for Defendants-Appellants.
+
+Eric R. Maier (argued) and Louis Shoch, Maier Shoch LLP,
+Hermosa Beach, California, for Plaintiffs-Appellees.
+
+Kevin  M.  Fong  and  Cydney  A.  Tune,  Pillsbury  Winthrop
+Shaw Pittman LLP, San Francisco, California, for Amicus
+Curiae Yoga Alliance.
+
+   * This summary constitutes no part of the opinion of the court.  It has
+been prepared by court staff for the convenience of the reader.
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+3
+
+OPINION
+
+WARDLAW, Circuit Judge:
+
+We must decide whether a sequence of twenty-six yoga
+poses  and  two  breathing  exercises  developed  by  Bikram
+Choudhury  and  described  in  his  1979  book,  Bikram’s
+Beginning  Yoga  Class,  is  entitled  to  copyright  protection. 
+This question implicates a fundamental principle underlying
+constitutional  and  statutory  copyright  protection—the
+idea/expression dichotomy.  Because copyright protection is
+limited to the expression of ideas, and does not extend to the
+ideas themselves, the Bikram Yoga Sequence is not a proper
+subject of copyright protection.
+
+I. Factual and Procedural History
+
+The  Indian  practice and  philosophy  of  yoga  date back
+thousands  of  years.    See  Linda  Sparrowe,  Yoga  9  (2002). 
+Derived  from  ancient  Hindu  scriptures,  including  the
+Bhagavad Gita, the practice of yoga teaches students to attain
+spiritual fulfillment through control of the mind and body. 
+See Stefanie Syman, The Subtle Body: The Story of Yoga in
+America 4 (2010).  Yoga has evolved into a diverse set of
+spiritual,  philosophical,  and  physical  disciplines.    Some
+students  practice yoga  to  transcend the  physical  body  and
+unite with divine powers; others focus on improving strength,
+flexibility, and overall physical fitness.
+
+The history of yoga in the United States reflects its wide-
+ranging appeal.  Some of yoga’s first American adherents
+included nineteenth-century transcendentalists, such as Henry
+David  Thoreau  and  Ralph  Waldo  Emerson,  who  were
+fascinated by yoga’s approach to achieving enlightenment. 
+
+4
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+In the early twentieth century, yoga grew more popular as
+scientists and physicians began to study the physical benefits
+of the practice.  These physical benefits caught the attention
+of Hollywood celebrities, including Gloria Swanson, Greta
+Garbo, and Marilyn Monroe, who embraced yoga as a tool to
+fight illness and aging.  See Pankaj Mishra, Posing as Fitness,
+N.Y.  Times,  July  23,  2010.1    By  the  1960s,  Americans
+increasingly  turned  to  yoga  as  a  “non-religious,  decidedly
+unspiritual” form of physical exercise.  Sparrowe, supra, at
+50.
+
+In 1971, Bikram Choudhury, the “self-proclaimed ‘Yogi
+to the stars,’” id. at 56, arrived in Beverly Hills, California. 
+He soon became a central figure in the growing popularity of
+yoga in the United States.  Born and raised in Calcutta, India,
+Choudhury  began  studying  yoga  at  age  four  and  learned
+hundreds of traditional Hatha yoga “asanas,” or individual
+poses.  Hatha yoga places particular emphasis on the physical
+components of yoga.  Choudhury developed a sequence of
+twenty-six asanas and two breathing exercises, arranged in a
+particular order, which he calls the “Sequence.”  See Bikram
+Choudhury,  Bikram’s  Beginning  Yoga  Class  (1979). 
+Choudhury opened his own studio, where he began offering
+“Bikram  Yoga”  classes.    In  a  Bikram  Yoga  class,  the
+Sequence is practiced over the course of ninety minutes, to a
+series of instructions (the “Dialogue”), in a room heated to
+105  degrees  Fahrenheit  to  simulate  Choudhury’s  native
+Indian climate.
+
+Choudhury popularized the Sequence by marketing the
+many  health  and  fitness  benefits  it  provides.    Choudhury
+
+    1 This article may be found at http://www.nytimes.com/2010/07/25/
+books/review/Mishra-t.html.
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+5
+
+informs prospective students that his “system of Hatha Yoga
+is capable of helping you avoid, correct, cure, heal, or at least
+alleviate the symptoms of almost any illness or injury.”  He
+claims that he developed the Sequence after “many of years
+of  research  and  verification  .  .  .  using  modern  medical
+measurement techniques.”  He tells reporters that he extended
+the careers of professional athletes, including Kareem Abdul-
+Jabbar and John McEnroe.  This message has resonated with
+an  American  audience:  as  the  complaint  in  this  action
+explains, “[p]ublic demand for Bikram Yoga classes grew
+steadily  once  Bikram  Yoga  participants  realized  that
+Bikram’s  unique  yoga  style  and  method  offered  them
+tremendous physical, mental and other benefits.”
+
+In  1979,  Choudhury  published  the  book  Bikram’s
+includes  descriptions,
+Beginning  Yoga  Class,  which 
+photographs,  and  drawings  of  the  Sequence’s  twenty-six
+poses and two breathing exercises.  Choudhury registered the
+book with the U.S. Copyright Office in 1979.  In 2002, he
+also registered the “compilation of exercises” contained in the
+book, using a supplementary registration form that referenced
+back to the 1979 book.2
+
+In  1994,  Choudhury  introduced  the  “Bikram  Yoga
+Teacher Training Course.”  In 2002 and 2005, respectively,
+Mark Drost and Zefea Samson enrolled in and successfully
+completed the three-month Bikram Yoga Teacher Training
+
+    2 Choudhury has registered several other works with the Copyright
+Office,  including  Bikram’s  Beginning  Yoga  Class  (2d  ed.)  (2000),
+Bikram’s Beginning Yoga Class (sound cassette) (2002), Bikram’s Yoga
+College  of  India  Beginning  Yoga  Dialogue  (2002),  Bikram’s  Yoga
+College  of  India:  Yoga  Teacher  Training  Course:  Curriculum  Outline
+(2002),  Yoga  for  Pregnancy  (2002),  Bikram’s  Advanced  Yoga  Class
+(2006), and Bikram’s Yoga (2007).
+
+6
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+course.  In 2009, Drost and Samson founded Evolation Yoga,
+LLC.  Evolation Yoga offers several types and styles of yoga,
+including “hot yoga,” which is similar to “Bikram’s Basic
+Yoga  System.”    Evolation  acknowledges  that  hot  yoga
+“includes 26 postures and two breathing exercises and is done
+for 90 minutes, accompanied by a series of oral instructions,
+in a room heated to approximately 105 degrees Fahrenheit.”
+
+On July 1, 2011, Choudhury and Bikram’s Yoga College
+of India, L.P. (“Choudhury”)3 filed a complaint in the Central
+District  of  California  alleging,  inter  alia,  that  defendants
+Evolation  Yoga,  LLC,  Mark  Drost,  and  Zefea  Samson
+(“Evolation”)  infringed  “Bikram’s  Copyrighted  Works
+through substantial use of Bikram’s Copyrighted Works in
+and as part of Defendants’ offering  of  yoga classes.”  On
+November 12, 2012, Evolation moved for partial summary
+judgment as to Choudhury’s claim of copyright infringement
+of the “Sequence.”  The district court granted Evolation’s
+motion, ruling that the “Sequence is a collection of facts and
+ideas” that is not entitled to copyright protection.  The parties
+settled  all  remaining  claims  against  each  other,  and
+Choudhury timely appealed as to the “Sequence.”
+
+II.  Standard of Review
+
+“We  review  de  novo  a  district  court’s  grant  of  partial
+summary judgment, and may affirm on any ground supported
+by the record.”  White v. City of Sparks, 500 F.3d 953, 955
+(9th  Cir.  2007)  (citation  omitted).    “After  ‘viewing  the
+
+      3  For  the  purposes of  this appeal,  it is not necessary  to  distinguish
+between Bikram Choudhury, the individual, and Bikram’s Yoga College
+of  India,  LP.    Accordingly,  we  refer  to  all  Plaintiffs-Appellants  as
+Choudhury.
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+7
+
+evidence in the light most favorable to the nonmoving party,’
+we  determine  ‘whether  there  are  any  genuine  issues  of
+material fact and whether the district court correctly applied
+the  relevant  substantive  law.’”    Id.  (quoting  Am.  Civil
+Liberties Union of Nev. v. City of Las Vegas, 333 F.3d 1092,
+1097 (9th Cir. 2003)).
+
+III.  Discussion
+
+Though Choudhury emphasizes the aesthetic attributes of
+the Sequence’s “graceful flow,” at bottom, the Sequence is an
+idea,  process,  or  system  designed  to  improve  health. 
+Copyright  protects  only  the  expression  of  this  idea—the
+words and pictures used to describe the Sequence—and not
+the idea of the Sequence itself.  Because the Sequence is an
+unprotectible idea, it is also ineligible for copyright protection
+as a “compilation” or “choreographic work.”  The district
+court properly granted partial summary judgment in favor of
+Evolation because the Sequence is not a proper subject of
+copyright.
+
+A. The Sequence Is an Unprotectible Idea.
+
+Section 102(a) of the Copyright Act of 1976 sets forth the
+proper subjects of copyright protection.  17 U.S.C. § 102(a). 
+Section 102(b) expressly excludes protection for “any idea,
+procedure, process, system, method of operation,  concept,
+principle, or discovery, regardless of the form in which it is
+described, explained, illustrated, or embodied in such work.” 
+Id. § 102(b).  Section 102(b) codifies the “idea/expression
+dichotomy,” under which “every idea, theory, and fact in a
+copyrighted  work  becomes  instantly  available  for  public
+exploitation at the moment of publication.”  Golan v. Holder,
+132  S.  Ct.  873,  890  (2012)  (quoting  Eldred  v.  Ashcroft,
+
+8
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+537 U.S. 186, 219 (2003)); see also Frybarger v. Int’l Bus.
+Machs. Corp., 812 F.2d 525, 529 (9th Cir. 1987) (explaining
+that Section 102(b) “expressly codified” this principle); H.R.
+Rep. No. 94–1476, at 57 (1976) (explaining that the “purpose
+[of Section 102(b)] is to restate . . . that the basic dichotomy
+between expression and idea remains unchanged”).
+
+The  idea/expression  dichotomy  has  two  constitutional
+foundations: the Copyright Clause and the First Amendment. 
+Under  the  Copyright  Clause,  “[t]he  primary  objective  of
+copyright  is  not  to  reward  the  labor  of  authors,  but  ‘[t]o
+promote the Progress of Science  and useful Arts.’”  Feist
+Publ’ns,  Inc.  v.  Rural  Tel.  Serv.  Co.,  499  U.S.  340,  349
+(1991) (quoting U.S. Const. art. I, § 8, cl. 8).  Thus, “[t]he
+‘constitutional command’ . . . is that Congress, to the extent
+it  enacts  copyright  laws  at  all,  create  a  ‘system’  that
+‘promote[s] the Progress of Science.’”  Eldred, 537 U.S. at
+212  (quoting  Graham  v.  John  Deere  Co.  of  Kansas  City,
+383 U.S. 1, 6 (1966)).  “To this end, copyright assures authors
+the right to their original expression, but encourages others to
+build freely upon the ideas and information conveyed by a
+work.”  Feist, 499 U.S. at 349–50.  At the same time, the
+idea/expression dichotomy “strike[s] a definitional balance
+between  the  First  Amendment  and  the  Copyright  Act  by
+permitting free communication of facts while still protecting
+an author’s expression.”  Harper & Row Publishers v. Nation
+Enters., 471 U.S. 539, 556 (1985); see also Eldred, 537 U.S.
+at 219 (describing the idea/expression dichotomy as a “built-
+in First Amendment accommodation[]”); L.A. News Serv. v.
+Tullo, 973 F.2d 791, 795 (9th Cir. 1992) (“Copyright law
+incorporates  First  Amendment  goals  by  ensuring  that
+copyright protection extends only to the forms in which ideas
+and  information  are  expressed  and  not  to  the  ideas  and
+information themselves.”); 5 Melville B. Nimmer & David
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+9
+
+Nimmer, Nimmer on Copyright § 19E.04[B] (2015) (“[F]ree
+access to ideas is vital not only for copyright law but also for
+the maintenance of the democratic dialogue . . . .”).
+
+In  Baker  v.  Selden,  101  U.S.  99  (1879),  the  Supreme
+Court addressed the protection copyright law provided to a
+book, a classic subject of copyright protection, explaining a
+system of book-keeping.  Id. at 99–100.  The Court held that
+the  book’s  expression  of  the  book-keeping  system  was
+protected,  but  the  system  of  book-keeping  itself  was  not
+entitled  to  copyright  protection.    Id.  at  102.    The  Court
+explained:
+
+The description of the art in a book, though
+entitled  to  the  benefit  of  copyright,  lays  no
+foundation for an exclusive claim to the art
+itself.  The object of the one is explanation;
+the object of the other is use.  The former may
+be secured by copyright.  The latter can only
+be  secured,  if  it  can  be  secured  at  all,  by
+letters-patent.
+
+Id. at 105.
+
+Following Baker, and recognizing this vital distinction
+between ideas and expression, courts have routinely held that
+the copyright for a work describing how to perform a process
+does not extend to the process itself.  In Palmer v. Braun,
+287 F.3d 1325 (11th Cir. 2002), for example, the Eleventh
+Circuit  held  that  meditation  exercises  described  in  a
+copyrighted manual on exploring the consciousness were “a
+process” unentitled to copyright protection.  Id. at 1334.  The
+court explained that the “exercises, while undoubtedly the
+product of much time and effort, are, at bottom,  simply a
+
+10
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+process  for  achieving  increased  consciousness.    Such
+processes,  even 
+if  original,  cannot  be  protected  by
+copyright.”4  Id.  Similarly, in Publications International, Ltd.
+v. Meredith Corp., 88 F.3d 473 (7th Cir. 1996), the Seventh
+Circuit held that recipes contained in a copyrighted cookbook
+are  not  entitled  to  copyright  protection,  for  they  merely
+“describe a procedure by which the reader may produce many
+dishes,”  and  “there  can  be  no  monopoly  in  the  copyright
+sense in the ideas for producing certain foodstuffs.”  Id. at
+481.  Finally, in Seltzer v. Sunbrock, 22 F. Supp. 621 (S.D.
+Cal. 1938), which predates the Copyright Act of 1976 but
+applies Baker, the court held that the copyright in a manual
+describing  how  to  organize  roller-skating  races  does  not
+extend to the rules for the races themselves.  Id. at 630.  The
+court explained, “[w]hat [the author] really composed was a
+description of a system for conducting races on roller skates. 
+A system, as such, can never be copyrighted.  If it finds any
+protection, it must come from the patent laws.”  Id. (citing
+Baker, 101 U.S. 99).
+
+Here, we must similarly determine not the validity of a
+copyright but rather its scope.5  Does Choudhury’s copyright
+
+   4 Cf. Arica Institute, Inc. v. Palmer, 970 F.2d 1067, 1075 (2d Cir. 1992)
+(holding  that  the  owner  of  copyrights  in  training  materials  describing
+ancient Sufi methods to “better understand oneself and one’s interactions
+with others” was judicially estopped from claiming copyright protection
+for  the  program  techniques,  in  light  of  representations  in  commercial
+publications that the techniques were “based upon . . . proven scientific
+knowledge” and “provable in the laboratory and clinically”).
+
+   5 As noted above, Choudhury obtained a copyright for a “compilation of
+exercises”  through  his  2002  supplementary  registration  to  Bikram’s
+Beginning Yoga Class, which was first published in 1979.  Choudhury
+claims that the 2002 supplementary registration relates back to the 1979
+registration.  In Choudhury’s view, the supplementary registration thus
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+11
+
+protection for his 1979 book extend to the Sequence itself? 
+Under the fundamental tenets of copyright law and consistent
+with the precedents discussed above, the answer is no.
+
+As Choudhury describes it, the Sequence is a “system” or
+a “method” designed to “systematically work every part of
+the  body,  to  give  all  internal  organs,  all  the  veins,  all  the
+ligaments,  and  all  the  muscles  everything  they  need  to
+maintain  optimum  health  and  maximum  function.”    In
+Bikram’s Beginning Yoga Class, Choudhury explains that he
+“arrived at the sequence of postures” after “[researching] the
+diseases and the postures and after many years of research
+and  verification  .  .  .  using  modern  medical  measurement
+techniques.” 
+  The  book  tells  readers  that  “Bikram’s
+twenty-six exercises systematically move fresh, oxygenated
+blood to one hundred percent of your body, to each organ and
+fiber, restoring all systems to healthy working order, just as
+Nature intended. ”  Bonnie Jones Reynolds, Introduction to
+Bikram’s  Beginning  Yoga  Class,  at  xi  (1979).    This  text
+promises readers that Choudhury’s “system of Hatha Yoga is
+capable of helping you avoid, correct, cure, heal, or at least
+alleviate the symptoms of almost any illness or injury.”
+
+Also illuminating is Choudhury’s spoken Dialogue, which
+accompanies  the  Sequence.    Before  the  Sequence’s  first
+breathing exercise, for example, the instructor tells students,
+“[The exercise] is good for the lungs and respiratory system. 
+
+issued within five years of first publication and therefore serves as “prima
+facie evidence of the validity of the copyright.”  17 U.S.C. § 410(c).  Here,
+however,  we  need  not  decide  whether  Choudhury’s  supplementary
+registration is prima facie evidence of the validity of the copyright, for
+even  if  it  were,  the  undisputed  facts  are  sufficient  to  overcome  any
+presumption of validity.
+
+12
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+This  exercise  expands  your  lungs  to  their  maximum
+expansion capacity.  And it improves the elasticity of your
+lungs.”  Before the twelfth pose, the instructor explains:
+
+Every exercise in the world you do, you burn
+energy/calories like driving a car burns gas. 
+The tank is empty, you need to fill it up again. 
+Hatha Yoga class is a gas station, it is the only
+place  in  the  world  where  you  gain  energy
+instead of burning energy.  Asana is the only
+natural physical activity in the world because
+it is scientific [and] with the help of science,
+we can explain nature.
+
+An  essential  element  of  this  “system”  is  the  order  in
+which the yoga poses and breathing exercises are arranged. 
+Bikram’s Beginning Yoga Class instructs readers, “Do the
+poses in the strict order given in this book.  Nothing about
+Bikram’s Beginning Yoga Class is haphazard.  It is designed
+to scientifically warm and stretch muscles, ligaments, and
+tendons  in  the  order  in  which  they  should  be  stretched.” 
+Bikram’s Beginning Yoga Class, supra, at xi.  For instance,
+Choudhury explains, “Camel Pose (Ustrasana) stretches the
+abdomen and compresses the spine; so for the next posture,
+I  chose  the  Rabbit  Pose  (Sasangasana),  which  does  the
+converse: stretches the back and compresses the abdomen.”6 
+One  Yoga  Journal  article  explains  that  “[a]ccording  to
+
+    6 A recent research study published in the Journal of Strength and
+Conditioning  Research  further  explains  the  clinical  effects  of  the
+Sequence’s composition: “The combination of rapid transition between
+postures  and  environmental  heat  stress  produces  a  substantial
+cardiovascular response and muscle fatigue.”  Brian L. Tracy & Cady E.F.
+Hart,  Bikram  Yoga  Training  and  Physical  Fitness  in  Healthy  Young
+Adults, 27 J. Strength & Conditioning Res. 822, 823 (2013).
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+13
+
+Bikram, each posture in his series forms the perfect basis for
+the next, warming and stretching the appropriate muscles,
+ligaments and tendons.”  Loraine Despres, Yoga’s Bad Boy:
+Bikram Choudhury, Yoga J., Aug. 28, 2007.7
+
+Choudhury thus attempts to secure copyright protection
+for a healing art: a system designed to yield physical benefits
+and  a  sense  of  well-being.    Simply  put,  this  attempt  is
+precluded by copyright’s idea/expression dichotomy, codified
+by Section 102(b).  As the Supreme Court explained in Baker,
+“Certain mixtures are found to be of great value in the healing
+art.    If  the  discoverer writes  and  publishes  a  book  on  the
+subject  (as  regular  physicians  generally  do),  he  gains  no
+exclusive right to the manufacture and sale of the medicine;
+he gives that to the public.”  101 U.S. at 102–03.  Thus, for
+example, the copyright for a book describing how to perform
+a complicated surgery does not give the holder the exclusive
+right to perform the surgery.  Like the series of movements a
+surgeon makes, the Sequence is, as Choudhury tells readers,
+a  method  designed  to  “cure,  heal,  or  at  least  alleviate”
+physical injuries and illness.  Monopoly protection for such
+a method “can only be secured, if it can be secured at all, by
+letters-patent.”    Id.  at  105;  see  also  Sega  Enters.  Ltd.  v.
+Accolade,  Inc.,  977  F.2d  1510,  1526  (9th  Cir.  1992),  as
+amended (Jan. 6, 1993) (“In order to enjoy a lawful monopoly
+over the idea or functional principle underlying a work, the
+creator of the work must satisfy the more stringent standards
+imposed  by  the  patent  laws.”).    In  light  of  Baker  and  its
+progeny, Choudhury’s healing methodology is not eligible for
+protection by copyright.  Indeed, if it is entitled to protection
+
+      7  This  article  may  be  located  at  http://www.yogajournal.com/
+article/lifestyle/yoga-s-bad-boy-bikram-choudhury/.
+
+14
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+at all, that protection is more properly sought through the
+patent process.8
+
+That 
+
+the  Sequence  may  produce  spiritual  and
+psychological benefits makes it no less an idea, system, or
+process  and  no  more  amenable  to  copyright  protection. 
+Choudhury’s personal declaration explains that the Sequence
+offers “spiritual benefits” to his students and “lead[s] to a
+general sense of peace and well-being that is undoubtedly of
+benefit to all of us.”  Like the meditation exercises designed
+to achieve greater consciousness in Braun, 287 F.3d at 1334,
+the  Sequence  sets  forth  a  method  to  attain  identifiable,  if
+spiritual and psychological, results: a “sense of well-being”
+and “boundless energy.”  Bikram’s Beginning Yoga Class,
+supra, at xi.9  As such, it falls within the Copyright Act’s
+definition  of  an  idea,  process,  or  system  excluded  from
+copyright protection.  See 17 U.S.C. § 102(b).
+
+Choudhury contends that the Sequence’s arrangement of
+postures is “particularly beautiful and graceful.”  But beauty
+is not a basis for copyright protection.  The performance of
+many  ideas,  systems,  or  processes  may  be  beautiful:  a
+surgeon’s  intricate  movements,  a  book-keeper’s  careful
+notations, or a baker’s kneading might each possess a certain
+grace  for  at  least  some  viewers.    Indeed,  from  Vermeer’s
+
+   8 We do not opine on whether the Sequence is, in fact, patentable.
+
+   9 Choudhury’s website features research, including a report presented at
+the Anxiety and Depression Association of America Conference, which
+concludes that Bikram Yoga may reduce stress, anxiety, and depression
+among women at risk for mental health problems.  See Fran Lowry, Hot
+Yoga Cools Anxiety, Relieves Depression, Medscape (Apr. 13, 2015),
+reproduced  at  Research,  Bikram  Yoga,  http://www.bikramyoga.com/
+BikramYoga/Research.php (last visited Sept. 16, 2015).
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+15
+
+milkmaid  to  Lewis  Hine’s  power  house  mechanic,  the
+individual engrossed in a process has long attracted artistic
+attention.  But the beauty of the process does not permit one
+who describes it to gain, through copyright, the monopolistic
+power to exclude all others from practicing it.  This is true
+even where, as here, the process was conceived with at least
+some aesthetic considerations in mind.  Just as some steps in
+a recipe may reflect no more than the author’s belief that a
+particular ingredient is beautiful or that a particular cooking
+technique is impressive to watch and empowering to practice,
+some  elements  in  Choudhury’s  Sequence  may  reflect  his
+aesthetic preferences.  Yet just like the recipe, the Sequence
+remains  unprotectible  as  a  process  the  design  of  which
+primarily reflects function, not expression.
+
+In  drawing  the  “difficult”  line  between  idea  and
+expression  in  this  case,  we  are  mindful  of  the  “guiding
+consideration”  of  the  idea/expression  dichotomy:  “the
+preservation  of  the  balance  between  competition  and
+protection reflected in the patent and copyright laws.”  CDN
+Inc. v. Kapes, 197 F.3d 1256, 1262 (9th Cir. 1999) (quoting
+Herbert Rosenthal Jewelry Corp. v. Kalpakian, 446 F.2d 738,
+742 (9th Cir. 1971)).  As in Baker, the “object” of the book
+Bikram’s  Beginning  Yoga  Class  is  “explanation”:  it  tells
+readers how to perform the Sequence and encourages them to
+try it.  Baker, 101 U.S. at 105.  The introduction to Bikram’s
+Beginning Yoga Class, for example, urges the audience to:
+(i) “turn to the Contents page,” (ii) “read through the book,”
+(iii) “build gradually,” and (iv) “do the poses in the strict
+order given in this book.”  Bikram’s Beginning Yoga Class,
+supra,  at  ix–xi.    Like  a  book  explaining  “Book-keeping
+Simplified,” 101 U.S. at 100, Bikram’s Beginning Yoga Class
+sets out to “communicate to the world the useful knowledge
+which it contains.”  Id. at 103.  It invites readers to practice
+
+16
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+the method it describes.  “But this object would be frustrated
+if the knowledge could not be used without incurring the guilt
+of piracy of the book.”  Id.  Consumers would have little
+reason  to  buy  Choudhury’s  book  if  Choudhury  held  a
+monopoly on the practice of the very activity he sought to
+popularize.  Rather than “stimulat[ing] artistic creativity for
+the  general  public  good,”  copyright  protection  for  the
+Sequence  would  prevent  the  public  from  engaging  with
+Choudhury’s idea and building upon it.  Mattel, Inc. v. MGA
+Entm’t, Inc., 705 F.3d 1108, 1111 (9th Cir. 2013) (quoting
+Twentieth Century Music Corp. v. Aiken, 422 U.S. 151, 156
+(1975)).
+
+B. The Sequence Is Not a Copyrightable Compilation.
+
+Choudhury  contends  that  the  Sequence  is  entitled  to
+copyright  protection  as  a  “compilation.”    Specifically,
+Choudhury claims that the Sequence qualifies for copyright
+protection  because  his  “selection,  coordination,  and
+arrangement” of twenty-six poses and two breathing exercises
+create a coherent and expressive composition.  The district
+court correctly rejected this argument.
+
+The  Copyright  Act  identifies  compilations  as  a  proper
+subject  of  copyright.    Section  103  of  the  Copyright  Act
+provides that “[t]he subject matter of copyright as specified
+in section 102 includes compilations.”  17 U.S.C. § 103(a). 
+A  “compilation” is  “a work  formed  by  the  collection  and
+assembling  of  preexisting  materials  or  of  data  that  are
+selected,  coordinated,  or  arranged  in  such  a  way  that  the
+resulting  work  as  a  whole  constitutes  an  original  work  of
+authorship.”  Id. § 101.  It essential to recognize, however,
+that Section 103 complements Section 102.  Thus, while a
+compilation may be eligible for copyright protection, it must
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+17
+
+nevertheless  satisfy  the  requirements  of  Section  102.    A
+compilation  must,  in  other  words,  represent  an  “original
+work[]  of  authorship,”  and  “[i]n  no  case”  may  copyright
+protection  “extend  to  any  idea,  procedure,  process,  [or]
+system.”  Id. § 102.  The availability of copyright protection
+for compilations, therefore, does not eliminate Section 102’s
+categorical bar on copyright protection for ideas.
+
+The Supreme Court addressed the relationship between
+these “two well-established propositions”¯that compilations
+are  eligible  for  copyright  but  facts  and  ideas  are  not¯in
+Feist, 499 U.S. 340.  In Feist, the Court considered whether
+the collection of names, towns, and telephone numbers in a
+telephone directory is eligible for copyright protection as a
+compilation.  The Court held that “[a] factual compilation is
+eligible for copyright if it features an original selection or
+arrangement  of  facts,  but  the  copyright  is  limited  to  the
+particular  selection  or  arrangement.    In  no  event  may
+copyright extend to the facts themselves.”  Id. at 350–51.
+
+By claiming copyright protection for the Sequence as a
+compilation, Choudhury misconstrues the scope of copyright
+protection  for  compilations.    As  we  have  explained,  the
+Sequence is an idea, process, or system; therefore, it is not
+eligible  for  copyright  protection.    That  the  Sequence  may
+possess many constituent parts does not transform it into a
+proper subject of copyright protection.  Virtually any process
+or system could be dissected in a similar fashion.  Baker’s
+examples of “how-to” treatises are instructive: “A treatise on
+.  .  .  the  construction  and  use  of  ploughs,  or  watches,  or
+churns[,] . . . or on the mode of drawing lines to produce the
+effect of perspective” would likely list the steps necessary to
+perform  the  process  it  describes.    101  U.S.  at  102.    The
+watchmaking treatise’s author could not claim a copyright in
+
+18
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+labeling 
+
+into  multiple  steps  and 
+
+the process of making a watch, however, by breaking down
+the  process 
+it  a
+“compilation.”  Recipes further illustrate the point: a cake
+recipe  could  be  viewed  as  a  “compilation”  of  carefully
+arranged and selected steps¯which may, of course, reflect
+the personal preferences and tastes of the recipe’s author¯yet
+the recipe would remain, in most instances, a process that is
+not eligible for copyright protection.  See Meredith, 88 F.3d
+at 480–81.  Likewise, Choudhury cannot obtain copyright
+protection for the Sequence as a compilation by separately
+identifying the poses and breathing exercises it contains.
+
+Moreover, according to Choudhury himself, the medical
+and functional considerations at the heart of the Sequence
+compel  the  very  selection  and  arrangement  of  poses  and
+breathing exercises for which he claims copyright protection. 
+According  to  Bikram’s  Beginning  Yoga  Class,  the  “strict
+order” of the poses “is designed to scientifically warm and
+stretch muscles, ligaments, and tendons in the order in which
+they should be stretched.”  Bikram’s Beginning Yoga Class,
+supra, at xi.  Read in the light most favorable to Choudhury,
+the record demonstrates that the overarching reason for the
+organization  of  the  poses  and  breathing  exercises  in  the
+Sequence is to further the basic goals of the method: to attain
+“[p]roper  weight,  muscle 
+tone,  glowing  complexion,
+boundless  energy,  vibrant  good  health,  and  a  sense  of
+well-being.”    Id.    The  Sequence’s  composition  renders  it
+more  effective  as  a  process  or  system,  but  not  any  more
+suitable  for  copyright  protection  as  an  original  work  of
+authorship.
+
+It  makes  no  difference  that  similar  results  could  be
+achieved through a different organization of yoga poses and
+breathing exercises.  Choudhury argues that he could have
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+19
+
+render 
+
+chosen  from  “hundreds  of  postures”  and  “countless
+arrangements of these postures” in developing the Sequence. 
+But  the  possibility  of  attaining  a  particular  end  through
+multiple  different  methods  does  not 
+the
+uncopyrightable a proper subject of copyright.  See BellSouth
+Advert.  &  Publ’g  Corp.  v.  Donnelley  Info.  Publ’g,  Inc.,
+999 F.2d 1436, 1443 (11th Cir. 1993) (“The relevant inquiry
+[under  Feist]  is  not  whether  there  is  some  imaginable,
+although manifestly less useful, method of arranging business
+telephone  listings.”);  see  also  ATC  Distrib.  Grp.,  Inc.  v.
+Whatever It Takes Transmissions & Parts, Inc., 402 F.3d 700,
+711–12  (6th  Cir.  2005)  (“To  be  sure,  [the  publisher  of  a
+catalog describing a transmission parts numbering system]
+could have arranged the parts information in other ways that
+were potentially less  clear or useful, but this  fact alone is
+insufficient  to  demonstrate  the  creativity  necessary  for
+copyright  protection.”).    Though  it  may  be  one  of  many
+possible yoga sequences capable of attaining similar results,
+the  Sequence  is  nevertheless  a  process  and  is  therefore
+ineligible for copyright protection.10
+
+   10 Choudhury argues that the district court granted undue deference to
+a  recent  Copyright  Office  Policy  Statement  concerning  copyright
+protection for yoga sequences as compilations.  See Registration of Claims
+to Copyright, 77 Fed. Reg. 37605 (June 22, 2012).  In this Statement, the
+Copyright Office explains that
+
+a claim in a compilation of exercises or the selection
+and  arrangement  of  yoga  poses  will  be  refused
+registration. . . . The Copyright Office would entertain
+a claim in the selection, coordination or arrangement of,
+for instance, photographs or drawings of exercises, but
+such compilation authorship would not extend to the
+selection, coordination or arrangement of the exercises
+themselves  that  are  depicted  in  the  photographs  or
+drawings.
+
+20
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+C. The  Sequence  Is  Not  a  Copyrightable  Choreographic
+
+Work.
+
+The  district  court  properly  rejected  Choudhury’s
+argument that the Sequence is entitled to copyright protection
+as a choreographic work.11  The 1976 Copyright Act extended
+protection to “pantomimes and choreographic works,” which
+were  previously  not  copyrightable.    Pub.  L.  No.  94–553,
+90 Stat. 2541, 2545 (codified at 17 U.S.C. § 102(a)(4)).  In
+1986,  the  Second  Circuit  observed  that  “[e]xplicit  federal
+copyright  protection  for  choreography  is  a  fairly  recent
+development, and the scope of that protection is an uncharted
+area of the law.”  Horgan v. Macmillan, Inc., 789 F.2d 157,
+160 (2d Cir. 1986).  This remains true today.
+
+The  parties  debate 
+
+term
+“choreography,”  which  we  have  not  yet  defined  in  the
+copyright  context.    Nor  did  Congress  define  the  term
+
+the  meaning  of 
+
+the 
+
+Id. at 37607.  We need not decide whether the district court improperly
+deferred to the Copyright Office, however, for we “may affirm on any
+ground  supported  by  the  record.”    White,  500  F.3d  at  955  (citation
+omitted).  The undisputed evidence, viewed in the light most favorable to
+Choudhury, precludes copyright protection for the Sequence.
+
+   11 Though not dispositive, we note that Choudhury did not register the
+Sequence  as  a  choreographic  work.    Choudhury’s  Certificate  of
+Registration for Bikram’s Beginning Yoga Class is for “a nondramatic
+literary  work.”    When  Choudhury  tried  to  obtain  a  Certificate  of
+Registration  for  the  Sequence  as  a  “work  of  performing  arts,”  the
+Copyright Office denied his application.  The Copyright Office stated that
+the “concept or idea for a particular manner or style of exercise is not
+registrable.”  Choudhury’s subsequent supplementary registration for a
+“compilation of exercises” is an extension of the original registration for
+“a  nondramatic  literary  work,”  and  thus  is  itself  a  literary  work
+registration.
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+21
+
+“choreographic work[],” apparently because its meaning was
+“fairly settled.”  H.R. Rep. No. 94–1476, at 53 (1976).  The
+legislative  history  does  explain,  however,  that  it  is  not
+“necessary  to  specify  that  ‘choreographic  works’  do  not
+include social dance steps and simple routines.”  Id. at 53–54. 
+The  Second  Circuit  has  relied  on  the  Compendium  of
+Copyright  Office  Practices  as  persuasive  authority  and
+concluded that “[c]horeography represents a related series of
+dance  movements  and  patterns  organized  into  a  coherent
+whole.”  Horgan, 789 F.2d at 161 (quoting U.S. Copyright
+Office, Compendium II: Compendium of Copyright  Office
+Practices § 450.03(a) (1984)).  The Compendium II defines
+“dance”  as  “static  and  kinetic  successions  of  bodily
+movement  in  certain  rhythmic  and  spatial  relationships.” 
+Compendium  II,  §  450.01.12    The  “dance  movements,”
+according to the Compendium II, “must be more than mere
+exercises,  such  as  ‘jumping  jacks’ or  walking  steps.”    Id.
+§  450.03(a).    Finally,  the  Compendium  II  explains  that
+choreography  is  “usually  intended  to  be  accompanied  by
+music” but “need not tell a story” and need not be presented
+“before an audience.”  Id. §§ 450.01–450.02.
+
+In  this  case, we need not  decide whether  to  adopt  the
+Copyright  Office’s  definition  of  “choreographic  work”  or
+fashion another on our own because all categories of works
+eligible  for  copyright  protection,  including  choreographic
+works, are subject to the critical requirements and limitations
+of Section 102.  The beauty of this section is that it allows for
+
+   12 This interpretation is consistent with dictionary definitions.  Webster’s
+defines “choreography” as “the art of symbolically representing dancing.” 
+Webster’s Ninth New Collegiate Dictionary 237 (9th ed. 1987).  “Dance,”
+in  turn,  is  defined  as  “a  series  of  rhythmic  and  patterned  bodily
+movements usually performed to music.”  Id. at 324.
+
+22
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+the possibility that the term “original work of authorship”
+may,  as  it  has,  evolve  and  encompass  new  forms  of
+expression that, like choreography, are not easily reduced to
+neat definitions.  “Congress recurrently adjusts copyright law
+to  protect  categories  of  works  once  outside  the  law’s
+compass.”  Golan, 132 S. Ct. at 892 (listing such categories,
+including  foreign  works,  dramatic  works,  photographs,
+motion  pictures,  fixed  sound  recordings,  and  architectural
+works).  Yet as Congress has responded to new technologies
+and  evolving  understandings  of  creative  expression,  the
+idea/expression  dichotomy  has  remained  firmly  in  place. 
+This dichotomy, as this case illustrates, polices the uncertain
+boundaries of copyrightable subject matter.
+
+The  Sequence is  not  copyrightable  as  a  choreographic
+work for the same reason that it is not copyrightable as a
+compilation:  it  is  an  idea,  process,  or  system  to  which
+copyright protection may “[i]n no case” extend.  17 U.S.C.
+§  102(b).    We  recognize  that  the  Sequence  may  involve
+“static and kinetic successions of bodily movement in certain
+rhythmic  and  spatial  relationships.”    Compendium  II,
+§ 450.01.  So too would a method to churn butter or drill for
+oil.  That is no accident: “successions of bodily movement”
+often serve basic functional purposes.  Such movements do
+not become copyrightable as “choreographic works” when
+they are part and parcel of a process.  Even if the Sequence
+could  fit  within  some  colloquial  definitions  of  dance  or
+choreography, it remains a process ineligible for copyright
+protection.
+
+The  idea/expression  dichotomy,  codified  in  Section
+102(b), plays a similar role in defining the scope of protection
+for a “choreographic work” as it does for compilations.  See
+Feist, 499 U.S. at 350–51.  In the context of choreographic
+
+BIKRAM’S YOGA COLLEGE V. EVOLATION YOGA
+
+23
+
+works, that role is essential.  Our day-to-day lives consist of
+many routinized physical movements, from brushing one’s
+teeth to pushing a lawnmower to shaking a Polaroid picture,
+that could be (and, in two of the preceding examples, have
+been13) characterized as forms of dance.  Without a proper
+understanding of the idea/expression dichotomy, one might
+obtain  monopoly  rights  over  these  functional  physical
+sequences  by  describing  them  in  a  tangible  medium  of
+expression  and  labeling  them  choreographic  works.    The
+idea/expression  dichotomy  thus  ensures  that  expansive
+interpretations  of  the  categories  enumerated  as  proper
+subjects of copyright will, “[i]n no case,” extend copyright
+protection  beyond  its  constitutional  limits.    17  U.S.C.
+§ 102(b).
+
+IV.  Conclusion
+
+Although there is no cause to dispute the many health,
+fitness, spiritual, and aesthetic benefits of yoga, and Bikram
+Yoga in particular, they do not bring the Sequence into the
+realm of copyright protection.  The Sequence falls squarely
+within Section 102(b)’s exclusions from copyright protection,
+no matter how it is labeled or how ably the label is argued. 
+Therefore,  the  district  court  properly  granted  Evolation’s
+motion for partial summary judgment.
+
+AFFIRMED.
+
+      13  See  How  To  Do  the  ‘Lawn  Mower’  (Dance),  WikiHow,
+http://www.wikihow.com/Do-the-%22Lawn-Mower%22-(Dance) 
+(last
+visited  Sept.  16,  2015);  Shake  It  Like  a  Polaroid  Picture,  Urban
+Dictionary,  http://www.urbandictionary.com/define.php?term=
+shake+it+like+a+Polaroid+picture (last visited Sept. 16, 2015).
+
+

@@ -1,0 +1,935 @@
+RECOMMENDED FOR FULL-TEXT PUBLICATION
+
+Pursuant to Sixth Circuit Rule 206
+
+File Name:  05a0243a.06
+
+UNITED STATES COURT OF APPEALS
+
+FOR THE SIXTH CIRCUIT
+
+_________________
+
+No. 02-6521
+
+BRIDGEPORT MUSIC, INC.; WESTBOUND RECORDS,
+INC.,
+
+SOUTHFIELD MUSIC, INC.; NINE RECORDS, INC.,
+
+Plaintiffs-Appellants,
+
+Plaintiffs,
+
+v.
+
+DIMENSION FILMS; MIRAMAX FILM CORP.,
+
+NO LIMIT FILMS LLC,
+
+Defendants,
+
+Defendant-Appellee.
+
+No. 03-5738
+
+BRIDGEPORT MUSIC, INC.; SOUTHFIELD MUSIC, INC.;
+NINE RECORDS, INC.,
+
+WESTBOUND RECORDS, INC.,
+
+v.
+
+DIMENSION FILMS, et al.,
+
+NO LIMIT FILMS LLC,
+
+Plaintiffs-Appellants,
+
+Plaintiff,
+
+Defendants,
+
+Defendant-Appellee.
+
+Nos. 02-6521; 03-5738
+
+X---->,--------------------------N
+
+Appeal from the United States District Court
+
+for the Middle District of Tennessee at Nashville.
+No. 01-00412—Thomas A. Higgins, District Judge.
+
+Argued:  March 28, 2005
+
+Decided and Filed:  June 3, 2005  
+
+Before:  GUY and GILMAN, Circuit Judges; BARZILAY, Judge.*
+
+*The Honorable Judith M. Barzilay, Judge, United States Court of International Trade, sitting by designation.
+
+1
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 2
+
+_________________
+
+COUNSEL
+
+ARGUED:  Richard S. Busch, KING & BALLOW, Nashville, Tennessee, for Appellants.  Robert
+L. Sullivan, LOEB & LOEB, Nashville, Tennessee, for Appellee.  ON BRIEF:  Richard S. Busch,
+D’Lesli M. Davis, KING & BALLOW, Nashville, Tennessee, for Appellants.  Robert L. Sullivan,
+John C. Beiter, LOEB & LOEB, Nashville, Tennessee, for Appellee.  Marjorie Heins, BRENNAN
+CENTER FOR JUSTICE AT NYU SCHOOL OF LAW, New York, New York, Paul M. Smith,
+JENNER  &  BLOCK,  Washington,  D.C.,  Fred  von  Lohmann,  ELECTRONIC  FRONTIER
+FOUNDATION, San Francisco, California, Todd M. Gascon, LAW OFFICE OF TODD GASCON,
+San Francisco, California, for Amici Curiae.
+
+______________________________________
+AMENDED OPINION ON REHEARING
+______________________________________
+
+RALPH  B.  GUY,  JR.,  Circuit  Judge.    The  court  issued  an  initial  opinion  in  these
+consolidated cases on September 7, 2004.  Bridgeport Music, Inc. v. Dimension Films, 383 F.3d 390
+(6th Cir. 2004).  Through an Order entered December 20, 2004, the full court denied the petition for
+rehearing en banc filed by No Limit Films and a panel rehearing was granted only with respect to
+the issues discussed in Section II of the opinion as amended.  Bridegeport Music, Inc. v. Dimension
+Films, 401 F.3d 647 (6th Cir. 2004).  After additional briefing and argument on rehearing, we adhere
+to our conclusions and amend the opinion to further clarify our reasoning.
+
+Plaintiffs, Bridgeport Music, Inc., Westbound Records, Inc., Southfield Music, Inc., and Nine
+Records, Inc., appeal from several of the district court’s findings with respect to the copyright
+infringement claims asserted against No Limit Films.1  This action arises out of the use of a sample
+from the composition and sound recording “Get Off Your Ass and Jam” (“Get Off”) in the rap song
+“100 Miles and Runnin’” (“100 Miles”), which was included in the sound track of the movie I Got
+the Hook Up (Hook Up).  Specifically, Westbound appeals from the district court’s decision to grant
+summary judgment to defendant on the grounds that the alleged infringement was de minimis and
+therefore  not  actionable.    Bridgeport,  while  not  appealing  from  the  summary  judgment  order,
+challenges  instead  the  denial  of  its  motion  to  amend  the  complaint  to  assert  new  claims  of
+infringement based on a different song included in the sound track of Hook Up.  Finally, Bridgeport,
+Southfield, and Nine Records appeal from the decision to award attorney fees and costs totaling
+$41,813.30 to No Limit Films under 17 U.S.C. § 505.  For the reasons that follow, we reverse the
+district court’s grant of summary judgment to No Limit on Westbound’s claim of infringement of
+its sound recording copyright, but affirm the decision of the district court as to the award of attorney
+fees and the denial of Bridgeport’s motion to amend.
+
+I.
+
+The claims at issue in this appeal were originally asserted in an action filed on May 4, 2001,
+by the related entities Bridgeport Music, Southfield Music, Westbound Records, and Nine Records,
+alleging nearly 500 counts against approximately 800 defendants for copyright infringement and
+various state law claims relating to the use of samples without permission in new rap recordings.
+In August 2001, the district court severed that original complaint into 476 separate actions, this
+
+1All of plaintiffs’ claims against Miramax Film Corp. and Dimension Films were dismissed with prejudice,
+
+pursuant to a settlement, on June 27, 2002.
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 3
+
+being one of them, based on the allegedly infringing work and ordered that amended complaints be
+filed.2
+
+The claims in this case were brought by all four plaintiffs:  Bridgeport and Southfield, which
+are  in  the  business  of  music  publishing  and  exploiting  musical  composition  copyrights,  and
+Westbound Records and Nine Records, which are in the business of recording and distributing sound
+recordings.  It was conceded at the time of summary judgment, however, that neither Southfield
+Music nor Nine Records had any ownership interest in the copyrights at issue in this case.  As a
+result, the district court ordered that they be jointly and severally liable for 10% of the attorney fees
+and costs awarded to No Limit Films.
+
+Bridgeport and Westbound claim to own the musical composition and sound recording
+copyrights in “Get Off Your Ass and Jam” by George Clinton, Jr. and the Funkadelics.  We assume,
+as did the district court, that plaintiffs would be able to establish ownership in the copyrights they
+claim.  There seems to be no dispute either that “Get Off” was digitally sampled or that the recording
+“100 Miles” was included on the sound track of I Got the Hook Up.  Defendant No Limit Films, in
+conjunction with Priority Records, released the movie to theaters on May 27, 1998.  The movie was
+apparently also released on VHS, DVD, and cable television.  Fatal to Bridgeport’s claims of
+infringement was the Release and Agreement it entered into with two of the original owners of the
+composition “100 Miles,” Ruthless Attack Muzick (RAM) and Dollarz N Sense Music (DNSM),
+in December 1998, granting a sample use license to RAM, DNSM, and their licensees.  Finding that
+No Limit Films had previously been granted an oral synchronization license to use the composition
+“100 Miles” in the sound track of Hook Up, the district court concluded Bridgeport’s claims against
+No Limit Films were barred by the unambiguous terms of the Release and Agreement.  Bridgeport
+Music, Inc. v. Dimension Films LLC, 230 F. Supp.2d 830, 833-38 (M.D. Tenn. 2002).  Although
+Bridgeport does not appeal from this determination, it is relevant to the district court’s later decision
+to award attorney fees to No Limit Films.
+
+Westbound’s claims are for infringement of the sound recording “Get Off.”3  Because
+defendant does not deny it, we assume that the sound track of Hook Up used portions of “100 Miles”
+that included the allegedly infringing sample from “Get Off.”  The recording “Get Off” opens with
+a three-note combination solo guitar “riff” that lasts four seconds.  According to one of plaintiffs’
+experts,  Randy  Kling,  the  recording  “100  Miles”  contains  a  sample  from  that  guitar  solo.
+Specifically, a two-second sample from the guitar solo was copied, the pitch was lowered, and the
+copied piece was “looped” and extended to 16 beats.  Kling states that this sample appears in the
+sound recording “100 Miles” in five places; specifically, at 0:49, 1:52, 2:29, 3:20 and 3:46.  By the
+district court’s estimation, each looped segment lasted approximately 7 seconds.  As for the segment
+copied from “Get Off,” the district court described it as follows:
+
+The portion of the song at issue here is an arpeggiated chord – that is, three
+notes that, if struck together, comprise a chord but instead are played one at a time
+in very quick succession – that is repeated several times at the opening of “Get Off.”
+The arpeggiated chord is played on an unaccompanied electric guitar.  The rapidity
+
+2These are two of eleven appeals arising out of six related lawsuits that have been assigned to this panel for
+hearing and decision (Nos. 02-6521, 03-5002, 03-5003, 03-5004, 03-5005, 03-5738, 03-5739, 03-5741, 03-5742, 03-
+5744, 03-5656).
+
+3Sound recordings and their underlying musical compositions are separate works with their own distinct
+copyrights. See 17 U.S.C. § 102(a)(2), (7).  Bridgeport Music, Inc. v. Still N The Water Publ’g, 327 F.3d 472, 475 n.3
+(6th Cir.), cert. denied, 124 S. Ct. 399 (2003) (consolidated appeals from the dismissal of 19 of the 476 actions for lack
+of personal jurisdiction).
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 4
+
+of the notes and the way they are played produce a high-pitched, whirling sound that
+captures the listener’s attention and creates anticipation of what is to follow.
+
+Bridgeport, 230 F. Supp.2d at 839.  No Limit Films moved for summary judgment, arguing (1) that
+the sample was not protected by copyright law because it was not “original”; and (2) that the sample
+was legally insubstantial and therefore does not amount to actionable copying under copyright law.
+Mindful of the limited number of notes and chords available to composers, the district court
+explained that the question turned not on the originality of the chord but, rather, on “the use of and
+the aural effect produced by the way the notes and the chord are played, especially here where
+copying of the sound recording is at issue.”  Id. (citations omitted).  The district court found, after
+carefully listening to the recording of “Get Off,” “that a jury could reasonably conclude that the way
+the arpeggiated chord is used and memorialized in the ‘Get Off’ sound recording is original and
+creative and therefore entitled to copyright protection.”  Id. (citing Newton v. Diamond, 204 F.
+Supp.2d 1244, 1249-59 (C.D. Cal. 2002)) (later affirmed on other grounds at 349 F.3d 591 (9th Cir.
+2003)).  No Limit Films does not appeal from this determination.
+
+Turning then to the question of de minimis copying in the context of digital sampling, the
+district court concluded that, whether the sampling is examined under a qualitative/quantitative de
+minimis analysis or under the so-called “fragmented literal similarity” test, the sampling in this case
+did not “rise to the level of a legally cognizable appropriation.”  230 F. Supp.2d at 841.  Westbound
+argues  that  the  district  court  erred  both  in  its  articulation  of  the  applicable  standards  and  its
+determination that there was no genuine issue of fact precluding summary judgment on this issue.
+On October 11, 2002, the district court granted summary judgment to No Limit Films on the
+claims of Bridgeport and Westbound; dismissed with prejudice the claims of Southfield and Nine
+Records; denied as moot the motion of Bridgeport and Westbound for partial summary judgment
+on the issue of copyright ownership; and entered final judgment accordingly.  Bridgeport and
+Westbound appealed.  The facts relevant to the earlier denial of Bridgeport’s motion to amend the
+complaint will be discussed below.  No Limit Films filed a post-judgment motion for attorney fees
+and costs, which the district court granted for the reasons set forth in its memorandum opinion and
+order of April 24, 2003.  Bridgeport, Southfield Music, and Nine Records appealed from that award.
+
+II.
+
+The district court’s decision granting summary judgment is reviewed de novo.  Smith v.
+Ameritech, 129 F.3d 857, 863 (6th Cir. 1997).  In deciding a motion for summary judgment, the
+court must view the evidence and reasonable inferences in the light most favorable to the nonmoving
+party.  Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986).  Summary
+judgment is appropriate when there are no genuine issues of material fact in dispute and the moving
+party is entitled to judgment as a matter of law.  FED. R. CIV. P. 56(c).
+
+In granting summary judgment to defendant, the district court looked to general de minimis
+principles and emphasized the paucity of case law on the issue of whether digital sampling amounts
+to copyright infringement.  Drawing on both the quantitative/qualitative and “fragmented literal
+similarity” approaches, the district court found the de minimis analysis was a derivation of the
+substantial similarity element when a defendant claims that the literal copying of a small and
+insignificant portion of the copyrighted work should be allowed.  After listening to the copied
+segment, the sample, and both songs, the district court found that no reasonable juror, even one
+familiar with the works of George Clinton, would recognize the source of the sample without having
+been told of its source.  This finding, coupled with findings concerning the quantitatively small
+amount of copying involved and the lack of qualitative similarity between the works, led the district
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 5
+
+court to conclude that Westbound could not prevail on its claims for copyright infringement of the
+sound recording.4
+
+Westbound does not challenge the district court’s characterization of either the segment
+copied from “Get Off” or the sample that appears in “100 Miles.”  Nor does Westbound argue that
+there is some genuine dispute as to any material fact concerning the nature of the protected material
+in the two works.  The heart of Westbound’s arguments is the claim that no substantial similarity
+or de minimis inquiry should be undertaken at all when the defendant has not disputed that it
+digitally sampled a copyrighted sound recording.  We agree and accordingly must reverse the grant
+of summary judgment.
+A.
+
+Digital Sampling of Copyrighted Sound Recordings
+At the outset it is important to make clear the precise nature of our decision.  Our conclusions
+
+are as follows:
+
+1.  The analysis that is appropriate for determining infringement of a musical composition
+copyright, is not the analysis that is to be applied to determine infringement of a sound recording.
+We address this issue only as it pertains to sound recording copyrights.5
+
+2.  Since the district court decision essentially tracked the analysis that is made if a musical
+
+composition copyright were at issue, we depart from that analysis.6
+
+3.  We agree with the district court’s analysis on the question of originality.  On remand, we
+assume that Westbound will be able to establish it has a copyright in the sound recording and that
+a digital sample from the copyrighted sound recording was used in this case.
+
+4.  This case involves “digital sampling” which is a term of art well understood by the parties
+to this litigation and the music industry in general.  Accordingly, we adopt the definition commonly
+accepted within the industry.
+
+5.  Because of the court’s limited technological knowledge in this specialized field, our
+opinion is limited to an instance of digital sampling of a sound recording protected by a valid
+copyright.  If by analogy it is possible to extend our analysis to other forms of sampling, we leave
+it to others to do so.
+
+4Were we to follow the analysis used by the district judge, we would agree with the result he reached.
+5Defendants initially claimed that this argument was made for the first time on appeal.  Since a panel rehearing
+
+was granted, defendants have had a full opportunity to brief and argue these issues.
+
+6“In most copyright actions, the issue is whether the infringing work is substantially similar to the original work.
+. . . The scope of inquiry is much narrower when the work in question is a sound recording.  The only issue is whether
+the actual sound recording has been used without authorization.  Substantial similarity is not an issue . . . .”  Bradley C.
+Rosen, Esq., 22 CAUSES OF ACTION § 12 (2d ed. 2003).
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 6
+
+6.  Advances in technology7 coupled with the advent of the popularity of hip hop or rap
+music have made instances of digital sampling extremely common and have spawned a plethora of
+copyright disputes and litigation.
+
+7.  The music industry, as well as the courts, are best served if something approximating a
+bright-line test can be established.  Not necessarily a “one size fits all” test, but one that, at least,
+adds clarity to what constitutes actionable infringement with regard to the digital sampling of
+copyrighted sound recordings.
+B.
+
+Analysis
+We do not set forth the arguments made by Westbound since our analysis differs somewhat
+from that offered by the plaintiff.  Our analysis begins and largely ends with the applicable statute.
+Section 114(a) of Title 17 of the United States Code provides:
+
+The exclusive rights of the owner of copyright in a sound recording are
+limited to the rights specified by clauses (1), (2), (3) and (6) of section 106, and do
+not include any right of performance under section 106(4).
+
+Section 106 provides:
+
+Subject to sections 107 through 122, the owner of copyright under this title
+
+has the exclusive rights to do and to authorize any of the following:
+
+(1)    to  reproduce  the  copyrighted  work  in  copies  or
+
+phonorecords;
+
+(2)  to prepare derivative works based upon the copyrighted
+
+work;
+
+(3)  to distribute copies or phonorecords of the copyrighted
+work to the public by sale or other transfer of ownership, or by rental,
+lease, or lending;
+
+(4)    in  the  case  of  literary,  musical,  dramatic,  and
+choreographic works, pantomimes, and motion pictures and other
+audiovisual works to perform the copyrighted work publicly;
+
+(5)    in  the  case  of  literary,  musical,  dramatic,  and
+choreographic  works,  pantomimes,  and  pictorial,  graphic,  or
+sculptural works, including the individual images of a motion picture
+or other audiovisual work, to display the copyrighted work publicly;
+and
+
+7“E.g., Terry Fryer, Sampling Jargon Illustrated, KEYBOARD, June 1988, at 66-73.  First, the cost barrier to
+enter into the audio production arena is low due to the influx of affordable digital recording equipment.  The combination
+of a microphone, digital audio equipment, consumer audio equipment and an album or compact disc collection are the
+only tools needed to produce commercial rap music.  Second, utilizing samples as the musical element of the song
+enables the producer to create commercial rap music without any original musical accompaniment prior to recording the
+vocals.  Third, using music samples saves a considerable amount of time when compared to the traditional recording
+methods because another artist already recorded the underlying music. . . .”  Stephen R. Wilson, Music Sampling
+Lawsuits:  Does Looping Music Samples Defeat the De Minimis Defense?, 1 Journal of High Technology Law (JHTL)
+179 n.9 (2002) (citations omitted).
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 7
+
+(6)    in  the  case  of  sound  recordings,  to  perform  the
+copyrighted work publicly by means of a digital audio transmission.
+
+Section 114(b) states:
+
+(b)  The exclusive right of the owner of copyright in a sound recording under
+clause (1) of section 106 is limited to the right to duplicate the sound recording in the
+form of phonorecords or copies that directly or indirectly recapture the actual sounds
+fixed in the recording.  The exclusive right of the owner of copyright in a sound
+recording  under  clause  (2)  of  section  106  is  limited  to  the  right  to  prepare  a
+derivative  work  in  which  the  actual  sounds  fixed  in  the  sound  recording  are
+rearranged, remixed, or otherwise altered in sequence or quality.  The exclusive
+rights of the owner of copyright in a sound recording under clauses (1) and (2) of
+section 106 do not extend to the making or duplication of another sound recording
+that consists entirely of an independent fixation of other sounds, even though such
+sounds imitate or simulate those in the copyrighted sound recording.  The exclusive
+rights of the owner of copyright in a sound recording under clauses (1), (2), and (3)
+of section 106 do not apply to sound recordings included in educational television
+and radio programs (as defined in section 397 of title 47) distributed or transmitted
+by or through public broadcasting entities (as defined by section 118(g)):  Provided,
+That copies or phonorecords of said programs are not commercially distributed by
+or through public broadcasting entities to the general public.
+Before discussing what we believe to be the import of the above quoted provisions of the
+statute,  a  little  history  is  necessary.    The  copyright  laws  attempt  to  strike  a  balance  between
+protecting  original  works  and  stifling  further  creativity.    The  provisions,  for  example,  for
+compulsory licensing make it possible for “creators” to enjoy the fruits of their creations, but not
+to fence them off from the world at large.  17 U.S.C. § 115.  Although musical compositions have
+always enjoyed copyright protection, it was not until 1971 that sound recordings were subject to a
+separate copyright.  If one were to analogize to a book, it is not the book, i.e., the paper and binding,
+that is copyrightable, but its contents.  There are probably any number of reasons why the decision
+was made by Congress to treat a sound recording differently from a book even though both are the
+medium in which an original work is fixed rather than the creation itself.  None the least of them
+certainly were advances in technology which made the “pirating” of sound recordings an easy task.
+The balance that was struck was to give sound recording copyright holders the exclusive right “to
+duplicate the sound recording in the form of phonorecords or copies that directly or indirectly
+recapture the actual sounds fixed in the recording.”  17 U.S.C. § 114(b).  This means that the world
+at large is free to imitate or simulate the creative work fixed in the recording so long as an actual
+copy of the sound recording itself is not made.8  That leads us directly to the issue in this case.  If
+you cannot pirate the whole sound recording, can you “lift” or “sample” something less than the
+whole.  Our answer to that question is in the negative.9
+
+Section 114(b) provides that “[t]he exclusive right of the owner of copyright in a sound
+recording under clause (2) of section 106 is limited to the right to prepare a derivative work in which
+the actual sounds fixed in the sound recording are rearranged, remixed, or otherwise altered in
+
+8Needless to say, in the case of a recording of a musical composition the imitator would have to clear with the
+
+holder of the composition copyright.
+
+9A question arises as to whether the copying of a single note would be actionable.  Since that is not the fact
+situation in this case, we need not provide a definitive answer. We note, however, that under the Copyright Act, the
+sound recording must “result from the fixation of a series of musical, spoken, or other sounds . . . .”  17 U.S.C. § 101
+(definition of “sound recording”).
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 8
+
+sequence or quality.”  Further, the rights of sound recording copyright holders under clauses (1) and
+(2) of section 106 “do not extend to the making or duplication of another sound recording that
+consists entirely of an independent fixation of other sounds, even though such sounds imitate or
+simulate those in the copyrighted sound recording.”  17 U.S.C. § 114(b) (emphasis added).  The
+significance of this provision is amplified by the fact that the Copyright Act of 1976 added the word
+“entirely” to this language.  Compare Sound Recording Act of 1971, Pub. L. 92-140, 85 Stat. 391
+(Oct. 15, 1971) (adding subsection (f) to former 17 U.S.C. § 1) (“does not extend to the making or
+duplication of another sound recording that is an independent fixation of other sounds”).  In other
+words, a sound recording owner has the exclusive right to “sample” his own recording.  We find
+much to recommend this interpretation.10
+
+To begin with, there is ease of enforcement.  Get a license or do not sample.  We do not see
+this as stifling creativity in any significant way.  It must be remembered that if an artist wants to
+incorporate a “riff” from another work in his or her recording, he is free to duplicate the sound of
+that  “riff”  in  the  studio.    Second,  the  market  will  control  the  license  price  and  keep  it  within
+bounds.11  The sound recording copyright holder cannot exact a license fee greater than what it
+would cost the person seeking the license to just duplicate the sample in the course of making the
+new recording.  Third, sampling is never accidental.  It is not like the case of a composer who has
+a melody in his head, perhaps not even realizing that the reason he hears this melody is that it is the
+work of another which he had heard before.  When you sample a sound recording you know you are
+taking another’s work product.12
+
+This analysis admittedly raises the question of why one should, without infringing, be able
+to take three notes from a musical composition, for example, but not three notes by way of sampling
+from a sound recording.  Why is there no de minimis taking or why should substantial similarity not
+enter the equation.13  Our first answer to this question is what we have earlier indicated.  We think
+this result is dictated by the applicable statute.  Second, even when a small part of a sound recording
+
+10“[B] by clarifying the rights of a sound recording copyright owner in regard to derivative works, Section
+114(b) makes it clear that the digital sampling of a copyrighted sound recording must typically be licensed to avoid an
+infringement. . . . The import of this language is that it does not matter how much a digital sampler alters the actual
+sounds or whether the ordinary lay observer can or cannot recognize the song or the artist’s performance of it.  Since
+the exclusive right encompasses rearranging, remixing, or otherwise altering the actual sounds, the statute by its own
+terms  precludes  the  use  of  a  substantial  similarity  test.”    Susan  J.  Latham,  Newton  v.  Diamond:    Measuring  the
+Legitimacy of Unauthorized Compositional Sampling–A Clue Illuminated and Obscured, 26 Hastings Comm. & Ent.
+L.J. 119, 125 (2003) (footnotes omitted).
+
+11“Samplers should apply for the appropriate licenses, respect the rights of copyright holders, and be respected
+in turn as equal creators,  Responsibility for obtaining clearance should fall to either the artist, the label, or both.
+Samplers realize that in the litigious environment of the United States, there is nothing to be gained and much money
+potentially to be lost by being a renegade.  Surely some obscure materials will be sampled and overlooked, but the
+process should proceed devoid of recrimination and with the opportunity for money to be made by both the sampler and
+those whom he samples.”  David Sanjek, “Don’t Have to DJ No More”:  Sampling and the “Autonomous” Creator, 10
+Cardozo Arts & Ent. L.J. 607, 621 (1992).
+
+12The opinion in Grand Upright Music Ltd. v. Warner Bros. Records, Inc., 780 F. Supp. 182 (S.D.N.Y. 1991),
+one of the first cases to deal with digital sampling, begins with the phrase, “‘Thou shalt not steal.’”  Id. at 183 (quoting
+Exodus 20:15).  
+
+13“Thus, it seems like the only way to infringe on a sound recording is to re-record sounds from the original
+work, which is exactly the nature of digital sound sampling.  Then the only issue becomes whether the defendant re-
+recorded sound from the original.  This suggests that the substantial similarity test is inapplicable to sound recordings.”
+Jeffrey R. Houle, Digital Audio Sampling, Copyright Law and the American Music Industry:  Piracy or Just a Bad
+“RAP”?, 37 Loy. L. Rev. 879, 896 (1992).
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 9
+
+is sampled, the part taken is something of value.14  No further proof of that is necessary than the fact
+that the producer of the record or the artist on the record intentionally sampled because it would (1)
+save  costs,  or  (2)  add  something  to  the  new  recording,  or  (3)  both.    For  the  sound  recording
+copyright holder, it is not the “song” but the sounds that are fixed in the medium of his choice.
+When those sounds are sampled they are taken directly from that fixed medium.  It is a physical
+taking rather than an intellectual one.
+
+This case also illustrates the kind of mental, musicological, and technological gymnastics
+that would have to be employed if one were to adopt a de minimis or substantial similarity analysis.
+The district judge did an excellent job of navigating these troubled waters, but not without dint of
+great effort.  When one considers that he has hundreds of other cases all involving different samples
+from different songs, the value of a principled bright-line rule becomes apparent.  We would want
+to emphasize, however, that considerations of judicial economy are not what drives this opinion.
+If any consideration of economy is involved it is that of the music industry.  As this case and other
+companion cases make clear, it would appear to be cheaper to license than to litigate.15
+
+Since our holding arguably sets forth a new rule, several other observations are in order.
+First, although there were no existing sound recording judicial precedents to follow,16 we did not
+
+14“(A)ll samples from a record appropriate the work of the musicians who performed on that record.  This
+enables the sampler to use a musical performance without hiring either the musician who originally played it or a
+different musician to play the music again.  Thus sampling of records . . . allows a producer of music to save money (by
+not hiring a musician) without sacrificing the sound and phrasing of a live musician in the song.  This practice poses the
+greatest  danger  to  the  musical  profession  because  the  musician  is  being  replaced  with  himself.”    Christopher  D.
+Abramson, Digital Sampling and the Recording Musician:  A Proposal for Legislative Protection, 74 N.Y.U. L. REV.
+1660, 1668 (1999) (footnote omitted).
+
+15“The current lack of bright-line rules leads to unpredictability, which may be one reason that so few sampling
+cases are brought to trial . . . . A cost-benefit analysis generally indicates that is is less expensive for a sampler to
+purchase a license before sampling (or settle a post-sampling lawsuit) rather than take his chances in an expensive trial,
+the outcome of which . . . is nearly impossible to predict with any degree of certainty.”  Stephen R. Wilson, Music
+Sampling Lawsuits:  Does Looping Music Samples Defeat the De Minimis Defense, 1 Journal of High Technology Law
+(JHTL) 179, 187 n.97 (2002).
+
+16Two prior cases are worthy of mention, however, as they are often cited in discussions of digital sampling.
+These cases are Grand Upright Music Ltd. v. Warner Bros. Records, Inc., 780 F. Supp. 182 (S.D.N.Y. 1991), and United
+States v. Taxe, 540 F.2d 961 (9th Cir. 1976). 
+
+Although Grand Upright applied a bright-line test in a sampling case, we have not cited it as precedent for
+several reasons.  First, it is a district court opinion and as such has no binding precedential value.  Second, although it
+appears to have involved claims for both sound recording and musical composition copyright infringement, the trial judge
+does  not  distinguish  which  he  is  talking  about  in  his  ruling,  and  appears  to  be  addressing  primarily  the  musical
+composition copyright.  Third, and perhaps most important, there is no analysis set forth to indicate how the judge arrived
+at his ruling, which has resulted in the case being criticized by commentators.  Although often cited in later cases, there
+appears  to  be  no  case  involving  only  the  digital  sampling  of  sound  recordings  that  has  relied  on  that  decision.
+Nonetheless, it did precipitate a significant increase in licensing requests and changes in the way some artists and
+recording companies approached the issue of digital sampling.
+
+Taxe involved a criminal prosecution of sound recording “pirates.”  The defendants were convicted in the
+district court and  on  appeal  the  court held that a jury instruction that characterized “any and all re-recordings as
+infringements” went too far, but nonetheless found the instructions as a whole to be free of any error requiring reversal.
+Like Grand Upright, there was no analysis to support this conclusion.  This is understandable because the court was
+upholding the instructions given and had no need to dwell on that portion of the instruction the court “believed” “went
+beyond the law.”  Taxe, 540 F.2d at 965.  Although Taxe has been cited frequently, it has not been cited for the
+pronouncement relative to the nature of the copyright protection afforded to sound recordings.  It has been cited,
+however, for the proposition that infringement occurs even though the unauthorized recording makes changes in the
+sounds duplicated.  Id. at n.2.
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 10
+
+pull this interpretation out of thin air.17  Several law review and text writers, some of whom have
+been referenced in this opinion, have suggested that this is the proper interpretation of the copyright
+statute as it pertains to sound recordings.18  Since digital sampling has become so commonplace and
+rap music has become such a significant part of the record industry, it is not surprising that there are
+probably a hundred articles dealing with sampling and its ramifications.  It is also not surprising that
+the viewpoint expressed in a number of these articles appears driven by whose ox is being gored.
+As is so often the case, where one stands depends on where one sits.  For example, the sound
+recording copyright holders favor this interpretation as do the studio musicians and their labor
+organization.  On the other hand, many of the hip hop artists may view this rule as stifling creativity.
+The record companies and performing artists are not all of one mind, however, since in many
+instances, today’s sampler is tomorrow’s samplee.  The incidence of “live and let live” has been
+relatively high, which explains why so many instances of sampling go unprotested and why so many
+sampling controversies have been settled.
+
+17We have not addressed several of the cases frequently cited in music copyright cases because in the main they
+involve infringement of the composition copyright and not the sound recording copyright or were decided on other
+grounds.  Baxter v. MCA, Inc., 812 F.2d 421 (9th Cir. 1987); Jarvis v. A&M Records, 827 F. Supp. 282 (D.N.J. 1993);
+Tuff ‘N’ Rumble Mgmt., Inc. v. Profile Records, Inc., 42 U.S.P.Q.2d 1398 (S.D.N.Y. 1987) (plaintiff did not prove
+ownership of valid copyright or actual copying); Williams v. Broadus, 60 U.S.P.Q.2d 1051 (S.D.N.Y. 2001); Newton
+v. Diamond, 349 F.3d 591 (9th Cir. 2003), amended 388 F.3d 1189 (9th Cir. 2004), petition for cert. filed, 73 U.S.L.W.
+3557 (U.S. Mar. 10, 2005) (No. 04-1219).  We note that in Newton, the matter at issue  was  infringement of the
+composition copyright.  The alleged infringer had secured a license for use of the sound recording.
+
+18“Certain provisions of the copyright law, however, do suggest that broader protection against unauthorized
+sampling may be available for owners of sound recordings than for the owners of musical compositions that may be
+embodied in those sound recordings.
+
+For example, the copyright act states that, ‘The exclusive rights of the owner of copyright in a sound recording
+. . . do not extend to the making or duplication of another sound recording that consists entirely of an independent
+fixation of other sounds, even though such sounds imitate or simulate those in the copyrighted sound recording’ [17
+U.S.C. § 114(b)] (emphasis added).  By using the words ‘entirely of an independent fixation’ in referring to sound
+recordings which may imitate or simulate the sounds of another, Congress may have intended that a recording containing
+any sounds of another recording would constitute infringement.  Thus, it would appear that any unauthorized use of a
+digital sample taken from another’s copyrighted recording would be an infringement of the copyrighted recording.
+
+In fact, the copyright law specifically provides that the owner of copyright in a sound recording has the
+exclusive right to prepare a derivative work ‘in which the actual sounds fixed in the sound recording are rearranged,
+remixed, or otherwise altered in sequence or quality.’  A recording that embodies samples taken from the sound recording
+of another is by definition a ‘rearranged, remixed, or otherwise altered in sequence or quality.’
+
+It has been suggested that the strong protection implied by the foregoing provisions could be mitigated by a
+judicially applied standard which permits some degree of de minimis copying or copying where the sampled portion of
+the resulting work is not substantially similar to the copied work.  For example, a court could determine that the taking
+of a millisecond of sound from another’s copyrighted recording, or the taking of a more extensive portion that has been
+modified to the point of being completely unrecognizable or impossible to associate with the copied recording, does not
+constitute infringement.  It is believed, however, that the courts should take what appears to be a rare opportunity to
+follow a ‘bright line’ rule specifically mandated by Congress.  This would result in a substantial reduction of litigation
+costs and uncertainty attending disputes over sampling infringement of sound recordings and would promote a faster
+resolution of these disputes.
+
+While the question whether an unauthorized use of a digital sample infringes a musical composition may require
+a full substantial similarity analysis, the question whether the use of a sample constitutes infringement of a sound
+recording could end upon a determination that the sampler physically copied the copyrighted sound recording of another.
+If the sampler physically copied any portion of another’s copyrighted sound recording, then infringement should be
+found.  If the sampler did not physically copy, then there could be no infringement (even if the resulting recording
+substantially simulates or imitates the original recording).”  AL KOHN & BOB KOHN, KOHN ON MUSIC LICENSING
+1486-87 (Aspen Law & Business  3d ed. 2002) (footnotes omitted).
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 11
+
+Second, to pursue further the subject of stifling creativity, many artists and record companies
+have sought licenses as a matter of course.19  Since there is no record of those instances of sampling
+that either go unnoticed or are ignored, one cannot come up with precise figures, but it is clear that
+a significant number of persons and companies have elected to go the licensing route.  Also there
+is a large body of pre-1972 sound recordings that is not subject to federal copyright protection.20
+Additionally, just as many artists and companies choose to sample and take their chances, it is likely
+that will continue to be the case.
+
+Third, the record industry, including the recording artists, has the ability and know-how to
+
+work out guidelines, including a fixed schedule of license fees, if they so choose.
+
+Fourth, we realize we are announcing a new rule and because it is new, it should not play any
+role in the assessment of concepts such as “willful” or “intentional” in cases that are currently before
+the courts or had their genesis before this decision was announced.
+
+Finally, and unfortunately, there is no Rosetta stone for the interpretation of the copyright
+statute.  We have taken a “literal reading” approach.  The legislative history is of little help because
+digital sampling wasn’t being done in 1971.  If this is not what Congress intended or is not what they
+would intend now, it is easy enough for the record industry, as they have done in the past, to go back
+to Congress for a clarification or change in the law.  This is the best place for the change to be made,
+rather than in the courts, because as this case demonstrates, the court is never aware of much more
+than the tip of the iceberg.  To properly sort out this type of problem with its complex technical and
+business overtones, one needs the type of investigative resources as well as the ability to hold
+hearings that is possessed by Congress.
+
+These conclusions require us to reverse the entry of summary judgment entered in favor of
+No Limit Films on Westbound’s claims of copyright infringement.  Since the district judge found
+no infringement, there was no necessity to consider the affirmative defense of “fair use.”  On
+remand, the trial judge is free to consider this defense and we express no opinion on its applicability
+to these facts.
+
+Bridgeport’s  substantive  appeal  is  from  the  denial  of  leave  to  file  a  second  amended
+complaint that would have asserted new claims of infringement based on the inclusion of a different
+
+III.
+
+19“As a result of actual, as well as threatened, litigation in the area of digital sampling infringement, several
+developments have occurred.  Sampling clearinghouses serve as one recent outgrowth.  These companies are similar to
+publisher clearinghouses in that they are authorized by member copyright owners to clear samples for use on albums
+according to an agreed upon fee structure.  In addition, record companies and most music publishers have instituted
+certain licensing policies as more and more artists routinely seek clearance for their samples with the hope of avoiding
+litigation.”  A. Dean Johnson, Music Copyrights:  The Need for an Appropriate Fair Use Analysis in Digital Sampling
+Infringement Suits, 21 FLA. ST. U. L. REV. 135, 163 (1993) (footnote omitted).
+
+20We speak as to federal copyright protection only, and recognize that the Copyright Act provides that:  “With
+respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes
+of any State shall not be annulled or limited by this title until February 15, 2067.  The preemptive provisions of
+subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings
+commenced on and after February 15, 2067.  Notwithstanding the provisions of section 303, no sound recording fixed
+before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067.”  17 U.S.C.
+§ 301(c) (1998).
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 12
+
+song, called “How Ya Do Dat,” in the sound track of Hook Up.21  We review the denial of a motion
+to amend for abuse of discretion, except to the extent that it is based on a legal determination that
+the amendment would not withstand a motion to dismiss.  Wade v. Knoxville Utils. Bd., 259 F.3d
+452,  459  (6th  Cir.  2001).    Leave  to  amend  a  pleading  shall  be  freely  given  “when  justice  so
+requires.”  FED. R. CIV. P. 15(a).
+
+Undue delay in filing, lack of notice to the opposing party, bad faith by the moving
+party, repeated failure to cure deficiencies by previous amendments, undue prejudice
+to the opposing party, and futility of amendment are all factors which may affect the
+decision.  Delay by itself is not sufficient reason to deny a motion to amend.  Notice
+and substantial prejudice to the opposing party are critical factors in determining
+whether an amendment should be granted.
+
+Head v. Jellico Hous. Auth., 870 F.2d 1117, 1123 (6th Cir. 1989) (quoting Hageman v. Signal L.P.
+Gas, Inc., 486 F.2d 479, 484 (6th Cir. 1973)).  “When amendment is sought at a late stage in the
+litigation, there is an increased burden to show justification for failing to move earlier.”  Wade, 259
+F.3d at 459 (citing Duggins v. Steak ‘N Shake, Inc., 195 F.3d 828, 834 (6th Cir. 1999)).
+A. 
+
+Facts
+Plaintiffs commenced this action in May 2001, and filed an amended complaint in September
+2001.  In November 2001, the district court entered a scheduling order which required that any
+motion to amend pleadings be filed far enough in advance of April 1, 2002, to allow briefing to be
+completed by that date.  Discovery was to be completed by May 21, 2002.  On March 18, 2002, the
+district court extended the time for amending pleadings with the proviso that it would have to be
+done in time to avoid extending discovery beyond May 21, 2002.
+
+On April 15, 2002, plaintiffs’ counsel received a “cue sheet” for Hook Up that apparently
+alerted Bridgeport to the presence of another song in which it held a copyright interest.  Specifically,
+Bridgeport claims 37% interest in the composition “How Ya Do Dat” (“How Ya”) under a Release
+and  Agreement  dated  October  21,  1998,  that  granted  permission  to  use  a  sample  from  the
+composition “One of Those Funky Things” in “How Ya.”  While there was disagreement about
+whether discovery made available as early as October 2001 should have alerted Bridgeport of this
+claim, there is no dispute that the presence of “How Ya” was readily observable from watching the
+movie.  In fact, the magistrate judge noted that the “cue sheet” appears to be a list of credits from
+the end of the film.
+
+Plaintiffs moved to amend on April 19, 2002, and No Limit Films opposed the motion in a
+response filed on April 26, 2002.  On May 6, 2002, the magistrate judge recommended that the
+motion be denied.  Plaintiffs filed objections on May 16, 2002, and defendant responded on May 30,
+2002.  The discovery cutoff date, May 21, had passed, but the deadline for completing depositions
+had been extended to June 14, 2002.  But, the deadline for filing dispositive motions continued to
+be June 21, 2002.  No Limit Films filed its motion for summary judgment on that date.  On August
+14, 2002, the district court entered its order overruling plaintiffs’ objections, denying plaintiffs’
+motion to amend, and denying plaintiffs’ further motion to certify the issue for appeal.
+
+21The district court also denied plaintiffs leave to amend to add claims against new parties arising from the
+inclusion of “100 Miles” in I Got the Hook Up.  Plaintiffs have abandoned any appeal with respect to the denial of that
+request.
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 13
+
+B.
+
+Analysis
+Bridgeport maintains the district court abused its discretion by denying leave to amend on
+the grounds of unjustified delay and in the absence of a finding of prejudice to the defendant.  It is
+true that, ordinarily, delay alone will not justify the denial of leave to amend the complaint.  Morse
+v. McWhorter, 290 F.3d 795, 800 (6th Cir. 2002).  Delay, however, will become “undue” at some
+point, “placing an unwarranted burden on the court,” or “‘prejudicial,’ placing an unfair burden on
+the opposing party.”  Morse, 290 F.3d at 800 (citing Adams v. Gould Inc., 739 F.2d 858, 863 (3d Cir.
+1984)).
+
+Had the district court made an explicit finding of prejudice, very little would need to be said
+in affirming the denial of leave in this case.  The district court’s order, although brief, touched on
+undue delay and prejudice, explaining:
+
+The plaintiffs object to the Magistrate Judge’s conclusion that plaintiffs had
+not offered a sufficient reason for failing to amend their complaint to add claims and
+parties by the deadline set by the Court.  Plaintiffs argue that this deadline was
+modified  by  subsequent  order,  and  that  the  Magistrate  Judge  erred  under  Sixth
+Circuit  law  by  not  allowing  the  amendments  in  the  interests  of  justice.    The
+defendants respond that [the] Magistrate Judge correctly concluded that, under the
+circumstances of this case, amendment on the eve of the close of discovery would
+be prejudicial to defendants and unduly delay trial.
+
+After  careful  consideration  of  the  entire  record,  the  Court  adopts  and
+approves  the  Magistrate  Judge’s  Report  and  Recommendation.    The  plaintiffs’
+objections are overruled.  The interest of justice in this case requires that plaintiffs
+show good cause why the Court should allow amendment of their complaint to add
+a  claim  and  parties  after  the  Court’s  deadline  for  such  amendments,  which  the
+plaintiffs have failed to do.
+To the extent that this brief discussion leaves doubt that a finding of prejudice was made, we
+may sustain a denial of leave to amend on grounds that are apparent from the record.  Morse, 290
+F.3d at 801.
+
+Defendant clearly argued that it would be unfairly prejudiced if required to respond to a
+distinct new claim of infringement with only a few weeks of discovery remaining.  Plaintiffs focus
+on the magistrate judge’s mistaken reliance on the April 1 deadline for seeking leave to amend.
+Nonetheless,  as  defendant  argues,  plaintiffs’  motion  was  not  timely  because  the  district  court
+required that any amendments be sought in sufficient time that discovery could be completed before
+May 21.  Also, the record reflects that although there were extensions of discovery beyond that date,
+extensions were only granted to allow the completion of certain depositions and did not affect the
+deadline for filing dispositive motions.  We find no abuse of discretion in the district court’s denial
+of leave to raise new claims based on a different song, by a different artist, in the movie.
+
+IV.
+
+Bridgeport,  Southfield  Music,  and  Nine  Records  appeal  from  the  decision  to  award
+$41,813.30 in attorney fees and costs to No Limit Films as a prevailing party under 17 U.S.C. § 505.
+Apportioning the award between these plaintiffs, the district court ordered that Southfield and Nine
+Records be held liable, jointly and severally, for 10% of the total.  The district court also found that
+no award was warranted against Westbound Records because its claims were objectively reasonable
+and based on a developing area of copyright law.  As a result, the amount of fees reasonably
+incurred in defense of this action were reduced by 50%.  Plaintiffs do not challenge the calculation
+of the fees or the inclusion of any particular item.
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 14
+
+A  court  may,  in  its  discretion,  award  costs,  including  reasonable  attorney  fees,  to  the
+prevailing party in a civil suit under the Copyright Act.  17 U.S.C. § 505.22  Our review is for abuse
+of discretion.  Coles v. Wonder, 283 F.3d 798, 804 (6th Cir. 2002) (affirming award to prevailing
+defendant); Murray Hill Publ’ns, Inc. v. ABC Communications, Inc., 264 F.3d 622, 639 (6th Cir.
+2001) (reversing award to prevailing defendant).  A district court abuses its discretion when it relies
+on  clearly  erroneous  factual  findings,  improperly  applies  the  law,  or  uses  an  erroneous  legal
+standard.  Adcock-Ladd v. Sec’y of Treasury, 227 F.3d 343, 349 (6th Cir. 2000).
+
+The discretion to award attorney fees under § 505 is to be exercised in an evenhanded
+manner with respect to prevailing plaintiffs and prevailing defendants, and in a manner consistent
+with the primary purposes of the Copyright Act.  Fogerty v. Fantasy, Inc., 510 U.S. 517 (1994).
+“‘There  is  no  precise  rule  or  formula  for  making  these  determinations,’  but  instead  equitable
+discretion should be exercised ‘in light of the considerations we have identified.’”  Id. at 534
+(quoting Hensley v. Eckerhart, 461 U.S. 424, 436-37 (1983)).23  Several nonexclusive factors may
+be considered as long as they are “faithful to the purposes of the Copyright Act and are applied to
+prevailing plaintiffs and defendants in an evenhanded manner.”  Id. at 534 n.19.  Those nonexclusive
+factors include:  “frivolousness, motivation, objective unreasonableness (both in the factual and in
+the legal components of the case) and the need in particular circumstances to advance considerations
+of compensation and deterrence.”  Id. (quoting Lieb v. Topstone Indus., Inc., 788 F.2d 151, 156 (3d
+Cir. 1986)).
+
+Southfield and Nine Records, neither of which had an interest in “Get Off” or “100 Miles,”
+argue that defendant did not truly prevail against them because they were “inadvertently” left in the
+amended complaint and they did not oppose dismissal in this case.  They did not voluntarily dismiss
+their claims, however, as it was only in response to defendant’s dispositive motions that they
+acquiesced in dismissal.  Moreover, the inclusion of Southfield and Nine Records in the amended
+complaint  in  this  case  was  less  “inadvertent”  than  a  reflection  of  the  plaintiffs’  failure  to
+discriminate between defendants and claims.  No Limit Films is a prevailing defendant as judgment
+was entered in its favor on all claims.24
+
+Concluding that Bridgeport’s claim was objectively unreasonable, the district court indicated
+that the factor weighed heavily in favor of awarding fees.  The district court, relying on its decision
+granting summary judgment to defendant, specifically found Bridgeport’s claims were objectively
+unreasonable  because  Bridgeport  had  no  ownership  interest  in  “100  Miles”  when  the  oral
+synchronization license was granted and offered no evidence to undermine the existence of a valid
+license.  Bridgeport argues that its claim, although unsuccessful, was not objectively unreasonable
+because it was not aware No Limit would claim it had an oral license that preceded the Release and
+
+22Section 505 provides that:  “In any civil action under this title, the court in its discretion may allow the
+recovery of full costs by or against any party other than the United States or an officer thereof.  Except as otherwise
+provided by this title, the court may also award a reasonable attorney’s fee to the prevailing party as part of the costs.”
+23Those considerations include:  the primary objective of the Copyright Act to “encourage the production of
+original literary, artistic, and musical expression for the good of the public”; the fact that defendants as well as plaintiffs
+may hold copyrights and run the “gamut” from large corporations to “starving artists”; the need to encourage “defendants
+who seek to advance a variety of meritorious copyright defenses . . . to litigate them to the same extent that plaintiffs are
+encouraged to litigate meritorious claims of infringement”; and the fact that “a successful defense of a copyright
+infringement action may further the policies of the Copyright Act every bit as much as a successful prosecution of an
+infringement claim by the holder of a copyright.”  Id. at 524 and 527.
+
+24Plaintiffs argue that Southfield had a significant interest in “How Ya Do Dat” and joined Bridgeport in
+seeking leave to file the second amended complaint to assert infringement claims.  That assertion does not affect the
+prevailing party status of defendant or undermine the finding that the claims which were asserted were objectively
+unreasonable.
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 15
+
+Agreement.  As defendant responds, nothing in this record suggests Bridgeport would not have sued
+No Limit Films if it had been aware of the oral license.
+
+This brings us to what the district court called the deciding factor – the manner in which the
+plaintiffs litigated this action.  This consideration, plaintiffs maintain, represents nothing more than
+an attempt to punish Bridgeport and deter the plaintiffs from pursuing reasonable, nonfrivolous
+claims in other cases under threat of an award of attorney fees.  The district court reasoned as
+follows:
+
+The initial complaint in this action is so voluminous that, with exhibits, it is almost
+1,000 pages long and takes days to read in its entirety.  It is replete with diatribes
+against the music industry, but lacks concrete facts directed at specific defendants.
+Almost all of the 800 or so defendants in the initial complaint (representing what
+appeared to be almost the entirety of entities involved in making urban music) were
+lumped together in broad categories and descriptions of activities.  The individual
+counts described the infringing conduct of the defendants by references to these
+broad generalizations, without any specific information as to what any individual
+defendant did to violate the Copyright Act.
+
+From that inauspicious beginning, this action proceeded in a like manner,
+with heavy emphasis on discovery disputes and motion practice and little attention
+paid to narrowing the issues and refining the claims.  The plaintiffs repeatedly taxed
+the  patience  of  the  Court,  from  narrowing  the  margins  on  their  memoranda  to
+circumvent page limits, to filing voluminous pleadings that were long on argument
+but short on concrete facts or applicable legal authority.  The plaintiffs took every
+opportunity to inundate the Court with paperwork, yet many of these motions were
+hastily prepared and often lacked sufficient legal or factual support.  Most notably,
+the plaintiffs filed a motion for summary judgment on ownership yet failed to submit
+certified copies of the registration certificates for the copyrights they claimed to own.
+When this oversight was pointed out by the Magistrate Judge as being fatal to their
+summary judgment motion, the plaintiffs, instead of providing the documentation
+(which  could  be  easily  obtained  from  the  U.S.  Copyright  Office),  expended
+enormous effort in subsequent motion papers trying to convince the Court that the
+certified copies were unnecessary [until ordered to produce them].
+
+The plaintiffs’ tactics have contributed to the multiplication of fees by all
+parties, including the defendant here.  This, combined with the determination that
+Bridgeport’s claim was objectively unreasonable, merits an award for fees and costs
+against Bridgeport.
+To  award  fees  simply  because  of  the  length  of  and  lack  of  specificity  in  the  original
+complaint or because of the number of claims brought by the plaintiffs would strike us as punitive
+and inconsistent with the purposes of the Copyright Act.  See Murray Hill, 264 F.3d at 639-40
+(reversing award of attorney fees, despite district court’s criticism of the “voluminous burden” the
+case  imposed,  noting  only  that  the  law  was  unsettled  and  the  plaintiff  presented  one  or  more
+colorable claims).  The district court’s criticisms go beyond just that, however, and are tied to
+conduct that complicated rather than streamlined the issues and contributed to the multiplication of
+fees for the defendant.
+
+While the district court did not articulate this consideration in terms of the Fogerty factors,
+and was not required to since they are nonexclusive, we see it as related to the recognized factor of
+deterrence and compensation.  The unique posture of this case as one of hundreds brought in the
+same manner and asserting parallel claims, makes deterrence a particularly relevant and appropriate
+
+Nos. 02-6521; 03-5738
+
+Bridgeport Music et al. v. Dimension Films et al.
+
+Page 16
+
+consideration.  It is not the deterrence of objectively reasonable good faith claims, but the interest
+in motivating plaintiffs to sort through the objectively unreasonable ones and prosecute this at best
+cumbersome litigation in a way that discriminates between parties and claims.
+
+Plaintiffs charge that the defendant was equally responsible for multiplying fees, particularly
+by failing to designate a representative for deposition who had knowledge of the facts concerning
+the use of “Get Off” in Hook Up.  While there is some suggestion that defendant contributed to
+increased discovery costs because multiple depositions were required, our review is deferential and
+the record does not demonstrate clear error in the district court’s assessment of plaintiffs’ litigation
+conduct.  Ultimately, we cannot say the district court abused its discretion in this case, particularly
+given the 50% reduction in attorney fees to account for Westbound’s claims.  Nor should Southfield
+and Nine Records be relieved of the nominal award of fees in this case, as defendant was required
+to investigate whether they had any claim and affirmatively move for dismissal of their claims
+before it was conceded that they had no interest in the copyrighted works.
+
+AFFIRMED  in  part,  REVERSED  in  part,  and  REMANDED  for  further  proceedings
+
+consistent with this opinion.
+
+

@@ -1,0 +1,1618 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPUTER ASSOCIATES INTERNATIONAL, INC., Plaintiff-
+Appellant-Cross-Appellee, v. ALTAI, INC., Defendant-Appellee-
+
+Cross-Appellant. 
+
+Docket Nos. 91-7893, 91-7935 
+
+UNITED STATES COURT OF APPEALS FOR THE SECOND 
+
+CIRCUIT 
+
+982 F.2d 693; 1992 U.S. App. LEXIS 33369; 119 A.L.R. Fed. 741; 92 
+
+Cal. Daily Op. Service 10213 
+
+January 9, 1992, Argued   
+December 17, 1992, Filed  
+
+ 
+Before  ALTIMARI,  MAHONEY  and  WALKER,  Circuit  Judges.  Judge  Altimari  concurs  in  part 
+and dissents in part in a separate opinion.   
+ 
+
+WALKER, Circuit Judge:  
+
+In  recent  years,  the  growth  of  computer  science  has  spawned  a  number  of  challenging  legal 
+questions,  particularly  in  the  field  of  copyright  law.  As  scientific  knowledge  advances,  courts  en-
+deavor  to  keep  pace,  and  sometimes--as  in  the  area  of  computer  technology--they  are  required  to 
+venture into less than familiar waters. This is not a new development, though. "From its beginning, 
+the law of copyright has developed in response to significant changes in technology." Sony Corp. v. 
+Universal City Studios, Inc., 464 U.S. 417, 430, 78 L. Ed. 2d 574, 104 S. Ct. 774 (1984).  
+
+Article I, section 8 of the Constitution authorizes Congress "to promote the Progress of Science 
+and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their 
+respective Writings and Discoveries." The Supreme Court has stated that "the economic philosophy 
+behind the clause . . . is the conviction that encouragement of individual effort by personal gain is 
+the best way to advance public welfare . . . ." Mazer v. Stein, 347 U.S. 201, 219, 98 L. Ed. 630, 74 
+S. Ct. 460 (1954). The author's benefit, however, is clearly a "secondary" consideration. See United 
+States v. Paramount Pictures, Inc., 334 U.S. 131, 158, 92 L. Ed. 1260, 68 S. Ct. 915 (1948). "The 
+ultimate aim is, by this incentive, to stimulate artistic creativity for the general public good." Twen-
+tieth Century Music Corp. v. Aiken, 422 U.S. 151, 156, 45 L. Ed. 2d 84, 95 S. Ct. 2040 (1975).  
+
+Thus,  the  copyright  law  seeks  to  establish  a  delicate  equilibrium.  On  the  one  hand,  it  affords 
+protection to authors as an incentive to create, and, on the other, it must appropriately limit the ex-
+tent of that protection so as to avoid the effects of monopolistic stagnation. In applying the federal 
+act to new types of cases, courts must always keep this symmetry in mind. Id.  
+
+Among other things, this case deals with the challenging question of whether and to what extent 
+the "non-literal" aspects of a computer program, that is, those aspects that are not reduced to written 
+code,  are  protected  by  copyright.  While  a  few  other  courts  have  already  grappled  with  this  issue, 
+this case is one of first impression in this circuit. As we shall discuss, we find the results reached by 
+other courts to be less than satisfactory. Drawing upon long-standing doctrines of copyright law, we 
+
+ 
+
+1 
+
+ 
+
+take an approach that we think better addresses the practical difficulties embedded in these types of 
+cases. In so doing, we have kept in mind the necessary balance between creative incentive and in-
+dustrial competition.  
+
+This appeal comes to us from the United States District Court for the Eastern District of New 
+York, the Honorable George C. Pratt, Circuit Judge, sitting by designation. By Memorandum and 
+Order entered August 12, 1991, Judge Pratt found that defendant Altai, Inc.'s ("Altai"), OSCAR 3.4 
+computer program had infringed plaintiff Computer Associates' ("CA"), copyrighted computer pro-
+gram entitled  CA-SCHEDULER. Accordingly, the district court awarded CA $ 364,444 in actual 
+damages and apportioned profits. Altai has  abandoned its appeal from this award. With respect to 
+CA's second claim for copyright infringement, Judge Pratt found that Altai's OSCAR 3.5 program 
+was not substantially similar to a portion of CA-SCHEDULER called ADAPTER, and thus denied 
+relief.  Finally,  the  district  court  concluded  that  CA's  state  law  trade  secret  misappropriation  claim 
+against Altai had been preempted by the federal copyright act. CA appealed from these findings.  
+
+Because we are in full agreement with Judge Pratt's decision and in substantial agreement with 
+his  careful  reasoning  regarding  CA's  copyright  infringement  claim,  we  affirm  the  district  court's 
+judgment  on  that  issue.  However,  we  vacate  the  district  court's  preemption  ruling  with  respect  to 
+CA's trade secret claim, and remand the case to the district court for further proceedings. 
+
+BACKGROUND 
+
+We assume familiarity with the facts set forth in the district court's comprehensive and scholarly 
+opinion. See Computer Assocs. Int'l, Inc. v. Altai, Inc., 775 F. Supp. 544, 549-55 (E.D.N.Y. 1991). 
+Thus, we summarize only those facts necessary to resolve this appeal.  
+ 
+
+I. COMPUTER PROGRAM DESIGN 
+
+Certain elementary facts concerning the nature of computer programs are vital to the following 
+discussion. The Copyright Act defines a computer program as "a set of statements or instructions to 
+be  used  directly  or  indirectly  in  a  computer  in  order  to  bring  about  a  certain  result."  17  U.S.C.  § 
+101. In writing these directions, the programmer works "from the general to the specific." Whelan 
+Assoc., Inc. v. Jaslow Dental Lab., Inc., 797 F.2d 1222, 1229 (3d Cir. 1986), cert. denied, 479 U.S. 
+1031, 93 L. Ed. 2d 831, 107 S. Ct. 877 (1987). See generally Steven R. Englund, Note, Idea, Proc-
+ess,  or  Protected  Expression?:  Determining  the Scope  of  Copyright  Protection  of  the  Structure  of 
+Computer  Programs,  88  MICH.  L.  REV.  866,  867-73  (1990)  (hereinafter  "Englund");  Peter  S. 
+Menell, An Analysis of the Scope of Copyright Protection for Application Programs, 41 STAN. L. 
+REV. 1045, 1051-57 (1989) (hereinafter "Menell"); Mark T. Kretschmer, Note, Copyright Protec-
+tion For Software Architecture: Just  Say No!, 1988 COLUM. BUS. L. REV. 823, 824-27 (1988) 
+(hereinafter  "Kretschmer");  Peter  G.  Spivack,  Comment,  Does  Form  Follow  Function?  The 
+Idea/Expression Dichotomy In Copyright Protection of Computer Software, 35 U.C.L.A. L. REV. 
+723, 729-31 (1988) (hereinafter "Spivack").  
+
+The first step in this procedure is to identify a program's ultimate function or purpose. An ex-
+ample  of  such  an  ultimate  purpose  might  be  the  creation  and  maintenance  of  a  business  ledger. 
+Once this goal has been achieved, a programmer breaks down or "decomposes" the program's ulti-
+mate  function  into  "simpler  constituent  problems  or  'subtasks,'"  Englund,  at  870,  which  are  also 
+known as subroutines or modules. See Spivack, at 729. In the context of a business ledger program, 
+a module or subroutine might be responsible for the task of updating a list of outstanding accounts 
+
+ 
+
+2 
+
+ 
+
+receivable.  Sometimes,  depending  upon  the  complexity  of  its  task,  a  subroutine  may  be  broken 
+down further into sub-subroutines.  
+
+Having sufficiently decomposed the program's ultimate function into its component elements, a 
+programmer will then arrange the subroutines or modules into what are known as organizational or 
+flow charts. Flow charts map the interactions between modules that achieve the program's end goal. 
+See Kretschmer, at 826. 
+
+In  order  to  accomplish  these  intra-program  interactions,  a  programmer  must  carefully  design 
+each module's parameter list. A parameter list, according to the expert appointed and fully credited 
+by the district court, Dr. Randall Davis, is "the information sent to and received from a subroutine." 
+See Report of Dr. Randall Davis, at 12. The term "parameter list" refers to the form in which infor-
+mation is passed between modules (e.g. for accounts receivable, the designated time frame and par-
+ticular customer identifying number) and the information's actual content (e.g.  8/91-7/92; customer 
+No. 3). Id. With respect to form, interacting modules must share similar parameter lists so that they 
+are capable of exchanging information.  
+
+"The functions of the modules in a program together with each module's relationships to other 
+modules constitute the 'structure' of the program." Englund, at 871. Additionally, the term structure 
+may include the category of modules referred to as "macros." A macro is a single instruction that 
+initiates  a  sequence  of  operations  or  module  interactions  within  the  program.  Very  often  the  user 
+will  accompany  a  macro  with  an  instruction  from  the  parameter  list  to  refine  the  instruction  (e.g. 
+current total of accounts receivable (macro), but limited to those for 8/91 to 7/92 from customer No. 
+3 (parameters)).  
+
+In  fashioning  the  structure,  a  programmer  will  normally  attempt  to  maximize  the  program's 
+speed,  efficiency,  as  well  as  simplicity  for  user  operation,  while  taking  into  consideration  certain 
+externalities such as the memory constraints of the computer upon which the program will be run. 
+See id.; Kretschmer, at 826; Menell, at 1052. "This stage of program design often requires the most 
+time and investment." Kretschmer, at 826. 
+
+Once  each  necessary  module  has  been  identified,  designed,  and  its  relationship  to  the  other 
+modules has been laid out conceptually, the resulting program structure must be embodied in a writ-
+ten  language  that  the  computer  can  read.  This  process  is  called  "coding,"  and  requires  two  steps.  
+Whelan, 797 F.2d at 1230. First, the programmer must transpose the program's structural blue-print 
+into  a  source  code.  This  step  has  been  described  as  "comparable  to  the  novelist  fleshing  out  the 
+broad  outline  of  his  plot  by  crafting  from  words  and  sentences  the  paragraphs  that  convey  the 
+ideas."  Kretschmer,  at  826.  The  source  code  may  be  written  in  any  one  of  several  computer  lan-
+guages, such as COBAL, FORTRAN, BASIC, EDL, etc., depending upon the type of computer for 
+which  the  program  is  intended.    Whelan,  797  F.2d  at  1230.  Once  the  source  code  has  been  com-
+pleted, the second step is to translate or "compile" it into object code. Object code is the binary lan-
+guage  comprised  of  zeros  and  ones  through  which  the  computer  directly  receives  its  instructions.  
+Id., at 1230-31; Englund, at 868 & n.13.  
+
+After the coding is finished, the programmer will run the program on the computer in order to 
+find and correct any logical and syntactical errors. This is known as "debugging" and, once done, 
+the program is complete. See Kretschmer, at 826-27. 
+ 
+
+ 
+
+II. FACTS 
+
+3 
+
+ 
+
+CA is a Delaware corporation, with its principal place of business in Garden City, New York. 
+Altai is a Texas corporation, doing business primarily in Arlington, Texas. Both companies are in 
+the  computer  software  industry--designing,  developing  and  marketing  various  types  of  computer 
+programs. 
+
+The  subject  of  this  litigation  originates  with  one  of  CA's  marketed  programs  entitled  CA-
+SCHEDULER. CA-SCHEDULER is a job scheduling program designed for IBM mainframe com-
+puters. Its primary functions are straightforward: to create a schedule specifying when the computer 
+should  run  various  tasks,  and  then  to  control  the  computer  as  it  executes  the  schedule.  CA-
+SCHEDULER  contains  a  sub-program  entitled  ADAPTER,  also  developed  by  CA.  ADAPTER  is 
+not  an  independently  marketed  product  of  CA;  it  is  a  wholly  integrated  component  of  CA-
+SCHEDULER and has no capacity for independent use.  
+
+Nevertheless, ADAPTER plays an extremely important role. It is an "operating system compati-
+bility component," which means, roughly speaking, it serves as a translator. An "operating system" 
+is itself a program that manages the resources of the computer, allocating those resources to other 
+programs as needed. The IBM System 370 family of computers, for which CA-SCHEDULER was 
+created, is, depending upon the computer's size, designed to contain one of three operating systems: 
+DOS/VSE, MVS, or CMS. As the district court noted, the general rule is that "a  program written 
+for one operating system, e.g., DOS/VSE, will not, without modification, run under another operat-
+ing system such as MVS." Computer Assocs., 775 F. Supp. at 550. ADAPTER's function is to trans-
+late the language of a given program into the particular language that the computer's own operating 
+system can understand.  
+
+The district court succinctly outlined the manner in which ADAPTER works within the context 
+of the larger program. In order to enable CA-SCHEDULER to function on different operating sys-
+tems, CA divided the CA-SCHEDULER into two components:  
+
+--a first component that contains only the task-specific portions of the program, independent of 
+
+all operating system issues, and  
+
+--a second component that contains all the interconnections between the first component and the 
+
+operating system.  
+
+In a program constructed in this way, whenever the first, task-specific, component needs to ask 
+the operating system for some resource through a "system call", it calls the second component in-
+stead of calling the operating system directly.  
+
+The second component serves as an "interface" or "compatibility component" between the task-
+specific  portion  of      the  program  and  the  operating  system.  It  receives  the  request  from  the  first 
+component and translates it into the appropriate system call that will be recognized by whatever op-
+erating  system  is  installed  on  the  computer,  e.g.,  DOS/VSE,  MVS,  or  CMS.  Since  the  first,  task-
+specific component calls the adapter component rather than the operating system, the first compo-
+nent need not be customized to use any specific operating system. The second, interface, component 
+insures that all the system calls are performed properly for the particular operating system in use.  
+  
+Id.  at  551.  ADAPTER  serves  as  the  second,  "common  system  interface"  component  referred  to 
+above.  
+
+ 
+
+4 
+
+ 
+
+A program like ADAPTER, which allows a computer user to change or use multiple operating 
+systems while maintaining the same software, is highly desirable. It saves the user the costs, both in 
+time and money, that otherwise would be expended in purchasing new programs, modifying exist-
+ing systems to run them, and gaining familiarity with their operation. The benefits run both ways. 
+The increased compatibility afforded by an ADAPTER-like component, and its resulting popularity 
+among consumers, makes whatever software in which it is incorporated significantly more market-
+able.  
+
+Starting  in  1982,  Altai  began  marketing  its  own  job  scheduling  program  entitled  ZEKE.  The 
+original version of ZEKE was designed for use in conjunction with a VSE operating system. By late 
+1983, in response to customer demand, Altai decided to rewrite ZEKE so that it could be run in con-
+junction with an MVS operating system.  
+
+At that time, James P. Williams ("Williams"), then an employee of Altai and now its President, 
+approached Claude F. Arney, III ("Arney"), a computer programmer who worked for CA. Williams 
+and Arney were longstanding friends, and had in fact been co-workers at CA for some time before 
+Williams left CA to work for Altai's predecessor. Williams wanted to recruit Arney to assist Altai in 
+designing an MVS version of ZEKE.  
+
+At the time he first spoke with Arney, Williams was aware of both the CA-SCHEDULER and 
+ADAPTER  programs.  However,  Williams  was  not  involved  in  their  development  and  had  never 
+seen the codes of either program. When he asked Arney to come work for Altai, Williams did not 
+know that ADAPTER was a component of CA-SCHEDULER.  
+
+Arney,  on  the  other  hand,  was  intimately  familiar  with  various  aspects  of  ADAPTER.  While 
+working  for  CA,  he  helped  improve  the  VSE  version  of  ADAPTER,  and  was  permitted  to  take 
+home a copy of ADAPTER'S source code. This apparently developed into an irresistible habit, for 
+when Arney left CA to work for Altai in January, 1984, he took with him copies of  the source code 
+for both the VSE and MVS versions of ADAPTER. He did this in knowing violation of the CA em-
+ployee agreements that he had signed.  
+
+Once at Altai, Arney and Williams discussed design possibilities for adapting ZEKE to run on 
+MVS  operating  systems.  Williams,  who  had  created  the  VSE  version  of  ZEKE,  thought  that  ap-
+proximately  30%  of  his  original  program  would  have  to  be  modified  in  order  to  accommodate 
+MVS. Arney persuaded Williams that the best way to make the needed modifications was to intro-
+duce  a  "common  system  interface"  component  into  ZEKE.  He  did  not  tell  Williams  that  his  idea 
+stemmed from his familiarity with ADAPTER. They decided to name this new component-program 
+OSCAR.  
+
+Arney went to work creating OSCAR at Altai's offices using the ADAPTER source code. The 
+district  court  accepted  Williams'  testimony  that  no  one  at  Altai,  with  the  exception  of  Arney,  af-
+firmatively  knew  that  Arney  had  the  ADAPTER  code,  or  that  he  was  using  it  to  create  OS-
+CAR/VSE.  However,  during  this  time  period,  Williams'  office  was  adjacent  to  Arney's.  Williams 
+testified that he and Arney "conversed quite frequently" while Arney was "investigating the source 
+code  of  ZEKE"  and  that  Arney  was  in  his  office  "a  number  of  times  daily,  asking  questions."  In 
+three  months,  Arney  successfully  completed  the  OSCAR/VSE  project.  In  an  additional  month  he 
+developed an OSCAR/MVS version. When the dust finally settled, Arney had copied approximately 
+30% of OSCAR's code from CA's ADAPTER program.  
+
+ 
+
+5 
+
+ 
+
+The  first  generation  of  OSCAR  programs  was  known  as  OSCAR  3.4.  From  1985  to  August 
+1988,  Altai  used  OSCAR  3.4  in  its  ZEKE  product,  as  well  as  in  programs  entitled  ZACK  and 
+ZEBB.  In  late  July  1988,  CA  first  learned  that  Altai  may  have  appropriated  parts  of  ADAPTER. 
+After  confirming  its  suspicions,  CA  secured  copyrights  on  its  2.1  and  7.0  versions  of  CA-
+SCHEDULER. CA then brought this copyright and trade secret misappropriation action against Al-
+tai.  
+
+Apparently, it was upon receipt of the summons and complaint that Altai first learned that Ar-
+ney  had  copied  much  of  the  OSCAR  code  from  ADAPTER.  After  Arney  confirmed  to  Williams 
+that  CA's  accusations  of  copying  were  true,  Williams  immediately  set  out  to  survey  the  damage. 
+Without ever looking at the ADAPTER code himself, Williams learned from Arney exactly which 
+sections of code Arney had taken from ADAPTER.  
+
+Upon advice of counsel, Williams initiated OSCAR's rewrite. The project's goal was to save as 
+much  of  OSCAR  3.4  as  legitimately  could  be  used,  and  to  excise  those  portions  which  had  been 
+copied  from  ADAPTER.  Arney  was  entirely  excluded  from  the  process,  and  his  copy  of  the 
+ADAPTER code was locked away. Williams put eight other programmers on the project, none of 
+whom  had  been  involved  in  any  way  in  the  development  of  OSCAR  3.4.  Williams  provided  the 
+programmers with a description of the ZEKE operating system services so that they could rewrite 
+the  appropriate  code.  The  rewrite  project  took  about  six  months  to  complete  and  was  finished  in 
+mid-November 1989. The resulting program was entitled OSCAR 3.5.  
+
+From  that  point  on,  Altai  shipped  only  OSCAR  3.5  to  its  new  customers.  Altai  also  shipped 
+OSCAR 3.5 as a "free upgrade" to all customers that had previously purchased OSCAR 3.4. While 
+Altai and Williams acted responsibly to  correct Arney's literal copying of the ADAPTER program, 
+copyright infringement had occurred.  
+
+After CA originally instituted this action in the United States District Court for the District of 
+New Jersey, the parties stipulated its transfer in March, 1989, to the Eastern District of New York 
+where it was assigned to Judge Jacob Mishler. On October 26, 1989, Judge Mishler transferred the 
+case to Judge Pratt who was sitting in the district court by designation. Judge Pratt conducted a six 
+day trial from March 28 through April 6, 1990. He entered judgment on August 12, 1991, and this 
+appeal followed.  
+
+DISCUSSION 
+
+While both parties originally appealed from different aspects of the district court's judgment, Al-
+tai has now abandoned its appellate claims. In particular, Altai has conceded liability for the copy-
+ing of ADAPTER into OSCAR 3.4 and raises no challenge to the award of $ 364,444 in damages 
+on that score. Thus, we address only CA's appeal from the district court's rulings that: (1) Altai was 
+not liable for copyright infringement in developing OSCAR 3.5; and (2) in developing both OSCAR 
+3.4 and 3.5, Altai was not liable for misappropriating CA's trade secrets.  
+
+CA  makes  two  arguments.    First,  CA  contends  that  the  district  court  applied  an  erroneous 
+method for determining whether there exists substantial similarity between computer programs, and 
+thus, erred in determining that OSCAR 3.5 did not infringe the copyrights held on the different ver-
+sions of its CA-SCHEDULER program. CA asserts that the test applied by the district court failed 
+to account sufficiently for a computer program's non-literal elements. Second, CA maintains that the 
+district court erroneously concluded that its state law trade secret claims had been preempted by the 
+federal copyright act, see 17 U.S.C. § 301(a). We shall address each argument in turn. 
+
+ 
+
+6 
+
+ 
+
+ 
+
+I. COPYRIGHT INFRINGEMENT 
+
+In any suit for copyright infringement, the plaintiff must establish its ownership of a valid copy-
+right,  and  that  the  defendant  copied  the  copyrighted  work.  See  Novelty  Textile  Mills,  Inc.  v.  Joan 
+Fabrics Corp., 558 F.2d 1090, 1092 (2d Cir. 1977); see also 3 Melville B. Nimmer & David Nim-
+mer, Nimmer on Copyright § 13.01, at 13-4 (1991) (hereinafter "Nimmer"). The plaintiff may prove 
+defendant's copying either by direct evidence or, as is most often the case, by showing that (1) the 
+defendant  had  access  to  the  plaintiff's  copyrighted  work  and  (2)  that  defendant's  work  is  substan-
+tially similar to the plaintiff's copyrightable material. See Walker v. Time Life Films, Inc., 784 F.2d 
+44, 48 (2d Cir.), cert. denied, 476 U.S. 1159, 90 L. Ed. 2d 721, 106 S. Ct. 2278 (1986).  
+
+For the purpose of analysis, the district court assumed that Altai had access to the ADAPTER 
+code when creating OSCAR 3.5. See Computer Assocs., 775 F. Supp. at 558. Thus, in determining 
+whether  Altai  had  unlawfully  copied  protected  aspects  of  CA's  ADAPTER,  the  district  court  nar-
+rowed its focus of inquiry to ascertaining whether Altai's OSCAR 3.5 was substantially similar to 
+ADAPTER.  Because  we  approve  Judge  Pratt's  conclusions  regarding  substantial  similarity,  our 
+analysis will proceed along the same assumption.  
+
+As  a  general  matter,  and  to  varying  degrees,  copyright  protection  extends  beyond  a  literary 
+work's strictly textual form to its non-literal components. As we have said, "it is of course essential 
+to any protection of literary property . . . that the right cannot be limited literally to the text, else a 
+plagiarist would escape by immaterial variations." Nichols v. Universal Pictures Co., 45 F.2d 119, 
+121 (2d Cir. 1930) (L. Hand, J.), cert. denied, 282 U.S. 902, 75 L. Ed. 795, 51 S. Ct. 216 (1931). 
+Thus, where "the fundamental essence or structure of one work is duplicated in another," 3 Nimmer, 
+§ 13.03[A][1], at 13-24, courts have found copyright infringement. See, e.g., Horgan v. Macmillan, 
+789 F.2d 157, 162 (2d Cir. 1986) (recognizing that a book of photographs might infringe ballet cho-
+reography); Twentieth Century-Fox Film Corp. v. MCA, Inc., 715 F.2d 1327, 1329 (9th Cir. 1983) 
+(motion  picture  and  television  series);  Sid  &  Marty  Krofft  Television  Prods.,  Inc.  v.  McDonald's 
+Corp., 562 F.2d 1157, 1167 (9th Cir. 1977) (television commercial and television series); Sheldon v. 
+Metro-Goldwyn  Pictures  Corp.,  81  F.2d  49,  55  (2d  Cir.),  cert.  denied,  298  U.S.  669,  80  L.  Ed. 
+1392, 56 S. Ct. 835 (1936) (play and motion picture); accord Stewart v. Abend, 495 U.S. 207, 238, 
+109 L. Ed. 2d 184, 110 S. Ct. 1750 (1990) (recognizing that motion  picture may infringe copyright 
+in  book  by  using  its  "unique  setting,  characters,  plot,  and  sequence  of  events").  This  black  letter 
+proposition is the springboard for our discussion.  
+
+  A. Copyright Protection for the Non-literal Elements of Computer Programs  
+
+It is now well settled that the literal elements of computer programs, i.e., their source and object 
+codes,  are  the  subject  of  copyright  protection.  See  Whelan,  797  F.2d  at  1233  (source  and  object 
+code); CMS Software Design Sys., Inc. v. Info Designs, Inc., 785 F.2d 1246, 1247 (5th Cir. 1986) 
+(source  code);  Apple  Computer,  Inc.  v.  Franklin  Computer  Corp.,  714  F.2d  1240,  1249  (3d  Cir. 
+1983), cert. dismissed, 464 U.S. 1033, 104 S. Ct. 690, 79 L. Ed. 2d 158 (1984) (source and object 
+code);  Williams  Electronics,  Inc.  v.  Artic  Int'l,  Inc.,  685  F.2d  870,  876-77  (3d  Cir.  1982)  (object 
+code).  Here,  as  noted  earlier,  Altai  admits  having  copied  approximately  30%  of  the  OSCAR  3.4 
+program from CA's ADAPTER source code, and does not challenge the district court's related find-
+ing of infringement.  
+
+ 
+
+7 
+
+ 
+
+In this case, the hotly  contested issues surround OSCAR 3.5. As recounted above, OSCAR 3.5 
+is the product of Altai's carefully orchestrated rewrite of OSCAR 3.4. After the purge, none of the 
+ADAPTER source code remained in the 3.5 version; thus, Altai made sure that the literal elements 
+of  its  revamped  OSCAR  program  were  no  longer  substantially  similar  to  the  literal  elements  of 
+CA's ADAPTER.  
+
+According to CA, the district court erroneously concluded that Altai's OSCAR 3.5 was not sub-
+stantially similar to its own ADAPTER program. CA argues that this occurred because the district 
+court  "committed  legal  error  in  analyzing  [its]  claims  of  copyright  infringement  by  failing  to  find 
+that copyright protects expression contained in the non-literal elements of computer software." We 
+disagree.  
+
+CA argues that, despite Altai's rewrite of the OSCAR code, the resulting program remained sub-
+stantially similar to the structure of its ADAPTER program. As discussed above, a program's struc-
+ture includes its nonliteral components such as general flow charts as well as the more specific or-
+ganization of inter-modular relationships, parameter lists, and macros. In addition to these aspects, 
+CA contends that OSCAR 3.5 is also substantially similar to ADAPTER with respect to the list of 
+services that both ADAPTER and OSCAR obtain from their respective operating systems. We must 
+decide whether and to what extent these elements of computer programs are protected by copyright 
+law.  
+
+The  statutory  terrain  in  this  area  has  been  well  explored.  See  Lotus  Dev.  Corp.  v.  Paperback 
+Software  Int'l,  740  F.  Supp.  37,  47-51  (D.  Mass.  1990);  see  also  Whelan,  797  F.2d  at  1240-42; 
+Englund, at 885-90; Spivack, at 731-37. The Copyright Act affords protection to "original works of 
+authorship fixed in any tangible medium of expression . . . ." 17 U.S.C. § 102(a). This broad cate-
+gory of protected "works" includes "literary works," id. at § 102(a)(1), which are defined by the Act 
+as  
+  
+works,  other  than  audiovisual  works,  expressed  in  words,  numbers,  or  other  verbal  or  numerical 
+symbols  or  indicia,  regardless  of  the  nature  of  the  material  objects,  such  as  books,  periodicals, 
+manuscripts, phonorecords, film tapes, disks, or cards, in which they are embodied.  
+  
+17 U.S.C. § 101. While computer programs are not specifically listed as part of the above statutory 
+definition, the legislative history leaves no doubt that Congress intended them to be considered lit-
+erary  works.  See  H.R.Rep.  No.  1476,  94th  Cong.,  2d  Sess.  54,  reprinted  in  1976  U.S.C.C.A.N. 
+5659, 5667 (hereinafter "House Report"); Whelan, 797 F.2d at 1234; Apple Computer, 714 F.2d at 
+1247.  
+
+The  syllogism  that  follows  from  the  foregoing  premises  is  a  powerful  one:  if  the  non-literal 
+structures of literary works are protected by copyright; and if computer programs are literary works, 
+as we are told by the legislature; then the non-literal structures of computer programs are protected 
+by copyright. See Whelan, 797 F.2d at 1234 ("By analogy to other literary works, it would thus ap-
+pear that the copyrights of computer programs can be infringed even absent copying of the literal 
+elements  of  the  program.").  We  have  no  reservation  in  joining  the  company  of  those  courts  that 
+have already ascribed to this logic. See, e.g., Johnson Controls, Inc. v. Phoenix Control Sys., Inc., 
+886 F.2d 1173, 1175 (9th Cir. 1989); Lotus Dev. Corp., 740 F. Supp. at 54; Digital Communications 
+Assocs.,  Inc.  v.  Softklone  Distrib.  Corp.,  659  F.  Supp.  449,  455-56  (N.D.Ga.  1987);  Q-Co  Indus., 
+Inc. v. Hoffman, 625 F. Supp. 608, 615 (S.D.N.Y. 1985); SAS Inst., Inc. v. S & H Computer Sys., 
+
+ 
+
+8 
+
+ 
+
+Inc.,  605  F.  Supp.  816,  829-30  (M.D.Tenn.  1985).  However,  that  conclusion  does  not  end  our 
+analysis. We must determine the scope of copyright protection that extends to a computer program's 
+non-literal structure.  
+
+As  a  caveat,  we  note  that  our  decision  here  does  not  control  infringement  actions  regarding 
+categorically distinct works, such as certain types of screen displays. These items represent products 
+of computer programs, rather than the programs themselves, and fall under the copyright rubric of 
+audiovisual  works.  If  a  computer  audiovisual  display  is  copyrighted  separately  as  an  audiovisual 
+work, apart from the literary work that generates it (i.e., the program), the display may be protect-
+able regardless of the underlying program's copyright status. See Stern Elecs., Inc. v. Kaufman, 669 
+F.2d 852, 855 (2d Cir. 1982) (explaining that an audiovisual works copyright, rather than a copy-
+right on the underlying program, extended greater protection to the sights and sounds generated by a 
+computer  video  game  because  the  same  audiovisual  display  could  be  generated  by  different  pro-
+grams). Of course, the copyright protection that these displays enjoy extends only so far as their ex-
+pression is protectable. See Data East USA, Inc. v. Epyx, Inc., 862 F.2d 204, 209 (9th Cir. 1988). In 
+this case, however, we are concerned not with a program's display, but the program itself, and then 
+with  only  its  non-literal  components.  In  considering  the  copyrightability  of  these  components,  we 
+must refer to venerable doctrines of copyright law.  
+
+1) Idea vs. Expression Dichotomy  
+
+It is a fundamental principle of copyright law that a copyright does not protect an idea, but only 
+the expression of the idea. See Baker v. Selden, 101 U.S. 99, 25 L. Ed. 841 (1879); Mazer v. Stein, 
+347 U.S. 201, 217, 98 L. Ed. 630, 74 S. Ct. 460 (1954). This axiom of common law has been incor-
+porated into the governing statute. Section 102(b) of the Act provides:  
+  
+In  no case does copyright protection for an original work of authorship extend to any idea, proce-
+dure, process, system, method of operation, concept, principle, or discovery, regardless of the form 
+in which it is described, explained, illustrated, or embodied in such work.  
+  
+17 U.S.C. § 102(b). See also House Report, at 5670 ("Copyright does not preclude others from us-
+ing ideas or information revealed by the author's work.").  
+
+Congress made no special exception for computer programs. To the contrary, the legislative his-
+tory explicitly states that copyright protects computer programs only "to the extent that they incor-
+porate  authorship  in  programmer's  expression  of  original  ideas,  as  distinguished  from  the  ideas 
+themselves." Id. at 5667; see also id. at 5670 ("Section 102(b) is intended . . . to make clear that the 
+expression  adopted  by  the  programmer  is  the  copyrightable  element  in  a  computer  program,  and 
+that the actual processes or methods embodied in the program are not within the scope of copyright 
+law.").  
+
+Similarly,  the  National  Commission  on  New  Technological  Uses  of  Copyrighted  Works 
+("CONTU") established by Congress to survey the issues generated by the interrelationship of ad-
+vancing technology and copyright law, see Pub.L. No. 93-573, § 201, 88 Stat. 1873 (1974), recom-
+mended, inter alia, that the 1976 Copyright Act "be amended . . . to make it explicit that computer 
+programs, to the extent that they embody the author's original creation, are proper subject matter for 
+copyright."  See  National  Commission  on  New  Technological  Uses  of  Copyrighted  Works,  Final 
+Report 1 (1979) (hereinafter "CONTU Report"). To that end, Congress adopted CONTU's sugges-
+tions and amended the Copyright Act by adding, among other things, a provision to 17 U.S.C. § 101 
+
+ 
+
+9 
+
+ 
+
+which defined the term "computer program." See Pub.L. No. 96-517, § 10(a), 94 Stat.  3028 (1980). 
+CONTU  also  "concluded  that  the  idea-expression  distinction  should  be  used  to  determine  which 
+aspects  of  computer  programs  are  copyrightable."  Lotus  Dev.  Corp.,  740  F.  Supp.  at  54  (citing 
+CONTU Report, at 44).  
+
+Drawing the line between idea and expression is a tricky business. Judge Learned Hand noted 
+that  "nobody  has  ever  been  able  to  fix  that  boundary,    and  nobody  ever  can."  Nichols,  45  F.2d  at 
+121. Thirty years later his convictions remained firm. "Obviously, no principle can be stated as to 
+when  an  imitator  has  gone  beyond  copying  the  'idea,'  and  has  borrowed  its  'expression,'"  Judge 
+Hand concluded. "Decisions must therefore inevitably be ad hoc." Peter Pan Fabrics, Inc. v. Martin 
+Weiner Corp., 274 F.2d 487, 489 (2d Cir. 1960). 
+
+The essentially utilitarian nature of a computer program further complicates the task of distilling 
+its idea from its expression. See SAS Inst., 605 F. Supp. at 829; cf. Englund, at 893. In order to de-
+scribe both computational processes and abstract ideas, its content "combines creative and technical 
+expression."  See  Spivack,  at  755.  The  variations  of  expression  found  in  purely  creative  composi-
+tions, as opposed to those contained in utilitarian works, are not directed towards practical applica-
+tion. For example, a narration of Humpty Dumpty's demise, which would clearly be a creative com-
+position, does not serve the same ends as, say, a recipe for scrambled eggs--which is a more process 
+oriented  text.  Thus,  compared  to  aesthetic  works,  computer  programs  hover  even  more  closely  to 
+the elusive boundary line described in § 102(b).  
+
+The doctrinal starting point in analyses of utilitarian works, is the seminal case of Baker v. Sel-
+den, 101 U.S. 99, 25 L. Ed. 841 (1879). In Baker, the Supreme Court faced the question of "whether 
+the exclusive property in a system of bookkeeping can be claimed, under the law of copyright, by 
+means of a book in which that system is explained?" Id. at 101. Selden had copyrighted a book that 
+expounded  a  particular  method  of  bookkeeping.  The  book  contained  lined  pages  with  headings 
+intended to illustrate the manner in which the system operated. Baker's accounting publication in-
+cluded ledger sheets that employed "substantially the same ruled lines and headings. . . ." Id. Sel-
+den's testator sued Baker for copyright infringement on the theory that the ledger sheets were pro-
+tected by Selden's copyright.  
+
+The Supreme Court found nothing copyrightable in Selden's bookkeeping system, and rejected 
+
+his infringement claim regarding the ledger sheets. The Court held that:  
+
+The fact that the art described in the book by illustrations of lines and figures which are repro-
+duced in practice in the application of the art, makes no difference. Those illustrations are the mere 
+language employed by the author to convey his ideas more clearly. Had he used words of descrip-
+tion instead of diagrams (which merely stand in the place of words), there could not be the slightest 
+doubt  that  others,  applying  the  art  to  practical  use,  might  lawfully  draw  the  lines  and  diagrams 
+which were in the author's mind, and which he thus described by words in his book.  
+
+The copyright of a work on mathematical science cannot give to the author an exclusive right to 
+the  methods  of  operation  which  he  propounds,  or  to  the  diagrams  which  he  employs  to  explain 
+them, so as to prevent an engineer from using them whenever occasion requires.  
+  
+Id. at 103.  
+
+To the extent that an accounting text and a computer program are both "a set of statements or in-
+structions . . . to bring about a certain result," 17 U.S.C. § 101, they are roughly analogous. In the 
+
+ 
+
+10 
+
+ 
+
+former  case,  the  processes  are  ultimately  conducted  by  human  agency;  in  the  latter,  by  electronic 
+means.  In either case, as already stated, the processes themselves are not protectable. But the hold-
+ing in Baker goes farther. The Court concluded that those aspects of a work, which "must necessar-
+ily  be  used  as  incident  to"  the  idea,  system  or  process  that  the  work  describes,  are  also  not  copy-
+rightable.  101 U.S. at 104. Selden's ledger sheets, therefore, enjoyed  no copyright protection be-
+cause  they  were  "necessary  incidents  to"  the  system  of  accounting  that  he  described.    Id.  at  103. 
+From  this  reasoning,  we  conclude  that  those  elements  of  a  computer  program  that  are  necessarily 
+incidental to its function are similarly unprotectable.  
+
+While Baker v. Selden provides a sound analytical foundation, it offers scant guidance on how 
+to separate idea or process from expression, and moreover, on how to further distinguish protectable 
+expression from that expression which "must necessarily be used as incident to" the work's underly-
+ing concept. In the context of computer programs, the Third Circuit's noted decision in Whelan has, 
+thus far, been the most thoughtful attempt to accomplish these ends.  
+
+The court in Whelan faced substantially the same problem as is presented by this case. There, 
+the defendant was accused of making off with the non-literal structure of the plaintiff's copyrighted 
+dental lab management program, and employing it to create its own competitive version. In assess-
+ing whether there had been an infringement, the court had to determine which aspects of the pro-
+grams involved were ideas, and which were expression. In separating the two, the court settled upon 
+the following conceptual approach:  
+  
+The line between idea and expression may be drawn with reference to the end sought to be achieved 
+by the work in question. In other words, the purpose or function of a utilitarian work would be the 
+work's idea, and everything that is not necessary to that purpose or function would be part of the 
+expression of the idea. . . . Where there are various means of achieving the desired purpose, then the 
+particular means chosen is not necessary to the purpose; hence, there is expression, not idea.  
+  
+797 F.2d at 1236 (citations omitted). The "idea" of the program at issue in Whelan was identified by 
+the court as simply "the efficient management of a dental laboratory." Id. at  n.28.  
+
+So  far,  in  the  courts,  the  Whelan  rule  has  received  a  mixed  reception.  While  some  decisions 
+have adopted its reasoning, see, e.g., Bull HN Info. Sys., Inc. v. American Express Bank, Ltd., 1990 
+Copyright Law Dec. (CCH) P 26,555 at 23,278 (S.D.N.Y. 1990); Dynamic Solutions, Inc. v. Plan-
+ning & Control, Inc., 1987 Copyright Law Dec. (CCH) P 26,062 at 20,912 (S.D.N.Y. 1987); Brod-
+erbund Software Inc. v. Unison World, Inc., 648 F. Supp. 1127, 1133 (N.D.Cal. 1986), others have 
+rejected it. See Plains Cotton Co-op v. Goodpasture Computer Serv, Inc., 807 F.2d 1256, 1262 (5th 
+Cir.), cert. denied, 484 U.S. 821, 108 S. Ct. 80, 98 L. Ed. 2d 42 (1987); cf.  Synercom Technology, 
+Inc. v. University Computing Co., 462 F. Supp. 1003, 1014 (N.D.Tex. 1978) (concluding that order 
+and sequence of data on computer input formats was idea not expression).  
+
+Whelan has fared even more poorly in the academic community, where its standard for distin-
+guishing  idea  from  expression  has  been  widely  criticized  for  being  conceptually  overbroad.  See, 
+e.g., Englund, at 881; Menell, at 1074, 1082; Kretschmer, at 837-39; Spivack, at 747-55; Thomas 
+M. Gage, Note, Whelan Associates v. Jaslow Dental Laboratories: Copyright Protection for Com-
+puter Software Structure--What's the Purpose?, 1987 WIS. L. REV. 859, 860-61 (1987). The lead-
+ing commentator in the field has stated that, "the crucial flaw in [Whelan's] reasoning is that it as-
+sumes that only one 'idea,' in copyright law terms, underlies any computer program, and that once a 
+
+ 
+
+11 
+
+ 
+
+separable idea can be identified, everything else must be expression." 3 Nimmer § 13.03[F], at 13-
+62.34.  This  criticism  focuses  not  upon  the  program's  ultimate  purpose  but  upon  the  reality  of  its 
+structural design. As we have already noted, a computer program's ultimate function or purpose is 
+the composite result of interacting subroutines. Since each subroutine is itself a program, and thus, 
+may be said to have its own "idea," Whelan's general formulation that a program's overall purpose 
+equates with the program's idea is descriptively inadequate.  
+
+Accordingly,  we  think  that  Judge  Pratt  wisely  declined  to  follow  Whelan.  See  Computer  As-
+socs., 775 F. Supp. at 558-60. In addition to noting the weakness in the Whelan definition of "pro-
+gram-idea," mentioned above, Judge Pratt found that Whelan's synonymous use of the terms "struc-
+ture, sequence, and organization," see Whelan, 797 F.2d at 1224 n.1, demonstrated a flawed under-
+standing of a computer program's method of operation. See Computer Assocs., 775 F. Supp. at 559-
+60  (discussing  the  distinction  between  a  program's  "static  structure"  and  "dynamic  structure"). 
+Rightly, the district court found Whelan's rationale suspect because it is so closely tied to what can 
+now  be  seen--with  the  passage  of  time--as  the  opinion's  somewhat  outdated  appreciation  of  com-
+puter science.  
+
+2)  Substantial  Similarity  Test  for  Computer  Program  Structure:  Abstraction-Filtration-
+
+Comparison 
+
+We think that Whelan's approach to separating idea from expression in computer programs re-
+lies too heavily on metaphysical distinctions and does not place enough emphasis on practical con-
+siderations.  Cf.    Apple  Computer,  714  F.2d  at  1253  (rejecting  certain  commercial  constraints  on 
+programming as a helpful means of distinguishing idea from expression because they did "not enter 
+into  the  somewhat  metaphysical  issue  of  whether  particular  ideas  and  expressions  have  merged"). 
+As  the  cases  that  we  shall  discuss  demonstrate,  a  satisfactory  answer  to  this  problem  cannot  be 
+reached by resorting, a priori, to philosophical first principals.  
+
+As  discussed  herein,  we  think  that  district  courts  would  be  well-advised  to  undertake  a  three-
+step  procedure,  based  on  the  abstractions  test  utilized  by  the  district  court,  in  order  to  determine 
+whether the non-literal elements of two or more computer programs are substantially similar. This 
+approach  breaks  no  new  ground;  rather,  it  draws  on  such  familiar  copyright  doctrines  as  merger, 
+scenes a faire, and public domain. In taking this approach, however, we are cognizant that computer 
+technology  is  a  dynamic  field  which  can  quickly  outpace  judicial  decisionmaking.  Thus,  in  cases 
+where the technology in question does not allow for a literal application of the procedure we outline 
+below, our opinion should not be read to foreclose the district courts of our circuit from utilizing a 
+modified version.  
+
+In ascertaining substantial similarity under this approach, a court would first break down the al-
+legedly  infringed  program  into  its  constituent  structural  parts.  Then,  by  examining  each  of  these 
+parts for such things as incorporated ideas, expression that is necessarily incidental to those ideas, 
+and elements that are taken from the public domain, a court would then be able to sift out all non-
+protectable material. Left with a kernel, or possibly kernels, of creative expression after following 
+this process of elimination, the court's last step would be to compare this material with the structure 
+of an allegedly infringing program. The result of this comparison will determine whether the pro-
+tectable elements of the programs at issue are substantially similar so as to warrant a finding of in-
+fringement. It will be helpful to elaborate a bit further.  
+
+Step One: Abstraction 
+
+ 
+
+12 
+
+ 
+
+As  the  district  court  appreciated,  see  Computer  Assocs.,  775  F.  Supp.  at  560,  the  theoretic 
+framework for analyzing substantial similarity expounded by Learned Hand in the Nichols case is 
+helpful in the present context. In Nichols, we enunciated what has now become known as the "ab-
+stractions" test for separating idea from expression:  
+  
+Upon any work . . . a great number of patterns of increasing generality will fit equally well, as more 
+and more of the incident is left out. The last may perhaps be no more than the most general state-
+ment of what the [work] is about, and at times might consist only of its title; but there is a point in 
+this  series  of  abstractions  where  they  are  no  longer  protected,  since  otherwise  the  [author]  could 
+prevent the use of his "ideas," to which, apart from their expression, his property is never extended.  
+  
+Nichols, 45 F.2d at 121.  
+
+While the abstractions test was originally applied in relation to literary works such as novels and 
+plays, it is adaptable to computer programs. In contrast to the Whelan approach, the abstractions test 
+"implicitly recognizes that any given work may consist of a mixture of numerous ideas and expres-
+sions." 3 Nimmer § 13.03[F] at 13-62.34-63.  
+
+As applied to computer programs, the abstractions test will comprise the first step in the exami-
+nation for substantial similarity. Initially, in a manner that resembles reverse engineering on a theo-
+retical plane, a court should dissect the allegedly copied program's structure and isolate each level 
+of abstraction contained within it. This process begins with the code and ends with an articulation of 
+the program's ultimate function. Along the way, it is necessary essentially to retrace and map each 
+of  the  designer's  steps--in  the  opposite  order  in  which  they  were  taken  during  the  program's  crea-
+tion. See Background: Computer Program Design, supra.  
+
+As an anatomical guide to this procedure, the following description is helpful:  
+
+At the lowest level of abstraction, a computer program may be thought of in its entirety as a set 
+of individual instructions organized into a hierarchy of modules. At a higher level of abstraction, the 
+instructions  in  the  lowest-level  modules  may  be  replaced  conceptually  by  the  functions  of  those 
+modules. At progressively higher levels of abstraction, the functions of higher-level modules con-
+ceptually  replace  the  implementations  of  those  modules  in  terms  of  lower-level  modules  and  in-
+structions, until finally, one is left with nothing but the ultimate function of the program. . . . A pro-
+gram has structure at every level of abstraction at which it is viewed. At low levels of abstraction, a 
+program's structure may be quite complex; at the highest level it is trivial.  
+
+Englund, at 897-98. Cf. Spivack, at 774.  
+
+Step Two: Filtration 
+
+Once  the  program's  abstraction  levels  have  been  discovered,  the  substantial  similarity  inquiry 
+moves from the conceptual to the concrete. Professor Nimmer suggests, and we endorse, a "succes-
+sive filtering method" for separating protectable expression from non-protectable material. See gen-
+erally 3 Nimmer § 13.03[F]. This process entails examining the structural components at each level 
+of abstraction to determine whether their particular inclusion at that level was "idea" or was dictated 
+by  considerations  of  efficiency,  so  as  to  be  necessarily  incidental  to  that  idea;  required  by  factors 
+external to the program itself; or taken from the public domain and hence is nonprotectable expres-
+sion. See also Kretschmer, at 844-45 (arguing that program features dictated by market externalities 
+
+ 
+
+13 
+
+ 
+
+or efficiency concerns are unprotectable). The structure of any given program may reflect some, all, 
+or none of these considerations. Each case requires its own fact specific investigation.  
+
+Strictly  speaking,  this  filtration  serves  "the  purpose  of  defining  the  scope  of  plaintiff's  copy-
+right." Brown Bag Software v. Symantec Corp., 960 F.2d 1465, 1475 (9th Cir.) (endorsing "analytic 
+dissection" of computer programs in order to isolate protectable expression), cert. denied, 113 S. Ct. 
+198, 121 L. Ed. 2d 141 (1992). By applying well developed doctrines of copyright law, it may ulti-
+mately leave behind a "core of protectable material." 3 Nimmer § 13.03[F][5], at 13-72. Further ex-
+plication of this second step may be helpful.  
+
+(a) Elements Dictated by Efficiency 
+
+The portion of Baker v. Selden, discussed earlier, which denies copyright protection to expres-
+sion necessarily incidental to the idea being expressed, appears to be the cornerstone for what has 
+developed into the doctrine of merger. See Morrissey v. Procter & Gamble Co., 379 F.2d 675, 678-
+79  (1st  Cir.  1967)  (relying  on  Baker  for  the  proposition  that  expression  embodying  the  rules  of  a 
+sweepstakes contest was inseparable from the idea of the contest itself, and therefore were not pro-
+tectable by copyright); see also Digital Communications, 659 F. Supp. at 457. The doctrine's under-
+lying principle is that "when there is essentially only one way to express an idea, the idea and its 
+expression are inseparable and copyright is no bar to copying that expression." Concrete Machinery 
+Co. v. Classic Lawn Ornaments, Inc., 843 F.2d 600, 606 (1st Cir. 1988). Under these circumstances, 
+the expression is said to have "merged" with the idea itself. In order not to confer a monopoly of the 
+idea  upon  the  copyright  owner,  such  expression  should  not  be  protected.  See  Herbert  Rosenthal 
+Jewelry Corp. v. Kalpakian, 446 F.2d 738, 742 (9th Cir. 1971).  
+
+CONTU recognized the applicability of the merger doctrine to computer programs. In its report 
+
+to Congress it stated that:  
+
+Copyrighted language may be copied without infringing when there is but a limited number of 
+ways  to  express  a  given  idea.  .  .  . In the computer context, this means that when specific instruc-
+tions,  even  though  previously  copyrighted,  are  the  only  and  essential  means  of  accomplishing  a 
+given task, their later use by another will not amount to infringement.  
+
+CONTU Report at 20. While this statement directly concerns only the application of merger to 
+program code, that is, the textual aspect of the program, it reasonably suggests that the doctrine fits 
+comfortably within the general context of computer programs.  
+
+Furthermore, when one considers the fact that programmers generally strive to create programs 
+"that meet the user's needs in the most efficient manner," Menell, at 1052, the applicability of the 
+merger  doctrine  to  computer  programs  becomes  compelling.  In  the  context  of  computer  program 
+design, the concept of efficiency is akin to deriving the most concise logical proof or formulating 
+the  most  succinct  mathematical  computation.  Thus,  the  more  efficient  a  set  of  modules  are,  the 
+more  closely  they  approximate  the  idea  or  process  embodied  in  that  particular  aspect  of  the  pro-
+gram's structure.  
+
+While, hypothetically, there might be a myriad of ways in which a programmer may effectuate 
+certain  functions  within  a  program,--i.e.,  express  the  idea  embodied  in  a  given  subroutine--
+efficiency concerns may so narrow the practical range of choice as to make only one or two forms 
+of expression workable options. See 3 Nimmer § 13.03[F][2], at 13-63; see also Whelan, 797 F.2d 
+at 1243 n.43 ("It is true that for certain tasks there are only a very limited number of file structures 
+
+ 
+
+14 
+
+ 
+
+available,  and  in  such  cases  the  structures    might  not  be  copyrightable  .  .  .  .").  Of  course,  not  all 
+program structure is informed by efficiency concerns. See Menell, at 1052 (besides efficiency, sim-
+plicity related to user accommodation has become a programming priority). It follows that in order 
+to determine whether the merger doctrine precludes copyright protection to an aspect of a program's 
+structure that is so oriented, a court must inquire "whether the use of this particular set of modules 
+is  necessary  efficiently  to  implement  that  part  of  the  program's  process"  being  implemented. 
+Englund, at 902. If the answer is yes, then the expression represented by the programmer's choice of 
+a specific module or group of modules has merged with their underlying idea and is unprotected. Id. 
+at 902-03.  
+
+Another justification for linking structural economy with the application of the merger doctrine 
+stems  from  a  program's  essentially  utilitarian  nature  and  the  competitive  forces  that  exist  in  the 
+software marketplace. See Kretschmer, at 842. Working in tandem, these factors give rise to a prob-
+lem of proof which merger helps to eliminate.  
+
+Efficiency is an industry-wide goal. Since, as we have already noted, there may be only a lim-
+ited number of efficient implementations for any given program task, it is quite possible that multi-
+ple programmers, working independently, will design the identical method employed in the alleg-
+edly  infringed  work.  Of  course,  if  this  is  the  case,  there  is  no  copyright  infringement.  See  Roth 
+Greeting Cards v. United Card Co., 429 F.2d 1106, 1110 (9th Cir. 1970); Sheldon, 81 F.2d at 54.  
+
+Under these circumstances, the fact that two programs contain the same efficient structure may 
+as likely lead to an inference of independent creation as it does to one of copying. See 3 Nimmer § 
+13.03[F][2], at 13-65; cf. Herbert Rosenthal Jewelry Corp., 446 F.2d at 741 (evidence of independ-
+ent  creation  may  stem  from  defendant's  standing  as  a  designer  of  previous  similar  works).  Thus, 
+since evidence of similarly efficient structure is not particularly probative of copying, it should be 
+disregarded in the overall substantial similarity analysis. See 3 Nimmer § 13.03[F][2], at 13-65.  
+
+We find support for applying the merger doctrine in cases that have already addressed the ques-
+tion of substantial similarity in the context of computer program structure. Most recently, in Lotus 
+Dev. Corp., 740 F. Supp. at 66, the district court had before it a claim of copyright infringement re-
+lating  to  the  structure  of  a  computer  spreadsheet  program.  The  court  observed  that  "the  basic 
+spreadsheet screen display that resembles a rotated 'L'. . ., if not present in every expression of such 
+a  program,  is  present  in  most  expressions."  Id.  Similarly,  the  court  found  that  "an  essential  detail 
+present in most if not all expressions of an electronic spreadsheet--is the designation of a particular 
+key that, when pressed, will invoke the menu command system." Id. Applying the merger doctrine, 
+the court denied copyright protection to both program elements.  
+
+In Manufacturers Technologies, Inc. v. Cams, Inc., 706 F. Supp. 984, 995-99 (D. Conn. 1989), 
+the  infringement  claims  stemmed  from  various  alleged  program  similarities  "as  indicated  in  their 
+screen  displays."  Id.  at  990.  Stressing  efficiency  concerns  in  the  context  of  a  merger  analysis,  the 
+court determined that the program's method of allowing the  user to navigate within the screen dis-
+plays was not protectable because, in part, "the process or manner of navigating internally on any 
+specific screen displays . . . is limited in the number of ways it may be simply achieved to facilitate 
+user comfort." Id. at 995.  
+
+The court also found that expression contained in various screen displays (in the form of alpha-
+betical and numerical columns), was not the proper subject of copyright protection because it was 
+"necessarily incident to the ideas" embodied in the displays. Id. at 996-97. Cf.  Digital Communica-
+
+ 
+
+15 
+
+ 
+
+tions, 659 F. Supp. at 460 (finding no merger and affording copyright protection to program's status 
+screen display because "modes of expression chosen . . . are clearly not necessary to the idea of the 
+status screen").  
+
+We  agree  with  the  approach  taken  in  these  decisions,  and  conclude  that  application  of  the 
+merger doctrine in this setting is an effective way to eliminate non-protectable expression contained 
+in computer programs.  
+
+(b) Elements Dictated By External Factors 
+
+We have stated that where "it is virtually impossible to write about a particular historical era or 
+fictional  theme  without  employing  certain  'stock'  or  standard  literary  devices,"  such  expression  is 
+not copyrightable.  Hoehling v. Universal City Studios, Inc., 618 F.2d 972, 979 (2d Cir.), cert. de-
+nied, 449 U.S. 841, 66 L. Ed. 2d 49, 101 S. Ct. 121 (1980). For example, the Hoehling case was an 
+infringement  suit  stemming  from  several  works  on  the  Hindenberg  disaster.  There  we  concluded 
+that similarities in representations of German beer halls, scenes depicting German greetings such as 
+"Heil Hitler," or the singing of certain German songs would not lead to a finding of infringement 
+because they were "'indispensable, or at least standard, in the treatment of'" life in Nazi Germany. 
+Id. (quoting Alexander v. Haley, 460 F. Supp. 40, 45 (S.D.N.Y. 1978)). This is known as the scenes 
+a faire doctrine, and like "merger," it has its analogous application to computer programs. Cf.  Data 
+East USA, 862 F.2d at 208 (applying scenes a faire to a home computer video game).  
+
+Professor  Nimmer  points  out  that  "in  many  instances  it  is  virtually  impossible  to  write  a  pro-
+gram to perform particular functions in a specific computing environment without employing stan-
+dard techniques." 3 Nimmer § 13.03[F][3], at 13-65. This is a result of the fact that a programmer's 
+freedom  of  design  choice  is  often  circumscribed  by  extrinsic  considerations  such  as  (1)  the  me-
+chanical specifications of the computer on which a particular program  [*710]  is intended to run; 
+(2)  compatibility  requirements  of  other  programs  with  which  a  program  is  designed  to  operate  in 
+conjunction; (3) computer manufacturers' design standards; (4) demands of the industry being serv-
+iced; and (5) widely accepted programming practices within the computer industry. Id. at 13-66-71.  
+
+Courts have already considered some of these factors in denying copyright protection to various 
+elements of computer programs. In the Plains Cotton case, the Fifth Circuit refused to reverse the 
+district  court's  denial  of  a  preliminary  injunction  against  an  alleged  program  infringer  because,  in 
+part, "many of the similarities between the . . . programs [were] dictated by the externalities of the 
+cotton market." 807 F.2d at 1262.  
+
+In  Manufacturers  Technologies,  the  district  court  noted  that  the  program's  method  of  screen 
+navigation "is influenced by the type of hardware that the software is designed to be used on." 706 
+F.  Supp.  at  995.  Because,  in  part,  "the  functioning  of  the  hardware  package  impacted  and  con-
+strained the type of navigational tools used in plaintiff's screen displays," the court denied copyright 
+protection to that aspect of the program. Cf.  Data East USA, 862 F.2d at 209 (reversing a district 
+court's  finding  of  audiovisual  work  infringement  because,  inter  alia,  "the  use  of  the  Commodore 
+computer for a karate game intended for home consumption is subject to various constraints inher-
+ent in the use of that computer").  
+
+Finally,  the  district  court  in  Q-Co  Industries  rested  its  holding  on  what,  perhaps,  most  closely 
+approximates a traditional scenes a faire rationale. There, the court denied copyright protection to 
+four  program  modules  employed  in  a  teleprompter  program.  This  decision  was  ultimately  based 
+
+ 
+
+16 
+
+ 
+
+upon  the  court's  finding  that  "the  same  modules  would  be  an  inherent  part  of  any  prompting  pro-
+gram." 625 F. Supp. at 616.  
+
+Building upon this existing case law, we conclude that a court must also examine the structural 
+content  of  an  allegedly  infringed  program  for  elements  that  might  have  been  dictated  by  external 
+factors.  
+
+(c) Elements taken From the Public Domain 
+
+Closely  related  to  the  non-protectability  of  scenes  a  faire,  is  material  found  in  the  public  do-
+main. Such material is free for the taking and cannot be appropriated by a single author even though 
+it  is  included  in  a  copyrighted  work.  See  E.F.  Johnson  Co.  v.  Uniden  Corp.  of  America,  623  F. 
+Supp. 1485, 1499 (D. Minn. 1985); see also Sheldon, 81 F.2d at 54. We see no reason to make an 
+exception to this rule for elements of a computer program that have entered the public domain by 
+virtue of freely accessible program exchanges and the like. See 3 Nimmer § 13.03[F][4]; see also 
+Brown Bag Software, 960 F.2d at 1473 (affirming the district court's finding that "'plaintiffs may not 
+claim  copyright  protection  of  an  .  .  .  expression  that  is,  if  not  standard,  then  commonplace  in  the 
+computer  software  industry.'").  Thus,  a  court  must  also  filter  out  this  material  from  the  allegedly 
+infringed program before it makes the final inquiry in its substantial similarity analysis. 
+
+Step Three: Comparison  
+
+The third and final step of the test for substantial similarity that we believe appropriate for non-
+literal program components entails a comparison. Once a court has sifted out all elements of the al-
+legedly  infringed  program  which  are  "ideas"  or  are  dictated  by  efficiency  or  external  factors,  or 
+taken  from  the  public  domain,  there  may  remain  a  core  of  protectable  expression.  In  terms  of  a 
+work's  copyright  value,  this  is  the  golden  nugget.  See  Brown  Bag  Software,  960  F.2d  at  1475.  At 
+this point, the court's substantial similarity inquiry focuses on whether the defendant copied any as-
+pect  of  this  protected  expression,  as  well  as  an  assessment  of  the  copied  portion's  relative  impor-
+tance with respect to the plaintiff's overall program. See 3 Nimmer § 13.03[F][5]; Data East USA, 
+862 F.2d at 208 ("To determine whether similarities result from unprotectable expression, analytic 
+dissection  of  similarities  may  be  performed.  If  .  .  .  all  similarities  in  expression  arise  from  use  of 
+common ideas, then no substantial similarity can be found.").  
+
+3) Policy Considerations  
+
+We are satisfied that the three step approach we have just outlined not only comports with, but 
+advances  the  constitutional  policies  underlying  the  Copyright  Act.  Since  any  method  that  tries  to 
+distinguish idea from expression ultimately impacts on the scope of copyright protection afforded to 
+a particular type of work, "the line [it draws] must be a pragmatic one, which also keeps in consid-
+eration 'the preservation of the balance between competition and protection. . . .'" Apple Computer, 
+714 F.2d at 1253 (citation omitted).  
+
+CA  and  some  amici  argue  against  the  type  of  approach  that  we  have  set  forth  on  the  grounds 
+that  it  will  be  a  disincentive  for  future  computer  program  research  and  development.  At  bottom, 
+they claim that if programmers are not guaranteed broad copyright protection for their work, they 
+will not invest the extensive time, energy and funds required to design and improve program struc-
+tures.  While  they  have  a  point,  their  argument  cannot  carry  the  day.  The  interest  of  the  copyright 
+law is not in simply conferring a monopoly on industrious persons, but in advancing the public wel-
+
+ 
+
+17 
+
+ 
+
+fare through rewarding artistic creativity, in a manner that permits the free use and development of 
+non-protectable ideas and processes.  
+
+In this respect, our conclusion is informed by Justice Stewart's concise discussion of the princi-
+ples  that  correctly  govern  the  adaptation  of  the  copyright  law  to  new  circumstances.  In  Twentieth 
+Century Music Corp. v. Aiken, he wrote:  
+
+The limited scope of the copyright holder's statutory monopoly, like the limited copyright dura-
+tion  required  by  the  Constitution,  reflects  a  balance  of  competing  claims  upon  the  public  interest: 
+Creative work is to be encouraged and rewarded, but private motivation must ultimately serve the 
+cause of promoting broad public availability of literature, music, and the other arts.  
+
+The immediate effect of our copyright law is to secure a fair return for an "author's" creative la-
+bor. But the ultimate aim is, by this incentive, to stimulate artistic creativity for the general public 
+good. . . . When technological change has rendered its literal terms ambiguous, the Copyright Act 
+must be construed in light of this basic purpose.  
+  
+422 U.S. 151, 156, 95 S. Ct. 2040, 45 L. Ed. 2d 84 (1975) (citations and footnotes omitted).  
+
+  Recently, the Supreme Court has emphatically reiterated that "the primary objective of copy-
+right is not to reward the labor of authors. . . ." Feist Publications, Inc. v. Rural Tel. Serv. Co., 113 
+L. Ed. 2d 358, 111 S. Ct. 1282, 1290 (1991) (emphasis added). While the Feist decision deals pri-
+marily with the copyrightability of purely factual compilations, its underlying tenets apply to much 
+of the work involved in computer programming. Feist put to rest the "sweat of the brow" doctrine in 
+copyright law. Id. at 1295. The rationale of that doctrine "was that copyright was a reward for the 
+hard work that went into compiling facts." Id. at 1291. The Court flatly rejected this justification for 
+extending copyright protection, noting that it "eschewed the most fundamental axiom of copyright 
+law--that no one may copyright facts or ideas." Id. 
+
+Feist  teaches  that  substantial  effort  alone  cannot  confer  copyright  status  on  an  otherwise  un-
+copyrightable work. As we have discussed, despite the fact that significant labor and expense often 
+goes  into  computer  program  flow-charting  and  debugging,  that  process  does  not  always  result  in 
+inherently protectable expression. Thus, Feist implicitly undercuts the Whelan rationale, "which al-
+lowed  copyright  protection  beyond  the  literal  computer  code  .  .  .  [in  order  to]  provide  the  proper 
+incentive for programmers by protecting their most valuable efforts. . . ." Whelan, 797 F.2d at 1237 
+(footnote omitted). We note that Whelan was decided prior to Feist when the "sweat of the brow" 
+doctrine still had vitality. In view of the Supreme Court's recent holding, however, we must reject 
+the legal basis of CA's disincentive argument.  
+
+Furthermore,  we  are  unpersuaded  that  the  test  we  approve  today  will  lead  to  the  dire  conse-
+quences for the computer program industry that plaintiff and some amici predict. To the contrary, 
+serious students of the industry have been highly critical of the sweeping scope of copyright protec-
+tion engendered by the Whelan rule, in that it "enables first comers to 'lock up' basic programming 
+techniques  as  implemented  in  programs  to  perform  particular  tasks."  Menell,  at  1087;  see  also 
+Spivack,  at  765  (Whelan  "results  in  an  inhibition  of  creation  by  virtue  of  the  copyright    owner's 
+quasi-monopoly power").  
+
+To be frank, the exact contours of copyright protection for non-literal program structure are not 
+completely clear. We trust that as future cases are decided, those limits will become better defined. 
+Indeed, it may well be that the Copyright Act serves as a relatively weak barrier against public ac-
+
+ 
+
+18 
+
+ 
+
+cess to the theoretical interstices behind a program's source and object codes. This results from the 
+hybrid nature of a computer program, which, while it is literary expression, is also a highly func-
+tional, utilitarian component in the larger process of computing.  
+
+Generally, we think that copyright registration--with its indiscriminating availability--is not ide-
+ally suited to deal with the highly dynamic technology of computer science. Thus far, many of the 
+decisions in this area reflect the courts' attempt to fit the proverbial square peg in a round hole. The 
+district court, see Computer Assocs., 775 F. Supp. at 560, and at least one commentator have sug-
+gested that patent registration, with its exacting up-front novelty and non-obviousness requirements, 
+might be the more appropriate rubric of protection for intellectual property of this kind. See Randell 
+M. Whitmeyer, Comment, A Plea for Due Processes: Defining the Proper Scope of Patent Protec-
+tion for Computer Software, 85 NW. U. L. REV. 1103, 1123-25 (1991); see also Lotus Dev. Corp. 
+v. Borland Int'l, Inc., 788 F. Supp. 78, 91 (D. Mass. 1992) (discussing the potentially supplemental 
+relationship between patent and copyright protection in the context of computer programs). In any 
+event, now that more than 12 years have passed since CONTU issued its final report, the resolution 
+of this specific issue could benefit from further legislative investigation--perhaps a CONTU II.  
+
+In the meantime, Congress has made clear that computer programs are literary works entitled to 
+copyright protection. Of course, we shall abide by these instructions, but in so doing we must not 
+impair  the  overall  integrity  of  copyright  law.  While  incentive  based  arguments  in  favor  of  broad 
+copyright  protection  are  perhaps  attractive  from  a  pure  policy  perspective,  see  Lotus  Dev.  Corp., 
+740 F. Supp. at 58, ultimately, they have a corrosive effect on certain fundamental tenets of copy-
+right doctrine.   If the test we have outlined results in narrowing the scope of protection, as we ex-
+pect it will, that result flows from applying, in accordance with Congressional intent, long-standing 
+principles of copyright law to computer programs. Of course, our decision is also informed by our 
+concern that these fundamental principles remain undistorted.  
+
+B. The District Court Decision 
+
+We turn now to our review of the district court's decision in this particular case. At the outset, 
+we  must  address  CA's  claim  that  the  district  court  erred  by  relying  too  heavily  on  the  court  ap-
+pointed expert's "personal opinions on the factual and legal issues before the court."  
+
+1) Use of Expert Evidence in Determining Substantial Similarity Between Computer Programs  
+
+Pursuant to Fed.R.Evid. 706, and with the consent of both Altai and CA, Judge Pratt appointed 
+and relied upon Dr. Randall Davis of the Massachusetts Institute of Technology as the court's own 
+expert witness on the issue of substantial similarity. Dr. Davis submitted a comprehensive written 
+report that analyzed the various aspects of the computer programs  at issue and evaluated the parties' 
+expert evidence. At trial, Dr. Davis was extensively cross-examined by both CA and Altai.  
+
+The well-established general rule in this circuit has been to limit the use of expert opinion in de-
+termining whether works at issue are substantially similar. As a threshold matter, expert testimony 
+may be used to assist the fact finder in ascertaining whether the defendant had copied any part of 
+the plaintiff's work. See Arnstein v. Porter, 154 F.2d 464, 468 (2d Cir. 1946). To this end, "the two 
+works are to be compared in their entirety . . . [and] in making such comparison resort may properly 
+be made to expert analysis. . . ." 3 Nimmer § 13.03[E][2], at 13-62.16.  
+
+However, once some amount of copying has been established, it remains solely for the trier of 
+fact to determine whether the copying was "illicit," that is to say, whether the "defendant took from 
+
+ 
+
+19 
+
+ 
+
+plaintiff's  works  so  much  of  what  is  pleasing  to  [lay  observers]  who  comprise  the  audience  for 
+whom  such  [works  are]  composed,  that  defendant  wrongfully  appropriated  something  which  be-
+longs to the plaintiff." Arnstein, 154 F.2d at 473. Since the test for illicit copying is based upon the 
+response of ordinary lay observers, expert testimony is thus "irrelevant" and not permitted.  Id. at 
+468, 473. We have subsequently described this method of inquiry as "merely an alternative way of 
+formulating  the  issue  of  substantial  similarity."  Ideal  Toy  Corp.  v.  Fab-Lu  Ltd.  (Inc.),  360  F.2d 
+1021, 1023 n.2 (2d Cir. 1966).  
+
+Historically, Arnstein's ordinary observer standard had its roots in "an attempt to apply the 'rea-
+sonable person' doctrine as found in other areas of the law to copyright." 3 Nimmer § 13.03[E][2], 
+at 13-62.10-11. That approach may well have served its purpose when the material under scrutiny 
+was  limited  to  art  forms  readily  comprehensible  and  generally  familiar  to  the  average  lay  person. 
+However, in considering the extension of the rule to the present case, we are reminded of Holmes' 
+admonition that, "the life of the law has not been logic: it has been experience." O. W. Holmes, Jr., 
+THE COMMON LAW 1 (1881).  
+
+Thus, in deciding the limits to which expert opinion may be employed in ascertaining the sub-
+stantial similarity of computer programs, we cannot disregard the highly complicated and technical 
+subject matter at the heart of these claims.  Rather, we recognize the reality that computer programs 
+are  likely  to  be  somewhat  impenetrable  by  lay  observers--whether  they  be  judges  or  juries--and, 
+thus, seem to fall outside the category of works contemplated by those who engineered the Arnstein 
+test.    Cf.    Dawson  v.  Hinshaw  Music  Inc.,  905  F.2d  731,  737  (4th  Cir.)  ("departure  from  the  lay 
+characterization  is  warranted  only  where  the  intended  audience  possesses  'specialized  expertise'"), 
+cert. denied, 112 L. Ed. 2d 523, 111 S. Ct. 511 (1990). As Judge Pratt correctly observed:  
+
+In the context of computer programs, many of the familiar tests of similarity prove to be inade-
+quate, for they were developed historically in the context of artistic and literary, rather than utilitar-
+ian, works.  
+  
+Computer Assocs., 775 F. Supp. at 558.  
+
+In  making  its  finding  on  substantial  similarity  with  respect  to  computer  programs,  we  believe 
+that  the  trier  of  fact  need  not  be  limited  by  the  strictures  of  its  own  lay  perspective.  See  Dawson, 
+905 F.2d at 735; Whelan, 797 F.2d at 1233; Broderbund, 648 F. Supp. at 1136 (stating in dictum: 
+"an integrated test involving expert testimony and analytic dissection may well be the wave of the 
+future in this area. . . ."); Brown Bag Software, 960 F.2d at 1478-79 (Sneed, J., concurring); see also 
+3  Nimmer  §  13.03[E][4];  but  see  Brown  Bag  Software,  960  F.2d  at  1475  (applying  the  "ordinary 
+reasonable person" standard in substantial similarity test for computer programs). Rather, we leave 
+it to the discretion of the district court to decide to what extent, if any, expert opinion, regarding the 
+highly technical nature of computer programs, is warranted in a given case.  
+
+In so holding, we do not intend to disturb the traditional role of lay observers in judging  sub-
+stantial similarity in copyright cases that involve the aesthetic arts, such as music, visual works or 
+literature.  
+
+In this case, Dr. Davis' opinion was instrumental in dismantling the intricacies of computer sci-
+ence so that the court could formulate and apply an appropriate rule of law. While Dr. Davis' report 
+and  testimony  undoubtedly  shed  valuable  light  on  the  subject  matter  of  the  litigation,  Judge  Pratt 
+
+ 
+
+20 
+
+ 
+
+remained, in the final analysis, the trier of fact. The district court's use of the expert's assistance, in 
+the context of this case, was entirely appropriate.  
+
+2) Evidentiary Analysis 
+
+The district court had to determine whether Altai's OSCAR 3.5 program was substantially simi-
+lar to CA's ADAPTER. We note that Judge Pratt's method of analysis effectively served as a road 
+map for our own, with one exception Judge Pratt filtered out the non-copyrightable aspects of OS-
+CAR 3.5 rather than those found in ADAPTER, the allegedly infringed program. We think that our 
+approach--i.e.,  filtering  out  the  unprotected  aspects  of  an  allegedly  infringed  program  and  then 
+comparing the end product to the structure of the suspect program--is preferable, and therefore be-
+lieve that district courts should proceed in this manner in future cases  
+
+We opt for this strategy because, in some cases, the defendant's program structure might contain 
+protectable expression and/or other elements that are not found in the plaintiff's program. Since it is 
+extraneous to the allegedly copied work, this material would have no bearing on any potential sub-
+stantial similarity between the two programs. Thus, its filtration would be wasteful  and unnecessar-
+ily time consuming. Furthermore, by focusing the analysis on the infringing rather than on the in-
+fringed material, a court may mistakenly place too little emphasis on a quantitatively small misap-
+propriation which is, in reality, a qualitatively vital aspect of the plaintiff's protectable expression.  
+
+The fact that the district court's analysis proceeded in the reverse order, however, had no mate-
+rial impact on the outcome of this case. Since Judge Pratt determined that OSCAR effectively con-
+tained  no  protectable  expression  whatsoever,  the  most  serious  charge  that  can  be  levelled  against 
+him is that he was overly thorough in his examination.  
+
+The district court took the first step in the analysis set forth in this opinion when it separated the 
+
+program by levels of abstraction. The district court stated:  
+
+As applied to computer software programs, this abstractions test would progress in order of "in-
+creasing  generality"  from  object  code,  to  source  code,  to  parameter  lists,  to  services  required,  to 
+general outline. In discussing the particular similarities, therefore, we shall focus on these levels.  
+  
+Computer Assocs., 775 F. Supp. at 560. While  the facts of a different case might require that a dis-
+trict court draw a more particularized blueprint of a program's overall structure, this description is a 
+workable one for the case at hand.  
+
+Moving to the district court's evaluation of OSCAR 3.5's structural components, we agree with 
+Judge Pratt's systematic exclusion of non-protectable expression. With respect to code, the district 
+court  observed  that  after  the  rewrite  of  OSCAR  3.4  to  OSCAR  3.5,  "there  remained  virtually  no 
+lines  of  code  that  were  identical  to  ADAPTER."  Id.  at  561.  Accordingly,  the  court  found  that  the 
+code "presented no similarity at all." Id. at 562.  
+
+Next,  Judge  Pratt  addressed  the  issue  of  similarity  between  the  two  programs'  parameter  lists 
+and macros. He concluded that, viewing the conflicting evidence most favorably to CA, it demon-
+strated that "only a few of the lists and macros were similar to protected elements in ADAPTER; 
+the others were either in the public domain or dictated by the functional demands of the program." 
+Id. As discussed above, functional elements and elements taken from the public domain do not qual-
+ify for copyright protection.   With respect to the few remaining parameter lists and macros, the dis-
+trict court could reasonably conclude that they did not warrant a finding of infringement given their 
+
+ 
+
+21 
+
+ 
+
+relative contribution to the overall program. See Warner Bros., Inc. v. American Broadcasting Cos., 
+Inc.,  720  F.2d  231,  242  (2d  Cir.  1983)  (discussing  de  minimis  exception  which  allows  for  literal 
+copying  of  a  small  and  usually  insignificant  portion  of  the  plaintiff's  work);  3  Nimmer  § 
+13.03[F][5], at 13-74. In any event, the district court reasonably found that, for lack of persuasive 
+evidence, CA failed to meet its burden of proof on whether the macros and parameter lists at issue 
+were substantially similar. See Computer Assocs., 775 F. Supp. at 562.  
+
+The district court also found that the overlap exhibited between the list of services required for 
+both ADAPTER and OSCAR 3.5 was "determined by the demands of the operating system and of 
+the applications program to which it [was] to be linked through ADAPTER or OSCAR. . . ." Id. In 
+other words, this aspect of the program's structure was dictated by the nature of other programs with 
+which it was designed to interact and, thus, is not protected by copyright.  
+
+Finally, in his infringement analysis, Judge Pratt accorded no weight to the similarities between 
+the two programs' organizational charts, "because [the charts were] so simple and obvious to anyone 
+exposed to the operation of the programs." Id. CA argues that the district court's action in this re-
+gard "is not consistent with copyright law"--that "obvious" expression is protected, and that the dis-
+trict court erroneously failed to realize this. However, to say that elements of a work are "obvious," 
+in the manner in which the district court used the word, is to say that they "follow naturally from the 
+work's theme rather than from the author's creativity." 3 Nimmer § 13.03[F][3], at 13-65. This is but 
+one formulation of the scenes a faire doctrine, which we have already endorsed as a means of weed-
+ing out unprotectable expression.  
+
+CA  argues,  at  some  length,  that  many  of  the  district  court's  factual  conclusions  regarding  the 
+creative nature of its program's components are simply wrong. Of course, we are limited in our re-
+view  of  factual  findings  to  setting  aside  only  those  that  we  determine  are  clearly  erroneous.      See 
+Fed. R. Civ. P. 52. Upon a thorough review of the voluminous record in this case, which is com-
+prised of conflicting testimony and other highly technical evidence, we discern no error on the part 
+of Judge Pratt, let alone clear error.  
+
+Since we accept Judge Pratt's factual conclusions and the results of his legal analysis, we affirm 
+his  dismissal  of  CA's  copyright  infringement  claim  based  upon  OSCAR  3.5.  We  emphasize  that, 
+like all copyright infringement cases, those that involve computer programs are highly fact specific. 
+The amount of protection due structural elements, in any given case, will vary according to the pro-
+tectable expression found to exist within the program at issue.  
+ 
+
+II. TRADE SECRET PREEMPTION 
+
+In  its  complaint,  CA  alleged  that  Altai  misappropriated  the  trade  secrets  contained  in  the 
+ADAPTER  program.  Prior  to  trial,  while  the  proceedings  were  still  before  Judge  Mishler,  Altai 
+moved  to  dismiss  and  for  summary  judgment  on  CA's  trade  secret  misappropriation  claim.  Altai 
+argued that section 301 of the Copyright Act preempted CA's state law cause of action. Judge Mish-
+ler denied Altai's motion, reasoning that "'the elements of the tort of appropriation of trade secrets 
+through the breach of contract or confidence by an employee are not the same as the elements of a 
+claim of copyright infringement.'" Computer Assocs., 775 F. Supp. at 563.  
+
+The parties addressed the preemption issue again, both in pre-and post-trial briefs. Judge Pratt 
+then reconsidered and reversed Judge Mishler's earlier ruling. The district court concluded that CA's 
+trade secret claims were preempted because "CA--which is the master of its own case--has pleaded 
+
+ 
+
+22 
+
+ 
+
+and  proven  facts  which  establish  that  one  act  constituted  both  copyright  infringement  and  misap-
+propriation of trade secrets [namely, the] copying  of ADAPTER into OSCAR 3.4 . . . ." Computer 
+Assocs., 775 F. Supp. at 565.  
+
+In our original opinion, Computer Assocs. Int'l, Inc. v. Altai, Inc., 1992 U.S. App. LEXIS 14305 
+(2d Cir. 1992), we affirmed Judge Pratt's decision. CA petitioned for rehearing on this issue. In its 
+petition  for  rehearing,  CA  brought  to  our  attention  portions  of  the  record  below  that  were  not  in-
+cluded in the appendix on appeal. CA argued that these documents, along with Judge Mishler's dis-
+position of Altai's motion to dismiss and for summary judgment, established that CA advanced non-
+preempted trade secret misappropriation claims before both Judge Mishler and Judge Pratt. CA fur-
+ther contended that Judge Pratt failed to consider its theory that Altai was liable for wrongful acqui-
+sition of CA's trade secrets through Arney. Upon reconsideration, we have granted the petition for 
+rehearing,  withdrawn  our  initial  opinion,  and  conclude  in  this  amended  opinion  that  the  district 
+court's preemption ruling on CA's trade secret claims should be vacated. We accordingly vacate the 
+judgment of the district court on this point and remand CA's trade secret claims for a determination 
+on the merits.  
+
+A. General Law of Copyright Preemption Regarding Trade Secrets and Computer Programs  
+
+Congress carefully designed the statutory framework of federal copyright preemption. In order 
+to  insure  that  the  enforcement  of  these  rights  remains  solely  within  the  federal  domain,  section 
+301(a) of the Copyright Act expressly preempts  
+
+all legal or equitable rights that are equivalent to any of the exclusive rights within the general 
+scope  of  copyright  as  specified  by  section  106  in  works  of  authorship  that  are  fixed  in  a  tangible 
+medium of expression and come within the subject matter of copyright as specified by sections 102 
+and 103 . . . . 
+
+17  U.S.C.  §  301(a).  This  sweeping  displacement  of  state  law  is,  however,  limited  by  section 
+
+301(b), which provides, in relevant part, that  
+
+nothing in this title annuls or limits any rights or remedies under the common law or statutes of 
+any State with respect to . . . activities violating legal or equitable rights that are not equivalent to 
+any of the exclusive rights within the general scope of copyright as specified by section 106. . . . 
+
+17 U.S.C. § 301(b)(3). Section 106, in turn, affords a copyright owner the exclusive right to: (1) 
+reproduce the copyrighted work; (2) prepare derivative works; (3) distribute copies of the work by 
+sale or otherwise; and, with respect to certain artistic works, (4) perform the work publicly; and (5) 
+display the work publicly. See 17 U.S.C. § 106(1)-(5).  
+
+Section 301 thus preempts only those state law rights that "may be abridged by an act which, in 
+and  of  itself,  would  infringe  one  of  the  exclusive  rights"  provided  by  federal  copyright  law.  See 
+Harper & Row, Publishers, Inc. v. Nation Enters., 723 F.2d 195, 200 (2d Cir. 1983), rev'd on other 
+grounds, 471 U.S. 539, 85 L. Ed. 2d 588, 105 S. Ct. 2218 (1985). But if an "extra element" is "re-
+quired instead of or in addition to the acts of reproduction, performance, distribution or display, in 
+order  to  constitute  a  state-created  cause  of  action,  then  the  right  does  not  lie  'within  the  general 
+scope of copyright,' and there is no preemption." 1 Nimmer § 1.01[B], at 1-14-15; see also Harper 
+& Row, Publishers, Inc., 723 F.2d at 200 (where state law right "is predicated upon an act incorpo-
+rating elements beyond mere reproduction or the like, the [federal and state] rights are not equiva-
+lent" and there is no preemption).  
+
+ 
+
+23 
+
+ 
+
+A state law claim is not preempted if the "extra element" changes the "nature of the action so 
+that it is qualitatively different from a copyright infringement claim." Mayer v. Josiah Wedgwood & 
+Sons, Ltd., 601 F. Supp. 1523, 1535 (S.D.N.Y. 1985); see Harper & Row, Publishers, Inc., 723 F.2d 
+at 201.  To determine whether a claim meets this standard, we must determine "what plaintiff seeks 
+to protect, the theories in which the matter is thought to be protected and the rights sought to be en-
+forced."  1  Roger  M.  Milgrim,  Milgrim  on  Trade  Secrets  §  2.06A[3],  at  2-150  (1992)  (hereinafter 
+"Milgrim"). An action will not be saved from preemption by elements such as awareness or intent, 
+which alter "the action's scope but not its nature . . . ." Mayer, 601 F. Supp. at 1535.  
+
+Following this "extra element" test, we have held that unfair competition and misappropriation 
+claims grounded solely in the copying of a plaintiff's protected expression are preempted by section 
+301.  See,  e.g.,  Walker  v.  Time  Life  Films,  Inc.,  784  F.2d  44,  53  (2d  Cir.),  cert.  denied,  476  U.S. 
+1159, 90 L. Ed. 2d 721, 106 S. Ct. 2278 (1986); Warner Bros. Inc. v. American Broadcasting Cos., 
+720 F.2d 231, 247 (2d Cir. 1983); Durham Indus., Inc. v. Tomy Corp., 630 F.2d 905, 919 & n. 15 
+(2d  Cir.  1980).  We  also  have  held  to  be  preempted  a  tortious  interference  with  contract  claim 
+grounded  in  the  impairment    of  a  plaintiff's  right  under  the  Copyright  Act  to  publish  derivative 
+works. See Harper & Row, Publishers, Inc., 723 F.2d at 201.  
+
+However,  many  state  law  rights  that  can  arise  in  connection  with  instances  of  copyright  in-
+fringement satisfy the extra element test, and thus are not preempted by section 301. These include 
+unfair competition claims based upon breach of confidential relationship, breach of fiduciary duty 
+and trade secrets. Balboa Ins. Co. v. Trans Global Equities, 218 Cal. App. 3d 1327, 1339-53, 267 
+Cal. Rptr. 787, 793-803 (Ct. App. 3rd Dist.), cert. denied, 111 S. Ct. 347, 112 L. Ed. 2d 311 (1990).  
+
+Trade  secret  protection,  the  branch  of  unfair  competition  law  at  issue  in  this  case,  remains  a 
+"uniquely  valuable"  weapon  in  the  defensive  arsenal  of  computer  programmers.  See  1  Milgrim  § 
+2.06A[5][c],  at  2-172.4.  Precisely  because  trade  secret  doctrine  protects  the  discovery  of  ideas, 
+processes,  and  systems  which  are  explicitly  precluded  from  coverage  under  copyright  law,  courts 
+and commentators alike consider it a necessary and integral part of the intellectual property protec-
+tion  extended  to  computer  programs.  See  id.;  Integrated  Cash  Management  Servs.,  Inc.  v.  Digital 
+Transactions, Inc., 920 F.2d 171, 173 (2d Cir. 1990) (while plaintiff withdrew copyright infringe-
+ment  claim  for  misappropriation  of  computer  program,  relief  for  theft  of  trade  secret  sustained); 
+Healthcare Affiliated Servs., Inc. v. Lippany, 701 F. Supp. 1142, 1152-55 (W.D.Pa. 1988) (finding 
+likelihood  of  success  on  trade  secret  claim,  but  not  copyright  claim);  Q-Co  Indus.,  Inc.,  625  F. 
+Supp.  at  616-18  (finding  likelihood  of  success  on  trade  secret  claim,  but  no  merit  to  copyright 
+claim); Kretschmer, at 847-49.  
+
+The legislative history of section 301 states that "the evolving common law rights of . . . trade 
+secrets . . . would remain unaffected as long as the causes of action contain elements, such as . . . a 
+breach of trust or confidentiality, that are different in kind from copyright infringement." House Re-
+port, at 5748. Congress did not consider the term "misappropriation" to be "necessarily synonymous 
+with copyright infringement," or to serve as the talisman of preemption. Id.  
+
+Trade  secret  claims  often  are  grounded  upon  a  defendant's  breach  of  a  duty  of  trust  or  confi-
+dence to the plaintiff through improper disclosure of confidential material. See, e.g., Mercer v. C.A. 
+Roberts  Co.,  570  F.2d  1232,  1238  (5th  Cir.  1978);  Brignoli  v.  Balch  Hardy  and  Scheinman,  Inc., 
+645 F. Supp. 1201, 1205 (S.D.N.Y. 1986). The defendant's breach of duty is the gravamen of such 
+trade secret claims, and supplies the "extra element" that qualitatively distinguishes such trade se-
+cret  causes  of  action  from  claims  for  copyright  infringement  that  are  based  solely  upon  copying. 
+
+ 
+
+24 
+
+ 
+
+See,  e.g.,  Warrington  Assoc.,  Inc.  v.  Real-Time  Eng'g  Sys.,  Inc.,  522  F.  Supp.  367,  369  (N.D.  Ill. 
+1981);  Brignoli,  645  F.  Supp.  at  1205;  see  also  generally  Balboa  Ins.  Co.,  218  Cal.  App.  3d  at 
+1346-50, 267 Cal. Rptr. at 798-802 (reviewing cases).  
+
+B. Preemption in this Case 
+
+The district court stated that:  
+
+Were CA's [trade secret] allegations premised on a theory of illegal acquisition of a trade secret, 
+a charge that might have been alleged against Arney, who is not a defendant in this case, the pre-
+emption  analysis  might  be  different,  for  there  seems  to  be  no  corresponding  right  guaranteed  to 
+copyright owners by § 106 of the copyright act.  
+  
+Computer Assocs., 775 F. Supp. at 565. However, the court concluded that CA's trade secret claims 
+were not grounded in a theory that Altai violated a duty of confidentiality to CA. Rather, Judge Pratt 
+stated that CA proceeded against Altai solely "on a theory that the misappropriation took place by 
+Altai's  use  of  ADAPTER--the  same  theory  as  the  copyright  infringement  count."  Id.  The  district 
+court  reasoned  that  "the  right  to  be  free  from  trade  secret  misappropriation  through  'use',  and  the 
+right to exclusive reproduction and distribution of a copyrighted work are not distinguishable." Id. 
+Because he concluded that there was no qualitative difference between the elements of CA's state 
+law trade secret claims and a claim for federal copyright infringement, Judge Pratt ruled that CA's 
+trade secret claims were preempted by section 301.  
+
+We agree with CA that the district court failed to address fully the factual and theoretical bases 
+of CA's trade secret claims. The district court relied upon the fact that Arney--not Altai--allegedly 
+breached  a  duty  to  CA  of  confidentiality  by  stealing  secrets  from  CA  and  incorporating  those  se-
+crets into OSCAR 3.4. However, under a wrongful acquisition theory based on Restatement (First) 
+of Torts § 757 (1939), Williams and Altai may be liable for violating CA's right of confidentiality. 
+Section 757 states in relevant part:  
+
+One who discloses or uses another's trade secret, without a privilege to do so, is liable to another 
+if . . . . (c) he learned the secret from a third person with notice of the fact that it was a secret and 
+that the third person discovered it by improper means or that the third person's disclosure of it was 
+otherwise a breach of his duty to the other . . . . 
+
+Actual notice is not required for such a third party acquisition claim; constructive notice is suffi-
+cient. A defendant is on constructive notice when, "from the information which he has, a reasonable 
+man would infer [a breach of confidence], or if, under the circumstances, a reasonable man would 
+be put on inquiry and an inquiry pursued with reasonable intelligence and diligence would disclose 
+the [breach]." Id., comment 1; Metallurgical Indus., Inc. v. Fourtek, Inc., 790 F.2d 1195, 1204 (5th 
+Cir. 1986); Vantage Point, Inc. v. Parker Bros., Inc., 529 F. Supp. 1204, 1210 n.2 (E.D.N.Y. 1981), 
+aff'd, 697 F.2d 301 (2d Cir. 1982); see also Rohm and Haas Co. v. Adco Chem. Co., 689 F.2d 424, 
+431  (3rd  Cir.  1982)  ("Defendants  never  asked  where  the  'Harvey  process'  had  come  from.  Defen-
+dants therefore were charged 'with whatever knowledge such inquiry would have led to.'") (citation 
+omitted);  Colgate-Palmolive  Co.  v.  Carter  Prods.,  Inc., 230 F.2d 855, 864 (4th Cir.) (per curiam) 
+(defendant "'must have known by the exercise of fair business principles'" that its employee's work 
+was covered by an agreement not to disclose) (citation omitted), cert. denied, 352 U.S. 843, 1 L. Ed. 
+2d 59, 77 S. Ct. 43 (1956); 1 Milgrim § 5.04[2][c].  
+
+ 
+
+25 
+
+ 
+
+We  agree  with  the  district  court  that  New  Jersey's  governing  governmental  interest  choice  of 
+law analysis directs the application of Texas law to CA's trade secret misappropriation claim. See 
+Computer Assocs., 775 F. Supp. at 566. Texas law recognizes trade secret misappropriation claims 
+grounded in the reasoning of Restatement section 757(c), see, e.g., Fourtek, 790 F.2d at 1204, and 
+the facts alleged by CA may well support such a claim.  
+
+It is undisputed that, when Arney stole the ADAPTER code and incorporated it into his design 
+of  OSCAR  3.4,  he  breached  his  confidentiality  agreement  with  CA.  The  district  court  noted  that 
+while such action might constitute a valid claim against Arney, CA is the named defendant in this 
+lawsuit. Additionally, the district court found, as a matter of fact, that "no one at Altai, other than 
+Arney,  knew  that  Arney  had  the  ADAPTER  code  .  .  .  ."  Computer  Assocs.,  775  F.  Supp.  at  554. 
+However, the district court did not consider fully Altai's potential liability for improper trade secret 
+acquisition. It did not consider the question of Altai's trade secret liability in connection with OS-
+CAR 3.4 under a constructive notice theory, or Altai's potential liability under an actual notice the-
+ory in connection with OSCAR 3.5. 
+
+The district court found that, prior to CA's bringing suit, Altai was not on actual notice of Ar-
+ney's theft of trade secrets, and incorporation of those secrets into OSCAR 3.4. However, by virtue 
+of Williams' close relationship with Arney, Williams' general familiarity with CA's programs (hav-
+ing once been employed by CA himself), and the fact that Arney used the ADAPTER program in an 
+office at Altai adjacent to Williams during a period in which he had frequent contact with Williams 
+regarding the OSCAR/VSE project, Williams (and through him Altai) may well have been on con-
+structive  notice  of  Arney's  breach  of  his  duty  of  confidentiality  toward  CA.  The  district  court  did 
+not  address  whether  Altai  was  on  constructive  notice,  thereby  placing  it  under  a  duty  of  inquiry; 
+rather the court's finding that only Arney affirmatively knew of the theft of CA's trade secrets and 
+incorporation of those secrets into OSCAR 3.4 simply disposed of the issue of actual notice in con-
+nection with the creation of OSCAR 3.4. CA's claim of liability based on constructive notice, never 
+considered in the district court's opinion, must be determined on remand.  
+
+With respect to actual notice, it is undisputed that CA's first complaint, filed in August 1988, in-
+formed Altai of Arney's trade secret violations in connection with the creation of OSCAR 3.4. The 
+first  complaint  alleged  that  Arney  assisted  in  the  development  of  ADAPTER,  thereby  obtaining 
+knowledge of CA's related trade secrets. It also alleged that Altai misappropriated CA's trade secrets 
+by incorporating them into ZEKE.  
+
+In response to CA's complaint, Altai rewrote OSCAR 3.4, creating OSCAR 3.5. While we agree 
+with  the  district  court  that  OSCAR  3.5  did  not  contain  any  expression  protected  by  copyright,  it 
+may  nevertheless  still  have  embodied  many  of  CA's  trade  secrets  that  Arney  brought  with  him  to 
+Altai. Since Altai's rewrite was conducted with full knowledge of Arney's prior misappropriation, in 
+breach of his duty of confidentiality, it follows that OSCAR 3.5 was created with actual knowledge 
+of  trade  secret  violations.  Thus,  with  regard  to  OSCAR  3.5,  CA  has  a  viable  trade  secret  claim 
+against Altai that must be considered by the district court on remand. This claim is grounded in Al-
+tai's alleged use of CA's trade secrets in the creation of OSCAR 3.5, while on actual notice of Ar-
+ney's  theft  of  trade  secrets  and  incorporation  of  those  secrets  into  OSCAR  3.4.  The  district  court 
+correctly stated that a state law claim based solely upon Altai's "use", by copying, of ADAPTER's 
+non-literal elements could not satisfy the governing "extra element" test, and would be preempted 
+by section 301. However, where the use of copyrighted expression is simultaneously the violation 
+
+ 
+
+26 
+
+ 
+
+of a duty of confidentiality established by state law, that extra element renders the state right quali-
+tatively distinct from the federal right, thereby foreclosing preemption under section 301.  
+
+We  are  also  convinced  that  CA  adequately  pled  a  wrongful  acquisition  claim  before  Judge 
+Mishler  and  Judge  Pratt.  In  ruling  that  CA  failed  to  properly  plead  a  non-preempted  claim,  Judge 
+Pratt relied heavily upon two allegations in CA's amended complaint.  Id. at 563-64. They read as 
+follows:  
+
+P 57. By reason of the facts stated in paragraph 39 and by copying from CA-SCHEDULER into 
+ZEKE,  ZACK  and  ZEBB  the  various  elements  stated  in  paragraphs  39-51,  54  and  55,  defendant 
+Altai has infringed [CA's] copyright in CA-SCHEDULER.  
+
+* * * 
+
+P 73. Defendant's incorporation into its ZEKE, ZACK and ZEBB programs of the various ele-
+ments contained in the ADAPTER component of [CA's] CA-SCHEDULER program as set out in 
+paragraphs  39-51,    54  and  55  constitutes  the  willful  misappropriation  of  the  proprietary  property 
+and trade secrets of plaintiff [CA].  
+
+  From  these  pleadings,  Judge  Pratt  concluded  that  the  very  same  act,  i.e.,  Altai's  copying  of 
+various  elements  of  CA's  program,  was  the  basis  for  both  CA's  copyright  infringement  and  trade 
+secret claims. See id. at 564. We agree with Judge Pratt that CA's allegations are somewhat inart-
+fully  stated.  However,  when  taken  together,  the  terms  "incorporation"  and  "misappropriation"  in 
+paragraph  73  above  suggest  to  us  an  act  of  a  qualitatively  different  nature  than  the  infringement 
+pled  in  paragraph  57.  House  Report,  at  5748  ("'misappropriation'  is  not  necessarily  synonymous 
+with copyright infringement").  
+
+In  support  of  our  reading,  we  note  that  paragraphs  65-75  of  CA's  amended  complaint  alleged 
+facts  that  reasonably  comprise  the  elements  of  a  wrongful  acquisition  of  trade  secrets  claim.  CA 
+averred  that,  while  he  was  employed  at  CA,  Arney  learned  CA's  trade  secrets  regarding  the 
+ADAPTER program. CA further alleged that after Arney went to work for Altai, Altai misappropri-
+ated  those  trade  secrets  by  incorporating  CA's  ADAPTER  program  into  its  own  product.  Finally, 
+CA claimed that the trade secret misappropriation was carried out "in a willful, wanton and reckless 
+manner  in  disregard  of  [CA's]  rights."  In  other  words,  Altai  could  have  reasonably  inferred  from 
+CA's allegations that CA's claim, in part, rested on Williams' "wanton and reckless" behavior in the 
+face of constructive notice.  
+
+In  addition,  while  responding  to  Altai's  preemption  argument  in  its  motion  to  dismiss  and  for 
+summary  judgment,  CA  specifically  argued  in  its  brief  to  Judge  Mishler  that  "it  can  easily  be  in-
+ferred that Mr. Arney was hired by Altai to misappropriate [CA's] confidential source code for Al-
+tai's benefit." At oral argument, CA further contended that:  
+
+The  circumstances  of  Mr.  Arney's  hiring  suggested  that  Mr.  Williams  wanted  more  than  Mr. 
+Arney's ability and in fact got exactly what he wanted. And that is Computer Associates' confiden-
+tial Adapter technology.  
+
+* * * 
+
+[Arney  testified  that  he]  surreptitiously  took  that  code  home  from  Computer  Associates  after 
+giving notice he was going to go to work for Altai, and after being hired by Mr. Williams to come 
+to Altai and reconstruct Zeke, to work on the MVS operating system.  
+
+ 
+
+27 
+
+ 
+
+In the aftermath of Judge Mishler's ruling in its favor on Altai's motion to dismiss and for sum-
+mary  judgment,  CA  reasonably  believed  that  it  had  sufficiently  alleged  a  non-preempted  claim. 
+And,  in  light  of  CA's  arguments  and  Judge  Mishler's  ruling,  Altai  clearly  was  on  notice  that  the 
+amended complaint placed non-preempted trade secret claims in play. See 5 Charles A. Wright & 
+Arthur R. Miller, Federal Practice and Procedure § 1215, at 136-38 (2d ed. 1990) (federal pleading 
+standards require plaintiff to provide defendant with fair notice of claim and grounds it rests on).  
+
+Accordingly,  we  vacate  the  judgment  of  the  district  court  and  remand  for  reconsideration  of 
+those  aspects  of  CA's  trade  secret  claims  related  to  Altai's  alleged  constructive  notice  of  Arney's 
+theft of CA's trade secrets and incorporation of those secrets into OSCAR 3.4. We note, however, 
+that CA may be unable to recover damages for its trade secrets which are embodied in OSCAR 3.4 
+since  Altai  has  conceded  copyright  liability  and  damages  for  its  incorporation  of  ADAPTER  into 
+OSCAR 3.4. CA may not obtain a double recovery where the damages for copyright infringement 
+and trade secret misappropriation are coextensive.  
+
+However,  additional  trade  secret  damages  may  well  flow  from  CA's  creation  of  OSCAR  3.5. 
+Judge Pratt correctly acknowledged that "if CA's claim of misappropriation of trade secrets did not 
+fail on preemption grounds, it would be necessary to examine in some detail the conflicting claims 
+and evidence relating to the process by which Altai rewrote OSCAR and ultimately produced ver-
+sion 3.5." Computer Assocs., 775 F. Supp. at 554-55; see also 1 Milgrim § 5.04[2][d], at 5-148 ("af-
+ter notice, the [innocent] second user should cease the use, and if he does not he can be enjoined and 
+held liable for damages arising from such use subsequent to notice"). Since we hold that CA's trade 
+secret claims   are not preempted, and that, in writing OSCAR 3.5, Altai had actual notice of Ar-
+ney's  earlier  trade  secret  violations,  we  vacate  and  remand  for  such  further  inquiry  anticipated  by 
+the district court. If the district court finds that CA was injured by Altai's unlawful use of CA's trade 
+secrets  in  creating  OSCAR  3.5,  CA  is  entitled  to  an  award  of  damages  for  trade  secret  misappro-
+priation,  as  well  as  consideration  by  the  district  court  of  CA's  request  for  injunctive  relief  on  its 
+trade secret claim.  
+
+CONCLUSION 
+
+In adopting the above three step analysis for substantial similarity between the non-literal ele-
+ments of computer programs, we seek to insure two things: (1) that programmers may receive ap-
+propriate  copyright  protection  for  innovative  utilitarian  works  containing  expression;  and  (2)  that 
+non-protectable technical expression remains in the public domain for others to use freely as build-
+ing  blocks  in  their  own  work.  At  first  blush,  it  may  seem  counter-intuitive  that  someone  who  has 
+benefited to some degree from illicitly obtained material can emerge from an infringement suit rela-
+tively unscathed. However, so long as the appropriated material consists of non-protectable expres-
+sion, "this result is neither unfair nor unfortunate. It is the means by which copyright advances the 
+progress of science and art." Feist, 111 S. Ct. at 1290.  
+
+Furthermore, we underscore that so long as trade secret law is employed in a manner that does 
+not encroach upon the exclusive domain of the Copyright Act, it is an appropriate means by which 
+to secure compensation for software espionage.  
+
+Accordingly, we affirm the judgment of the district court in part; vacate in part; and remand for 
+further proceedings. The parties shall bear their own costs of appeal, including the petition for re-
+hearing.   
+ 
+
+ 
+
+28 
+
+ 
+
+ALTIMARI, Circuit Judge, Concurring in part and Dissenting in part:  
+
+Because I believe that our original opinion, see Computer Assoc. Int'l v. Altai, 1992 U.S. App. 
+LEXIS 14305, 1992 WL 139364 (2d Cir. 1992), is a reasoned analysis of the issues presented, I ad-
+here to the original determination and therefore concur in Part 1 and respectfully dissent from Part 2 
+of the amended opinion.    
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+29 
+
+

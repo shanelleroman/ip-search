@@ -1,0 +1,492 @@
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+About
+
+Issues
+
+Updates
+
+Take Action
+
+Donate
+
+ 
+
+DRM in Cars Will Drive
+
+Consumers Crazy
+
+BY PARKER HIGGINS NOVEMBER 13, 2013
+
+Forget extra cupholders or power windows: the new
+
+Renault Zoe comes with a "feature" that absolutely
+
+nobody wants. Instead of selling consumers a complete
+
+car that they can use, repair, and upgrade as they see ﬁt,
+
+Renault has opted to lock purchasers into a rental
+
+contract with a battery manufacturer and enforce that
+
+contract with digital rights management (DRM)
+
+restrictions that can remotely prevent the battery from
+
+charging at all.
+
+We've long joined makers and tinkerers in warning that,
+
+as software becomes a part of more and more everyday
+
+devices, DRM and the legal restrictions on
+
+circumventing it will create hurdles to standard repairs
+
+and even operation. In the U.S., a car manufacturer who
+
+had wrapped its onboard software in technical
+
+restrictions could argue that attempts to get around
+
+those are in violation of the Digital Millennium
+
+Copyright Act (DMCA)—speciﬁcally section 1201, the
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 1 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+notorious "anti-circumvention" provisions. These
+
+provisions make it illegal for users to circumvent DRM
+
+or help others do so, even if the purpose is perfectly
+
+legal otherwise.  Similar laws exist around the world,
+
+and are even written into some international trade
+
+agreements—including, according to a recently leaked
+
+draft, the Trans-Paciﬁc Partnership Agreement.
+
+Since the DMCA became law in 1998, Section 1201 has
+
+resulted in countless unintended consequences. It has
+
+chilled innovation, stiﬂed the speech of legitimate
+
+security researchers, and interfered with consumer
+
+rights. Section 1201 came under particular ﬁre this year
+
+because it may prevent consumers from unlocking their
+
+own phones to use with di!erent carriers. After a
+
+broadly popular petition raised the issue, the White
+
+House acknowledged that the restriction is out of line
+
+with common sense.
+
+The problem extends beyond inconvenience. In plenty of
+
+cases, DRM has led to users losing altogether the ability
+
+to watch, listen to, read, or play media that can't be
+
+"authenticated." Video games with online components
+
+now routinely reach an end-of-life period where the
+
+company providing the authentication decides it's no
+
+longer worth it to operate the servers. That raises the
+
+frightening possibility of a company like Renault
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 2 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+deciding that it's not cost-e!ective anymore to verify
+
+new batteries—and leaving car owners high and dry.
+
+And these are all just the problems with the DRM
+
+running as expected. Unfortunately, the intentional
+
+restrictions created by DRM can also create security
+
+vulnerabilities that can be exploited by other bad actors.
+
+The most prominent example may be the "rootkit" that
+
+Sony included on music CDs and which led in some cases
+
+to further malware infection. The stakes may be even
+
+higher when it comes to cars. Security researchers
+
+uncovering security problems in cars already face
+
+restrictions on publishing; that stands to get worse as
+
+DRM enters the picture.
+
+As our friends at iFixit say, if you can't ﬁx it, you don't
+
+own it. Users need the right to repair the things they
+
+buy, and that is incompatible with blanket restrictions
+
+on circumventing DRM.
+
+Copyright maximalists like to point to the 1201 safety
+
+valve—a rulemaking procedure to identify narrow
+
+exemptions. But the process happens every three years
+
+in the Copyright O"ce, and it's pretty dysfunctional: the
+
+exemptions require extensive work, must be justiﬁed
+
+from scratch each time, and have no established appeal
+
+process. Permission to "jailbreak" cars can't even be
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 3 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+considered until 2015, and even if it is granted,
+
+consumers may be wary to invest in a new car if their
+
+right to repair it could be revoked three years later.
+
+There's a better way, but it requires legislation.
+
+Representative Zoe Lofgren and a group of bipartisan
+
+sponsors have proposed the Unlocking Technology Act,
+
+to limit the anti-circumvention provisions to cases
+
+where there is actual infringement. That's a common
+
+sense change that is long overdue.
+
+More fundamentally, though, users must push back on
+
+the creeping imposition of DRM in more and more
+
+places. As EFF Fellow and former sta! member Cory
+
+Doctorow has noted, computers are increasingly devices
+
+that we depend on for our own health and safety. It's
+
+critically important, then, that consumers actually own
+
+our stu!. Stay tuned: We’ll be pushing hard on this issue
+
+on many fronts in the coming year, and we’ll need your
+
+help.
+
+DRM
+
+FAIR USE AND INTELLECTUAL PROPERTY: DEFENDING
+
+THE BALANCE
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 4 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+DEFEND YOUR RIGHT TO REPAIR!
+
+DMCA
+
+DMCA RULEMAKING
+
+DRM
+
+FAIR USE AND INTELLECTUAL PROPERTY: DEFENDING
+
+THE BALANCE
+
+DEFEND YOUR RIGHT TO REPAIR!
+
+DMCA
+
+DMCA RULEMAKING
+
+RELATED UPDATES
+
+EFF IN THE NEWS
+It's happening! It's happening! W3C erects
+DRM as web standard
+The World Wide Web Consortium has formally put
+forward highly controversial digital rights management
+as a new web standard. Dubbed Encrypted Media
+Extensions (EME), this anti-piracy mechanism was
+crafted by engineers from Google, Microsoft, and Netﬂix,
+and has been in development for some time. The DRM is
+supposed to thwart...
+
+What's up at the W3C: further reading for Reply All
+listeners
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 5 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+ BY CORY DOCTOROW
+
+DEEPLINKS BLOG
+The latest episode of the technology podcast Reply All
+features an excellent summary of some of the issues with
+the World Wide Web Consortium's current project to
+create a standard for restricting the use of videos on the
+web; we've created this post for people who've just
+listened...
+
+ BY CORY DOCTOROW
+
+DEEPLINKS BLOG
+Indefensible: The W3C says companies
+should get to decide when and how
+security researchers reveal defects in
+browsers
+The World Wide Web Consortium has just signaled its
+intention to deliberately create legal jeopardy for security
+researchers who reveal defects in its members' products,
+unless the security researchers get the approval of its
+members prior to revealing the embarrassing mistakes
+those members have made in creating their products.
+It's...
+
+ BY CORY DOCTOROW
+
+DEEPLINKS BLOG
+Won't someone please think of the bikers?
+If there's anything more remarkable than the fact that
+ﬁve states are debating "Right to Repair" bills that make
+it legal for you to ﬁx your own property, it's that these
+bills are needed in the ﬁrst place. Can it really be true
+that you aren't allowed choose...
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 6 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+ BY CORY DOCTOROW
+
+DEEPLINKS BLOG
+The World Wide Web Consortium at a
+Crossroads: Arms-Dealers or Standards-
+Setters?
+The World Wide Web Consortium (W3C) has a hard
+decision to make: a coalition including the world's top
+research institutions; organizations supporting blind
+users on three continents; security ﬁrms; blockchain
+startups; browser vendors and user rights groups have
+asked it not to hand control over web video to some of...
+
+PRESS RELEASE
+EFF to Copyright Office: It’s Time for Real
+Reform of DMCA 1201
+San Francisco - The Electronic Frontier Foundation (EFF)
+urged the U.S. Copyright O"ce today to protect the
+public’s right to research and repair everything from
+phones to refrigerators to tractors, to support the right of
+people with print disabilities to convert media into an
+accessible format, and to restore users’...
+
+EFF IN THE NEWS
+Cory Doctorow Says Fight Against DRM
+Laws Is More Important Than His Blogging
+Cory Doctorow , the popular science ﬁction author and
+journalist blogger, says he will be writing a lot less in
+order to focus on his digital activism work in ﬁghting
+Digital Rights Management (DRM) laws alongside the
+Electronic Frontier Foundation (EFF). The security of
+corporate IT systems is weakened by...
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 7 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+ BY CORYNNE MCSHERRY
+
+DEEPLINKS BLOG
+Tell the Copyright Office: Copyright Law
+Shouldn't Punish Research and Repair
+After eighteen years, we may ﬁnally see real reform to
+the Digital Millennium Copyright Act’s unconstitutional
+pro-DRM provisions. But we need your help. In enacting
+the “anti-circumvention” provisions of the DMCA,
+Congress ostensibly intended to stop copyright “pirates”
+from defeating DRM and other content access or copy...
+
+ BY CORY DOCTOROW
+
+DEEPLINKS BLOG
+Tell HP: Still a long way to go to make up
+for breaking our printers
+Last Monday, we published our open letter to Hewlett-
+Packard CEO Dion Weisler , and more than 10,000 of you
+promptly stepped up to sign it , telling the company that
+you agree that it is absolutely unacceptable for a company
+to send out deceptive "security"...
+
+EFF IN THE NEWS
+HP Inc. Apologizes for Move that Blocked
+Rival Printer Cartridges
+The charge was taken up by the Electronic Freedom
+Foundation, a San Francisco-based group that takes
+stands against government surveillance and other tech-
+policy matters. The group on Monday sent a letter to Dion
+Weisler, HP’s chief executive, arguing in part that HP’s
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 8 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+action could cause customers to become wary of...
+
+1   2   3   4   5   6   7   8   9   …   next ›   last »
+
+The leading nonprofit defending digital privacy, free speech, and innovation.
+
+FOLLOW EFF:
+
+CONTACTABOUT ISSUES UPDATESPRESS DONATE
+
+General
+
+Volunteer
+
+Legal
+
+Victories
+
+Security
+
+History
+
+Free
+Speech
+
+Privacy
+
+Membership
+
+Press
+
+Creativity
+Internships
+&
+Innovation
+
+Jobs
+
+Blog
+
+Events
+
+Press
+Releases
+
+Press
+Contact
+
+Press
+Materials
+
+Whitepapers
+
+Staff
+
+Transparency
+
+International
+
+Security
+
+Join or Renew
+Membership
+Online
+
+One-Time
+Donation
+Online
+
+Shop
+
+Other Ways to
+Give
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 9 of 10
+
+DRM in Cars Will Drive Consumers Crazy | Electronic Frontier Foundation
+
+5/7/17, 1:32 PM
+
+COPYRIGHT (CC BY)
+
+ 
+PRIVACY POLICY
+
+ 
+
+THANKS
+
+https://www.eff.org/deeplinks/2013/11/drm-cars-will-drive-consumers-crazy
+
+Page 10 of 10
+
+

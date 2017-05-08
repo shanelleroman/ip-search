@@ -1,0 +1,936 @@
+United States Court of Appeals for the Federal Circuit 
+
+98-1498 
+
+(Serial No. 08/427,732) 
+
+IN RE ANITA DEMBICZAK and BENSON ZINBARG, 
+
+Appellants. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+David P. Gordon, of Stamford, Connecticut, argued for appellant.  Of counsel was 
+
+Thomas A. Gallagher, of Stamford, Connecticut. 
+ 
+
+John M. Whealan, Associate Solicitor, Office of the Solicitor, of Arlington, Virginia, 
+argued for appellee.  With him on the brief were Albin F. Drost, Acting Solicitor, and   David 
+R. Nicholson, Associate Solicitor. 
+ 
+ 
+Appealed from: 
+
+Patent and Trademark Office 
+Board of Patent Appeals and Interferences 
+
+98-1498 
+
+1 
+
+ 
+
+United States Court of Appeals for the Federal Circuit 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+98-1498 
+
+(Serial No. 08/427,732) 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+IN RE ANITA DEMBICZAK and BENSON ZINBARG, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appellants. 
+
+___________________________ 
+
+ 
+ 
+
+ 
+ 
+
+DECIDED:  April 28, 1999 
+___________________________ 
+
+ 
+ 
+Before MAYER, Chief Judge, MICHEL and CLEVENGER, Circuit Judges. 
+ 
+CLEVENGER, Circuit Judge. 
+
+Anita Dembiczak and Benson Zinbarg appeal the rejection, upheld by the Board of 
+
+Patent Appeals and Interferences, of all pending claims in their Application No. 08/427,732. 
+
+ See Ex Parte Dembiczak, No. 96-2648, slip op. at 43 (May 14, 1998).  Because the Board 
+
+erred in sustaining rejections of the pending claims as obvious under 35 U.S.C. § 103(a) 
+
+(Supp. 1998), and for obviousness-type double patenting, we reverse. 
+
+ 
+
+I 
+
+The invention at issue in this case is, generally speaking, a large trash bag made of 
+
+orange  plastic  and  decorated  with  lines  and  facial  features,  allowing the bag, when filled 
+
+with  trash  or  leaves,  to  resemble  a  Halloween-style  pumpkin,  or  jack-o’-lantern.    As  the 
+98-1498 
+
+2 
+
+ 
+
+inventors,  Anita  Dembiczak  and  Benson  Zinbarg  (collectively,  “Dembiczak”)  note,  the 
+
+invention solves the long-standing problem of unsightly trash bags placed on the curbs of 
+
+America,  and,  by  fortuitous  happenstance,  allows  users  to  express  their  whimsical  or 
+
+festive  nature  while  properly  storing  garbage,  leaves,  or  other  household  debris  awaiting 
+
+collection.  Embodiments of the invention--sold under a variety of names, including Giant 
+
+Stuff-A-Pumpkin™, Funkins, Jack Sak™, and Bag-O-Fun™--have undisputedly been well-
+
+received by consumers, who bought more than seven million units in 1990 alone.  Indeed, 
+
+in 1990, the popularity of the pumpkin bags engendered a rash of thefts around Houston, 
+
+Texas, leading some owners to resort to preventative measures, such as greasing the bags 
+
+with petroleum jelly and tying them to trees.  See R. Piller, “Halloween Hopes Die on the 
+
+Vine,” Hous. Chron., Oct. 19, 1990, at 13A.  
+
+The road to profits has proved much easier than the path to patentability, however.  
+
+In July 1989, Dembiczak filed a utility patent application generally directed to the pumpkin 
+
+bags.    In  a  February  1992  appeal,  the  Board  of  Patent  Appeals  and  Interferences  (“the 
+
+Board”)  reversed  the  Examiner’s  rejection,  but  entered  new  grounds  for  rejection.  
+
+Dembiczak elected to continue prosecution, filing a continuation application to address the 
+
+new grounds for rejection.  Thereafter, the invention made a second appearance before the 
+
+Board,  in  April  1993,  when  the  Board  both  sustained  the Examiner’s rejection and again 
+
+entered new grounds for rejection.  Again, a continuation application was filed (the instant 
+
+application).    And  again  the  Examiner’s  rejection  was  appealed  to  the  Board,  which 
+
+sustained the rejection in a May 14, 1998, decision.  See Dembiczak, slip op. at 43.   
+
+98-1498 
+
+A 
+
+3 
+
+ 
+
+The patent application at issue includes claims directed to various embodiments of 
+
+the pumpkin bag.  Claims 37, 49, 51, 52, 58 through 64, 66 through 69, and 72 through 81 
+
+are at issue in this appeal.  Though the claims vary, independent claim 74 is perhaps most 
+
+representative: 
+
+74. 
+
+A  decorative  bag  for use by a user with trash filling material, the 
+bag simulating the general outer appearance of an outer surface of a 
+pumpkin having facial indicia thereon, comprising: 
+
+a flexible waterproof plastic trash or leaf bag having  
+ 
+an outer surface which is premanufactured orange in color for the user 
+to simulate the general appearance of the outer skin of a pumpkin, and 
+having  
+ 
+facial indicia including at least two of an eye, a nose and a mouth on 
+the  orange  color  outer  surface  for  forming  a  face  pattern  on  said 
+orange color outer surface to simulate the general outer appearance of 
+a decorative pumpkin with a face thereon,  
+ 
+said trash or leaf bag having first and second opposite ends, at least 
+said second end having an opening extending substantially across the 
+full width of said trash or leaf bag for receiving the trash filling material,  
+ 
+wherein when said trash or leaf bag is filled with trash filling material 
+and  closed,  said  trash  or  leaf  bag  takes  the  form  and  general 
+appearance of a pumpkin with a face thereon. 
+
+All  of  the  independent  claims  on  appeal,  namely  37,  52,  72,  and  74,  contain 
+
+ 
+
+ 
+
+limitations  that  the  bag  must  be  “premanufactured  orange  in  color,”  have  “facial  indicia,” 
+
+have openings suitable for filling with trash material, and that when filled, the bag must have 
+
+a generally rounded appearance, like a pumpkin.  Independent claims 37, 52, and 72 add 
+
+the limitation that the bag’s height must at least 36 inches.  Claim 72 requires that the bag 
+
+be made of a “weatherproof material,” and claim 74, as shown above, requires that the bag 
+
+98-1498 
+
+4 
+
+ 
+
+be  “waterproof.”    Claim  52  recites  a  “method  of  assembling”  a  bag  with  the  general 
+
+characteristics of apparatus claim 37.   
+
+The prior art cited by the Board includes:  
+
+B 
+
+(1)  
+
+pages  24-25  of  a  book  entitled  “A  Handbook  for  Teachers  of 
+
+Elementary Art,” by Holiday Art Activities (“Holiday”), describing how to 
+
+teach children to make a “Crepe Paper Jack-O-Lantern” out of a strip 
+
+of  orange  crepe  paper,  construction  paper  cut-outs  in  the  shape  of 
+
+facial features, and “wadded newspapers” as filling; 
+
+(2)  
+
+page  73  of  a  book  entitled  “The  Everything  Book  for  Teachers  of 
+
+Young  Children,”  by  Martha  Shapiro  and  Valerie 
+
+Indenbaum 
+
+(“Shapiro”), describing a method of making a “paper bag pumpkin” by 
+
+stuffing a bag with newspapers, painting it orange, and then painting 
+
+on facial features with black paint; 
+
+(3)   U.S.  Patent  No.  3,349,991  to  Leonard  Kessler,  entitled  “Flexible 
+
+Container”  (“Kessler”),  describing  a  bag  apparatus  wherein  the  bag 
+
+closure  is  accomplished  by  the  use  of  folds  or  gussets  in  the  bag 
+
+material; 
+
+(4)   U.S. Patent No. Des. 310,023, issued August 21, 1990 to Dembiczak 
+
+(“Dembiczak  ‘023”),  a  design  patent  depicting    a  bag with a jack-o’-
+
+lantern face; 
+
+98-1498 
+
+5 
+
+ 
+
+(5)   U.S.  Patent  No.  Des.  317,254,  issued  June  4,  1991  to  Dembiczak 
+
+(“Dembiczak  ‘254”),  a  design  patent  depicting  a  bag  with  a  jack-o’-
+
+lantern face; and, 
+
+(6)   Prior  art  “conventional”  plastic  lawn  or  trash  bags  (“the  conventional 
+
+trash bags”). 
+
+Using  this  art,  the  Board  affirmed  the  Examiner’s  final  rejection  of  all  the  independent 
+
+claims (37, 52, 72, 74) under 35 U.S.C. § 103, holding that they would have been obvious 
+
+in light of the conventional trash bags in view of the Holiday and Shapiro references.  The 
+
+Board determined that, in its view of the prior art, “the only difference between the invention 
+
+presently defined in the independent claims on appeal and the orange plastic trash bags of 
+
+the prior art and the use of such bags resides in the application of the facial indicia to the 
+
+outer  surface  of  the  bag.”    Dembiczak,  slip  op.  at  18.    The  Board  further  held  that  the 
+
+missing  facial  indicia  elements  were  provided  by  the  Holiday  and  Shapiro  references’ 
+
+description of painting jack-o’-lantern faces on paper bags.  See id. at 18-19.  Dependent 
+
+claims  49  and  79,  which  include  a  “gussets”  limitation,  were  considered  obvious  under 
+
+similar reasoning, except that the references cited against them included Kessler.  See id. 
+
+at 7. 
+
+The Board also affirmed the Examiner’s obviousness-type double patenting rejection 
+
+of all the independent claims in light of the two Dembiczak design patents (‘023 and ‘254) 
+
+and  Holiday.    See  id.  at  12.    The  Board  held  that  the  design  patents  depict  a  generally 
+
+rounded bag with jack-o’-lantern facial indicia, and that the Holiday reference supplies the 
+
+missing limitations, such as the “thin, flexible material” of manufacture, the orange color, the 
+
+initially-open  upper  end,  and  the  trash  filling  material.    The  Board  also  stated  that  the 
+98-1498 
+
+6 
+
+ 
+
+various limitations of the dependent claims--e.g., color, the inclusion of leaves as stuffing, 
+
+and  the  dimensions--would  all  be  obvious  variations  of  the  depictions  in  the  Dembiczak 
+
+design  patents.    See  id.  at  8-9.    In  addition,  using  a  two-way  test  for  obviousness-type 
+
+double patenting, the Board held that the claims of the Dembiczak design patents “do not 
+
+exclude”  the  additional  structural  limitations  of  the  pending  utility  claims,  and  thus  the 
+
+design patents were merely obvious variations of the subject matter disclosed in the utility 
+
+claims.  See id. at  11.  The Board further upheld, on similar grounds and with the inclusion 
+
+of  the  Kessler  reference,  the  obviousness-type  double  patenting  rejection  of  dependent 
+
+claim 49.  See id. at 12. 
+
+This  appeal  followed,  vesting  this  court  with  jurisdiction  pursuant  to  28  U.S.C. 
+
+§ 1295(a)(4)(A) (1994). 
+
+ 
+II 
+
+A claimed invention is unpatentable if the differences between it and the prior art “are 
+
+such that the subject matter as a whole would have been obvious at the time the invention 
+
+was made to a person having ordinary skill in the art.”  35 U.S.C. § 103(a) (Supp. 1998); 
+
+see Graham v. John Deere Co., 383 U.S. 1, 14, 148 USPQ 459, 465 (1966).  The ultimate 
+
+determination  of whether an invention is or is not obvious is a legal conclusion based on 
+
+underlying factual inquiries including: (1) the scope and content of the prior art; (2) the level 
+
+of ordinary skill in the prior art; (3) the differences between the claimed invention and the 
+
+prior art; and (4) objective evidence of nonobviousness.  See Graham, 383 U.S. at 17-18, 
+
+148 USPQ at 467; Miles Labs, Inc., Inc. v. Shandon Inc., 997 F.2d 870, 877, 27 USPQ2d 
+
+1123,  1128  (Fed.  Cir.  1993).    We  therefore  review  the  ultimate  determination  of 
+
+98-1498 
+
+7 
+
+ 
+
+obviousness without deference to the Board, while examining any factual findings for clear 
+
+error.  See, e.g., In re Zurko, 142 F.3d 1447, 1459, 46 USPQ2d 1691, 1700 (Fed. Cir.) (en 
+
+banc), cert. granted, 119 S. Ct. 401 (1998). 
+
+A 
+
+Our analysis begins in the text of section 103 quoted above, with the phrase “at the 
+
+time  the  invention  was  made.”    For  it  is  this  phrase  that  guards  against  entry  into  the 
+
+“tempting  but  forbidden  zone  of  hindsight,”  see  Loctite  Corp.  v.  Ultraseal  Ltd.,  781  F.2d 
+
+861, 873, 228 USPQ 90, 98 (Fed. Cir. 1985), overruled on other grounds by Nobelpharma 
+
+AB v. Implant Innovations, Inc., 141 F.3d 1059, 46 USPQ2d 1097 (Fed. Cir. 1998), when 
+
+analyzing the patentability of claims pursuant to that section.  Measuring a claimed invention 
+
+against the standard established by section 103 requires the oft-difficult but critical step of 
+
+casting the mind back to the time of invention, to consider the thinking of one of ordinary 
+
+skill in the art, guided only by the prior art references and the then-accepted wisdom in the 
+
+field.    See,  e.g.,  W.L.  Gore  &  Assoc.,  Inc.  v.  Garlock,  Inc.,  721  F.2d  1540,  1553,  220 
+
+UPSQ  303,  313  (Fed.  Cir.  1983).    Close  adherence  to  this  methodology  is  especially 
+
+important in the case of less technologically complex inventions, where the very ease with 
+
+which the invention can be understood may prompt one “to fall victim to the insidious effect 
+
+of  a  hindsight  syndrome  wherein  that  which  only  the  inventor  taught  is  used  against  its 
+
+teacher.”  Id. 
+
+Our  case  law  makes  clear  that  the  best  defense  against  the  subtle  but  powerful 
+
+attraction  of  a  hindsight-based  obviousness  analysis  is  rigorous  application  of  the 
+
+requirement  for  a  showing  of  the  teaching  or  motivation  to  combine  prior  art  references.  
+
+See, e.g., C.R. Bard, Inc. v. M3 Sys., Inc., 157 F.3d 1340, 1352, 48 USPQ2d 1225, 1232 
+98-1498 
+
+8 
+
+ 
+
+(Fed.  Cir.  1998)  (describing  “teaching  or  suggestion  or  motivation  [to  combine]”  as  an 
+
+“essential evidentiary component of an obviousness holding”); In re Rouffet, 149 F.3d 1350, 
+
+1359, 47 USPQ2d 1453, 1459 (Fed. Cir. 1998) (“the Board must identify specifically . . . 
+
+the  reasons  one  of  ordinary  skill  in  the  art  would  have  been  motivated  to  select  the 
+
+references and combine them”); In re Fritch, 972 F.2d 1260, 1265, 23 USPQ2d 1780, 1783 
+
+(Fed. Cir. 1992) (examiner can satisfy burden of obviousness in light of combination “only 
+
+by  showing  some  objective  teaching  [leading  to the combination]”);  In re Fine, 837 F.2d 
+
+1071, 1075, 5 USPQ2d 1596, 1600 (Fed. Cir. 1988) (evidence of teaching or suggestion 
+
+“essential” to avoid hindsight);  Ashland Oil, Inc. v. Delta Resins & Refractories, Inc., 776 
+
+F.2d  281,  297,  227  USPQ  657,  667  (Fed.  Cir.  1985)  (district  court’s  conclusion  of 
+
+obviousness  was  error  when  it  ”did  not  elucidate  any  factual  teachings,  suggestions  or 
+
+incentives from this prior art that showed the propriety of combination”).  See also Graham, 
+
+383 U.S. at 18, 148 USPQ at 467 (“strict observance” of factual predicates to obviousness 
+
+conclusion  required).    Combining  prior  art  references  without  evidence  of  such  a 
+
+suggestion, teaching, or motivation simply takes the inventor’s disclosure as a blueprint for 
+
+piecing  together  the  prior  art  to  defeat  patentability--the essence of hindsight.  See, e.g., 
+
+Interconnect Planning Corp. v. Feil, 774 F.2d 1132, 1138, 227 USPQ 543, 547 (Fed. Cir. 
+
+1985) (“The invention must be viewed not with the blueprint drawn by the inventor, but in 
+
+the state of the art that existed at the time.”).  In this case, the Board fell into the hindsight 
+
+trap. 
+
+We  have  noted  that  evidence  of  a  suggestion,  teaching,  or  motivation  to combine 
+
+may flow from the prior art references themselves, the knowledge of one of ordinary skill in 
+
+the art, or, in some cases, from the nature of the problem to be solved, see Pro-Mold & Tool 
+98-1498 
+
+9 
+
+ 
+
+Co. v. Great Lakes Plastics, Inc., 75 F.3d 1568, 1573, 37 USPQ2d 1626, 1630 (Fed. Cir. 
+
+1996), Para-Ordinance Mfg. v. SGS Imports Intern., Inc., 73 F.3d 1085, 1088, 37 USPQ2d 
+
+1237,  1240  (Fed.  Cir.  1995),  although  “the  suggestion  more  often  comes  from  the 
+
+teachings  of  the  pertinent  references,”  Rouffet,  149  F.3d  at  1355,  47 USPQ2d  at  1456.  
+
+The  range  of  sources  available,  however,  does  not  diminish  the  requirement  for  actual 
+
+evidence.    That  is,  the  showing  must  be  clear  and  particular.    See,  e.g.,  C.R.  Bard, 
+
+157 F.3d  at  1352,  48  USPQ2d  at  1232.    Broad  conclusory  statements  regarding  the 
+
+teaching  of  multiple  references,  standing  alone,  are  not  “evidence.”    E.g.,  McElmurry  v. 
+
+Arkansas  Power  &  Light  Co.,  995  F.2d  1576,  1578,  27 USPQ2d  1129,  1131  (Fed.  Cir. 
+
+1993) (“Mere denials and conclusory statements, however, are not sufficient to establish a 
+
+genuine issue of material fact.”); In re Sichert, 566 F.2d 1154, 1164, 196 USPQ 209, 217 
+
+(CCPA 1977) (“The examiner's conclusory statement that the specification does not teach 
+
+the  best  mode  of  using  the invention is unaccompanied by evidence or reasoning and is 
+
+entirely inadequate to support the rejection.”).  In addition to demonstrating the propriety of 
+
+an obviousness analysis, particular factual findings regarding the suggestion, teaching, or 
+
+motivation to combine serve a number of important purposes, including: (1) clear explication 
+
+of  the  position  adopted  by  the  Examiner  and  the  Board;  (2)  identification  of  the  factual 
+
+disputes,  if  any,  between  the  applicant  and  the  Board;  and  (3)  facilitation  of  review  on 
+
+appeal.  Here, however, the Board did not make particular findings regarding the locus of 
+
+the suggestion, teaching, or motivation to combine the prior art references. 
+
+All the obviousness rejections affirmed by the Board resulted from a combination of 
+
+prior art references, e.g., the conventional trash or yard bags, and the Holiday and Shapiro 
+
+publications teaching the construction of decorated paper bags.  See Dembiczak, slip op. at 
+98-1498 
+
+10 
+
+ 
+
+6-7.    To  justify  this  combination,  the  Board  simply  stated  that  “the  Holiday  and  Shapiro 
+
+references would have suggested the application of . . . facial indicia to the prior art plastic 
+
+trash bags.”  Id. at 18-19.  However, rather than pointing to specific information in Holiday 
+
+or  Shapiro  that  suggest  the  combination  with  the  conventional  bags,  the  Board  instead 
+
+described  in  detail  the  similarities  between  the  Holiday  and  Shapiro  references  and  the 
+
+claimed  invention,  noting  that  one  reference  or  the  other--in  combination  with  each other 
+
+and the conventional trash bags--described all of the limitations of the pending claims.  See 
+
+id.  at  18-28.    Nowhere  does  the  Board  particularly  identify  any  suggestion,  teaching,  or 
+
+motivation  to  combine  the  children’s  art  references  (Holiday  and  Shapiro)  with  the 
+
+conventional  trash  or  lawn  bag  references,  nor  does  the  Board  make  specific--or  even 
+
+inferential--findings concerning the identification of the relevant art, the level of ordinary skill 
+
+in the art, the nature of the problem to be solved, or any other factual findings that might 
+
+serve  to  support  a  proper  obviousness  analysis.    See,  e.g.,  Pro-Mold & Tool, 75 F.3d at 
+
+1573, 37 USPQ2d at 1630. 
+
+To  the  contrary,  the  obviousness  analysis  in  the  Board’s  decision  is  limited  to  a 
+
+discussion of the ways that the multiple prior art references can be combined to read on the 
+
+claimed invention.  For example, the Board finds that the Holiday bag reference depicts a 
+
+“premanufactured orange” bag material, see Dembiczak, slip op. at 21, finds that Shapiro 
+
+teaches  the  use  of  paper  bags  in  various  sizes,  including  “large”,  see  id.  at  22-23,  and 
+
+concludes  that  the  substitution  of  orange  plastic  for  the  crepe  paper  of  Holiday  and  the 
+
+paper bags of Shapiro would be an obvious design choice, see id. at 24.  Yet this reference-
+
+by-reference,  limitation-by-limitation  analysis  fails  to  demonstrate  how  the  Holiday  and 
+
+Shapiro references teach or suggest their combination with the conventional trash or lawn 
+98-1498 
+
+11 
+
+ 
+
+bags to yield the claimed invention.  See Rouffet, 149 F.3d at 1357, 47 USPQ2d at 1459 
+
+(noting Board’s failure to explain, when analyzing the prior art, “what specific understanding 
+
+or  technical  principle  .  .  .  would  have  suggested  the  combination”).    Because  we do not 
+
+discern  any  finding  by  the  Board  that  there  was  a  suggestion,  teaching,  or  motivation  to 
+
+combine the prior art references cited against the pending claims, the Board’s conclusion of 
+
+obviousness,  as  a  matter  of  law,  cannot  stand.    See  C.R.  Bard,  157  F.3d  at  1352,  48 
+
+USPQ2d at 1232;  Rouffet, 149 F.3d at 1359, 47 USPQ2d at 1459;  Fritch, 972 F.2d at 
+
+1265, 23 USPQ2d at 1783;  Fine, 837 F.2d at 1075, 5 USPQ2d at 1600;  Ashland Oil, 776 
+
+F.2d at 297, 227 USPQ at 667.  
+
+B 
+
+The Commissioner of Patents and Trademarks (“Commissioner”) attempts to justify 
+
+the Board’s decision on grounds different from that relied upon by the Board, arguing that 
+
+one of ordinary skill in the art would have been motivated to combine the references.  Of 
+
+course,  in  order  to  do  so,  the  Commissioner  must  do  what  the  Board  did  not  do  below: 
+
+make  specific  findings  of  fact  regarding  the  level  of  skill  in  the  art  (“a  designer  and 
+
+manufacturer  of  trash  and  leaf  bags,  particularly  one  specializing  in  the  ornamental  and 
+
+graphic  design  of  such  bags”),  Resp’t  Br.  at  14,  the  relationship  between  the  fields  of 
+
+conventional  trash  bags  and children’s crafts, respectively (“[t]he artisan would also have 
+
+been well aware of the ancillary, corollary, and atypical uses of ‘trash’ bags such as their 
+
+application in hobby and art projects”), Resp’t Br. at 15, and the particular features of the 
+
+prior  art  references  that  would  motivate  one  of  ordinary  skill  in  a  particular  art  to  select 
+
+elements disclosed in references from a wholly different field (“a designer and manufacturer 
+
+of trash and leaf bags would have recognized the paper bag in Shapiro to be a trash bag 
+98-1498 
+
+12 
+
+ 
+
+and  therefore  would  have been motivated to combine it with the admitted prior art plastic 
+
+trash and leaf bags to arrive at the claimed invention”), Resp’t Br. at 15.  The Commissioner 
+
+also appears to cite additional references in support of his obviousness analysis, noting that 
+
+at least two design patents (in the record but not cited against the presently pending claims) 
+
+teach  the  placement  of  “graphical  information,  including  text,  designs,  and  even  facial 
+
+indicia, to colored bags.”  Resp’t Br. at 16.  This new analysis, apparently cut from whole 
+
+cloth  in  view  of  appeal,  does  little  more  than  highlight  the  shortcomings  of  the  decision 
+
+below,  and  we  decline  to  consider  it.    See,  e.g.,  In  re  Robertson,  169  F.3d  743,  __,  49 
+
+USPQ2d  1949,  1951  (Fed.  Cir.  1999)  (“We  decline  to  consider  [the  Commissioner’s] 
+
+newly-minted theory as an alternative ground for upholding the agency’s decision.”);  In re 
+
+Soni,  54  F.3d  746,  751,  34  USPQ2d  1684,  1688  (Fed.  Cir.  1995);    In  re  Hounsfield, 
+
+699 F.2d 1320, 1324, 216 USPQ 1045, 1049 (Fed. Cir. 1983) (rejecting an “attempt[ ] by 
+
+the Commissioner ‘to apply a new rationale to support the rejection.’”);  see also 35 U.S.C. 
+
+§ 144 (1994) (an appeal to the Federal Circuit “is taken on the record before The Patent 
+
+and  Trademark  Office”).    Because  the  Board  has  not  established  a  prima  facie  case  of 
+
+obviousness, see In re Bell, 991 F.2d 781, 783, 26 USPQ2d 1529, 1531 (Fed. Cir. 1993) 
+
+(“The  PTO  bears  the  burden  of  establishing  a  case  of  prima  facie  obviousness.”),  we 
+
+therefore  reverse  the  obviousness  rejections,  and  have  no  need  to  address  the  parties’ 
+
+arguments with respect to secondary factors. 
+
+ 
+
+III 
+
+Dembiczak  also  asks  this  court  to  reverse  the  Board’s  rejection  of  the  pending 
+
+claims  for  obviousness-type  double  patenting,  which  is  a  judicially-created  doctrine  that 
+
+98-1498 
+
+13 
+
+ 
+
+seeks to prevent the applicant from expanding the grant of the patent right beyond the limits 
+
+prescribed in Title 35.  See, e.g., In re Braat, 937 F.2d 589, 592, 19 USPQ2d 1289, 1291-
+
+92 (Fed. Cir. 1991); In re Longi, 759 F.2d 887, 892, 225 USPQ 645, 648 (Fed. Cir. 1985).  
+
+See  also  35  U.S.C.  §  154(a)(2)  (Supp.  1998)  (discussing  patent  term).    The  doctrine 
+
+prohibits  claims  in  a  second  patent  which  define  “merely  an  obvious  variation”  of  an 
+
+invention  claimed  by  the  same  inventor  in  an  earlier  patent.    Braat,  937 F.2d  at  592,  19 
+
+USPQ2d  at  1292  (quoting  In  re  Vogel,  422 F.2d 438, 441, 164 USPQ 619, 622 (CCPA 
+
+1970)).    Thus,  unless  a  claim  sought  in  the  later  patent  is  patentably  distinct  from  the 
+
+claims in an earlier patent, the claim must be rejected.  See In re Goodman, 11 F.3d 1046, 
+
+1052, 29 USPQ2d 2010, 2015 (Fed. Cir. 1993); Vogel, 422 F.2d at 441, 164 USPQ at 622. 
+
+ This question is one of law, which we review de novo.  See Goodman, 11 F.3d at 1052, 29 
+
+USPQ2d at 2015; Texas Instruments Inc. v. United States Int’l Trade Comm’n, 988 F.2d 
+
+1165, 1179, 26 USPQ2d 1018, 1029 (Fed. Cir. 1993). 
+
+A 
+
+The law provides that, in some very rare cases, obvious-type double patenting may 
+
+be found between design and utility patents.  See Carman Indus., Inc. v. Wahl, 724 F.2d 
+
+932, 939-40, 220 USPQ 481, 487 (Fed. Cir. 1983) (noting that, while theoretically possible, 
+
+“[d]ouble patenting is rare in the context of utility versus design patents”); In re Thorington, 
+
+418  F.2d  528,  536-37,  163  USPQ  644,  650  (CCPA  1969) (Double patenting between a 
+
+design and utility patent is possible “if the features producing the novel aesthetic effect of a 
+
+design patent or application are the same as those recited in the claims of a utility patent or 
+
+application  as  producing  a novel structure.”); In re Phelan, 205 F.2d 183, 98 USPQ 156 
+
+(CCPA 1953); In re Barber, 81 F.2d 231, 28 USPQ 187 (CCPA 1936); In re Hargraves, 53 
+98-1498 
+
+14 
+
+ 
+
+F.2d 900, 11 USPQ 240 (CCPA 1931).  In these cases, a “two-way” test is applicable.  See 
+
+Carman, 724 F.2d at 940, 220 USPQ at 487.  Under this test, the obviousness-type double 
+
+patenting rejection is appropriate only if the claims of the two patents cross-read, meaning 
+
+that  “the  test  is  whether  the  subject  matter  of  the  claims  of  the  patent  sought  to  be 
+
+invalidated  would  have  been  obvious  from  the  subject  matter  of  the  claims  of  the  other 
+
+patent,  and  vice  versa.”    Id.,  220  USPQ  at  487.    See  also  Braat,  937  F.2d  at  593,  19 
+
+USPQ2d at 1292 (explaining two-way test). 
+
+B 
+
+In making its double patenting rejection, the Board concluded that all but one of the 
+
+pending  claims  of  Dembiczak’s  utility  application  would  have  been  merely  an  obvious 
+
+variation of the claims of the earlier-issued design patents--the Dembiczak ‘023 and ‘254 
+
+references--in  light  of  the  Holiday  reference.    The  remaining  claim,  dependent  claim  49, 
+
+was judged obvious in light of the combination of the Dembiczak design patents, Holiday, 
+
+and the Kessler reference. 
+
+Acknowledging that the two-way test was required by Carman, 724 F.2d at 940, 220 
+
+USPQ at 487, the Board concluded that “the design claimed in each of appellants’ design 
+
+patents does not exclude the features pertaining to the construction and color of the bag, 
+
+the use of a plastic material for making the bag, the size or thickness of the bag . . . or the 
+
+use of various types of filling material . . . .  The particular details of the facial indicia would 
+
+have  been  a  matter  of  design  choice  as  evidenced  by  the  Holiday  handbook,”  and  that 
+
+therefore, in view of Holiday, the claims of the design patents were obvious variants of the 
+
+pending utility patent claims. See Dembiczak, slip op. at 11.  We disagree.  In order for a 
+
+design  to  be  unpatentable  because  of  obviousness,  there  must  first  be  a  basic  design 
+98-1498 
+
+15 
+
+ 
+
+reference in the prior art, the design characteristics of which are “basically the same as the 
+
+claimed  design.”    In  re  Borden, 90 F.3d 1570, 1574, 39 USPQ2d 1524, 1526 (Fed. Cir. 
+
+1996); In re Rosen, 673 F.2d 388, 391, 213 USPQ 347, 350 (CCPA 1982).  The phrase 
+
+“having facial indicia thereon” found in the claims of the pending utility application is not a 
+
+design  reference that is “basically the same as the claimed design.”  Borden, 90 F.3d at 
+
+1574,  39  USPQ2d  at  1526.    In  fact,  it  describes  precious  little  with  respect  to  design 
+
+characteristics.    The  Board’s  suggestion  that the design details were simply “a matter of 
+
+design choice” evinces a misapprehension of the subject matter of design patents.  E.g., 
+
+Carman, 724 F.2d at 939 n.13, 220 USPQ at 486 n.13 (“Utility patents afford protection for 
+
+the  mechanical  structure  and  function  of  an  invention  whereas  design  patent  protection 
+
+concerns the ornamental or aesthetic features of a design.”)  Indeed, we note that the two 
+
+design  patents  at  issue  here--the  Dembiczak  ‘023  and  ‘254  patents--were  considered 
+
+nonobvious over each other, and were even the subject of a restriction requirement. See 35 
+
+U.S.C. § 121 (1994) (“If two or more independent and distinct inventions are claimed in one 
+
+application,  the  Commissioner  may  require  the  application  to  be  restricted  to  one  of  the 
+
+inventions.”);  37  C.F.R.  § 1.142.    The  position  adopted  by  the  Board--that  a  textual 
+
+description  of  facial  indicia  found  in  the  claims  of  the  utility  patent  application  makes 
+
+obvious the specific designs claimed in the (patentably distinct) Dembiczak design patents-
+
+-would presumably render obvious, or even anticipate, all design patents where a face was 
+
+depicted on a bag.  But this, of course, is not the law; the textual description cannot be said 
+
+to be a reference “basically the same as the claimed design,” of the design patents at issue 
+
+here.    Borden,  90  F.3d  at 1574, 39 USPQ2d at 1526 (internal quotation marks omitted).  
+
+The Board’s conclusion of obviousness is incorrect. 
+98-1498 
+
+16 
+
+ 
+
+Because  we  find  that  the  Board  erred  in  concluding  that  the  design  patents were 
+
+obvious variants of the pending utility claims, we need not address the other prong of the 
+
+two-way double patenting test--whether the pending utility claims are obvious variations of 
+
+the  subject  matter  claimed  in  the  design  patents.    See  Carman,  724  F.2d  at  939,  220 
+
+USPQ  at  487  (both  prongs  of  the  two-way  test  required  for  obviousness-type  double 
+
+patenting).  The double patenting rejections are reversed. 
+
+ 
+
+IV 
+
+Because there is no evidence in the record of a suggestion, teaching, or motivation 
+
+to combine the prior art references asserted against the pending claims, the obviousness 
+
+rejections are reversed.  In addition, because the Board misapprehended 
+
+98-1498 
+
+17 
+
+ 
+
+the test for obviousness-type double patenting, and because the pending utility claims do 
+
+not render obvious the design patents, the double patenting rejections are also reversed.  
+
+ 
+
+ 
+ 
+ 
+ 
+
+REVERSED 
+
+ 
+
+98-1498 
+
+18 
+
+ 
+
+

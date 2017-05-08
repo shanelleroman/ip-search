@@ -1,0 +1,245 @@
+Jeep Hack Shows Why the DMCA Must Get Out of the Way of Vehicle Security Research | Electronic Frontier Foundation
+
+5/7/17, 1:34 PM
+
+About
+
+Issues
+
+Updates
+
+Take Action
+
+Donate
+
+ 
+
+Jeep Hack Shows Why the
+DMCA Must Get Out of the
+
+Way of Vehicle Security
+
+Research
+
+NEWS UPDATE BY KIT WALSH JULY 21, 2015
+
+Security researchers Charlie Miller and Chris Valasek
+
+have once again exposed automobile security ﬂaws that
+
+allow attackers to take over a vehicle’s crucial systems.
+
+In their latest work, they learned how an attacker could
+
+remotely control a car over the Internet.
+
+Vehicle manufacturers dismissed prior warnings about
+
+ﬂawed security by claiming [PDF] that the exploits relied
+
+on physical access to the car. But it has long been known
+
+that vehicles’ wireless systems (such as Bluetooth)
+
+contain vulnerabilities that would allow a malicious
+
+hacker to gain access to critical vehicle functions.
+
+Miller and Valasek took it one step further, revealing one
+
+dramatic way that drivers have been left vulnerable in
+
+manufacturers’ race to connect vehicles to the Internet.
+
+https://www.eff.org/deeplinks/2015/07/jeep-hack-shows-why-dmca-must-get-out-way-vehicle-security-research
+
+Page 1 of 4
+
+Jeep Hack Shows Why the DMCA Must Get Out of the Way of Vehicle Security Research | Electronic Frontier Foundation
+
+5/7/17, 1:34 PM
+
+This particular vulnerability relates to Chrysler’s
+
+Uconnect system, but it would be naive to imagine that
+
+no other vehicles have similar vulnerabilities.
+
+One major reason that serious vulnerabilities have gone
+
+undisclosed and unﬁxed is that laws like Section 1201 of
+
+the Digital Millennium Copyright Act chill independent
+
+security research. That’s why we ﬁled for an exemption
+
+to Section 1201 that would speciﬁcally protect security
+
+and safety research on vehicle software from DMCA
+
+liability. The automakers showed up in force to oppose it
+
+(including the “Auto Alliance” trade group, of which Fiat
+
+Chrysler is a member), arguing that there was no need
+
+for independent security research and that they had the
+
+legal right to shut it down – even when researchers only
+
+look at code on vehicles they own. We think Miller,
+
+Valasek, and other researchers have amply shown the
+
+need for independent vehicle security research.
+
+We also asked for a second DMCA exemption for vehicle
+
+software, one that would allow competition in the
+
+vehicle software space (as well as repairs and
+
+customization). If that exemption is granted, an
+
+alternative software provider could enter the market to
+
+secure your vehicle and you might decide you have more
+
+faith in them than in the original manufacturer (or they
+
+might o!er better functionality, or they might protect
+
+https://www.eff.org/deeplinks/2015/07/jeep-hack-shows-why-dmca-must-get-out-way-vehicle-security-research
+
+Page 2 of 4
+
+Jeep Hack Shows Why the DMCA Must Get Out of the Way of Vehicle Security Research | Electronic Frontier Foundation
+
+5/7/17, 1:34 PM
+
+your privacy against invasive data collection by auto
+
+manufacturers). We would at least see the possibility of
+
+competition leading to better practices and spurring
+
+innovation among manufacturers.
+
+The Librarian of Congress will issue a ﬁnal rule this Fall
+
+and we are hopeful that he will grant exemptions that
+
+bring greater legal certainty to important research and
+
+remove Section 1201 as a barrier to innovation,
+
+competition, and user choice.
+
+FAIR USE AND INTELLECTUAL PROPERTY: DEFENDING
+
+THE BALANCE
+
+DEFEND YOUR RIGHT TO REPAIR!
+
+DMCA
+
+FAIR USE AND INTELLECTUAL PROPERTY: DEFENDING
+
+THE BALANCE
+
+DEFEND YOUR RIGHT TO REPAIR!
+
+DMCA
+
+The leading nonprofit defending digital privacy, free speech, and innovation.
+
+https://www.eff.org/deeplinks/2015/07/jeep-hack-shows-why-dmca-must-get-out-way-vehicle-security-research
+
+Page 3 of 4
+
+Jeep Hack Shows Why the DMCA Must Get Out of the Way of Vehicle Security Research | Electronic Frontier Foundation
+
+5/7/17, 1:34 PM
+
+FOLLOW EFF:
+
+CONTACTABOUT ISSUES UPDATESPRESS DONATE
+
+General
+
+Volunteer
+
+Legal
+
+Victories
+
+Security
+
+History
+
+Free
+Speech
+
+Privacy
+
+Membership
+
+Press
+
+Creativity
+Internships
+&
+Innovation
+
+Jobs
+
+Blog
+
+Events
+
+Press
+Releases
+
+Press
+Contact
+
+Press
+Materials
+
+Whitepapers
+
+Staff
+
+Transparency
+
+International
+
+Security
+
+Join or Renew
+Membership
+Online
+
+One-Time
+Donation
+Online
+
+Shop
+
+Other Ways to
+Give
+
+COPYRIGHT (CC BY)
+
+ 
+PRIVACY POLICY
+
+ 
+
+THANKS
+
+https://www.eff.org/deeplinks/2015/07/jeep-hack-shows-why-dmca-must-get-out-way-vehicle-security-research
+
+Page 4 of 4
+
+

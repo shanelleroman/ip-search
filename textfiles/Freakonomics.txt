@@ -1,0 +1,630 @@
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+RADIO   BOOKS
+RADIO
+ABOUT   EXTRAS
+ABOUT
+
+BOOKS   LECTURES
+EXTRAS  
+
+LECTURES  
+
+Blog
+
+The Lanham Act Goes to the
+Movies
+
+April 21, 2010 @ 10:30am
+by Ian Ayres
+
+ 
+
+ 
+
+An occupational hazard of teaching intellectual property for the
+ﬁrst time is that IP violations now repeatedly jump to mind. (I’m a
+bit like the hypochondriac med student who imagines
+encountering all the illnesses she just studied.)
+
+Last week was no exception. My beloved spouse and I had a
+date night where we went to see the movie Date Night. (I’m a
+big fan of both Tina Fey and Steve Carell, but, like many critics,
+I was underwhelmed by the movie. The extended dancing scene
+was a particular misstep.) Aside from the movie’s artistic merit, I,
+as a newbie IP professor, was surprised by the movie’s use of a
+Kindle, the Amazon book reader.
+
+***Mild Spoiler Alert***
+
+Steve Carell’s character asks a New York cab driver if he has a
+laptop or some device that can read a ﬂash drive (also referred
+to in the movie by the less tech-savvy Tina Fey character as a
+“computer stickie thing”). The driver responds that he has a
+Kindle, and Carell’s character then proceeds to insert the ﬂash
+
+ 
+
+ 
+
+LATEST POSTS
+
+The Most Dangerous
+Machine
+Season 6, Episode 35 This
+week on Freakonomics
+Radio: Uber is disrupting
+proﬁtable sectors by using
+one of the world’s most
+dangerous
+machines. Plus, Stephen...
+
+Food + Science =
+Victory! (Rebroadcast)
+A kitchen wizard and a
+nutrition detective talk about
+the perfect hamburger,
+getting the most out of garlic,
+and why you should use
+vodka in just about...
+
+How to be More
+Productive
+Season 6, Episode 34 This
+week on Freakonomics
+Radio: Stephen J. Dubner
+returns to his alma
+mater to ask his three
+favorite professors if colleges
+make...
+
+There’s A War On
+Sugar. Is It Justified?
+Some people argue that
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 1 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+sugar should be regulated,
+like alcohol and tobacco, on
+the grounds that it’s addictive
+and toxic. How much sense
+does that make?...
+
+drive into the Kindle and immediately display certain
+incriminating pictures taken from the drive.
+
+As an initial matter, do cab drivers really have Kindles in their
+cabs? Here’s a mini-bleg: please add a comment if you’ve seen
+a cab driver with a Kindle (or if you’re a cab driver and keep one
+in your car from time to time). I’d be amazed if 10 cab drivers in
+New York City have Kindles currently in their cabs. I mention the
+implausibility of ﬁnding a Kindle because it makes me think that
+Amazon probably paid for the “product placement.” (I have
+ridden in many cabs where the driver has a ﬂash drive-
+compatible laptop, which would have been the more natural
+device for the driver in the movie to offer.)
+
+But my larger concern is that Kindles can’t read ﬂash drives.
+They don’t have USB ports. (Second mini-bleg: is there some
+snap-on adapter that would allow you to download ﬁles from a
+ﬂash drive? This user board suggests I’m not alone in thinking
+that the movie attributes to the Kindle a feature that it simply
+doesn’t have.)
+
+If my two conjectures are correct (i.e., that Amazon paid for the
+Kindle product placement, and that Kindles can’t read ﬂash
+drives in the way depicted in the movie), then it seems to me
+that the movie violates the Lanham Act.
+
+You see, Section 43(a) of the Lanham Act (our nation’s core
+trademark provision) prohibits false or misleading advertising:
+
+Any person who, on or in connection with any
+goods or services . . . uses in commerce any
+word, term, name, symbol, or device . . . which in
+commercial advertising or promotion,
+misrepresents the nature, characteristics [or]
+qualities . . . of his or her or another person’s
+goods . . . shall be liable in a civil action by any
+person who believes that he or she is or is likely
+to be damaged by such act.
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 2 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+If Amazon paid for the product placement, it qualiﬁes as a
+“commercial advertis[ement] or promotion” that “misrepresents
+the nature, characteristics [or] qualities” of the Kindle.
+
+I think it would be ﬁne for movies to take some artistic license
+with the qualities of a product if it is clear to the audience that
+the qualities are the script writer’s fantasy. For example, if Carell
+and Fey traveled through time by unlocking a hidden Kindle
+time-machine function, I don’t think there would be any liability
+(even if Amazon paid for the placement).
+
+But what is troubling about the Kindle reference in “Date Night”
+is that it is not depicted as fantasy, but as an actual attribute of
+the product. There may be actual audience members who go
+out and buy a Kindle in part because of the movie’s depiction,
+and then are surprised to learn that the device cannot download
+ﬁles directly from a ﬂash drive.
+
+Any competitor “who believes that he or she is or is likely to be
+damaged” by this misrepresentation has standing to bring suit.
+Heads up Apple, Microsoft, and Barnes & Noble: you have a
+colorable claim. If I were the maker of the Onda VX560, I’d be
+particularly put out by “the ad” because the VX560 reader has a
+USB port and can actually download ﬁles from a ﬂash drive.
+
+I say this with no animus toward Amazon. Indeed, I love my
+Kindle. It let me discover something about
+SuperFreakonomics that I never would have found without it.
+The Kindle has improved the quality of my reading
+experience (even if I haven’t ﬁgured out how to download ﬁles
+from my ﬂash drive).
+
+But in a world where product placements are on the rise, it is
+entirely appropriate that our deceptive advertising laws respond.
+Merely wrapping an ad inside a work of art should not empower
+advertisers to misrepresent the attributes of their products.
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 3 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+TAGS: Advertising
+
+Comments
+
+Community
+
+ Recommend 
+
+&
+
+1
+
+ Share⤤
+
+Start the discussion…
+
+!1
+
+ Login
+
+Sort by Best
+
+ALSO ON FREAKONOMICS
+Why Are We Still Using
+Cash?
+1 comment • 2 months ago•
+
+Joan Greenﬁeld — My
+family's takeaway from the
+Anne Frank story has 2 …
+
+The Men Who Started A
+Thinking Revolution
+2 comments • a month ago•
+
+Eliza Lambert — Please
+email …
+
+Big Returns from Thinking
+Small
+6 comments • a month ago•
+
+Conservative Forum —
+Good example, as if being
+late is just a …
+
+Music: TMSIDK Episode 16
+1 comment • 14 days ago•
+
+Giovanni De Birella Coletta
+— Great music. Which are
+the titles?
+
+✉
+
+Subscribe
+
+d
+
+Add Disqus to your siteAdd DisqusAdd
+
+%
+
+Privacy
+
+Eric M. Jones
+
+April 21, 2010 @ 2:46pm
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 4 of 12
+
+Be the ﬁrst to comment.The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+Dude...It's a movie.
+
+Nitin Roper
+April 21, 2010 @ 2:58pm
+It appears the kindle does have a USB connection, but
+only to connect it to a computer. See below from
+amazon.com website.
+
+http://www.amazon.com/gp/help/customer/display.html?
+nodeId=200375630
+
+Transferring Files Via USB
+
+Both Macintosh and Windows users can download and
+transfer Kindle content, personal documents, and MP3
+and Audible ﬁles from their computers to their Kindles
+through the USB connection. When your Kindle is
+plugged into your computer, your Kindle will appear as
+a removable mass-storage device.
+System Requirements
+
+Making the Connection
+
+The illustration below shows a Kindle and a laptop
+computer connected through the USB cable.
+Illustration of Kindle connected to a computer via USB
+
+MikeM
+April 21, 2010 @ 3:22pm
+Wouldn't you have to make the case that dramatization
+within a movie scene is "in commerce"?
+
+I could see a court being persuaded to rule that way,
+but not automatically. Is there any precedent for that?
+
+Gordon
+
+April 21, 2010 @ 3:29pm
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 5 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+@Eric -- it's not a movie, it's an ad within a movie. Just
+because it "ﬁts" in the "narrative structure" doesn't
+change what it actually is.
+
+April 21, 2010 @ 3:40pm
+
+Ben
+Movies are very poor representations of technology.
+Always have been. A side effect of working with
+technology professionally is that you can barely stand
+to watch movies where computers or technology takes
+any role at all. The things they do with computers are
+preposterous and almost always entirely wrong.
+
+brent
+According to Amazon, here:
+
+April 21, 2010 @ 3:48pm
+
+http://www.amazon.com/Kindle-Wireless-Reading-
+Display-Generation/dp/B0015TG12Q/ref=sr_1_1?
+ie=UTF8&s=electronics&qid=1271864737&sr=1-1
+
+The Kindle has a micro USB connector, so a ﬂash drive
+is not compatible.
+
+Sally
+April 21, 2010 @ 4:04pm
+I have a computer science degree. Anytime computers
+enter into a movie, their abilities are exaggerated. For
+example: "zoom in on his face...enhance by 10x...that's
+our man" Chloe in 24 is probably the my favorite
+character ever - just for her ability to take advantage of
+these futuristic technologies.
+
+Eric is right. It's just a movie. No more can be expected
+than would be from CSI's science or legal advice from
+The Practice.
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 6 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+Jonathan Linde
+April 21, 2010 @ 4:10pm
+I'm an antitrust lawyer and frequently lack the ability to
+compartmentalize antitrust doctrine from my daily life
+(e.g., wondering whether local retailers selling cub
+scouts equipment are engaging in impermissible cartel
+behavior), so I empathize. That said, because there are
+so many ﬂights of fancy in Date Night (the chase scene
+involving a cab locked together with an Audi R8 wasn't
+exactly believable), I think it's unlikely that the putative
+"reasonable" consumer would presume that the movie
+depicts the Kindle's features in a factually accurate
+manner. Furthermore, and I don't have a clue about the
+case law here, even if Amazon paid a fee to have the
+product placed in the ﬁlm, I wonder if the obviously
+ﬁctional nature of the movie subverts the notion that the
+Read more...
+Kindle's appearance qualiﬁes as "commercial
+advertising or promotion" under the Act.
+Rob
+By the way, my wife and I are fans of juvenile humor
+Nitin, you are correct that a Kindle can connect to a
+and thought the dance scene was pretty funny. The
+computer via usb, but that does not mean that it would
+aforementioned car chase, however, was another
+be able to connect to a usb drive.
+matter entirely . . .
+A usb connection is asymmetric, and requires a "host"
+that can then connect to one or more devices. A kindle
+is not able to be a host, not is a usb drive.
+
+April 21, 2010 @ 4:12pm
+
+You could only connect the two if you have some
+device that could act as a host for both of them (serving
+as an intermediary between them).
+
+Despite all this, it doesn't seem all that deceptive that
+they'd show this in a movie. Not as a way to try to
+deceive people about the function of the kindle, but just
+because there isn't a good well-known device that
+could plausibly serve the function they needed for this
+scene in the movie.
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 7 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+April 21, 2010 @ 4:26pm
+
+RJ
+If this was a valid Lanham Act-able representation,
+does that mean people could sue over ads or product
+placements that happen to feature people enjoying
+XBoxes not plugged into TVs or Game Boys with no
+game cartridges in them? If so, I wonder why no one's
+done so yet.
+
+April 21, 2010 @ 4:27pm
+
+Raymond
+What about movies where cell phones work
+underground, in subways, under tunnels, etc? It
+wouldn't necessarily advertise a particular carrier, but
+I'm sure a lot of different technologies get
+misrepresented in movies.
+
+April 21, 2010 @ 4:30pm
+
+PaulD
+I don't think the Lexus that Tom Cruise drove in The
+Minority Report could actually do what was portrayed,
+either. Do you get a special dispensation if you place
+your product in a Sci-Fi movie?
+
+Ellen
+April 21, 2010 @ 4:39pm
+I this this is a very interesting point- but there may need
+to be a car (and bobsled and jet-ski and so on)
+loophole. When James Bond does his thing in his
+Mercedes or whatever, that might qualify as
+misrepresenting the quality of the vehicle.
+
+Most people would know that the car can't do some of
+the things it does on ﬁlm, but it would be very difﬁcult
+for the average viewer to spot where real life ends and
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 8 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+fantasy begins. And I would hate for them to make care
+chases realistic.
+
+April 21, 2010 @ 4:50pm
+
+ad
+I haven't seen the ﬁlm, but I don't think it's a foregone
+conclusion that Amazon paid for product placement,
+either. The Kindle is undisputably the most used and
+most recognized brand name for a "reader" device and
+thus the obvious choice for a scriptwriter who wants to
+feature such a device, even in the absence of ﬁnancial
+compensation for doing so. Saying "I've got a tablet-
+style reader" is a little awkward, the iPad was not yet
+introduced when the movie was ﬁlmed, and reference
+to a "Nook" would potentially be alien to many viewers.
+
+April 21, 2010 @ 4:52pm
+
+Beyondken
+I'm sure Freakonomics lived up to its own high
+standards when it stated in the blog regarding the
+Iceland volcano: "If this eruption is anything like the
+1815 eruption of Mount Tambora".
+
+I'm sure they wouldn't say this if it wasn't a real danger,
+would they?
+
+Brian
+My new GM car doesn't turn in to an autobot, so can I
+sue the producers of Transformers?
+
+April 21, 2010 @ 4:55pm
+
+Jose
+@Raymond
+
+April 21, 2010 @ 5:23pm
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 9 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+In Lisbon, Portugal, the cell phones work inside the
+subway. All the phone carriers have installed special
+equipment inside the tunnels to allow the phones to
+work there.
+
+April 21, 2010 @ 5:35pm
+
+Kate
+I can totally imagine a scenario where someone
+remembers 'Kindles have a port for a USB drive'
+without actually remembering where they heard that
+information in the ﬁrst place. And would they remember
+to check closely the specs before purchasing? Maybe,
+maybe not.
+
+April 21, 2010 @ 5:35pm
+
+Colin
+The jump from "The ﬁlm contains clips of the Kindle
+doing unrealistic things" to "Amazon paid for clips of
+the Kindle doing unrealistic things" is quite a leap of
+faith, Ian.
+
+April 21, 2010 @ 6:57pm
+
+Matthew
+Anybody expecting technical accuracy in a movie
+needs to call me about some ocean front property in
+Arizona I have for sale. When technology becomes part
+of the plot the writers make it capable of doing
+whatever it must to move the story along. It doesn't
+matter if it is warp drive, on-demand repositioning of
+satellites that can read newsprint or uploading a virus
+to aliens to save the Earth, "movie technology" and
+"real word technology" share few attributes.
+
+Older Comments »
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 10 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+« PREVIOUS POST
+Have You Accidentally Sold
+Your Soul Lately?
+
+NEXT POST »
+The World Probably Isn't
+Ending
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A B O U T
+A B O U T
+
+R A D I O
+R A D I O
+Radio Archive
+Subscribe
+On the Radio
+The Team
+Donate
+
+L E C T U R E S
+L E C T U R E S
+
+B O O K S
+B O O K S
+Freakonomics
+SuperFreakonomics
+Think Like a
+Freak
+When to Rob
+a Bank
+
+E X T R A S
+E X T R A S
+Tell Me
+Something I
+Don't Know
+Question of
+the Day
+"Peak"
+Project
+Footy for Two
+Freakonomics:
+The Movie
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 11 of 12
+
+The Lanham Act Goes to the Movies - Freakonomics Freakonomics
+
+5/7/17, 4:09 PM
+
+Freakonomics ® is a registered service mark of Freakonomics, LLC. All contents © 2017 Freakonomics, LLC. All rights reserved.
+
+http://freakonomics.com/2010/04/21/the-lanham-act-goes-to-the-movies/
+
+Page 12 of 12
+
+
