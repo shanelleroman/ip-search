@@ -64,9 +64,9 @@ def index():
 def results():
     query = request.args.get('q')
     file_name = query + 'pdf'
-    print file_name
-    file_path = os.getcwd() + '/pdfs/' + query + 'pdf'
-    if os.path.isfile(file_path):
+    # print file_name
+    # file_path = os.getcwd() + '/pdfs/' + query + 'pdf'
+    # if os.path.isfile(file_path):
         return send_from_directory('pdfs', file_name)
     return render_template("results.html", results=results)
 
