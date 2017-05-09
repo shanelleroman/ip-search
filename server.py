@@ -72,7 +72,7 @@ def results():
     # print file_name
     # file_path = os.getcwd() + '/pdfs/' + query + 'pdf'
     # if os.path.isfile(file_path):
-    return send_from_directory(app.static_folder, file_name)
+    return send_from_directory('static', file_name)
     #return send_from_directory('pdfs', file_name)
     #return render_template("results.html", results=results)
 
