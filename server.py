@@ -58,12 +58,16 @@ wa.whoosh_index(app, Document)
 
 @app.route('/query_results', methods= ['GET', 'POST'])
 def query_results():
+    print "REUQEUST.FORM"
+    print request.form
     results = Document.query.whoosh_search(request.form.get('query')).all()
     return render_template("results_list.html", results=results)
 
-@app.route('/')
+@app.route('/', methods=['GET'])
 def index():
-	return render_template('form.html')
+    if request.method == 'GET':
+	   return render_template('form.html')
+
 
 @app.route('/results', methods=['GET', 'POST'])
 def results():

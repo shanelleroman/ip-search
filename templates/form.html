@@ -5,17 +5,159 @@ Fair Use Form
 {% endblock %}
 
 {% block section %}
-<form action="{{ url_for('query_results') }}" method="post">
-	<div class="dropdown">
-    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example
+<div class="row">
+	<div class="box">
+		<section>
+
+			<div class="dropdown">
+				<h6> Your project is best described as:</h6>
+				<select class="form-control" name="category" id="category">
+					<option value="" selected="selected"></option>
+					<option value="vis-art">Visual Art</option>
+					<option value="computers">Computer Program</option>
+					<option value="b-m-p">Book, Movie, Magazine, Newspaper Article, Short Story, or Play</option>
+					<option value="music">Music</option>
+				</select>
+			</div>
+
+
+		</section>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="box">
+
+		<form  action="{{ url_for('query_results') }}" method="post" name="vis-art" id="vis-art" style="display:none">
+			<!-- Purpose of project -->
+			<div id="purpose">
+			<h6>The purpose of your project is to:</h6>
+			<fieldset id="purpose"class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="non-profit-vis-art" value="educational" checked>
+			    Nonprofit Educational Use
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="non-commercial-vis-art" value="noncommercial">
+			    NonCommercial Use
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="commercial-use-vis-art" value="commercial">
+			    Commercial Use
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+
+			<!-- How it Affects Profits -->
+		
+		<div class="profits"id="profits">
+		<h6> Rate from 1 to 10 how much you think your product will affect the profits/market of the original:</h6>
+		<p>
+		{% for n in range(1,11) %}	
+		<label class="radio-inline">
+			<input type="radio" name="market-share" id="inlineRadio{{n}}" value="{{n}}"> {{n}}
+		</label>
+		{% endfor %}
+		</p>
+		</div>
+
+		<div id="parody-satire">
+		<h6>Select what category best applies to your work</h6>
+		<div class="radio">
+			<fieldset id="parody-satire" class="radiogroup">
+			  <label>
+			    <input type="radio" name="parody-satire" id="parody-satire1" value="parody">
+			    Mostly comments on or critiques the original piece
+			  </label>
+			  <label>
+			    <input type="radio" name="parody-satire" id="parody-satire2" value="satire">
+			    Critiques society in general, but the original piece is not integral to the work's commentary
+			  </label>
+
+			  <label>
+			    <input type="radio" name="parody-satire" id="parody-satire2" value="satire">
+			    I'm like Richard Prince. I don't think about what I'm critiquing. 
+			  </label>
+			  </fieldset>
+		</div>
+
+		</div>	
+
+		<div id="similarity">
+		<h6>How similar would the average observer think your work is to the original?</h6>
+		<fieldset id="similarity" class="radiogroup">
+		<div class="radio">
+			  <label>
+			    <input type="radio" name="similarity" id="similarity1" value="not-similar">
+			    Does not invoke the original
+			  </label>
+		</div>
+
+		<div class="radio">
+			  <label>
+			    <input type="radio" name="similarity" id="similarity2" value="somewhat-similar">
+			    Somewhat invokes the original
+			  </label>
+		</div>
+
+		<div class="radio">
+			  <label>
+			    <input type="radio" name="similarity" id="similarity3" value="similar">
+			    Invokes the original. I've made some slight modifications
+			  </label>
+		</div>
+		</fieldset>
+		</div>
+		
+		<div id="copy-copy">
+		<h6>Is the similarity due to both artists having the subject?</h6>
+		<fieldset id="copy-copy" class="radiogroup">
+		<div class="radio">
+			  <label>
+			    <input type="radio" name="copy-copy" id="copy-copy1" value="copied-original">
+			    Yes, we both represented the original subject as we saw fit. 
+			  </label>
+		</div>
+
+		<div class="radio">
+			  <label>
+			    <input type="radio" name="copy-copy" id="copy-copy2" value="copied-copy">
+			    No, I was inspired by the original artist's interpretation and sought to mimic it. 
+			  </label>
+		</div>
+		</fieldset>
+
+		</div>
+
+	<textarea class="form-control" rows="5" name ="query" id = "query">Type in any additional questions or topics you want to learn more about!</textarea>
+	<button type = "submit" class = "btn btn-primary">Submit </button>
+
+	</form>
+	
+		
+	</div>
+</div>
+
+{% endblock %}
+
+
+<!--  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example
     <span class="caret"></span></button>
     <ul class="dropdown-menu">
       <li><a href="#">HTML</a></li>
       <li><a href="#">CSS</a></li>
       <li><a href="#">JavaScript</a></li>
     </ul>
-  </div>
-	<h5>Rate your idea on the scale 1 - 10 according to the following factors</h5>
+  </div> -->
+	<!-- <h5>Rate your idea on the scale 1 - 10 according to the following factors</h5>
 	<p> Purpose and character of the use: from commercial to nonprofit educational purposes <input type="range" name="points" min="0" max="10" step="1" size="2" /> </p>
 	<p> Nature of the copyrighted work<input type="range" name="points" min="0" max="10" step="1" size="2" /> </p>
 	<p> Amount and substantiality of the portion used in relation to the copyrighted work as a whole <input type="range" name="points" min="0" max="10" step="1" size="2"/> </p>
@@ -30,7 +172,7 @@ Fair Use Form
 	<input type="radio" name="gender" id="other" value="other"><br><br>
 	<!-- <p><textarea name="Text1" cols="40" rows="5"></textarea></p>
 	<input type="submit" value="Search!"/> -->
-	<div class = "sidebar-module sidebar-module-inset">
+	<!-- <div class = "sidebar-module sidebar-module-inset">
 	<h4>Search</h4>
 		<form class = "form-inline" method = "POST" action = "query_results" >
 			<div class = "form-group">
@@ -41,5 +183,4 @@ Fair Use Form
 		</form>
 	</div>
 	</div>
-</form>
-{% endblock %}
+</form> --> 

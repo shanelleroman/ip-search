@@ -85,13 +85,17 @@
             </div>
         </div>
 
-        <div class="row">
+        {% block section %}
+        {% endblock %}
+
+        
+
+<!--         <div class="row">
             <div class="box">
                 <section>
-                {% block section %}{% endblock %}
                 </section>
             </div>
-        </div>
+        </div> -->
 
     </div>
     <!-- /.container -->
@@ -113,6 +117,14 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="{{url_for('static', filename='bootstrap.min.js')}}"></script>
+
+    <script>
+    $("#category").on("change", function() {
+        console.log('something has changed')
+        console.log($(this).val())
+        $("#" + $(this).val()).show().siblings().hide();
+    })
+    </script>
     <!--  <script src="{{url_for('static', filename='bootstrap.js')}}"> </script> -->
 
 
