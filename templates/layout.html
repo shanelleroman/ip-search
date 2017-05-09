@@ -4,36 +4,117 @@
 
     <head>
 
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
         <!-- http://getbootstrap.com/ -->
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+       <!--  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/> -->
 
-        <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet"/>
+        <!-- Bootstrap Core CSS -->
+        <link href="{{url_for('static', filename='bootstrap.min.css')}}" rel="stylesheet">
 
-        <meta charset="utf-8"/>
-        <meta content="initial-scale=1, width=device-width" name="viewport"/>
+        <!-- Custom CSS -->
+        <link href="{{url_for('static', filename='business-casual.css')}}" rel="stylesheet">
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+
+
+        <!-- <link href="{{ url_for('static', filename='styles.css') }}" rel="stylesheet"/> -->
 
         <title>Intellectual Property in the Digital Age Final Project {% block title %}{% endblock %}</title>
 
     </head>
 
     <body>
+        <div class="brand">Fair Use or Not?</div>
+
+            <!-- Navigation -->
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
+                    <a class="navbar-brand" href="index.html">Business Casual</a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <a href="{{url_for('index')}}">Home</a>
+                        </li>
+                        <li>
+                            <a href="about.html">Algorithm</a>
+                        </li>
+                        <li>
+                            <a href="readme.html">README</a>
+                        </li>
+                        <li>
+                            <a href="acknowledgements.html">Thanks!</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
 
         <div class="container">
 
-            <header>
-                <a href="/"><img alt="Logo" src="{{ url_for('static', filename='law-scale-banner-photo.jpg') }}"/></a>
-            </header>
-
-
-            <section>
-                {% block section %}{% endblock %}
-            </section>
-
-            <footer>
-                Dixit and Roman 2017.
-            </footer>
-
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Want to know if your great new idea runs amuck with copyright law? </h2>
+                    <h2 class="intro-text text-center">
+                    <strong>Take this quiz to find out and learn more!</strong>
+                    </h2>
+                    <hr>
+                </div>
+                <div class="clearfix"></div>
+            </div>
         </div>
+
+        <div class="row">
+            <div class="box">
+                <section>
+                {% block section %}{% endblock %}
+                </section>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p>Copyright &copy; Dixit and Roman 2017</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="{{url_for('static', filename='jquery.js')}}"></script>
+
+
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{url_for('static', filename='bootstrap.min.js')}}"></script>
+    <!--  <script src="{{url_for('static', filename='bootstrap.js')}}"> </script> -->
+
 
     </body>
 
