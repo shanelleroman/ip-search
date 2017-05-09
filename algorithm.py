@@ -64,7 +64,6 @@ def code_determination(request):
 gen_sim = { (1, 0): 1, (1, 1): 0, (2, 0): 1, (2, 1): 0, (3, 0): 1, (3, 1): 1}
 return gen_sim.get((similarity, functional))
 
-def book()
 
 
 
