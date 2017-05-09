@@ -3,8 +3,10 @@ import os
 from flask import Flask, jsonify, render_template, request, url_for, Response, make_response, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
 import flask_whooshalchemy as wa
+from whitenoise import WhiteNoise
 
-app = Flask(__name__, static_folder='static')
+app = WhiteNoise(Flask(__name__), root='static/')
+#app = Flask(__name__, static_folder='static')
 
 #setting the congfig values
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///ip-search.db'
@@ -70,7 +72,7 @@ def results():
     # if os.path.isfile(file_path):
     return send_from_directory(app.static_folder, file_name)
     #return send_from_directory('pdfs', file_name)
-    return render_template("results.html", results=results)
+    #return render_template("results.html", results=results)
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
