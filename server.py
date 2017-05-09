@@ -5,8 +5,8 @@ from flask_sqlalchemy import SQLAlchemy
 import flask_whooshalchemy as wa
 from whitenoise import WhiteNoise
 
-app = WhiteNoise(Flask(__name__), root='static/')
-#app = Flask(__name__, static_folder='static')
+#app = WhiteNoise(Flask(__name__), root='static/')
+app = Flask(__name__, static_folder='static')
 
 #setting the congfig values
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///ip-search.db'
@@ -20,6 +20,7 @@ app.config['DEBUG'] = True
 #place for the index to be server
 #going to be stored on your server
 app.config['WHOOSH_BASE'] = 'whoosh'
+app.wsgi_app = WhiteNoise(app.wsgi_app, root='static/')
 
 db = SQLAlchemy(app)
 class Document(db.Model):
