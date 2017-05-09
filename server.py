@@ -4,7 +4,7 @@ from flask import Flask, jsonify, render_template, request, url_for, Response, m
 from flask_sqlalchemy import SQLAlchemy
 import flask_whooshalchemy as wa
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 
 #setting the congfig values
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///ip-search.db'
@@ -51,6 +51,7 @@ wa.whoosh_index(app, Document)
 #                     db.session.commit()
 #     pass
 
+
 @app.route('/query_results', methods= ['GET', 'POST'])
 def query_results():
     results = Document.query.whoosh_search(request.form.get('query')).all()
@@ -67,7 +68,8 @@ def results():
     # print file_name
     # file_path = os.getcwd() + '/pdfs/' + query + 'pdf'
     # if os.path.isfile(file_path):
-    return send_from_directory('pdfs', file_name)
+    return send_from_directory(app.static_folder, file_name)
+    #return send_from_directory('pdfs', file_name)
     return render_template("results.html", results=results)
 
 if __name__ == '__main__':
