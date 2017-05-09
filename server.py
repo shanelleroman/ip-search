@@ -2,6 +2,7 @@
 import os  
 from flask import Flask, jsonify, render_template, request, url_for, Response, make_response, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
+from algorithm import fair_use_determination
 import flask_whooshalchemy as wa
 #from whitenoise import WhiteNoise
 
@@ -56,10 +57,9 @@ wa.whoosh_index(app, Document)
 #     pass
 
 
-@app.route('/query_results', methods= ['GET', 'POST'])
+@app.route('/query_results', methods= ['POST'])
 def query_results():
-    print "REUQEUST.FORM"
-    print request.form
+    print fair_use_determination(request)
     results = Document.query.whoosh_search(request.form.get('query')).all()
     return render_template("results_list.html", results=results)
 

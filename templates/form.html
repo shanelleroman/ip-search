@@ -29,7 +29,8 @@ Fair Use Form
 <div class="row">
 	<div class="box">
 
-		<form  action="{{ url_for('query_results') }}" method="post" name="vis-art" id="vis-art" style="display:none">
+			<form  action="{{ url_for('query_results', type='vis-art') }}" method="post" name="vis-art" id="vis-art" style="display:none">
+		
 			<!-- Purpose of project -->
 			<div id="purpose">
 			<h6>The purpose of your project is to:</h6>
@@ -83,7 +84,7 @@ Fair Use Form
 			  </label>
 
 			  <label>
-			    <input type="radio" name="parody-satire" id="parody-satire2" value="satire">
+			    <input type="radio" name="parody-satire" id="parody-satire3" value="neither">
 			    I'm like Richard Prince. I don't think about what I'm critiquing. 
 			  </label>
 			  </fieldset>
