@@ -6,7 +6,8 @@ import flask_whooshalchemy as wa
 from whitenoise import WhiteNoise
 
 #app = WhiteNoise(Flask(__name__), root='static/')
-app = Flask(__name__, static_folder='static')
+#app = Flask(__name__, static_folder='static')
+app = Flask(__name__)
 
 #setting the congfig values
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///ip-search.db'
