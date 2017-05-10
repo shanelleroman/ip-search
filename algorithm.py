@@ -79,8 +79,8 @@ def code_determination(request):
 	print (functional, similarity)
 	gen_sim = { (1, 0): 1, (1, 1): 0, (2, 0): 1, (2, 1): 0, (3, 0): 1, (3, 1): 1}
 	print request.form.get('market-share')
-	if (functional, similarity) == (2, 1) and int(request.form.get('market-share')) < 5:
-		return (2, 'Given that the program is not cutting a huge market share, we think this could go either way!')
+	if (functional, similarity) == (2, 1) and int(request.form.get('market-share')) < 5 and request.form.get('access') == 'no-access':
+		return (2, 'Given that the program is not cutting a huge market share and you had no access to the original code, we think this could go either way!')
 	if gen_sim.get((functional, similarity)) == 0:
 		if request.form.get('access') == 'no-access':
 			return (2, 'Looks like you fail the abstraction-filtration-comparison test, but you didn\'t have access to the code! This could go either way.')
