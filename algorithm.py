@@ -199,7 +199,7 @@ def music_determination(request):
 		return (0, 'Not quite! You just need a performance license. I\'d recommend a blanket license from AsCAP or BMI')
 	if sim_comp:
 		if not famous and ((melody and groove) or (groove and lyrics) or (melody and lyrics)):
-			return (2, 'Might get in trouble. Some judges might just believe that you must have heard the song at some point!')
+			return (2, 'Might get in trouble. Some judges might believe you have heard the song at some point! Some leeway given because the original is not famous. ')
 		if famous and (melody or groove or lyrics):
 			return (0, 'Given how famous the song is, we think this is a violation of copyright laws.')
 		if melody or groove or lyrics:
