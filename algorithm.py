@@ -59,9 +59,9 @@ def visual_art_determination(request):
 
 def code_determination(request):
 	if request.form.get('access') == 'no-access':
-		return (1, 'If you do not have access to the code, this is probably fair use! But be forewarned the burden of proof is extremely high (like no internet connection ever high)')
+		return (1, 'If you do not have access to the code, this is probably fair use! But be forewarned the burden of proof is extremely high (like no internet connection ever)')
 	if request.form.get('purpose') == 'personal-use':
-		return (1, 'If you are writing for the code for your own personal enjoyment, go for it!')
+		return (1, 'If you are writing code for your own personal enjoyment, go for it!')
 
 	if request.form.get('similar') == 'yes-sim':
 		print "yes-sim"
