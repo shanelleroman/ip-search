@@ -5,12 +5,46 @@ Search Results
 {% endblock %}
 
 {% block section %}
-	<div class= "query_results">
-	<ul>
-	{% for result in results %}
-	<li> <a href="https://protected-atoll-69887.herokuapp.com/results?q={{result.name}}">{{result.userFacingName}}</a></li>
-	{% endfor %}
-	</ul>
+<div class="row">
+	<div class="box">
+		<section>
+		{% if determination[0]|int() == 1 %}
+		<img src="http://clipartix.com/wp-content/uploads/2016/05/Check-mark-transparent-yellow-checkmark-clip-art-at-vector-clip-4.png" style="width:200px;height:200px; display: block; margin: auto;">
+		{% endif %}
+
+		{% if determination[0]|int() == 0 %}
+		<img src="http://www.ajc.com/rf/image_large//Pub/p8/CmgSharedContent/2017/02/23/Images/photos.medleyphoto.13305337.jpg?uuid=MlQBf-NoTPm6zI6urvCbnw" style="width:200px;height:200px; display: block; margin: auto;">
+		{% endif %}
+
+		{% if determination[0]|int() == 2 %}
+		<img src="http://www.clipartkid.com/images/765/questionmark-03fefj-clipart.jpg" style="width:200px;height:200px; display: block; margin: auto;">
+		{% endif %}
+		<h4>{{determination[1]}}</h4>
+		</section>
+	</div>
+</div>
+
+<div class="row">
+	<div class="box">
+		<section>
+			<div class= "query_results">
+				<ul id="list-group">
+					{% if results | length() == 0 %}
+					<h4>Go back and search for key words to learn more!</h4>
+					{% endif %}
+					{% for result in results %}
+					<li class="list-group-item"> <a href="https://protected-atoll-69887.herokuapp.com/results?q={{result.name}}">{{result.userFacingName}}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+
+
+		</section>
+	</div>
+</div>
+
+
+
 
 {% endblock %}
 

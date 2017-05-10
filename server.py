@@ -59,9 +59,10 @@ wa.whoosh_index(app, Document)
 
 @app.route('/query_results', methods= ['POST'])
 def query_results():
-    print fair_use_determination(request)
+    determination = fair_use_determination(request)
+    print determination
     results = Document.query.whoosh_search(request.form.get('query')).all()
-    return render_template("results_list.html", results=results)
+    return render_template("results_list.html", results=results, determination = determination)
 
 @app.route('/', methods=['GET'])
 def index():

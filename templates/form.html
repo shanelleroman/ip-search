@@ -26,14 +26,19 @@ Fair Use Form
 </div>
 
 
+
+
+
+
+
 <div class="row">
 	<div class="box">
-
-			<form  action="{{ url_for('query_results', type='vis-art') }}" method="post" name="vis-art" id="vis-art" style="display:none">
-		
+	
+	<!-- FORM FOR MUSIC  ****************************************************************** -->
+	<form  action="{{ url_for('query_results', type = 'music') }}" method="post" name="music" id="music" style="display:none">
 			<!-- Purpose of project -->
 			<div id="purpose">
-			<h6>The purpose of your project is to:</h6>
+			<h6>The purpose of your project is for:</h6>
 			<fieldset id="purpose"class="radiogroup">
 			<div class="radio">
 			  <label>
@@ -45,6 +50,636 @@ Fair Use Form
 			  <label>
 			    <input type="radio" name="purpose" id="non-commercial-vis-art" value="noncommercial">
 			    NonCommercial Use
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="commercial-use-vis-art" value="commercial">
+			    Commercial Use
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+
+			<!-- How it Affects Profits -->
+		
+			<div class="profits"id="profits">
+			<h6> Rate from 1 to 10 how much you think your product will affect the profits/market of the original:</h6>
+			<p>
+			{% for n in range(1,11) %}	
+			<label class="radio-inline">
+				<input type="radio" name="market-share" id="inlineRadio{{n}}" value="{{n}}"> {{n}}
+			</label>
+			{% endfor %}
+			</p>
+			</div>
+
+
+
+			<div id="nature">
+			<h6>What is the nature of similarity between your work and the original?</h6>
+			<fieldset id="nature" class="radiogroup">
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="nature" id="nature1" value="cover">
+				    Cover (I want to record my version of an existing song)
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="nature" id="nature2" value="sampling">
+				    Sampling (I want to use part of the sound recording)
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="nature" id="nature3" value="broadasting">
+				    Broadcasting
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="nature" id="nature5" value="performance">
+				    Live Performance
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="nature" id="nature4" value="sim-song">
+				    Bears similarity to an existing song 
+				  </label>
+			</div>
+
+			</fieldset>
+			</div>
+
+			
+			<div id="licensing">
+			<h6>What licensing do you have?</h6>
+			<fieldset id="licensing" class="checkboxgroup">
+			<div class="checkbox">
+				<label>
+					<input type="checkbox" name="licensing" value="underlying-music-comp">
+					Underlying music composition (the notes and lyrics on the page)
+				</label>
+			</div>
+			<div class="checkbox">
+				<label>
+					<input type="checkbox" name="licensing" value="sound-recording-license">
+					Sound recording license (for the music as rendered in the studio)
+				</label>
+			</div>
+
+			<div class="checkbox">
+				<label>
+					<input type="checkbox" name="licensing" value="synchronization-license">
+					Synchronization License or Master License (for setting music to video)
+				</label>
+			</div>
+
+			<div class="checkbox">
+				<label>
+					<input type="checkbox" name="licensing" value="performance-license">
+					Performance License: (eg:  blanket license from AsCAP or BMI)
+				</label>
+			</div>
+
+			</fieldset>
+			</div>
+
+
+			<div id="video">
+			<h6> If covering the song, do you intend on making a video:</h6>
+			<fieldset id="video" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="video" id="yes" value="yes" checked>
+			    yes 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="video" id="no" value="no">
+			    no
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="video" id="NA" value="NA">
+			    N/A
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="famous">
+			<h6>If you are comparing similarity of songs, have you heard the original before OR is the original famous? :</h6>
+			<fieldset id="famous" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="famous" id="yes" value="yes" checked>
+			    yes
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="famous" id="no" value="no">
+			    no
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="famous" id="NA" value="NA">
+			    N/A 
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="melody">
+			<h6>If you believe your sound composition may be similar to another song, play both compositions (not the sound recording). Are they similar in melody? (Note: if possible, ask others):</h6>
+			<fieldset id="melody" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="melody" id="yes" value="yes" checked>
+			    yes
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="melody" id="no" value="no">
+			    no 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="melody" id="NA" value="NA">
+			    N/A
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="vibe">
+			<h6>Are they similar in vibe or groove? (Note: if possible, ask others) :</h6>
+			<fieldset id="vibe" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="vibe" id="yes" value="yes" checked>
+			    yes
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="vibe" id="no" value="no">
+			    no
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="vibe" id="NA" value="NA">
+			    N/A 
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="lyrics">
+			<h6>If they have lyrics, are the lyrics of the two songs similar? (Note: if possible, ask others) :</h6>
+			<fieldset id="lyrics" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="lyrics" id="yes" value="yes" checked>
+			    yes 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="lyr]ics" id="no" value="no">
+			    no 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="lyrics" id="NA" value="NA">
+			    N/A 
+			  </label>
+			</div>
+			</fieldset>
+			</div>	
+	<h6>Type in any additional questions or topics or key terms you want to learn more about!</h6>		
+	<textarea class="form-control" rows="5" name ="query" id = "query"></textarea>
+	<button type = "submit" class = "btn btn-primary">Submit </button>
+			
+	</form>
+
+
+
+
+
+	<!-- FORM FOR LIT ****************************************************************** -->
+		<form  action="{{ url_for('query_results', type = 'lit') }}" method="post" name="b-m-p" id="b-m-p" style="display:none">
+			<!-- Purpose of project -->
+			<div id="purpose">
+			<h6>The purpose of your project is for:</h6>
+			<fieldset id="purpose"class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="non-profit-vis-art" value="educational" checked>
+			    Nonprofit Educational Use
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="non-commercial-vis-art" value="noncommercial">
+			    Noncommercial Use
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="commercial-use-vis-art" value="commercial">
+			    Commercial Use
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+
+			<!-- How it Affects Profits -->
+		
+			<div class="profits"id="profits">
+			<h6> Rate from 1 to 10 how much you think your product will affect the profits/market of the original:</h6>
+			<p></p>
+			{% for n in range(1,11) %}	
+			<label class="radio-inline">
+				<input type="radio" name="market-share" id="inlineRadio{{n}}" value="{{n}}"> {{n}}
+			</label>
+			{% endfor %}
+			
+			</div>
+
+
+
+			<div id="nature">
+			<h6>What is the nature of similarity between your work and the original?</h6>
+			<fieldset id="nature" class="radiogroup">
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="nature" id="nature1" value="fan-fic">
+				    Fan Fiction. Plot Twist, Lord Voldemort is still alive. 
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="nature" id="nature2" value="sim-story-elements">
+				    Similar Story Elements. My work may resemble an already existing work in my characters, setting, plot, general themes. 
+				  </label>
+			</div>
+
+			</fieldset>
+			</div>
+
+			<div id="parody">
+			<h6>If Fan Fiction, does the novel critique the original? :</h6>
+			<fieldset id="parody"class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="parody" id="parody" value="yes" checked>
+			    Yes, I intend to criticize the way this novel like the way "The Wind Done Gone" commented on the treatment of black characters in the original novel through the perspective of a black slave.  
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="parody" id="not-parody" value="no">
+			    No, I simply want to write a story using aspects of the original work. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="parody" id="not-applicable" value="NA">
+			    N/A
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+			
+
+			<div id="plot-unique">
+			<h6>Are the plot elements in the original (that  are similar to the respective elements in your work) unique? :</h6>
+			<fieldset id="plot-unique" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="plot-unique" id="yes" value="yes" checked>
+			    Yes, the author was a genius - the plot was truly a unique stroke of inspiration. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="plot-unique" id="no" value="no">
+			    No, Everyone has heard this story before. A boy. A girl. Two families who hate one another. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="plot-unique" id="NA" value="NA">
+			    N/A
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="char-unique">
+			<h6>Are any of the original work's characters (that also are similar to the respective characters in your work) easily distinguishable or famous? :</h6>
+			<fieldset id="char-unique" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="char-unique" id="yes" value="yes" checked>
+			    Yes, the character is immediately recognizable, like <i> of course </i> the Batmobile “depicted as being swift, cunning, strong and elusive." <i> DC Comics v. Towle </i>
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="char-unique" id="no" value="no">
+			    No, the character is not given much depth, and nobody has ever heard of her. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="char-unique" id="NA" value="NA">
+			    N/A
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="set-unique">
+			<h6>Is the setting of the original (that is similar to the setting in your work) unique? :</h6>
+			<fieldset id="set-unique" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="set-unique" id="yes" value="yes" checked>
+			    Yes, the setting is very distinct, such as Hogwarts School of Witchcraft and Wizardry. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="set-unique" id="no" value="no">
+			    No, the setting is mundane or exists in real life such as a small, rural town in Mississippi. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="set-unique" id="NA" value="NA">
+			    N/A
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="plot-sim">
+			<h6>How similar is your plot to that of the original? :</h6>
+			<fieldset id="plot-sim" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="plot-sim" id="plot-not-similar" value="plot-not-similar" checked>
+			    Not Similar At All
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="plot-sim" id="plot-similar" value="plot-similar">
+			    Similar 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="plot-sim" id="plot-very-similar" value="plot-very-similar">
+			    Very Similar - I basically copied the Wikipedia summary. 
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="char-sim">
+			<h6>How similar are your potentially infringing characters to the respective characters in the original? :</h6>
+			<fieldset id="char-sim" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="char-sim" id="char-not-similar" value="char-not-similar" checked>
+			    Not Similar At All
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="char-sim" id="char-similar" value="char-similar">
+			    Similar
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="char-sim" id="char-very-similar" value="char-very-similar">
+			    Very Similar
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="set-sim">
+			<h6>How similar is your setting to that in the original? :</h6>
+			<fieldset id="set-sim" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="set-sim" id="set-not-similar" value="set-not-similar" checked>
+			    Not Similar At All  
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="set-sim" id="set-similar" value="set-similar">
+			    Similar
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="set-sim" id="set-very-similar" value="set-very-similar">
+			    Very Similar 
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="int-test">
+			<h6>Based on your intuition and perhaps the input of those around you, how similar are the look and the feel of the two products?:</h6>
+			<fieldset id="set-sim" class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="int-test" id="int-not-similar" value="int-not-similar" checked>
+			    Not similar at all - the books don't remind me of one another at all. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="int-test" id="int-similar" value="int-similar">
+			    They are similar. My work may remind somebody of the original, now that I look at it more carefully. 
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="int-test" id="int-very-similar" value="int-very-similar">
+			    Oh, is this a not a new edition of the original?
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+	<h6>Type in any additional questions or topics you want to learn more about!</h6>
+	<textarea class="form-control" rows="5" name ="query" id = "query"></textarea>
+	<button type = "submit" class = "btn btn-primary">Submit </button>
+			
+	</form>
+
+
+
+
+	<!-- FORM FOR CODE ****************************************************************** -->
+		<form  action="{{ url_for('query_results', type = 'code') }}" method="post" name="computers" id="computers" style="display:none">
+			<!-- Purpose of project -->
+			<div id="purpose">
+			<h6>The purpose of your project is for:</h6>
+			<fieldset id="purpose"class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="personal-use" value="personal-use" checked>
+			    Personal Use or Education in Classroom Like Settings
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="publicly-available" value="publicly-available">
+			    Publicly Available Online
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="commercial-use" value="commercial">
+			    Commercial Use
+			  </label>
+			</div>
+			</fieldset>
+			</div>
+
+
+			<!-- How it Affects Profits -->
+		
+			<div class="profits"id="profits">
+			<h6> Rate from 1 to 10 how much you think your product will affect the profits/market of the original:</h6>
+			<p>
+			{% for n in range(1,11) %}	
+			<label class="radio-inline">
+				<input type="radio" name="market-share" id="inlineRadio{{n}}" value="{{n}}"> {{n}}
+			</label>
+			{% endfor %}
+			</p>
+			</div>
+
+
+
+			<div id="access">
+			<h6>Did you have access to the original code?</h6>
+			<fieldset id="access" class="radiogroup">
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="access" id="access1" value="yes-access">
+				    Yes.  
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="access" id="access2" value="no-access">
+				    No. 
+				  </label>
+			</div>
+
+			</fieldset>
+			</div>
+			
+			<div id="function">
+			<h6>How much of your code is dictated by function? (Function includes: ideas, elements dictated by external factors, elements taken from the public domain, elements necessary for efficiency)</h6>
+			<fieldset id="function" class="radiogroup">
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="function" id="function1" value="not-functional">
+				    Very little. My code is either of little use, or it is pure art.  
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="function" id="function2" value="somewhat-functional">
+				    Some of my code is dictated by function. However, there definitely exist other valid ways to write code that fulfills the same task. 
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="function" id="function3" value="functional">
+				    All of my code is dictated by function and cannot be written in a more efficient way. 
+				  </label>
+			</div>
+			</fieldset>
+			</div>
+
+			<div id="similar">
+			<h6>Is the code that is not dictated by function similar to the corresponding components of the original copyrighted code? </h6>
+			<fieldset id="similar" class="radiogroup">
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="similar" id="similar1" value="yes-sim">
+				    Yes. Looking at the lines of text, they seem very similar. 
+				  </label>
+			</div>
+
+			<div class="radio">
+				  <label>
+				    <input type="radio" name="similar" id="similar2" value="no-sim">
+				    No. I used a very different approach to coding the problem. 
+				  </label>
+			</div>
+
+			</fieldset>
+			</div>
+
+	<h6>Type in any additional questions or topics or key terms you want to learn more about!</h6>
+	<textarea class="form-control" rows="5" name ="query" id = "query"></textarea>
+	<button type = "submit" class = "btn btn-primary">Submit </button>
+	</form>
+
+
+	<!-- FORM FOR VISUAL ART ****************************************************************** -->
+
+	
+
+		<form  action="{{ url_for('query_results', type = 'vis-art') }}" method="post" name="vis-art" id="vis-art" style="display:none">
+			<!-- Purpose of project -->
+			<div id="purpose">
+			<h6>The purpose of your project is for:</h6>
+			<fieldset id="purpose"class="radiogroup">
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="non-profit-vis-art" value="educational" checked>
+			    Nonprofit Educational Use
+			  </label>
+			</div>
+			<div class="radio">
+			  <label>
+			    <input type="radio" name="purpose" id="non-commercial-vis-art" value="noncommercial">
+			    Noncommercial Use
 			  </label>
 			</div>
 			<div class="radio">
@@ -76,11 +711,11 @@ Fair Use Form
 			<fieldset id="parody-satire" class="radiogroup">
 			  <label>
 			    <input type="radio" name="parody-satire" id="parody-satire1" value="parody">
-			    Mostly comments on or critiques the original piece
+			    Mostly comments on or critiques the original piece.
 			  </label>
 			  <label>
 			    <input type="radio" name="parody-satire" id="parody-satire2" value="satire">
-			    Critiques society in general, but the original piece is not integral to the work's commentary
+			    Critiques society in general, but the original piece is not integral to the work's commentary.
 			  </label>
 
 			  <label>
@@ -112,7 +747,7 @@ Fair Use Form
 		<div class="radio">
 			  <label>
 			    <input type="radio" name="similarity" id="similarity3" value="similar">
-			    Invokes the original. I've made some slight modifications
+			    Invokes the original. I've made some slight modifications.
 			  </label>
 		</div>
 		</fieldset>
@@ -138,50 +773,31 @@ Fair Use Form
 
 		</div>
 
-	<textarea class="form-control" rows="5" name ="query" id = "query">Type in any additional questions or topics you want to learn more about!</textarea>
+	<h6>Type in any additional questions or topics or key terms you want to learn more about!</h6>
+	<textarea class="form-control" rows="5" name ="query" id = "query"></textarea>
 	<button type = "submit" class = "btn btn-primary">Submit </button>
 
 	</form>
-	
+
+
 		
 	</div>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% endblock %}
 
-
-<!--  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example
-    <span class="caret"></span></button>
-    <ul class="dropdown-menu">
-      <li><a href="#">HTML</a></li>
-      <li><a href="#">CSS</a></li>
-      <li><a href="#">JavaScript</a></li>
-    </ul>
-  </div> -->
-	<!-- <h5>Rate your idea on the scale 1 - 10 according to the following factors</h5>
-	<p> Purpose and character of the use: from commercial to nonprofit educational purposes <input type="range" name="points" min="0" max="10" step="1" size="2" /> </p>
-	<p> Nature of the copyrighted work<input type="range" name="points" min="0" max="10" step="1" size="2" /> </p>
-	<p> Amount and substantiality of the portion used in relation to the copyrighted work as a whole <input type="range" name="points" min="0" max="10" step="1" size="2"/> </p>
-	<p>Effect of the use upon the potential market for or value of the copyrighted work <input type="range" name="points" min="0" max="10" step="1" size="2"/> </p>
-	<div class="topics">
-
-	<label for="moral rights">Moral Rights</label>
-	<input type="radio" name="moral rights" id="mr" value="moral rights"><br>
-	<label for="appropriation art">Appropriation Art</label>
-	<input type="radio" name="appropriation art" id="aa" value="appropriation art"><br>
-	<label for="other">Other</label>
-	<input type="radio" name="gender" id="other" value="other"><br><br>
-	<!-- <p><textarea name="Text1" cols="40" rows="5"></textarea></p>
-	<input type="submit" value="Search!"/> -->
-	<!-- <div class = "sidebar-module sidebar-module-inset">
-	<h4>Search</h4>
-		<form class = "form-inline" method = "POST" action = "query_results" >
-			<div class = "form-group">
-				<label for = "query"> Name</label>
-				<input type = "text" class = "form-control" name ="query" id = "query" style="width: 400px">
-			</div>
-			<button type = "submit" class = "btn btn-primary">Search </button>
-		</form>
-	</div>
-	</div>
-</form> --> 
