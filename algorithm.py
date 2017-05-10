@@ -106,7 +106,7 @@ def lit_determination(request):
 			return (1, 'Fair use! Like The Wind Done Gone, you critique basic precepts in the work')
 	c = 0
 	s = 0
-	p = 1
+	p = 0
 
 	# if the characters are similar (2, 3)
 	if character_similarity == 'char-similar' or character_similarity == 'char-very-similar': 
@@ -137,6 +137,7 @@ def lit_determination(request):
 			if plot_similiarity == 'plot-very-similar':  
 				return (0, 'Not fair use! That plot is too similar')
 			else: 
+				p = 1
 				if s or c or intuition: 
 					return (0, 'Not fair use! You have multiple highly recognizable elements that are similar')
 	
