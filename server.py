@@ -38,23 +38,27 @@ class Document(db.Model):
 
 wa.whoosh_index(app, Document)
 
-# @app.route("/add")
-# def add():
-#     db.session.
-#     # script to run through all of the files 
-#     for file in os.listdir('./pdfs'):
-#         if file.endswith('.pdf'):
-#             file_in = os.getcwd() +  '/pdfs/' + file 
-#             file_out = os.getcwd() + '/textfiles/' + file.strip('pdf') + 'txt'
-#             with open(file_in, 'r') as pdf_file:
-#                 original = pdf_file.read()
-#                 with open(file_out, 'r') as text_file:
-#                     text_content = text_file.read().decode('utf-8')
-#                     file_name = file.strip('pdf')
-#                     post = Document(name=file_name, text=text_content, original = original)
-#                     db.session.add(post)
-#                     db.session.commit()
-#     pass
+@app.route("/add")
+def add():
+    # script to run through all of the files 
+    for file in os.listdir('/Users/Shanelle/Downloads/pdfs'):
+        if file.endswith('.pdf'):
+            file_in = '/Users/Shanelle/Downloads/pdfs/' + file 
+            print file_in
+            file_out = '/Users/Shanelle/Desktop/Yale/SophmoreYear/Projects/IPLawFinal/ip-search' + '/textfiles/' + file.strip('pdf') + 'txt'
+            print file_out
+            os.system('touch '+ file_out)
+            os.system('python pdf2txt.py -o ' + file_out + ' ' + file_in)
+            with open(file_in, 'r') as pdf_file:
+                original = pdf_file.read()
+                with open(file_out, 'r') as text_file:
+                    text_content = text_file.read().decode('utf-8')
+                    file_name = file.strip('pdf')
+                    post = Document(name=file_name, text=text_content, original = original)
+                    db.session.add(post)
+                    db.session.commit()
+                    print 'added to database'
+
 
 
 @app.route('/query_results', methods= ['POST'])
@@ -69,6 +73,17 @@ def index():
     if request.method == 'GET':
 	   return render_template('form.html')
 
+@app.route('/algorithm', methods=['GET'])
+def algorithm():
+    return render_template('about.html')
+
+@app.route('/thanks', methods=['GET'])
+def thanks():
+    return render_template('thanks.html')
+
+@app.route('/readme', methods=['GET'])
+def readme():
+    return render_template('readme.html')
 
 @app.route('/results', methods=['GET', 'POST'])
 def results():

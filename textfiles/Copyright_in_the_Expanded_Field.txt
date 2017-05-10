@@ -1,0 +1,1391 @@
+Hofstra Law Review
+
+Volume 42 | Issue 3
+
+Article 7
+
+1-1-2014
+
+Copyright in the Expanded Field
+
+Xiyin Tang
+
+Follow this and additional works at: http://scholarlycommons.law.hofstra.edu/hlr
+
+Part of the Intellectual Property Law Commons
+
+Recommended Citation
+Tang, Xiyin (2014) "Copyright in the Expanded Field," Hofstra Law Review: Vol. 42: Iss. 3, Article 7.
+Available at: http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+This document is brought to you for free and open access by Scholarly Commons at Hofstra Law. It has been accepted for inclusion in Hofstra Law
+Review by an authorized administrator of Scholarly Commons at Hofstra Law. For more information, please contact lawcls@hofstra.edu.
+
+Tang: Copyright in the Expanded Field
+
+COPYRIGHT  IN THE EXPANDED  FIELD'
+
+Xiyin  Tang*
+
+Intellectual property ("IP")  law  and the  art forms  it is  meant  to
+protect are expanding. In  our information age, artists hoping to  assert
+their rights frequently assert a combination of trademark, copyright, and
+right of publicity  or moral  rights claims  in  order to  maximize  their
+chances of success. This Article looks beyond IP law to some of its more
+unlikely  complements-tort and property law-as  a  viable  means  of
+redress for  artists who  may  be  ineligible for  copyright protection.
+Specifically, recent cases involving a specific form of hybrid art-land
+art, or  "site specific art"-have determinedly stripped artists of either
+their moral rights  or copyright claims.  Thus,  I  suggest looking  to  the
+laws  of trespass and nuisance as new  ways  of thinking about the same
+problem: How do  we  balance public rights in our shared artworks with
+private  rights  of  control?  Surprisingly,  this  Article  suggests  that
+applying nuisance law's balancing test  has much  in common  with  the
+four-factor balancing test of copyright's fair use doctrine. On a greater
+level, this Article hopes to encourage the ongoing trend of creative ways
+of thinking about and asserting artistic rights when traditional copyright
+claims may not be feasible or successful.
+
+1.  This  Article takes  its name from  the  1978 essay  by Rosalind Krauss  titled  Sculpture in the
+Expanded Field, which  perfectly  documents  the phenomenon  of post-1960s  artists working  in  an
+expanded  medium  that  encompasses  elements  of  architecture,  landscape,  nature,  and  traditional
+sculpture. Rosalind  Krauss, Sculpture in the Expanded Field, OCTOBER,  Spring  1979,  at 31.
+
+*  Visiting  Fellow, Yale Law  School, Yale  Information  Society  Project;  Associate, Skadden,
+
+Arps, Slate,  Meagher & Flom New  York; J.D.,  Yale  Law  School; B.A.,  Columbia University.
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+1
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA  LAW REVIEW
+
+[Vol.  42:945
+
+INTRODUCTION ............................................................................. 
+
+I. 
+946
+II.  THE LEGAL DILEMMA  OF  NON-TRADITIONAL  ART FORMS  .........  949
+949
+
+A.  Copyright Basics ................................................................. 
+B.  Phillips  v. Pembroke  Real  Estate, Inc.:  Stripping Land
+Art of VARA  Protection ...................................................... 
+C.  Kelley v. Chicago  Park District: Stripping LandArt of
+All Copyright Protection .................................................... 
+
+951
+
+954
+
+III.  COPYRIGHT  IN THE  EXPANDED  FIELD:  WHAT COPYRIGHT
+
+LAW  OWES TO MODERNIST MEDIUM  SPECIFICITY  ...................  956
+
+IV.  A CREATIVE  SOLUTION  FOR  SITE-SPECIFIC  ART:
+
+LOOKING OUTSIDE  INTELLECTUAL PROPERTY  LAW .................  958
+A.  Why Land Art Should Not Be Considered
+
+"Architecture "for Copyright Purposes .............................  958
+B.  Trespass as One Form of Creative Control ........................  959
+C.  Nuisance Law: Balancing Public Interest with
+
+P rivate R ight ....................................................................... 
+V . CON CLUSION ................................................................................. 
+
+96 1
+964
+
+I. 
+
+INTRODUCTION
+
+It is  about  fifteen  hundred  feet in  length and  fifteen  feet wide,  built
+from  6650  tons  of basalt  rocks  and  earth.2  It  sits  just  south  of Rozel
+Point,  in  Utah's  Salt  Lake,  next to  swirls  of black  oil  from  abandoned
+rigs. Thousands  of people  make  the  pilgrimage  each  year  to  see  it,  and
+they  are  photographed  from  above,  standing  like  tiny  ants  atop  the  salt,
+as if minute  stars dotting a constellation. For the rest of us, we see it only
+through photographs,  almost always aerial  views, in  which the swirl  cuts
+across  its  site  like  "a  strange  footprint  on  the  shores  of the  unknown."3
+As  it turns  out,  "even  the  artist  is  startled to  discover  that this  'footprint
+is our own.' 4
+
+Is  it architecture?  Is  it  a larger-than-life  sculpture?  Is  it nature? Is  it
+
+a man-made  imitation of the former?  Is it a site? Is it life itself?.
+
+It  is,  of course,  Robert  Smithson's  Spiral Jetty  ("Spiral Jetty"  or
+"Jetty"), an  iconic  earthwork  or  piece  of  "land  art"  that  has,  since  its
+creation,  been  the  stuff of  art  historical  myth  and  fable-not  least  of
+which  was  its  submersion  under  water  at  the  same  time  that  Smithson
+died  in  a  fatal  plane  crash,  creating  a  sort  of  double  negative  or
+
+2.  Lynne  Cooke,  A  Position of Elsewhere, in  ROBERT  SMITHSON:  SPIRAL  JETTY  53,  53
+
+(Lynne  Cooke  et al.  eds.,  2005).
+
+3.  Ann  Reynolds, At  the Jetty, in ROBERT  SMITHSON:  SPIRAL JETTY,  supra note 2,  at 73,  73.
+4.  Id.
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+2
+
+Tang: Copyright in the Expanded Field
+
+20141
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+disappearance.5  While the Jetty is perhaps the  most famous  earthwork,  it
+is not alone. Walter de  Maria's Lightning Field in New Mexico,  Michael
+Heizer's  Effigy  Tumuli  in  Illinois,  and James  Turrell's  Roden  Crater in
+Arizona  are  just  a  few  of the  many  examples  of artists  working  in
+expanded  mediums 
+that  implicate  site,  architecture,  sculpture,  and
+nature-as-material.
+
+Copyright  law,  on  the  other  hand,  only  extends  protection  to  eight
+categories  of  works:  literary  works,  musical  works,  dramatic  works,
+choreographic  works, 
+pictorial/graphic/sculptural  works,  motion
+pictures,  sound  recordings,  and  architectural  works.6  Numerous  legal
+scholars  have  already  noted  that  evolving  forms  of  art-not  just
+appropriation  art  (for  which  fair  use  remains  a  field  ripe  with
+possibilities  and  problems),7  but  conceptual  art,  performance  art,  and
+temporal "happenings,"  which  are notable for their ephemerality8 -seem
+incompatible  and  fundamentally  unprotectable  under  the  very  laws
+intended  for their  protection.  Land  art,  specifically,  does  not  neatly  fit
+into any of the above-named  categories.
+
+likely  renders 
+
+Few  solutions  outside  of legislative  reform  have  been  posed, 9  yet
+the  fast-changing  nature  of  art 
+legislative  reform
+impractical,  and  would 
+in
+its  wake.  What 
+then,  are  creative  solutions  within
+already-existing  law-solutions  that  may  lie  outside  of  the  copyright
+statute  itself. Artists  asserting copyright  claims  already  frequently  assert
+trademark  and  right  of  personality  claims  as  well,  suggesting  an
+awareness 
+that  personhood,  branding,  and  artistic  creation  are  all
+
+largely  obsolete 
+
+is  needed, 
+
+leave  new 
+
+legislation 
+
+5.  Cooke,  supra note  2,  at  53; see also Michael  Kimmelman,  Sculpture from  the Earth, but
+
+Never Limited by It, N.Y. TIMEs,  June 24, 2005,  at E33.
+
+17  U.S.C.  §  102 (2006).
+
+6. 
+7.  See, e.g.,  Alex  Kozinski  & Christopher Newman,  What's So  Fair About  Fair Use?,  46  J.
+COPYRIGHT  SOC'Y  U.S.  513,  525  (1999);  Gideon  Parchomovsky  &  Philip  J.  Weiser,  Beyond Fair
+(2010);  Xiyin  Tang,  That  Old  Thing,
+Use,  96  CORNELL  L.  REV. 
+Copyright...  : Reconciling the Postmodern Paradox in  the New  Digital Age,  39  AIPLA  Q.J.  71,
+86-94 (2011).
+
+100-01 
+
+91, 
+
+8.  See,  e.g.,  Randall  Bezanson  & Andrew  Finkelman,  Trespassory Art, 43  U.  MICH.  J.L.
+REFORM  245,246 (2010);  Charles Cronin,  Dead on the  Vine: Living and Conceptual Art and VARA,
+12 VAND.  J.  ENT. & TECH.  L. 209,221-22  (2010).
+
+9.  See Virginia  M.  Cascio,  Hardly a  Walk in the Park:  Courts' Hostile Treatment of Site-
+Specific  Works  Under  VARA,  20  DEPAUL  J.  ART  TECH.  & INTELL.  PROP.  L.  167,  168-69  (2009);
+Lauren Ruth  Spotts,  Phillips Has Left  VARA  Little Protection for Site-Specific Artists,  16 J. INTELL.
+PROP.  L. 297,298-99 (2009);  see also Bryan  J. Hopping, A Proposal for the WTO  to Enhance Moral
+Rights  Protections,  GONZ.  J. 
+INT'L  L.  (June  4,  2008),  http://www.law.gonzaga.edu/gjil/
+2008/06/enhance-moral-rights.  However,  Randall  Bezanson  and  Andrew  Finkelman  have  applied
+real  property  principles  to  "trespassory"  art  (art  that  involves  trespassing  in  spaces)-including
+endowing artists  with a  limited "easement"  to use private property  for artist  purposes. See  Bezanson
+& Finkelman, supra note 8,  at 277-79.
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+3
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA LA W REVIEW
+
+[Vol.  42:945
+
+interlinked.1 ° But  as evolving  forms  of art begin  to  look less comfortably
+like  traditional  artworks,  perhaps  it  would  do  us  well  to  expand  our
+thinking  beyond  IP  law,  as  well. This  is  where  focusing  on the  specific
+problem  of 
+in
+demonstrating  that  copyright  need  not  be  the  only  answer  to  the
+exasperating 
+to
+contemporary  art.
+
+land  art--or  earthworks-can  prove 
+
+problem  of 
+
+a 
+
+copyright 
+
+instructive 
+
+doctrine 
+
+hostile 
+
+is  not  defined  in  relation  to  a  given  medium-
+
+Art  historian Rosalind  Krauss has  traced the  art historical  suspicion
+for  the  new  hybridity  of sculpture  to  "the  modernist  demand  for  the
+purity  and  separateness  of the  various  mediums.""1  While  land  art  may
+seem  "rigorously  logical"  from "within  the situation  of postmodernism,"
+where  "practice 
+sculpture-but  rather  in  relation  to  the  logical  operations  on  a  set  of
+cultural  terms,  for  which  any  medium-photography,  books,  lines  on
+walls,  mirrors,  or  sculpture 
+itself-might  be  used,"' 2  contemporary
+copyright  law  still  remains  very  much  focused  and,  might  I  add,
+dependent  on  a  very  specific  notion  of  modernist  medium  purity,
+autonomy,  and  specificity.  Indeed,  throughout  the  history  of copyright
+law,  judges  have  engaged  in  exactly  the  kind  of modernist  definitional
+line-drawing  that  attempts  to  reduce,  via  a  single  set  of finite,  discrete
+criteria,  a  specific  medium  to  its  "inherent"  end  logic.' 3  Thus,  if legal
+scholarship  from  the  past  decade  has  insisted on  copyright's  outdated
+reliance  on  the  notion  of the  nineteenth  century  romantic  author, 14  I
+argue  instead  that  it  is  precisely  the  twentieth century  avant-garde  that
+copyright  law  owes  its  debt  to  in  its  insistence  on  the  purity  of the
+medium  itself.
+
+Further,  land  art  proves  to  be  a  timely  and  especially  interesting
+case  study for  our  purposes,  as two  recent  circuit  court  decisions  have
+essentially  deemed  this  hybrid  art  form  unprotectable--either  under
+copyright  law  or  its  newer  moral  rights  component,  the  Visual  Artists
+
+10.  See, e.g.,  Stacey  L.  Dogan  &  Mark A.  Lemley,  What  the  Right of Publicity Can Learn
+from  Trademark Law, 58  STAN.  L.  REv.  1161,  1164-65  (2006);  Xiyin  Tang,  The Artist as Brand:
+Toward a Trademark Conception of Moral Rights,  122  YALE  L.J. 218,  234-35  (2012)  [hereinafter
+Tang,  The Artist as Brand].
+
+11.  ROSALIND  E. KRAUSS,  THE ORIGINALITY  OF  THE AVANT-GARDE  AND  OTHER MODERNIST
+
+MYTHS  288 (1985).
+
+12.  Id.
+13.  See infra notes  27-29 and  accompanying  text.
+14.  Authors  have  argued  that  authorship  is  a  socially-constructed  category  reliant  on  the
+Romantic  notion  of an  inspired  genius.  See, e.g.,  Peter  Jaszi,  Toward a  Theory of Copyright: The
+Metamorphoses of  "Authorship," 1991  DUKE  L.J.  455,  459, 492,  494;  Martha  woodmansee,  The
+Genius and the  Copyright: Economic and Legal  Conditions of the  Emergence of the  'Author,'  17
+EIGHTEENTH-CENTURY  STUD.  425,  429-30  (1984).
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+4
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+Rights  Act  of  1990  ("VARA"  or  "Act"). 15 I  focus  Part II  of this  Article
+on  these  two  decisions  and  their  implications  for  earthworks. 16 Part  III
+then links  these  legal  opinions  to a  surprising  predecessor:  the twentieth
+century  avant-garde  insistence  on  medium  purity,  not  the  nineteenth
+century  romantic  author  construct  that most  legal  scholars  have  focused
+on  in  their  analysis  of copyright  doctrine's  limitations.' 7 Applying  this
+reasoning,  I  come,  in Part IV, to  the seemingly disappointing  conclusion
+that  this  new  form  of hybrid  art  is,  logically,  uncopyrightable. 8  Yet,  I
+propose  two  new forms  of protection under real  property  and tort  law-
+specifically,  the  claims  of trespass  and  nuisance-which  seem  to  most
+aptly  reflect  land  art's  site-specific  aspirations.' 9  Above  all,  I  suggest
+that  we  may  think  of legal  protection  for  artworks  not  as  an  either-or
+(either  it  is  uncopyrightable  and hence  unprotectable  or  vice  versa),  but
+as  existing  in  an  expanded  field  that  encompasses  other  viable  options
+for redress, like real property or tort law.20
+
+II.  THE LEGAL DILEMMA  OF NON-TRADITIONAL  ART  FORMS
+
+A.  Copyright Basics
+
+There  are  a  few  funny  requirements  of  copyright  law  that  will
+form the  chief  concerns  of this  Article  and  its  case  law analysis.  I  will
+review  them  each  briefly  in  this  Subpart,  but  they  can  be  summed  up
+into  three  major  themes:  fixation,  the  idea-expression  dichotomy,  and
+medium categorization.
+
+The  first two  are  relatively  straightforward.  One  of the  most  basic
+requirements  for  copyright  protection  is  that  an  "original  work[]  of
+authorship  [be]  fixed  in  any  tangible  medium.",21  The  fixation-in-a-
+tangible-medium  requirement  interacts  with,  and  informs,  the  other
+major requirement  of copyright  law:  that  only  expression,  not ideas,  can
+be  copyrighted.22  After  all,  if  an  idea  is  abstract  then  expression  is
+concrete,  manifesting  itself in  something  physical  and  tangible.  Indeed,
+
+15.  The two  cases  are Kelley  v.  Chi. Park Dist.,  635  F.3d  290,  298,  300 (7th  Cir. 2011)  and
+
+Phillips v. Pembroke Real Estate, Inc.,  459 F.3d  128,  140,  143  (1st Cir. 2006).
+
+16.  See  infra Part H.
+17.  See infra Part Ii.
+18.  See  infra Part IV.
+19.  See infra Part TV.
+20.  See  infra Part IV.
+21. 
+22.  Id. ("In  no case does copyright  protection  for an  original work of authorship  extend to any
+idea,  procedure,  process,  system...  concept,  principle,  or  discovery,  regardless  of  the  form  in
+which it is described, explained,  illustrated,  or embodied  in such work.").
+
+17 U.S.C.  §  102  (2006).
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+5
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA LAW REVIEW
+
+[Vol. 42:945
+
+the two  requirements  are  frequently  discussed  together  by  courts  when
+examining  whether  a work  satisfies  these  most basic  of requirements.23
+But,  of  course,  the  two  present  their  own,  unique  problems.  Even
+presuming 
+in  a  concrete  way
+(in  a  performance,  for  example),  if  there  is  no  tangible  record  of  it
+(in  a 
+that  expression  would  not  be
+copyrightable,  either.24
+
+that  an  "idea"  was  "expressed" 
+
+recording, 
+
+for  example), 
+
+The  third major  concern  of this  Article  is  a  surprising  one,  for  the
+very word "medium"  seems to be more  of an art historical  preoccupation
+than  a  legal  one.  For  modernism,  which  reached  its  apex  in  the  1960s
+with  the  stronghold  of art critics  such  as  Clement  Greenberg,  medium
+specificity  was  an  imperative  that drove  critics  to  attempt  to  distill just
+what made  a painting a painting, a  sculpture  a sculpture,  a photograph  a
+photograph,  and  art  art.  Greenberg,  the  king  of modernist  art  critics,
+penned  his  most  famous  work  on  medium  specificity,  Modernist
+Painting,  in  which  he  defines  what  painting  is-a  purely  visual
+experience  that  is  first  and  foremost flat, rendered  so  by the  flatness  of
+its pictorial  surface.25
+
+Yet  copyright,  too,  relies  on  assumptions  about  the 
+
+inherent
+characteristics  of  a  specific  medium,  even  if  such  assumptions  are
+implicit rather than  explicit.  For example,  in  deciding that  an  object  that
+has utilitarian  concerns  simply  cannot  qualify  for copyright  protection,26
+courts  are  doing more than adhering  to the letter  of the  law,  which states
+that useful  articles belong  to  the realm  of patents 27-they  are  saying  that
+artworks, 
+like  Greenberg's  flat  picture  plane,  should  be  inherently
+useless,  and the  more useless  they are,  the more likely  it will  be that they
+are  eligible for copyright.  Some  might object, then again,  that this leaves
+us  merely  with  a  distinction  between  copyrightable  artworks  and
+noncopyrightable  non-art,  without  necessarily  defining  mediums  within
+the copyright statute.
+
+23.  See  Dollcraft  Indus.,  Ltd.  v.  Well-Made  Toy  Mfg.  Co.,  479  F.  Supp.  1105,  1113
+(E.D.N.Y.  1978)  ("[C]opyright  law protects  an individual's  concrete  expression of his  own  idea.").
+24.  See,  e.g.,  Hoopla  Sports  & Entm't, Inc.  v.  Nike,  Inc.,  947  F.  Supp.  347,  354  (N.D.  Ill.
+1996)  (noting  that  even  if a  basketball  game  is  copyrightable,  the  fact  that  it  was  not  recorded
+renders it  ineligible  for copyright).
+
+25.  4  CLEMENT  GREENBERG,  Modernist  Painting, in  THE  COLLECTED  ESSAYS  AND
+
+CRITICISM:  MODERNISM  WITH  A VENGEANCE,  at 85,  86  (John  O'Brian ed.,  1993).
+
+26.  Consider  the famous  case of Brandir Intl',  Inc. v. Cascade Pac. Lumber Co.,  in which  the
+court had  to  decide  whether  a  bike  rack  was sufficiently  artistic  to  be considered  sculpture,  or if it
+was  influenced  by  utilitarian  concerns  and, thus,  is  considered  a  product of industrial  design.  834
+F.2d  1142,  1143 (2d  Cir. 1987).
+
+27.  17  U.S.C.  § 101  (2006).
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+6
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+Yet  land art,  in  traversing the boundaries  of sculpture,  architecture,
+land,  or  site,  brashly  confronts  judges  with  the  problem  of  medium
+definition  within  the  copyright  statute.  Even  more  importantly,  consider
+VARA,  which  gives the  author  of a painting,  drawing,  print,  sculpture,
+or  photograph  that  exist  in  two  hundred  copies  or  less  the  right  to
+prevent  the  destruction,  distortion,  mutilation,  or other modification of a
+work  that  would  be  prejudicial  to  the  author's  reputation.28  A  work
+labeled  "architecture"  instead  of "sculpture,"  then, would  not be eligible
+for  VARA protection.  Judges could  either decide,  for example,  that land
+art  is more  like  "architecture"  and hence  not subject to  VARA,  or that it
+is not art at all.
+
+As we will  see  below, the  few  courts that have  confronted the  issue
+issue  of  medium
+of  land  art  have  also  implicitly  confronted  the 
+specificity-what  a medium is,  what  it should  be, what  it contains, what
+it does.  But their failure to acknowledge  the very assumptions  they made
+about  mediums  has  led  to much  confusion,  and, as  others  have  pointed
+out,  poor case  law. 29  For,  as it  turns  out, the  two  courts  that  have  most
+notoriously  opined  on  land  art  have  done  so  from  a  highly  modernist-
+inflected  view  of sculpture:  that  sculptural  works  should  be  man-made,
+these  self-contained
+static  and  unchanging,  and,  above  all, 
+the  white  walls
+monuments 
+of museums. 3°
+
+sit  on  pedestals  within 
+
+should 
+
+that 
+
+B.  Phillips v. Pembroke  Real Estate, Inc.:  Stripping Land Art of
+
+VARA  Protection
+
+Earthworks  do not fit comfortably  into the  self-contained,  walled-in
+ethos of the  museum and its pedestals. Minimalism,  with its  emphasis  on
+atmosphere  and environment,  was the natural  predecessor  of these large-
+scale,  site-specific  works  that  cannot  be  easily  divorced  from  their
+surroundings.  In  a  problematic  case  for  this  new  hybrid  sculpture,  the
+court  created  a judicially-imposed  VARA  carve-out  for site-specific  art,
+holding that VARA's "integrity"  right  (the right to prevent modifications
+and mutilations  of the  artwork) did not apply to  removals of site-specific
+art  from  its,  well,  site.3 '  In  Phillips v. Pembroke Real Estate, Inc.,32  the
+work  in  question  was  one  by  an  artist  named  David  Phillips,  who
+
+28.  Id. §§  101,  106(A).
+29.  See, e.g.,  Cascio,  supra note 9,  at  184-85;  Rachel  E.  Nordby,  Offof the Pedestal and into
+the Fire: How Phillips  Chips Away at the Rights of Site-Specific Artists,  35 FLA.  ST. U. L. REV.  167,
+186  (2007).
+
+30.  See Cascio, supra note 9, at  184-87;  Nordby, supra note 29, at  184-85.
+31.  Phillips v.  Pembroke Real Estate,  Inc.,  459  F.3d  128,  140 (lst Cir. 2006).
+32.  459 F.3d  128  (lst Cir. 2006).
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+7
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+952
+
+HOFSTRA LA  W REVIEW
+
+[Vol.  42:945
+
+the  stones 
+
+designed  a  series  of stoneworks  for  Boston's  Eastport  Park.33  These
+sculptures,  which  depicted  Zodiac  signs  and marine  animals,  contained
+granite  stones  that  mirrored 
+located  along  the  Boston
+Harbor.34  In  2003,  the  defendant,  Pembroke  Real  Estate,  moved  to
+relocate  some  of Phillips's sculptures  off of the  park  grounds.35  Phillips
+sued  under VARA claiming  the  integrity right,  arguing  that the  Eastport
+Park  itself,  including  the  granite  paths  and  the  sea  walls  of Boston
+Harbor  near  which  it  is  located,  is  integral  to  his  work.36  The  First
+Circuit  disagreed-to  say  the  least.  Rather  than  simply  holding  that the
+sculpture  could  be  dissembled  and  removed  without  violating  VARA
+rights  so  long as  the  integrity of the  sculptures themselves  were  kept
+intact, the court  went  further  in holding  that no  work of site-specific  art
+is protected  under VARA.37
+
+Their  reasoning  relied  on  the  "public  presentation"  exception  of
+VARA,  which  states  that  "[t]he  modification  of  a  work  of visual  art
+which  is  the  result  of  conservation,  or  of  the  public  presentation,
+including  lighting  and  placement,  of  the  work  is  not  a  destruction,
+distortion,  mutilation,  or  other  modification. 3 8  The  court  below  had
+interpreted  this to  mean  that VARA  allows for the  removal  of the work
+from  its  site,  but  requires  that  the work  itself be  kept  intact.39 There  is
+evidence  that  this  was  in  line  with  Congress's  wishes  when  drafting
+VARA,  as  they  noted  that  "the  removal  of  a  work  from  a  specific
+location  comes  within  the  [presentation]  exclusion  because  the  location
+is a matter  of presentation. ' 4°
+
+But  the  First  Circuit  went  further.  It  first  acknowledged  Phillips's
+argument  that  site  itself  is  integral  to  site-specific  art,  helped  along  by
+testimony from a few of those  within  the art historical community. 41  One
+testimony,  for  example,  opined  to  the  court  that  "[m]uch  of modem
+sculpture  does not exist separate from its context, but rather integrates  its
+context  with  the  work  to  form,  ideally,  a  seamless  whole. 42  The  First
+Circuit, applying  this logic,  deemed  it an illogical  reading  of VARA  that
+the  Act  would  both  protect  site-specific  art  against  modification  or
+
+33.  Id. at  130.
+34.  Id. at  130-31.
+35.  Id. at  131.
+36.  Id.
+37.  Id. at  143.
+38.  17 U.S.C.  §  106(A)(c)(2)  (2006).
+39.  See Phillips, 459 F.3d  at 140.
+40.  H.R. REP. No.  101-514,  at 17  (1990).
+41.  See Phillips, 459 F.3d  at 134.
+42.  Id.
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+8
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+mutilation,  yet  allow  for  precisely  its  modification  or  mutilation  by
+divorcing  it from its site, which operates  as part of the work.43
+
+Needless  to  say,  the  reasoning  is  slightly  attenuated,  though  best
+elucidated  in  this  one  either-or:  "Either  VARA  recognizes  site-specific
+art  and  protects it,  or it  does not recognize  site-specific  art  at all. '"44  The
+court's  ultimate  decision  reflects  a  deep  antagonism  to  land  art's
+uncomfortable  position between  that of traditional  art  objects,  governed
+by the  law  of chattels (movable  property),  and land, governed by the law
+of real property.
+
+American  law  is  already  deeply  protective  of the  rights  that  attach
+to any piece of property,  including  chattel,  and VARA  has been  roundly
+criticized  for  its  limitations  on  what  an  owner  may  do  with  his  own
+painting-including  destroy  it,  alter  it,  and  paint  over  it.45  The  First
+Circuit's  refusal  to  grant  VARA  protection  to  land  art,  then,  shows
+judges'  reluctance  to  extend  VARA  any  farther  than  the  traditional
+categories  of "painting,  prints,  sculpture,  and  drawing"  that  it  protects.
+Further,  both  the  Phillips and  Kelley  v.  Chicago Park District46  courts,
+discussed  below,  have  interpreted  these  categories  as  autonomous,
+separate  mediums,  rather  than  loose  categories  within  which  hybrids
+may be  constructed. 47 Real  property-land--on  the  other hand, presents
+graver  concerns,  as  the  First  Circuit  suggests  that  "owners  of nearby
+property  who  had  nothing  to  do  with  the  purchase  or  installation  of
+Phillips's works would  be subject  to claims  that what  they do  with  their
+property  has  somehow  affected  the  site  and  has,  as  a  result,  altered  or
+destroyed  Phillips's works."' 8
+
+What Phillips leaves  open, then, is  whether  site-specific  art  or  land
+art is  copyrightable  at all. One  possible  reading  of Phillips suggests that
+the  court's  concern  with modification  or destruction-and  ownership,  in
+general--could  nonetheless  qualify  land art  as  an architectural  work,  for
+which  "the  owners  of a building  embodying  an  architectural  work  may,
+without the  consent  of the author  or  copyright  owner of the  architectural
+work, make  or authorize  the  making  of alterations  to such building,  and
+destroy  or  authorize  the  destruction  of such building. ' 49 This  exception
+nicely  satisfies  the  First  Circuit's  concern  with  property  ownership,  as
+the  Act's  divorce  of  building  from  copyrightable  work  (in  which  a
+
+43.  See id. at  140.
+44.  Id.
+45.  See Amy M.  Adler,  Against Moral Rights, 97  CALIF.  L. REv. 263,273-77  (2009).
+46.  635  F.3d 290  (7th Cir. 2011).
+47.  Kelley v. Chi.  Park Dist.,  635 F.3d  290,  300-02  (7th  Cir. 2011); Phillips, 459 F.3d at  140.
+48.  Phillips, 459 F.3d  at  142.
+49. 
+17  U.S.C.  §  120 (2006).
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+9
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA  LAW REVIEW
+
+[Vol.  42:945
+
+building  owned  by  another  may  contain  a  copyrightable  architectural
+work  owned  by  the  artist)  would  transfer  over  nicely  to  the  land  art
+context.  Thus,  we  could  analogize the  copyrighted  architectural  work to
+the  artwork  itself, and  the building to the site that  surrounds  it.
+
+Phillips, then,  was  at least  hinting  at one  viable  option  for placing
+land  art  more  firmly  within  the  architectural  medium-for 
+legal
+purposes,  at  least.  But,  in  a  more  recent  case  involving  land  art,  the
+Seventh  Circuit  firmly  moved  in  an  even  more  radical  direction-
+declaring  the uncopyrightability  of land art, period.5°
+
+C.  Kelley  v. Chicago Park District: Stripping Land Art of
+
+All Copyright Protection
+
+dichotomy 
+
+If Phillips presented  a question  of medium  categorization,  in  which
+defining  land  art  as architecture  (or, at least,  as  not-sculpture)  may  entail
+losing  certain  rights  that  sculptures  are  subject  to,  Kelley,  instead,
+eschews  the  issue  for  the  very  basics  of  copyrightability-the  idea-
+expression 
+fixation-in-a-tangible-medium
+requirement. 51 The  case  centered  around  a wildflower  garden  created by
+the  artist  Chapman  Kelley. 52  Wildflower  Works  consisted  of  "two
+enormous  elliptical  flowerbeds,  each  nearly  as  big  as  a  football  field,
+featuring  a  variety  of  native  wildflowers  and  edged  with  borders  of
+gravel  and  steel. 53  Wildflower  Works  immediately  calls  to  mind  other
+"expanded  field"  artworks  like  Maya  Lin's  Wave Field at  Storm King,  a
+wavy  expanse of lush  green grass framed  by the  forest beyond. 54
+
+and 
+
+the 
+
+Chapman  had  planted  his  work  in  1984  in  the  Chicago  Park
+District,  but  the  condition  of the  flowerbeds  began  deteriorating  by  the
+early  2000s.55  By  then,  the  city  decided  to  modify 
+the  garden,
+"substantially  reducing  its  size,  reconfiguring  the  oval  flowerbeds  into
+rectangles,  and  changing  some  of  the  planting  material. 56  Chapman
+sued  under  VARA,  claiming 
+in  an
+unauthorized modification  and mutilation  of his  work.57
+
+the  city  had  engaged 
+
+that 
+
+The  Seventh  Circuit  began  by  immediately  calling  into  question
+whether  Wildflower Works  can be thought of as a painting or a sculpture
+
+50.  Kelley, 635  F.3d at 303-07.
+51.  Id. at 303.
+52.  Id. at 291.
+53.  Id.
+54.  See  Holland  Cotter,  Where  the  Ocean  Meets the  Catskills, N.Y.  TIMES,  May  8,  2009,
+
+at C23.
+
+55.  Kelley, 635  F.3d at 291-92.
+56.  Id. at 291.
+57.  Id. at 291-92.
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+10
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+955
+
+at  all-a  question  of medium.  "To  qualify  for  moral-rights  protection
+under VARA,  Wildflower Works  cannot just be 'pictorial'  or  'sculptural'
+in  some aspect  or effect,  it must actually  be a  'painting'  or a 'sculpture.'
+Not  metaphorically  or  by  analogy,  but  really,"  the  court  writes.58
+Unfortunately,  the court  never  articulates just  what about  a  work  makes
+it  "really"  a  painting  or  sculpture,  rather  than having  mere  "sculptural"
+or "pictorial"  qualities.  Perhaps,  in order  to  avoid  the  more  vexing  issue
+of determining just what each  medium  is,  the  court moves  on to  a  more
+basic  (and  seemingly  simpler)  question:  whether  the  work  can  be
+copyrighted  at all,  as  "a  living  garden  lacks  the  kind  of authorship  and
+stable  fixation  normally  required  to  support  copyright."59  The  first,  the
+court  maintains,  is  true  because  much  of  Wildflower  Works  owes  its
+form  to  nature-"the  colors,  shapes,  textures,  and  scents  of the  plants
+originates  in nature,  not  in the  mind of the  gardener  [the derivative  term
+they  have  now  bestowed  upon  Chapman]., 60  The  second,  that  the  work
+is  not  fixed,  is  also  true,  the  court  opines,  because  "[a]  garden's
+constituent  elements  are  alive  and  inherently  changeable,  not  fixed." 61
+Because  the work  is unable  to cross  even the most basic of all  copyright
+hurdles-originality  and  fixation--Chapman  does  not  own  a  copyright,
+let  alone moral rights, in the  work.
+
+that 
+
+led 
+
+the  court 
+
+Yet  this  reasoning  is  somewhat  attenuated,  suggesting  a  deep
+discomfort  with  medium 
+to  address  a  more
+straightforward  question  about  fixation  instead.  However, the  idea that a
+living  garden  lacks  fixation  would  also  call  into  question  much  of
+sculpture  made  from  materials  meant  to  degrade  or  wear  over  time-
+even  man-made  ones,  like  steel.  The  sculptures  of Richard  Serra,  for
+example,  are  not  constant,  stable,  and  unchanging-but  are  intended  to
+register  the  marks  and wear  of life  as  the  steel  ages,  changing  in  color
+and  texture  throughout  the years.62  In this sense,  even more  "traditional"
+sculpture  is  not  "fixed"  under  the  court's  definition.  And  ruling  out
+flowers  as merely an "idea"  of nature  seems  silly, to say the least.  Plenty
+of  sculptures  depend  on  natural  materials-sand,  for  example,  in  the
+sculptures  of Joseph  Beuys-for their existence.63
+
+58.  Id. at  300.
+59.  ld at 303.
+60.  Id. at 304.
+61.  Id.
+62.  Deborah  Solomon,  Richard Serra: Our Most Notorious Sculptor, N.Y.  TIMES,  Oct.  8,
+1989,  § 6  (Magazine),  at  76  ("Cor-Ten  steel  [the  material  Serra  makes  his  sculptures  from]  was
+designed  to acquire  a  dark,  even  patina  of rust  over  time,  and  this natural  process  endows  Serra's
+sculptures  with  a  handsome  brown  hue.  The  rust  can  function  metaphorically,  too,  reminding  the
+viewer of his own inevitable decay.").
+
+63.  Mary  and  Leigh  Block  Museum  of  Art,  Joseph  Beuys:  Sand  Drawings,  BLOCK
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+11
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA LA  WREVIEW
+
+[Vol. 42:945
+
+All  of this  suggests  that  what  we are  really getting  at  in  both  these
+opinions  are  basic  assumptions  about  what  sculpture-and  really,  art-
+is. As  I  argue  in  the  following  Part, judges'  natural  distrust  of land  art
+owes  much  to  modernism's  insistence  on  purity  of art  form-meant  to
+be  placed  in  the  museum,  free  from the  every  day,  and transcendent  in
+its aspirations. 64
+
+III.  COPYRIGHT  IN THE  EXPANDED  FIELD:  WHAT COPYRIGHT  LAW
+
+OWES TO  MODERNIST  MEDIUM  SPECIFICITY
+
+I suggested  earlier  that  copyright  law,  like  modernism,  focuses  on
+distilling  a medium  down  to  its  inherent  end  logic. 65  Yet,  both  Phillips
+and Kelley seem less  guided by what  sculpture  or painting  is, rather than
+an almost intuitive,  implicit idea of what  it is not. And yet,  what are both
+courts  so  convinced  that  art  should not  be? For this,  we  turn  to  another
+great  modernist  critic,  Michael  Fried,  who  famously  set  out  to  define
+what  sets  "art"  apart  from  mere  "objects"  in  his  1967  essay,  Art  and
+Objecthood.66  For, if this Article  had begun by positing that perhaps  it is
+not just the  nineteenth  century  notion  of the romantic  author-genius  that
+copyright  law  owes  its  debt  to,  but  its  twentieth  century  avant-garde
+successors,  a  re-reading  of Fried's  essay  garners  unexpected  parallels
+between the rhetoric  of the Kelley court and high-modernist  mantra.
+
+Fried,  in  his  polemic  against  minimalist  art,  termed  the  works  of
+well-known  minimalist  artists-such  as  Donald  Judd,  Carl  Andre,  and
+Robert  Morris-objects, not  artworks.67  Inspired  by Greenberg's  earlier
+rant  against  minimalism,  in  which  he argued  that  "[m]inimal  works  are
+readable  as art, as  almost anything  is today-including  a door, a table, or
+a blank sheet of paper,, 68 Fried takes this new "condition  of non-art"  and
+calls  it  "objecthood. ' '69  "It  is  as  though  objecthood  alone  can,  in  the
+present  circumstances,  secure  something's  identity,  if not  as  nonart,  at
+least as neither painting nor sculpture; or as  though a work of art-more
+accurately,  a  work  of modernist  painting  or  sculpture-were  in  some
+
+MUSEUM  ART,  http://www.blockmuseum.northwestem.edu/view/exhibitions/past-exhibits/2012/
+joseph-beuys-sand-drawings.html  (last  visited Apr.  11,  2014).
+
+64.  See infra Part MI.
+65.  See supra notes 25-30  and  accompanying  text.
+66.  MICHAEL  FRIED,  Art and Objecthood, in ART  AND  OBJECTHOOD: ESSAYS  AND  REVIEWS
+
+148,  152  (1998)  [hereinafter  FRIED,  Art and Objecthood].
+
+67.  MICHAEL FRIED,  An Introduction to  My Art Criticism, in ART AND  OBJECTHOOD:  ESSAYS
+
+AND  REVIEWS,  supra note 66, at 1,  14.
+
+68.  4  CLEMENT  GREENBERG,  Recentness  of  Sculpture, in  THE  COLLECTED  ESSAYS  AND
+
+CRITICISM:  MODERNISM  WITH  A VENGEANCE,  supra note 25, at 250, 253.
+
+69.  FRIED,  Art and Objecthood, supra note  66,  at  152.
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+12
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED  FIELD
+
+essential  respect  not an  object."7  Here,  we  see  Fried  and  Greenberg
+visibly  working  to  categorize  the  new  sculpture  as  something  other
+than--other  than  painting,  other  than  sculpture,  maybe  non-art,  at  best
+an  object-just  as  the  Kelley  court  expressed  suspicion  at  granting
+VARA protection  to something  that  did not  fit neatly into  the traditional
+category  of painting qua painting  or sculpture  qua sculpture. The  court's
+categorization  of  Wildflower  Works  as  merely  having  "sculptural"  or
+"painterly"  qualities  turns  what  Krauss  had  termed 
+the  expanded
+sculpture's  negation-as-positive  into  a  negation-as-negative  (surely how
+Greenberg  and  Fried  would  see  it):  "not-sculpture"  or  "not-painting"
+does  not  merely  expand  into  a  quaternary  field  of  "not-sculpture  as
+painting"  or  "not-painting  as  sculpture.' 
+Rather,  "not-sculpture"  or
+"not-painting"  becomes, simply, not-art.
+
+Yet why  is this so?  Why is  Fried  so eager to categorize  minimalism
+as not-art,  as condemned to "objecthood"  status?  Similarly,  how does the
+Kelley court  come  to the  conclusion  that  Wildflower  Works,  too,  is  not-
+art,  but  at  best a  garden,  an ordinary  work of landscaping  in the  middle
+of  a  public  park?  Surprisingly,  we  can  view  the  justifications  both
+provided as one  and the same.  That is,  we can read the  Seventh  Circuit's
+anxiety  over  the  "not  fixed,"  intangible  nature  of  Wildflower  Works  as
+parallel to Fried's distrust of the  "endlessness"  of minimalist sculpture.
+
+"Endlessness,"  Fried  writes,  or  the  condition  of "being  able  to  go
+on  and on, even  having to go  on and  on, is central both to the  concept  of
+interest  and  to  that of objecthood. ' '72 And  so,  in many  ways,  experience
+blurs  art  and  life,  just  as  minimalist  objects  are  not  self-contained,  but
+rely  on the viewer,  on the room,  on the  atmosphere,  and  the  sounds,  air,
+and  light  themselves  for their  effect.  Certainly,  Smithson's  Spiral  Jetty
+takes  the  idea  of art  as  experience,  or  art-blurred-into-life,  to  its  next
+logical  progression,  as  viewers  travel  along  the  length  of the  Jetty one
+step at a  time  in the long journey towards  its  center. In  person,  the Jetty
+is not  viewable  in  an  instant;  it  cannot  be  grasped  as  a  whole.  And  no
+two  individual's  experience  of the  work  will  be  the  same-the  Jetty,
+whether  submerged, re-emerged,  laced with  rain, or dry from drought,  is
+inextricably  linked  with  atmosphere,  with  the  time  of  day,  and  the
+workings  of the  weather.  As  such,  it,  like  the  works  of its  minimalist
+predecessors  that Fried railed against,  lacks the  "presentness ... that one
+experiences  as  a  kind of  instantaneousness, as  though  if only  one were
+infinitely  more  acute,  a  single  infinitely  brief  instant  would  be  long
+
+70.  Id. (first  emphasis  added).
+71.  See KRAUSS,  supra note  11,  at 282-83.
+72.  FRIED,  Art and Objecthood, supra note  66,  at  166.
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+13
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA LA  W REVIEW
+
+[Vol.  42:945
+
+enough  to  see  everything,  to  experience  the  work  in  all  its  depth  and
+fullness,  to be forever convinced by it."73
+
+It  is  this  instantaneousness  that  modernist  art  aspires  toward  (as  in
+the  works  of Kenneth  Noland,  Jules  Olitski,  David  Smith,  or  Anthony
+Caro,  in  which  "at every  moment  the  work  itself is  wholly  manifest,"
+contends  Fried),74  and  this  instantaneousness 
+that  minimalist  objects
+lack.  For the  latter,  "the  experience  in  question persists in time, and  the
+presentment  of endlessness. 
+. . is essentially  a presentment  of endless  or
+indefinite  duration.75  So  we  return  to  the  Kelley  court's  emphasis  on
+"fixation  in  a  tangible  medium,"  which  now  manifests  itself  as  an
+understanding  of  art  as  precisely  Fried's  modernist  notion  of
+instantaneousness.  A  work  of art,  in  other  words,  should not  persist  in
+time,  but  should be fixed in  one  moment-a  brief  instant  that captures
+the  work  in  all  its  depth  and  fullness,  in  its  one-ness  and  wholeness,
+forever.  A  work  of art  cannot  go  on  and  on,  ever-changing,  inherently
+alive  as  the  flowers  in  Chapman's  work.  It  is  this  suspicion  of  the
+intangibility  of experience  itself that the Kelley court  seems  to abhor, the
+idea  that  art  may  expand  beyond  the  object  itself  to  encompass  the
+conditions  of life  and time.  Somewhere  in here  we may read the  mystic's
+hope  for  immortality,  for  transcendence.  Art  should  endure  even  as  we
+must  die.  Hence,  Fried  disdains  minimalist  art,  calling  it  "literalist"
+instead,  in  what  could  be  a direct  evocation  of the  drabness  of life  that
+art  should  aim  to  transcend. 76  "We  are  all  literalists  most  or  all  of our
+lives,"  Fried writes.77  But "[p]resentness  is grace. 78
+
+IV.  A CREATIVE  SOLUTION  FOR SITE-SPECIFIC  ART:
+LOOKING  OUTSIDE  INTELLECTUAL  PROPERTY  LAW
+
+A.  Why Land Art Should Not Be  Considered "Architecture "for
+
+Copyright Purposes
+
+The  decisions  in Phillips and Kelley, while  they have been  roundly
+criticized  by  the  art  law  community,  seem  to  reach  the  most  logical
+conclusion  regarding  the  vexed  relationship  between  the new  expanded
+sculpture  and  moral  rights.  After  all,  work  that  invites  modification  or
+alteration  from  viewers  themselves-in  the  form  of footprints  on  the
+
+73.  Id. at  167.
+74.  Id.
+75.  Id. at  166.
+76.  Id. at  166-68.
+77.  Id. at  168.
+78.  Id.
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+14
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COP YRIGHT IN THE EXPANDED FIELD
+
+Jetty, for  example,  or  a  plucked  flower  from  Chapman's  Wildflower
+Works-cannot then  claim  the  right  to  be  free  from  modification  or
+alteration.  Similarly,  land  art's communitarian  function  suggests  at least
+some  need  for a  balancing  of rights  between  public  interest  and  artistic
+control-both  Phillips  and  Kelley,  after  all,  involved  highly  public
+works  in  city parks.  Like  architecture,  which serves  a public  function as
+a  monument  or tourist  attraction,  it  would  seem at  least  reasonable  that
+the  public  remain  free  to  photograph  large  works  of land  art,  even  if
+protected  by copyright.  All  of which might  lead  one to suggest:  why not
+just  definitively  categorize  land  art  as  architecture?  We  would,  hence,
+solve  both  the  moral  rights  problem  (as  architectural  works  are  not
+protected  under  VARA)  and allow  for  public  engagement  with  these
+highly visible works  in the  form of a pictorial representation  exception.79
+Moreover, 
+already  acknowledged
+the  architectural  influences  in  their  work,  so  the  analogue  seems  a
+natural  one.8°
+
+land  artists  have 
+
+themselves 
+
+And  yet,  some  would  argue  that  the  right  to  control  how,  for
+example,  the  Jetty appears  in  photographs  and  films  is  as  important  or
+more  important  than  the Jetty itself-after  all, most  of us  only  know  the
+Jetty as  a  "neatly  framed...  striking  still  photographic  image  that  is
+endlessly  reproduced  as  the  preferred  symbol,  elegant  and  concise,  for
+'earth  art.' 81  However, the question  in this  instance  necessarily  becomes
+case-by-case:  a widely-circulated,  unauthorized  image  of the Jetty might
+forever  tarnish  its  reputation,  but  a  relatively  unknown  photograph
+published  by  a  tourist  on  his  blog  might  not  affect  the  Jetty's public
+image at all.
+
+I  suggest  that  artists  working  with  the  new  sculpture 
+
+in  the
+expanded  field  similarly  expand  their  legal  remedies  beyond that  of
+copyright  law  to  land  art's  natural  analogue:  real  property  law,  and  the
+doctrines  of trespass and  nuisance.  The  former goes  straight to  the heart
+of ownership rights, and the  latter to rights of the public.
+
+B.  Trespass as  One Form of Creative Control
+
+The  doctrine  of trespass  is probably the  more  straightforward  of the
+two.  It  acknowledges  that  owners  have  a  "bundle"  of  rights  to  their
+property,  including  the  right  to  exclude  others  from  entering  and  the
+
+17  U.S.C. §  120  (2006).
+
+79. 
+80.  See  KRAuss,  supra note  11,  at  287  (detailing  artists'  explorations  with  architecture,
+drawing,  and  site  to form  hybrid "marked  sites,"  which include  art others  have termed  site-specific
+art).
+
+81.  Reynolds,  supra note  3, at  73.
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+15
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA LA W REVIEW
+
+[Vol.  42:945
+
+those  entering-requiring, 
+
+right  to  place  limitations  on  what  one  may  do  upon  entering.82 Using  a
+mix  of property  and  contract  law,  then,  owners  of land  art  (really,  the
+owner  of the  site on  which  the  land  art  sits, whose  interests,  oftentimes,
+are  aligned  with  those  of the  artist's-as  is  the  case  with  the  Dia  Art
+Foundation ("Dia") and  de Maria, illustrated  in  the example  below) may
+appropriately  place  conditions  on 
+for
+example,  any  photography  to  be  solely  for  personal  use,  or  banning
+photography  altogether.  Such  is precisely  the  method that  Dia uses  with
+de  Maria's  Lightning Field, which  does  not  permit  visitors  to  simply
+drop  in,  look  around,  and  snap  photos.  Rather,  access  to  and  from
+Lightning Field is  tightly  controlled by Dia,  which ferries  visitors  to the
+site  only upon a  two-night  stay.8 3 Further,  Dia is  explicit about  retaining
+the  right  to  control  the  way  Lightning Field appears  in  photos.84  This
+makes  sense  for works  like  de  Maria's,  as  the  poles  of Lightning Field
+undoubtedly  look  best  when  struck  with  lightning  and  lit  up  against  a
+dark night  sky.  Dia,  therefore,  does  not  need  a  copyright  claim  to  ban
+any  unauthorized  photos  of  Lightning Field-it can  simply  assert  a
+breach of contract action, as every visitor to the  site has  explicitly  agreed
+not to publish any such photos.
+
+However,  Dia's  approach  to Lightning Field does  not transfer  over
+as  well  to, for  instance,  the  Spiral Jetty context,  as  the  sheer  mass  of it
+makes the object  visible from the air. Thus,  even if Dia could easily  limit
+what visitors  do  on  the ground, it could  not contract  with those  chance
+passersby  who  spot  the  Jetty  from  above  and  snap  a  few  photos  of it.
+The  same  applies  to  other  mass-scale  earthworks  visible  (really  only
+viewable  as whole)  from  above,  like Heizer's  Effigy  Tumuli-a massive
+compilation  of earth  mounds  made  to  resemble  creatures  when  viewed
+from the air.
+
+Furthermore,  as  noted  above,  trespass  works  only  when 
+
+the
+interests  of the  artist  and  the  landowner  are  perfectly  aligned.  It  should
+be every  land artist's  hope that if he  does not himself own the  land, then
+at  least  whoever  does  will  act  in  the  best  interest  of the  work,  neither
+destroying it nor altering it for the worse, and working  to ensure that any
+unauthorized,  unfavorable  reproduction  in  film  or photograph  is halted.
+In  a world  in  which  we  expect  property  owners  to  behave  like  rational
+actors,  working  diligently  to  increase  and  preserve  property  value,  this
+should  not be  an  unrealistic  expectation.  Yet,  the  current  legal  troubles
+
+82.  See  RESTATEMENT  (SECOND)  OF TORTS §  158  (1965).
+83.  Geoff Dyer,  Poles Apart, NEW YORKER,  Apr.  18,  2011,  at 62,  65.
+84.  Id.
+85.  Nick  Tarasen,  Effigy  Tumuli,  DOUBLE  NEGATIVE,  http://doublenegative.tarasen.net/
+
+effigytumuli.html (last  visited  Apr. 11,  2014).
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+16
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+of the Jetty-the Dia  (entrusted with  the care  of the Jetty after  Smithson
+passed)  failed to  renew  its  lease  and  has  now  (at  least  temporarily)  lost
+control  of the  site  to  the  State  of Utah-leaves  room  to  be  pessimistic
+about the future  of land art.86
+
+In  the  absence  of legal  ownership  of the land  on which  the art  sits,
+artists  hoping  to  preserve  a  certain  degree  of control  over  their  works
+must look past the simpler  gate-keeping  methods of trespass  and  contract
+law.  My  proposal,  then,  turns  to  an  unlikely  source:  tort  law  and
+applying 
+the  unauthorized  aerial
+photography/film  context.87
+
+the  principles  of  nuisance 
+
+to 
+
+C.  Nuisance Law: Balancing Public Interest with Private Right
+
+law,  dating 
+
+Nuisance  as  a real  property  injury  is  a relatively  new  development
+in  Anglo-American 
+to  the  beginning  of  the  twentieth
+century. 88 Unlike  trespass,  which  is  a hard-and-fast  rule  with bright-line
+applicability  (any  unauthorized  trespass  upon  a  land 
+is  de  facto
+wrongful), 89  nuisance  is  a  balancing  test  conducted  by  judges  that
+weighs the competing  interests  of both parties. 90  And, unlike  trespass,  no
+physical intrusion  is necessary;  intangible  intrusions,  like  dust  particles,
+light, air,  and noise,  can  constitute  an  actionable  invasion.91 Courts have
+defined  a  nuisance  as  "anything  which  interferes  with  the  rights  of a
+citizen,  either  in person,  property,  the  enjoyment  of his  property,  or  his
+comfort .... A  condition  is  a  nuisance when  it  clearly appears that
+
+86.  Glen  Warchol,  Control  of  Iconic  Sculpture  Spiral  Jetty  in  Dispute,  SALT  LAKE
+TRIBuNE (June  9,  2011,  9:58  AM),  http://www.sltrib.com/sltrib/news/51970092-78/dia-jetty-lease-
+spiral.html.csp.
+
+87.  This  Article focuses on  the reproduction and distribution rights of copyright because  these
+are  the  two  rights  land  artists  will  be  most  concerned  with.  See  17  U.S.C.  §  106(1),  (3)  (2006).
+Consider  the  other  exclusive  rights  a  land  artist  could  assert  if  he  held  a  copyright:  the  right  to
+prepare  derivative  works  and  the right  to display  his  work.  However,  land  art's  invitation  to  the
+public to interact with  the artwork renders a prohibition  on  derivative works  impractical  and, likely,
+directly inapposite  to the artist's intentions,  while the work's immovable  state  means that it can  only
+be displayed  in the one place  it was built-the  intended  site.
+
+88.  See Hendricks  v. Stalnaker,  380 S.E.2d  198,  200-01  (W. Va.  1989)  (discussing  early cases
+
+dating from  the  late-1800s  through  the mid-1900s  that applied nuisance  law).
+
+89.  See  Jacque  v.  Steenberg  Homes,  Inc.,  563  N.W.2d  154,  159  (Wis.  1997)  (awarding
+punitive  damages in  the absence  of actual  harm due  to  "the  loss  of the individual's  right to  exclude
+others  from his  or her property").
+
+90.  RESTATEMENT  (SECOND)  OF  TORTS  § 826  (1979)  (noting  that  "the  gravity  of the  harm"
+
+must "outweigh[]  the  utility of the actor's  conduct"  to be considered a nuisance).
+
+91.  See, e.g.,  Boomer v.  Atlantic  Cement  Co., 257 N.E.2d  870,  871  (N.Y.  1970) (finding  that
+dirt,  smoke,  and  vibration  emanating  from  a  nearby  plant  is  actionable  as  nuisance);  Medford  v.
+Levy,  8  S.E.  302,  303-06,  308  (W. Va.  1888)  (classifying  cooking  odors  as  nuisance);  St.  Helen's
+Smelting  Co. v.  Tipping,  (1865)  11  Eng.  Rep.  1483,  1483,  1486,  1488  (H.L.)  (finding  that  noxious
+vapors  constitute a nuisance).
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+17
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA  LAW REVIEW
+
+[Vol.  42:945
+
+enjoyment of property is materially lessened.,92 Courts  will  balance  the
+landowner's  interest  in  the  enjoyment  of  his  property  with  the  social
+value of the activity alleged to  cause the harm.93
+
+the  plaintiff  is  entitled 
+
+Activities  such as  air pollution  emitting  from  a nearby  factory  onto
+homeowners'  land,  and  noxious  gas  issuing  from  a  smelting  plant  that
+substantially  damaged  plaintiffs'  hedges  and  shrubs,  have  been
+enjoined.94  Further, 
+to  monetary  damages
+stemming  from  "the  depreciation  in  the  market  value  of the  property
+injured"  (a  "diminution  of the  value"  standard).95  I argue,  then,  that  a
+nuisance  cause  of action  is  just  as  apt  in  the  land  art  context,  where
+publication  of  photographs  or  films  that  misrepresent,  distort,  or
+otherwise  present  works  like  the  Jetty  unfavorably--detracting  from
+their  overall  appeal-can  cause  irreparable  damage  to  the  value  of the
+artworks  themselves,  and,  therefore,  such  publication  constitutes  a
+nuisance  that  must be enjoined.
+
+While  almost  all  nuisance  cases 
+
+to  date  have  balanced  a
+homeowner's  right  to  the  enjoyment  of  his  property  against  another
+party's  right  to  carry  on  some  arguably  harmful  activity,  a  land  art
+owner's  right to the  enjoyment  of his property  is fundamentally  different
+from  that  of a resident.  Specifically,  the value  of his property  lies  in  its
+public presentation, and  it is mostly through  the dissemination  and mass
+circulation  of images  or  film that favorable  public regard  is garnered  to  a
+remote  work  of land  art  otherwise  only  accessible  via  pilgrimage.  The
+owner  of  a  work  of  land  art,  unlike  a  homeowner,  does  not  derive
+enjoyment  from living  peaceably  on  the property-which,  in the  case  of
+homeowners,  provided  justifications  for  categorizing  noise,  pollution,
+and  noxious  gases  as  nuisances.  Rather,  land  art  owners  derive
+enjoyment solely  from the  good reputation  (translating directly  to  higher
+market  value)  the  work enjoys. 96  For the  same  reasons  that a  loud  plant
+operation  must  be  enjoined  if it  interferes  with  a  homeowner's  right  to
+quiet enjoyment,  the  mass-scale  circulation  of unfavorable, unauthorized
+photographs  must  be  prohibited  to prevent  the  depreciation  in  value  of
+the art owner's property.
+
+92.  Hendricks, 380 S.E.2d at 200 (emphasis added).
+93.  RESTATEMENT  (SECOND)  OF TORTS  § 826, cmts. a, c  (1979).
+94.  See Boomer, 257 N.E.2d at 871; St. Helen's Smelting Co.,  11  Eng. Rep.  at  1483.
+95.  J.  E.  Keefe,  Jr.,  Annotation, Damages for Diminution of Value of Use of the Property as
+
+Recoverable for a Permanent Nuisance Affecting Real Property, 10 A.L.R.2d  669,  669-70  (1950).
+
+96.  There  has  been much  literature  written on the  effect an artist's  reputation  has  on the value
+(translated  via  market  price)  of his  work.  See, e.g.,  Henry  Hansmann  & Marina  Santilli,  Authors'
+and Artists'  Moral Rights: A  Comparative Legal and Economic Analysis,  26  J.  LEGAL  STUD.  95,
+104-05  (1997);  Gladys  Engel  Lang  & Kurt  Lang, Recognition and Renown:  The Survival of Artistic
+Reputation, 94 AM.  J. SOC,  79,  105  (1988);  Tang,  The Artist as Brand, supra note  10, at 234-35.
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+18
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+963
+
+Using  nuisance  in  lieu  of copyright  essentially  weighs  the  same
+balancing  interests  that  the  latter  already  takes  into  account.  That  is,
+copyright  is  not  an  absolute  monopoly.  The  fair  use  doctrine,  which
+allows  the  appropriation  of a  copyrighted  work  in  limited  instances,  is,
+like  nuisance  law,  a  balancing  test  that  weighs  the  interest  of  the
+copyright  holder  against  the  interest  of the  defendant.97 The  four-factor
+fair  use  test  weighs  the  purpose  and  character  of  the  infringing  use
+(whether  it  is  transformative-that  is,  adding  "new  aesthetics,  new
+insights  and  understandings"  to  the  original  work)98 with  the  nature  of
+the  copyrighted  work  (fictional  works  get  more  copyright  protection
+than  nonfictional  works), 99 the  amount  of the work  taken, and  the  effect
+of the  infringing use  on the  market or value  of the copyrighted  work. 100
+
+the 
+
+same  considerations 
+
+into  play.  Specifically, 
+
+A  nuisance  balancing  test  applied  in  the  art  context  would  take
+much  of 
+the
+"nuisance"-an  unauthorized  representation  in  the  form  of a  photo  or
+film-must be  harmful  in  some way,  and,  as in  fair use,  severely  affect
+the  market  or  value  of the  work  (the  "diminution  of value"  standard)
+without  adding  any  tangible  benefits  or  transformative  value.  Such  a
+requirement  recognizes  that  there  is  a  broad  public  interest  in  art  that
+copyright  law  itself  acknowledges  and  serves-the  public  interest  in
+being  enriched,  in  appropriating  knowledge,  and  in building  off  of the
+works of others  in order to create  more  works.  By balancing  the rights of
+the  real  property  owner  and  the  social  value  of  the  activity  said  to
+constitute  a nuisance, nuisance  law  strangely mimics  fair use's balancing
+test  of the rights  of the  copyright  holder  against  the social  value  of the
+new,  infringing work.
+
+We  can  also  see  this  concern  with  balancing  public  good  and
+private  rights  in the unfavorable  treatment  Kelley  and  Phillips accorded
+site-specific  art.  Underlying  both  courts'  reluctance  to  allow  the  artists
+complete  control  of  these  works,  installed  and  displayed  on  public
+grounds,  could  be  the  fact that  these  works  were  precisely  that-public
+art,  sponsored  and  owned  by  the  city,  and  created  with  public  funds.  If
+copyright  law  was  already  deeply  concerned  with  the  appropriate
+balancing  of a  right  holder's  monopoly  power and  the  public  interest  in
+art's  progress  (specifically,  the  Constitution's  Copyright  Clause  allows
+Congress  "[t]o  promote  the  Progress  of  Science  [broadly  meaning
+knowledge]  ... by  securing 
+to  Authors...  the
+
+limited  Times 
+
+for 
+
+17 U.S.C.  §  107 (2006).
+
+97. 
+98.  Pierre N. Leval,  Toward a Fair Use Standard, 103 HARV.  L. REV.  1105,  1111  (1990).
+99.  See American  Geophysical  Union v. Texaco  Inc.,  60 F.3d  913,  925 (2d Cir.  1994).
+100. 
+
+17 U.S.C.  §  107.
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+19
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+HOFSTRA  LAW  REVIEW
+
+[Vol.  42:945
+
+exclusive  Right  to  their.  . . Writings"),1' 
+then  allowing  one  artist  to
+prohibit  the  public  from  either  touching  a  sculpture  or  taking  a
+photograph  as  a  keepsake  seems  to  take  the  right  too  far.  Land  art,  in
+bringing  art out  of the  sacred  space  of the  museum  and  into life,  should
+likewise  welcome 
+interaction,
+modification,  recreation,  or  personal  memorialization  that  life  thrusts
+upon it.
+
+contingencies 
+
+the 
+
+and  human 
+
+At  last, it may seem  obvious but nonetheless  bears  pointing  out that
+the  doctrine  of nuisance,  unlike  fair  use,  does  not  require  that  the  new
+use  be  valuable  at  all.  We  might  analogize  nuisance  law's  requirement
+that  any  interference  with  an  owner's  property  be  substantial  to  the
+doctrine  of de  minimis use  in  copyright  law.  That  is,  trivial  uses  (like
+to  hang  on  one's  refrigerator) 10 2  are  not
+reproducing  an 
+considered  copyright  infringement. 0 3  Likewise,  images  taken  of  the
+Jetty from  a personal  trip  and  posted  on  one's  travel  blog, for  example,
+are  likely so  de minimis as to constitute  a  non-nuisance.  In  that instance,
+an  artist  cannot  argue  that  such  a  reproduction  has  materially  interfered
+with his  rights in his work.
+
+image 
+
+V. 
+
+CONCLUSION
+
+Some  great  works  of land  art  will no  doubt become  as iconic  as the
+natural  wonders  that  draw  visitors  from  around  the  world  each  year.
+Smithson's  man-made Jetty could, thus,  easily rival the  Grand  Canyon in
+the  years  to come.  But the  future  of the Jetty-including  its  status  as  a
+copyrightable  artwork-is hard  to predict.
+
+The  continued  development  of these  works  in  the  expanded  field
+must  similarly  expand  beyond  the  modernism-inflected,  medium-
+specific,  and self-contained  ethos of copyright  law. To  be like  life,  to be
+in  the  everyday,  and  to  expand  the  realm  of  possibility,  the  new
+sculpture  must necessarily  appropriate  legal remedies  once  thought of as
+more fitting  for homeowners  than for  artists;  for  real,  grounded  property
+rather  than  for  intellectual  property.  Similarly,  courts  should  remain
+open  to these  untraditional  remedies  as  one  way  of addressing  the  non-
+fixed,  land/art  hybrid of the  new  expanded  medium.' °4 These  remedies,
+of  course,  are  imperfect:  as  with  Chapman's  Wildflower  Works  and
+Phillips's  stoneworks,  the artwork  owner's  interests  may  be opposed  to
+the  artist's  interests,  and,  in  many best-case  scenarios,  artists  must  rely
+
+101.  U.S.  CONST. art. I,  § 8,  cl. 8.
+102.  Ringgold  v. Black Entm't Television, Inc.,  126 F.3d  70,  74 (2d. Cir. 1997).
+103.  Id.
+104.  See supra Part IV.
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+20
+
+Tang: Copyright in the Expanded Field
+
+2014]
+
+COPYRIGHT IN THE EXPANDED FIELD
+
+on  property  owners  with  aligned  interests,  like Dia,  for  the  conservation
+and  preservation  of  artworks.' 0 5  But,  then  again,  life  itself,  which
+earthworks  take  as  their  base,  is  imperfect.  The  desire  for  absolute
+control  over  a work  of one's  own,  like  the  desire  to  leave  one's  mark-
+etched  in  larger-scale  format, permanent  for  now,  and hopefully  for  all
+time-on  the  world,  is  a  natural,  albeit  megalomaniacal,  human  urge.
+Land  art's  inevitable  impermanence  lends  it  mortality's  tragedy,  as  it
+does  a  strange  sense  of  otherworldly  potency  and  urgency.  See  the
+the
+Jetty  today, 
+photograph  will  keep  it  in  place-memorialize  it  as  it was  meant  to  be
+seen-only better.
+
+tomorrow.  And  when 
+
+it  does, 
+
+lest 
+
+it  disappear 
+
+105.  See supra Parts H-rn.
+
+Published by Scholarly Commons at Hofstra Law, 2014
+
+21
+
+Hofstra Law Review, Vol. 42, Iss. 3 [2014], Art. 7
+
+http://scholarlycommons.law.hofstra.edu/hlr/vol42/iss3/7
+
+22
+
+

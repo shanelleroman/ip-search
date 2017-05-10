@@ -1,0 +1,152 @@
+5/10/2017
+
+Seventh Circuit Criticizes Second Circuit's "Transformative Use" Approach to Fair Use | Publications | Proskauer
+
+Follow
+
+Related Individuals
+
+Sandra A Crawshaw­Sparks 
+Partner
+t: +1.212.969.3915 
+
+Charles B Ortner 
+Partner
+t: +1.212.969.3990 
+
+publications
+
+Susan L Gutierrez 
+Associate
+t: +1.310.284.5624 
+
+Alexander Kaplan 
+Partner
+t: +1.212.969.3671 
+
+Practices
+
+Offices
+
+Seventh Circuit Criticizes Second Circuit's
+"Transformative Use" Approach to Fair Use
+
+Client Alert
+
+September 19, 2014
+
+On September 15, 2014, the U.S. Court of Appeals for the Seventh Circuit issued a notable
+opinion on the relevance and importance of "transformative use" on the copyright fair use
+analysis. (Kienitz v. Sconnie Nation LLC, No. 13­3004, 2014 WL 4494825 (7th Cir. Sept. 14,
+2014)).
+
+In a unanimous 3­0 ruling, the court ruled that an alleged infringer's use of a copyrighted
+photograph on apparel constituted fair use. The court's opinion, however, is most significant
+for its open skepticism of the Second Circuit's finding in Cariou v. Prince, 714 F.3d 694 (2nd
+Cir. 2013) ("Cariou") that a work may be transformative as a matter of law – regardless of its
+purpose and connection to the original copyrighted work – if it "alters the original with new
+expression, meaning, or message." In particular, and as detailed below, the court cautioned
+that Cariou's interpretation and application of the fair use doctrine compromises, and
+possibly eliminates, a copyright holder's statutory right to prohibit others from making
+derivative works under 17 U.S.C. § 106(2).
+
+The Lawsuit and District Court Opinion
+
+In 2011, plaintiff Michael Kienitz photographed Madison, Wisconsin mayor Paul Soglin, who
+subsequently (with Mr. Kienitz's permission) posted the photograph on the City's website.
+The same year, Mayor Soglin publicly sought to shut down Madison's annual "Mifflin Street
+Block Party" – a political activism event which he helped organize in 1969. Seeking to
+capitalize on this perceived hypocrisy, defendant­apparel company Sconnie Nation LLC
+("Sconnie Nation") downloaded the Mayor's photograph from the City website, altered its
+color, detail and lighting, and printed it onto t­shirts bearing the phrase "Sorry for
+Partying." Upon learning of the t­shirts, Mr. Kienitz registered the photograph and filed suit
+against Sconnie Nation for copyright infringement.
+
+The Western District of Wisconsin granted Sconnie Nation's motion for summary judgment,
+finding that the t­shirt made fair use of Mr. Kienitz's photograph.[1] Of relevance, the district
+court relied in part on the Second Circuit's opinion in Cariou to support its finding that by
+making "a monochromatic outline of Mayor Soglin's image in a Paschke­esque neon green,"
+Sconnie Nation had made "the character and expression of the image [] completely different
+from the original." Kienitz v. Sconnie Nation LLC, 965 F. Supp. 2d 1042 (W.D. Wis. 2013).
+
+The Seventh Circuit Affirms the District Court, but Questions the Second Circuit's
+Rationale in Cariou
+
+The Seventh Circuit affirmed the grant of summary judgment based on fair use, but did so
+on different grounds than the district court. Rather than cite Cariou with approval, the court
+questioned the propriety of the Second Circuit's near­singular focus on the alleged infringing
+work's "transformative use". Specifically, the court noted that "transformative use" is not one
+of the four enumerated fair use factors. Rather, it is simply one aspect of the first fair use
+factor, which looks to the "purpose and character" of the use.
+
+Thus, the Seventh Circuit warns, by asking exclusively whether a use is "transformative"
+(i.e., whether it alters the original with new expression, meaning, or message) without also
+considering the underlying purpose of the use (i.e., whether it critiques, comments, teaches,
+and/or reports upon the original), Cariou risks not only replacing the fair use factors in 17
+U.S.C. § 107, but entirely overriding the derivative work right in 17 U.S.C. § 106(2):
+
+To say that a new use transforms the work is precisely to say that is derivative and
+thus, one might suppose, protected under § 106(2). Cariou and its predecessors in
+the Second Circuit [however,] do not explain how every "transformative use" can be
+"fair use" without extinguishing the author's rights under § 106(2).
+
+Therefore, rather than base its ruling solely (or even primarily) on Sconnie Nation's
+"transformative use," the Seventh Circuit opted to "stick with the statutory list, of which the
+most important usually is the fourth (market effect)."
+
+In this regard, the court asked "whether the contested use is a complement to the protected
+work (allowed) rather than a substitute for it (prohibited)." Because the t­shirt was "no
+substitute for the original photograph," and Mr. Kienitz did not argue that Sconnie Nation
+disrupted any plans to license the photograph for apparel, this factor weighed in favor of fair
+use.[2]        
+
+What's Next?
+
+Kienitz is not the first critique of Cariou's interpretation of the fair use doctrine or, in
+particular, the significance of a work's "transformative use" on the fair use analysis. See
+Case Comment, Second Circuit Holds that Appropriate Artwork Need Not Comment on the
+Original to be Transformative, 127 Harv. L. Rev. 1228 (2014) ("The Cariou court's rule was
+not precluded by precedent, but the definition the court adopted is still the broadest of any
+
+http://www.proskauer.com/publications/client-alert/seventh-circuit-criticizes-second-circuits-transformative-use-approach-to-fair-use/
+
+1/2
+
+5/10/2017
+
+Seventh Circuit Criticizes Second Circuit's "Transformative Use" Approach to Fair Use | Publications | Proskauer
+
+circuit court yet – and is in direct tension with the statutory definition of derivative works");
+Brief of Amicus Curiae New York Intellectual Property Law Association, Cariou v. Prince, No.
+13­261, 2013 WL 5436664 (U.S. Sept. 25, 2013) (arguing on petition for certiorari that
+Cariou analysis of fair use did not accord with stator preamble of fair use doctrine).
+
+However, as Kienitz is the first Circuit­level critique of Cariou, the opinion represents the
+genesis of a noteworthy Circuit split on the correct application and significance of a work's
+"transformative use" on the fair use inquiry. In­house counsel and potential litigants therefore
+should be mindful to monitor the judicial aftermath of Kienitz in other Circuit courts and, in
+particular, district courts in New York, Connecticut, and Vermont (where Cariou remains
+good law).
+
+We will continue to follow and keep our clients updated on these important issues.
+
+[1] The fair use doctrine, codified in Section 107 of the Copyright Act, requires courts to
+weigh the following nonexclusive factors:  (i) the purpose and character of the use, including
+whether such use is of a commercial nature or is for nonprofit educational purposes; (ii) the
+nature of the copyrighted work; (iii) the amount and substantiality of the portion used in
+relation to the copyrighted work as a whole; and (iv) the effect on the use upon the potential
+market for or value of the copyrighted work.
+
+[2] With respect to the remaining factors, the court found that (i) although Sconnie Nation
+sold the t­shirts for profit, they "chose the design as a form of [i.e., for the purpose of ]
+political commentary; (ii) Sconnie Nation removed so much of the original work that "what
+[was] left, behind a hint of Soglin's smile, is the outline of his face, which can't be
+copyrighted"; and (iii) because Mr. Kienitz did not argue that Sconnie Nation's acts reduced
+the value of the photograph, the "nature of the copyrighted work" factor was
+"unilluminating." 
+
+http://www.proskauer.com/publications/client-alert/seventh-circuit-criticizes-second-circuits-transformative-use-approach-to-fair-use/
+
+2/2
+
+

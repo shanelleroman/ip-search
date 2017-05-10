@@ -1,0 +1,1078 @@
+FOR PUBLICATION
+
+UNITED STATES COURT OF APPEALS
+
+FOR THE NINTH CIRCUIT
+
+DC COMICS,
+
+Plaintiff-Appellee,
+
+v.
+
+MARK TOWLE, an individual, DBA
+Garage Gotham,
+
+Defendant-Appellant.
+
+No. 13-55484
+
+D.C. No.
+
+2:11-cv-03934-
+
+RSWL-OP
+
+OPINION
+
+Appeal from the United States District Court
+
+for the Central District of California
+
+Ronald S.W. Lew, Senior District Judge, Presiding
+
+Argued and Submitted
+
+February 5, 2015—Pasadena, California
+
+Filed September 23, 2015
+
+Before: Michael J. Melloy,* Jay S. Bybee,
+
+and Sandra S. Ikuta, Circuit Judges.
+
+Opinion by Judge Ikuta
+
+   * The Honorable Michael J. Melloy, Senior Circuit Judge for the U.S.
+Court of Appeals for the Eighth Circuit, sitting by designation.
+
+2
+
+DC COMICS V. TOWLE
+
+SUMMARY**
+
+Copyright / Trademark
+
+The panel affirmed the district court’s summary judgment
+in a copyright and trademark infringement action brought by
+DC Comics against a maker of Batmobile replicas.
+
+The panel held that the Batmobile, as it appeared in the
+Batman comic books, television series, and motion picture,
+was entitled to copyright protection because this automotive
+character was a sufficiently distinctive element of the works. 
+The panel held that DC Comics owned a copyright interest in
+the Batmobile character, as expressed in the 1966 television
+series and the 1989 motion picture, because it did not transfer
+its underlying rights to the character when it licensed rights
+to  produce  derivative  works.    The  panel  held  that  the
+defendant’s replica cars infringed on DC Comics’ copyrights.
+
+The  panel  affirmed  the  district  court’s  ruling  that  the
+defendant could not assert a laches defense to DC Comics’
+trademark infringement claim because he willfully infringed
+DC’s trademarks.
+
+   ** This summary constitutes no part of the opinion of the court.  It has
+been prepared by court staff for the convenience of the reader.
+
+DC COMICS V. TOWLE
+
+3
+
+COUNSEL
+
+Larry  Zerner  (argued),  Law  Offices  of  Larry  Zerner,  Los
+Angeles, California; Edwin F. McPherson and Tracy B. Rane,
+McPherson  Rane  LLP,  Los  Angeles,  California,  for
+Defendant-Appellant.
+
+James  D.  Weinberger  (argued),  Roger  L.  Zissu,  and  Leo
+Kittay,  Fross  Zelnick  Lehrman &  Zissu,  P.C.,  New York,
+New  York;  J.  Andrew  Coombs,  J.  Andrew  Coombs,  A
+Professional Corporation, Glendale, California, for Plaintiff-
+Appellee.
+
+OPINION
+
+IKUTA, Circuit Judge:
+
+We are asked to decide whether defendant Mark Towle
+infringed  DC  Comics’  exclusive  rights  under  a  copyright
+when  he  built  and  sold  replicas  of  the  Batmobile,  as  it
+appeared in the 1966 television show Batman and the 1989
+film BATMAN.  Holy copyright law, Batman!
+
+I
+
+DC Comics (DC) is the publisher and copyright owner of
+comic  books  featuring  the  story  of  the  world-famous
+character, Batman.  Since his first comic book appearance in
+1939, the Caped Crusader has protected Gotham City from
+villains with the help of his sidekick Robin the Boy Wonder,
+his utility belt, and of course, the Batmobile.
+
+4
+
+DC COMICS V. TOWLE
+
+Originally introduced in the Batman comic books in 1941,
+the  Batmobile  is  a  fictional,  high-tech  automobile  that
+Batman employs as his primary mode of transportation.  The
+Batmobile has varied in appearance over the years, but its
+name and key characteristics as Batman’s personal crime-
+fighting  vehicle  have  remained  consistent.    Over  the  past
+eight decades, the comic books have continually depicted the
+Batmobile as possessing bat-like external features, ready to
+leap into action to assist Batman in his fight against Gotham’s
+most  dangerous  villains,  and  equipped  with  futuristic
+weaponry and technology that is “years ahead of anything
+else on wheels.”
+
+Since its creation in the comic books, the Batmobile has
+also  been  depicted  in  numerous  television  programs  and
+motion pictures.  Two of these depictions are relevant to this
+case:  the 1966 television series Batman, starring Adam West,
+and  the  1989  motion  picture  BATMAN,  starring  Michael
+Keaton.
+
+The 1966 Batman television series was the product of a
+licensing  agreement  between  DC’s  predecessor,  National
+Periodical  Publications,  Inc.  (National  Periodical)  and  the
+American Broadcasting Company (ABC).  In 1965, National
+Periodical entered into a licensing agreement with ABC (the
+1965  ABC  Agreement)  in  which  it  granted  ABC  “an
+exclusive license to produce a series of half-hour television
+programs . . . based upon the literary property consisting of
+the comic book and comic strip stories entitled ‘Batman’ . . .
+including  the  characters  therein.”    This  exclusive  right
+included  the  right  to  “translate,  adapt,  [or]  arrange”  the
+Batman literary property “to such extent as ABC may desire”
+
+DC COMICS V. TOWLE
+
+5
+
+in the making of the television programs, and the right to
+secure copyrights in the television programs produced.  The
+agreement also provided that “[a]ll rights in the property not
+specifically granted to ABC are hereby reserved to and may
+be exercised by National at all times during the term of this
+agreement”  except  as  otherwise  expressly  stated  in  the
+agreement.  National Periodical’s reserved rights included
+“[a]ll rights of publication,” and the exclusive merchandising
+rights to all products manufactured or distributed under the
+name of any character in the Batman comic books.
+
+Under  this  agreement,  ABC  (through  a  series  of  sub-
+licensing  agreements)  produced  the  1966  television  show
+starring  Adam  West  as  Batman.    In  addition  to  Batman,
+Robin, and the use of visual onomatopoeia that flashed on
+screen  during  fight  scenes—Pow!    Boff!    Thwack!—the
+television series featured the Batmobile.  The design of the
+Batmobile  did  not  directly  copy  any  iterations  of  the
+Batmobile as it appeared in the comic books.  As in the comic
+books, however, the Batmobile in the 1966 television show
+maintained  a  bat-like  appearance  and  was  equipped  with
+state-of-the-art weaponry and technology.1
+
+In  1979,  DC  again  licensed  its  rights  in  the  Batman
+literary property, this time to Batman Productions, Inc. (BPI). 
+In the agreement (the 1979 BPI Agreement), DC granted BPI
+the exclusive right to create a motion picture based on the
+“Property,” which was defined to include “[t]he names, titles,
+fictional locations and fictional conveyances . . . as depicted
+and contained in the comic magazines [published by DC],
+
+   1 A photo of the Batmobile depicted in the 1966 television series, as well
+as a photo of Towle’s replica of this Batmobile, can be found in Appendix
+A.
+
+6
+
+DC COMICS V. TOWLE
+
+which are identifiable with or associated with the fictional
+character  known  as  ‘Batman,’  such  as  .  .  .  that  certain
+conveyance  known  as  the  ‘Batmobile.’”    The  1979  BPI
+Agreement  also  granted  BPI  the  right  to  “adapt,  use,  .  .  .
+modify,  [or]  alter  .  .  .  the  Property”  for  the  purpose  of
+producing  the  motion  picture.    Like  the  1965  ABC
+Agreement,  the  1979  BPI  Agreement  provided  that  “[a]ll
+rights in the Property not specifically granted to” BPI under
+the agreement “are reserved to DC and may be exercised by
+DC  at  all  times  without  any  limitation  or  restriction
+whatsover  except  as  specifically  set  forth  herein.”    These
+reserved rights included “[a]ll rights of publication in and to
+the  Property,”  as  well  as  “[a]ll  ‘merchandising  rights’”  in
+“products manufactured or distributed under the name of or
+using a representation of ‘Batman’ or any other character or
+thing included in the Property . . . or under a name which
+incorporates any phrase, clause or expression used in DC’s
+comic strips or comic magazines . . . .”
+
+BPI subsequently sub-licensed its rights to Warner Bros.,
+Inc., who eventually (through a number of additional sub-
+licensing  agreements)  produced  the  1989  motion  picture
+BATMAN, starring Michael Keaton as Batman.  Like the 1966
+television  series,  the  1989  motion  picture  featured  a
+Batmobile that was physically distinct from the Batmobile
+portrayed in the comic books and the 1966 television series. 
+Nonetheless, the Batmobile as portrayed in the motion picture
+retained  a  bat-like  physical  appearance  and  was  again
+equipped  with  futuristic  technology  and  crime-fighting
+weaponry.2
+
+   2 A photo of the Batmobile depicted in the 1989 motion picture, as well
+as a photo of Towle’s replica of this Batmobile, can be found in Appendix
+B.
+
+DC COMICS V. TOWLE
+
+7
+
+Defendant  Mark  Towle  produces  replicas  of 
+
+the
+Batmobile as it appeared in both the 1966 television show and
+1989  motion  picture  as  part  of  his  business  at  Gotham
+Garage,  where  he  manufactures  and  sells  replicas  of
+automobiles  featured  in  motion  pictures  or  television
+programs.    Towle  concedes  that  these  replicas  copy  the
+designs of the Batmobile as depicted on television and in the
+motion picture, though they do not copy every feature.  Towle
+then sells these vehicles for approximately $90,000 to “avid
+car  collectors”  who  “know  the  entire  history  of  the
+Batmobile.”  Towle also sells kits that allow customers to
+modify their cars to look like the Batmobile, as it appeared in
+the 1966 television show and the 1989 motion picture.
+
+Before DC brought this lawsuit, Towle advertised each
+replica  as  the  “Batmobile,”  and  used  the  domain  name
+batmobilereplicas.com  to  market  his  business.    He  also
+advertised that the replicas included such features as “custom
+bat insignias, wheel bats, [and a] bat steering wheel,” and
+would attract attention due to the fame of the Batmobile.  By
+his  own  admission,  Towle  is  not  authorized  by  DC  to
+manufacture or sell any products bearing DC’s copyright or
+trademark.
+
+In May 2011, DC filed this action against Towle, alleging,
+among  other  things,  causes  of  action  for  copyright
+infringement, trademark infringement, and unfair competition
+arising from Towle’s manufacture and sale of the Batmobile
+replicas.3  Towle denied that  he  had infringed upon DC’s
+
+   3  DC clearly asserted in both its original and amended complaint that
+the Batmobile in all of its forms, including the 1966 television program
+and 1989 motion picture, is copyrightable subject matter owned by DC. 
+
+8
+
+DC COMICS V. TOWLE
+
+copyright.  He claimed that the Batmobile as it appeared in
+the 1966 television show and 1989 motion picture was not
+subject to copyright protection.  Alternatively, Towle argued
+that DC did not own the copyright in the Batmobile  as  it
+appeared  in  either  production.    Towle  also  asserted  the
+affirmative defense of laches.  The parties subsequently filed
+cross  motions  for  partial  summary  judgment  as  to  DC’s
+trademark, copyright, and unfair competition claims, and as
+to Towle’s laches defense.
+
+In a published order, the district court granted in part and
+denied  in  part  DC’s  motion  for  summary  judgment,  and
+denied Towle’s cross motion for summary judgment.  DC
+Comics  v.  Towle,  989  F.  Supp.  2d  948  (C.D.  Cal.  2013). 
+First,  the  district  court  held  that  the  Batmobile  was  a
+character entitled to copyright protection.  In reaching this
+conclusion,  the  district  court  made  a  number  of  findings. 
+Among other things, it found that the Batmobile “is known by
+one consistent name that identifies it as Batman’s personal
+vehicle,”  and,  although  some  of  its  physical  traits  have
+changed  over  time,  several  have  remained  consistent,
+including  its  “high-tech  gadgets  and  weaponry,”  “bat-like
+motifs,”  and  its  jet  black  color.    Additionally,  the  district
+court found that the Batmobile is always “depicted as being
+swift, cunning, strong and elusive,” and is even portrayed as
+a “superhero” and “Batman’s sidekick, if not an extension of
+Batman’s own persona.”4
+
+We  thus  reject  Towle’s  argument  that  DC  has  failed  to  identify  the
+copyrights at issue in this case.
+
+   4 The district court also concluded, in the alternative, that the 1966 and
+1989 Batmobiles were entitled to copyright protection as a sculptural work
+
+DC COMICS V. TOWLE
+
+9
+
+Second,  the  district  court  held  that  DC  maintained  a
+copyright in the Batmobile as it appeared in both the 1966
+television  show  and  the  1989  motion  picture based on  its
+ownership of the merchandising rights.  Alternatively,  the
+district  court  concluded  that  DC  owns  a  copyright  in  the
+Batmobile  as  it  appeared  in  each  production  because  the
+appearance of the Batmobile in each production was derived
+from the Batmobile depicted in DC’s comic books.  Finally,
+the district court concluded that Towle infringed upon DC’s
+copyright because he copied the Batmobile as it appeared in
+the 1966 and 1989 productions in his replicas.  Accordingly,
+the district court granted summary judgment on the copyright
+infringement claim to DC.
+
+The district court also granted summary judgment to DC
+on  Towle’s  affirmative  laches  defense  to  the  trademark
+infringement claim.  The court found that Towle admitted that
+he knew of the Batman property and the various bat emblems
+and symbols, and did not dispute “that he intentionally copied
+the  designs”  of  the  Batmobile  as  it  appeared  in  the  1966
+television  show  and  1989  motion  picture,  which  included
+DC’s Batman trademarks.  He also intentionally referred to
+his replicas as “Batmobiles.”  Therefore, the court concluded
+that Towle acted in bad faith and intentionally copied DC’s
+trademarks “so as to associate his products with the Batman
+films and television show.”
+
+Finally, the court denied DC’s summary judgment motion
+on  Towle’s  laches  defense  to  the  copyright  infringement
+claim because it determined that there was a genuine dispute
+of  fact  as  to  whether  Towle  was  aware  that  copying  the
+
+under 17 U.S.C. § 102(a)(5).  Because we agree that the Batmobile is a
+character entitled to copyright protection, we need not reach this issue.
+
+10
+
+DC COMICS V. TOWLE
+
+Batmobile as it appeared in the 1966 television show and
+1989 motion picture constituted copyright infringement.
+
+After  the  district  court  issued  its  decision,  the  parties
+entered into a joint stipulation in which they agreed that the
+district court would enter a judgment against Towle on DC’s
+copyright infringement and other claims.  They also agreed
+that, except as provided in the stipulation, all claims were to
+be  dismissed  with  prejudice.    The  district  court  entered  a
+judgment  consistent  with  this  stipulation  on  February  22,
+2013, and Towle timely appealed.
+
+Because  the  parties  entered  into  a  stipulation  that
+finalized the district court order, we have jurisdiction over
+this  appeal  under  28  U.S.C.  §  1291.    See  Dannenberg  v.
+Software Toolworks Inc., 16 F.3d 1073, 1074–75 (9th Cir.
+1994).
+
+II
+
+In order to prevail on its claim for copyright infringement,
+DC must prove that it owns a copyright in the Batmobile as
+it appeared in the 1966 television series and 1989 movie, and
+that Towle infringed that copyright by creating unauthorized
+replicas.  See Entm’t Research Grp., Inc. v. Genesis Creative
+Grp., Inc., 122 F.3d 1211, 1217 (9th Cir. 1997).
+
+To the Batmobile!
+
+A
+
+We begin with the question whether the Batmobile, as it
+appears in  the  comic  books,  television  series, and  motion
+picture, is entitled to copyright protection.  See Ets-Hokin v.
+
+DC COMICS V. TOWLE
+
+11
+
+Skyy Spirits, Inc., 225 F.3d 1068, 1073 (9th Cir. 2000).  In the
+context  of  copyright  law,  where,  as  here,  “the  question
+requires us to consider legal concepts in the mix of fact and
+law and to exercise judgment about the values that animate
+legal principles, . . . the question should be classified as one
+of law and reviewed de novo.”  Harper House, Inc. v. Thomas
+Nelson, Inc., 889 F.2d 197, 201 (9th Cir. 1989).
+
+Courts have recognized that copyright protection extends
+not  only  to  an  original  work  as  a  whole,  but  also  to
+“sufficiently  distinctive”  elements, 
+like  comic  book
+characters, contained within the work.  Halicki Films, LLC v.
+Sanderson  Sales  &  Mktg.,  547  F.3d  1213,  1224  (9th  Cir.
+2008).  Although comic book characters are not listed in the
+Copyright Act, we have long held that such characters are
+afforded copyright protection.  See Walt Disney Productions
+v. Air Pirates, 581 F.2d 751 (9th Cir. 1978).  In Air Pirates,
+for instance, we considered a number of subversive comic
+books that portrayed well-known Disney characters as being
+active  participants  in  “a  free  thinking,  promiscuous,  drug
+ingesting counterculture.”  Id. at 753.  In holding that the
+Disney  characters  were  copyrightable  (and  that  Disney’s
+copyright  in  those  characters  had  been  infringed),  we
+distinguished  a  prior  decision  suggesting  that  literary
+“characters  ordinarily  are  not  copyrightable,”  id.  at  755
+(citing Warner Bros. Pictures, Inc. v. Columbia Broad. Sys.,
+Inc., 216 F.2d 945 (9th Cir. 1954)), on the grounds that a
+comic  book  character “has physical  as  well  as  conceptual
+qualities”  and  “is  more  likely  to  contain  some  unique
+elements of expression” than a purely literary character.  Id.5
+
+   5 We later indicated that the analysis in Warner Bros. Pictures, Inc. v.
+Columbia Broad Syst., Inc., regarding the noncopyrightability of literary
+characters  was  dicta  or  an  alternative  holding.    See  Walt  Disney
+
+12
+
+DC COMICS V. TOWLE
+
+(citing  Detective  Comics,  Inc.  v.  Bruns  Publications  Inc.,
+111  F.2d  432  (2d  Cir.  1940)  (holding  that  comic  book
+characters  are  copyrightable);  Fleischer  Studios  v.
+Freundlich,  73  F.2d  276  (2d  Cir.  1934)  (same);  King
+Features Syndicate v. Fleischer, 299 F. 533 (2d Cir. 1924)
+(same)).  We subsequently held that characters in a television
+series or a motion picture may also be entitled to copyright
+protection.  See Olson v. National Broadcasting Co., 855 F.2d
+1446 (9th Cir. 1988).
+
+Not  every  comic  book,  television,  or  motion  picture
+character is entitled to copyright protection.  We have held
+that copyright protection is available only “for characters that
+are especially distinctive.”  Halicki, 547 F.3d at 1224.  To
+meet  this  standard,  a  character  must  be  “sufficiently
+delineated”  and  display  “consistent,  widely  identifiable
+traits.”  Rice v. Fox Broadcasting Co., 330 F.3d 1170 (9th
+Cir. 2003) (citing Toho Co., Ltd. v. William Morrow & Co.,
+Inc., 33 F. Supp. 2d 1206, 1215 (C.D. Cal.1998) (Godzilla)). 
+A  masked  magician  “dressed  in  standard  magician  garb”
+whose role “is limited to performing and revealing the magic
+tricks,” for example, is not “an ‘especially distinct’ character
+differing from an ordinary magician in a manner that warrants
+copyright protection.”  Id.  Further, characters that have been
+“lightly  sketched”  and  lack  descriptions  may  not  merit
+copyright protection.  Olson, 855 F.2d at 1452–53.
+
+We  have  previously  determined  that  an  automotive
+character  can  be  copyrightable.    See  Halicki,  547  F.3d  at
+
+Productions,  581  F.2d  at  755  n.10;  see  also  Olson  v.  National
+Broadcasting Co., 855 F.2d 1446, 1452 n.6 (9th Cir. 1988) (same).
+
+DC COMICS V. TOWLE
+
+13
+
+1224.  In Halicki, we considered whether “Eleanor,” a car
+that  appeared  in  both  the  original  1971  and  2000  remake
+motion  picture  Gone  in  60  Seconds,  could  be  entitled  to
+copyright  protection  as  a  character.    Id.  at  1224–25. 
+Considering  Eleanor’s  persistent  attributes  in  both  the
+original and remake of Gone in 60 Seconds, we concluded
+that Eleanor met some of the key factors necessary to qualify
+for copyright protection.  Id. at 1225.  We first noted that
+Eleanor was more like a comic book character than a literary
+character  given  Eleanor’s  “physical  as  well  as  conceptual
+qualities.”    Id.    We  also  stated  that  Eleanor  “displays
+consistent,  widely  identifiable  traits  and  is  especially
+distinctive.”  Id. (alteration, citation, and internal quotation
+marks omitted).  We gave several examples of these traits. 
+First, we noted that “[i]n both films, the thefts of the other
+cars go largely as planned, but whenever the main human
+character  tries  to  steal  Eleanor,  circumstances  invariably
+become  complicated.”    Id.    Second,  we  noted  that  in  the
+original,  “the  main  character  says  ‘I’m  getting  tired  of
+stealing  this  Eleanor  car,’”  and  in  the  remake  “the  main
+character refers to his history with Eleanor.”  Id.  Despite this
+evidence of distinctive traits, we were sensitive to the fact
+that the district court had implied that Eleanor was deserving
+of copyright protection, but had not directly examined this
+“fact-intensive issue.”  Id.  Therefore, we remanded the issue
+to the district court to decide in the first instance.  Id.
+
+As indicated in Halicki, a character may be protectable if
+it has distinctive character traits and attributes, even if the
+character does not maintain the same physical appearance in
+every context.  As the Eighth Circuit has recognized, “the
+presence of distinctive qualities apart from visual appearance
+can diminish or even negate the need for consistent visual
+appearance.”  Warner Bros. Entm’t, Inc. v. X One X Prods.,
+
+14
+
+DC COMICS V. TOWLE
+
+644  F.3d  584,  599  n.8  (8th  Cir.  2011).    For  example,  in
+Halicki, Eleanor’s ability to consistently disrupt heists by her
+presence was more pertinent to our analysis of whether the
+car should qualify as a sufficiently distinctive character than
+Eleanor’s  make  and  model.    547  F.3d  at  1225.    Indeed,
+Halicki  put  no  weight  on  the  fact  that  Eleanor  was  a
+customized yellow 1971 Fastback Ford Mustang in one film,
+and a silver 1967 Shelby GT-500 in another.
+
+Similarly,  district  courts  have  determined  that  James
+Bond,  Batman,  and  Godzilla  are  characters  protected  by
+copyright, despite their changes in appearance.  See Metro-
+Goldwyn-Mayer, Inc. v. Am. Honda Motor Co., 900 F. Supp.
+1287, 1295–96 (C.D. Cal. 1995) (James Bond) (cited with
+approval in Rice); Toho Co. v. William Morrow & Co., 33 F.
+Supp. 2d 1206, 1216 (C.D. Cal. 1998) (Godzilla) (cited with
+approval  in  Rice);  Sapon  v.  DC  Comics,  No.  00  CIV.
+8992(WHP), 2002 WL 485730, at *3–4 (S.D.N.Y. Mar. 29,
+2002) (Batman).  In each instance, courts have deemed the
+persistence of a character’s traits and attributes to be key to
+determining  whether  the  character  qualifies  for  copyright
+protection.    The  character  “James  Bond”  qualifies  for
+copyright protection because, no matter what the actor who
+portrays  this  character  looks  like,  James  Bond  always
+maintains his “cold-bloodedness; his overt sexuality; his love
+of  martinis  ‘shaken,  not  stirred;’  his  marksmanship;  his
+‘license to kill’ and use of guns; his physical strength; [and]
+his sophistication.”  Metro-Goldwyn-Mayer, 900 F. Supp. at
+1296.  Similarly, while the character “Godzilla” may have a
+different  appearance  from  time  to  time,  it  is  entitled  to
+copyright protection because it “is always a pre-historic, fire-
+breathing,  gigantic  dinosaur  alive  and  well  in  the  modern
+world.”  Toho Co., 33 F. Supp. 2d at 1216.  In short, although
+James  Bond’s,  Godzilla’s,  and  Batman’s  “costume  and
+
+DC COMICS V. TOWLE
+
+15
+
+character have evolved over the years, [they have] retained
+unique, protectable characteristics” and are therefore entitled
+to  copyright  protection  as  characters.    Sapon,  2002  WL
+485730, at *3–4.
+
+We read these precedents as establishing a three-part test
+for  determining  whether  a  character  in  a  comic  book,
+television program, or motion picture is entitled to copyright
+protection.  First, the character must generally have “physical
+as well as conceptual qualities.”  Air Pirates, 581 F.2d at 755. 
+Second, the character must be “sufficiently delineated” to be
+recognizable as the same character whenever it appears.  See
+Rice, 330 F.3d at 1175.  Considering the character as it has
+appeared in different productions, it must display consistent,
+identifiable  character  traits  and  attributes,  although  the
+character need not have a consistent appearance.  See Halicki,
+547 F.3d at 1224.  Third, the character must be “especially
+distinctive”  and  “contain  some  unique  elements  of
+expression.”  Halicki, 547 F.3d at 1224.  It cannot be a stock
+character such as a magician in standard magician garb.  Rice,
+330  F.3d  at  1175.    Even  when  a  character  lacks  sentient
+attributes  and  does  not  speak  (like  a  car),  it  can  be  a
+protectable  character  if  it  meets  this  standard.    Halicki,
+547 F.3d at 1224.
+
+We  now  apply  this  framework  to  this  case.    Because
+(unlike  in  Halicki)  the  district  court  here  addressed  this
+question  in  detail,  we  consider  its  factual  findings  in
+analyzing this issue.  Cf. Halicki, 547 F.3d at 1225.  First,
+because  the  Batmobile  has  appeared  graphically  in  comic
+books, and as a three-dimensional car in television series and
+motion  pictures,  it  has  “physical  as  well  as  conceptual
+qualities,”  and  is  thus  not  a  mere  literary  character.    Air
+Pirates, 581 F.2d at 755.
+
+16
+
+DC COMICS V. TOWLE
+
+Second, the Batmobile is “sufficiently delineated” to be
+recognizable as the same character whenever it appears.  See
+Rice, 330 F.3d at 1175.  As the district court determined, the
+Batmobile has maintained distinct physical and conceptual
+qualities since its first appearance in the comic books in 1941. 
+In  addition  to  its  status  as  “a  highly-interactive  vehicle,
+equipped with high-tech gadgets and weaponry used to aid
+Batman in fighting crime,” the Batmobile is almost always
+bat-like in appearance, with a bat-themed front end, bat wings
+extending  from  the  top  or  back  of  the  car,  exaggerated
+fenders, a curved windshield, and bat emblems on the vehicle. 
+This  bat-like  appearance  has  been  a  consistent  theme
+throughout the comic books, television series, and motion
+picture,  even  though  the  precise  nature  of  the  bat-like
+characteristics have changed from time to time.
+
+The  Batmobile  also  has  consistent  character traits  and
+attributes.  No matter its specific physical appearance, the
+Batmobile is a “crime-fighting” car with sleek and powerful
+characteristics that allow Batman to maneuver quickly while
+he  fights  villains.    In  the  comic  books,  the  Batmobile  is
+described as waiting “[l]ike an impatient steed straining at the
+reins . . . shiver[ing] as its super-charged motor throbs with
+energy” before it “tears after the fleeing hoodlums” an instant
+later.  Elsewhere, the Batmobile “leaps away and tears up the
+street like a cyclone,” and at one point “twin jets of flame
+flash out with thunderclap force, and the miracle car of the
+dynamic duo literally flies through the air!”6  Like its comic
+book counterpart, the Batmobile depicted in both the 1966
+television series and the 1989 motion picture possesses “jet
+engine[s]” and flame-shooting tubes that undoubtedly give
+
+   6 This episode causes Robin to exclaim “Whee!  The Batplane couldn’t
+do better!”
+
+DC COMICS V. TOWLE
+
+17
+
+the  Batmobile  far  more  power  than  an  ordinary  car. 
+Furthermore, the Batmobile has an ability to maneuver that
+far exceeds that of an ordinary car.  In the 1966 television
+series, the Batmobile can perform an “emergency bat turn”
+via  reverse  thrust  rockets.    Likewise,  in  the  1989  motion
+picture, the Batmobile can enter “Batmissile” mode, in which
+the  Batmobile  sheds  “all  material  outside  [the]  central
+fuselage”  and  reconfigures  its  “wheels  and  axles  to  fit
+through narrow openings.”7
+
+Equally  important,  the  Batmobile  always  contains  the
+most up-to-date weaponry and technology.  At various points
+in  the  comic  book,  the  Batmobile  contains  a  “hot-line
+phone  .  .  .  directly  to  Commissioner  Gordon’s  office”
+maintained  within  the  dashboard  compartment,  a  “special
+alarm” that foils the Joker’s attempt to steal the Batmobile,
+and even a complete “mobile crime lab” within the vehicle. 
+Likewise,  the  Batmobile  in  the  1966  television  series
+possesses a “Bing-Bong warning bell,” a mobile Bat-phone,
+a “Batscope, complete with [a] TV-like viewing screen on the
+dash,” and a “Bat-ray.”  Similarly, the Batmobile in the 1989
+motion  picture is equipped with a “pair of forward-facing
+Browning  machine  guns,”  “spherical  bombs,”  “chassis-
+mounted shinbreakers,” and “side-mounted disc launchers.”
+
+Because the Batmobile, as it appears in the comic books
+as  well  as  in  the  1966  television  show  and  1989  motion
+picture, displays “consistent, identifiable character traits and
+attributes,” the second prong of the character analysis is met
+here.
+
+   7 Towle submitted a chart to the district court setting forth these features.
+
+18
+
+DC COMICS V. TOWLE
+
+Third,  the  Batmobile  is  “especially  distinctive”  and
+contains unique elements of expression.  In addition to its
+status as Batman’s loyal bat-themed sidekick complete with
+the  character  traits  and  physical  characteristics  described
+above,  the  Batmobile  also  has  its  unique  and  highly
+recognizable name.  It is not merely a stock character.
+
+Accordingly, applying our three-part test, we conclude
+that the Batmobile is a character that qualifies for copyright
+protection.
+
+Towle  raises  two  arguments  against  this  conclusion. 
+First, he points out that the Batmobile has at times appeared
+without its signature sleek “bat-like” features.  He notes that
+in a 1988 comic book rendition, the Batmobile appears as a
+heavily armored tank with large tires and a rocket launcher. 
+The Batmobile portrayed in the 1989 motion picture could
+also transform into a Batmissile.  As we have noted, however,
+a consistent appearance is not as significant in our analysis as
+consistent  character  traits  and  attributes.    The  changes  in
+appearance cited by Towle resemble costume changes that do
+not alter the Batmobile’s innate characteristics, any more than
+James Bond’s change from blue swimming trunks (in Casino
+Royale) to his classic tuxedo affects his iconic character.  In
+context, the depictions of the Batmobile as a tank or missile
+promote its character as Batman’s crime-fighting super car
+that can adapt to new situations as may be necessary to help
+Batman vanquish Gotham City’s most notorious evildoers. 
+See Halicki, 547 F.3d at 1224–25.
+
+Second,  Towle  argues  that  a  jury  should  decide  the
+question whether the Batmobile displayed unique elements of
+expression  and  consistent,  widely  identifiable  traits.    We
+disagree.  We have previously recognized that “[w]hether a
+
+DC COMICS V. TOWLE
+
+19
+
+particular work is subject to copyright protection is a mixed
+question of fact and law subject to de novo review.”  Societe
+Civile Succession Guino v. Renoir, 549 F.3d 1182, 1185 (9th
+Cir. 2008).  Neither party disputes the relevant facts regarding
+the Batmobile here.  Accordingly, we are well-equipped to
+determine whether, as a matter of law, these undisputed facts
+establish  that  the  Batmobile  is  an  “especially  distinctive”
+character entitled to copyright protection.
+
+B
+
+Having concluded that the Batmobile is a copyrightable
+character, we next consider whether Towle’s copies of the
+Batmobile as it appeared in the 1966 and 1989 productions
+infringed on DC’s copyright.  Here, Towle does not contest
+that his replicas copy the Batmobile as it appeared in the 1966
+and 1989 productions, even if they do not copy every feature. 
+Rather, Towle’s main argument is that DC does not own any
+copyright  interest  in  the  1966  and  1989  productions  and
+therefore lacks standing to pursue its copyright infringement
+claim against Towle.
+
+To  analyze  Towle’s  argument,  we  begin  with  the
+applicable  legal  framework.    Under  the  Copyright  Act,
+“copyright ownership ‘vests initially in the author or authors
+of the work,’ which is generally the creator of the copyrighted
+work.”  U.S. Auto Parts Network, Inc. v. Parts Geek, LLC,
+692  F.3d  1009,  1015  (9th  Cir.  2012)  (quoting  17  U.S.C.
+§  201(a)).    The  owner  of  a  copyright  has  a  number  of
+exclusive rights, including the right “to prepare derivative
+works” based on its original work of authorship, 17 U.S.C.
+§ 106.  A derivative work is a “work based upon one or more
+preexisting  works  that  recasts,  transforms,  or  adapts  the
+preexisting  work,”  Parts  Geek,  692  F.3d  at  1015–16
+
+20
+
+DC COMICS V. TOWLE
+
+(alterations omitted) (quoting 17 U.S.C. § 101), such as a
+motion  picture  that  is  based  on  a  literary  work,  see,  e.g.,
+Stewart  v.  Abend,  495  U.S.  207,  212–14  (1990),  a  three-
+dimensional costume based upon two-dimensional cartoon
+characters, see Entm’t Research Grp., 122 F.3d at 1218, or
+three-dimensional  figurines  based  on  cartoon  characters,
+Durham Indus., Inc. v. Tomy Corp., 630 F.2d 905, 909 (9th
+Cir.  1980).    If  an  unauthorized  third  party  prepares  a
+derivative work, the copyright owner of the underlying work
+can sue for infringement.  See Silvers v. Sony Pictures Entm’t,
+Inc.,  402  F.3d  881,  885  (9th  Cir.  2005)  (en  banc)  (citing
+17 U.S.C. § 501(b)); see also, e.g., Air Pirates, 581 F.2d at
+754–55; Durham Indus., 630 F.2d at 909.
+
+A  copyright  owner  also  has  the  exclusive  right  to
+“authorize others to prepare derivative works based on their
+copyrighted works.”  Lewis Galoob Toys, Inc. v. Nintendo of
+Am.,  Inc.,  964  F.2d  965,  967  (9th  Cir.  1992).    When  a
+copyright  owner  authorizes  a  third  party  to  prepare  a
+derivative work, the owner of the underlying work retains a
+copyright in that derivative work with respect to all of the
+elements that the derivative creator drew from the underlying
+work  and  employed  in  the  derivative  work.    See  Stewart,
+495 U.S. at 223.  By contrast, the creator of the derivative
+work has a copyright only as to those original aspects of the
+work that the derivative creator contributed, and only to the
+extent the derivative creator’s contributions are “more than
+trivial.”    Parts  Geek,  692  F.3d  at  1016;  see also  Stewart,
+495 U.S. at 223.  Moreover, a copyright in a derivative work
+“must  not  in  any  way  affect  the  scope  of  any  copyright
+protection in that preexisting material.”  Id.; see 17 U.S.C.
+§ 103(a) (“The copyright in a . . . derivative work . . . is
+independent  of,  and  does  not  affect  or  enlarge  the  scope,
+duration,  ownership,  or  subsistence  of,  any  copyright
+
+DC COMICS V. TOWLE
+
+21
+
+protection in the preexisting material.”).  Logically, therefore,
+if a third party copies a derivative work without authorization,
+it infringes the original copyright owner’s copyright in the
+underlying work to the extent the unauthorized copy of the
+derivative work also copies the underlying work.
+
+We reached a similar conclusion in Apple Computer, Inc.
+v. Microsoft Corp., 35 F.3d 1435, 1447–48 (9th Cir. 1994). 
+There, Apple alleged that Microsoft infringed its copyright in
+the graphical user interface called the Lisa Desktop, as well
+as  its  copyright  in  a  graphical  user  interface  called  the
+Macintosh  Finder  Desktop,  which  was  a  derivative  work
+based on the Lisa Desktop.  Id. at 1438 & n.1.  Because the
+Finder Desktop did not contain any separately copyrightable
+original  elements,  the  district  court  concluded  that  Apple
+could  not  bring  a  copyright  infringement  claim  for
+Microsoft’s alleged infringement of that work.  Id. at 1447. 
+We  reversed,  holding  that  Apple  could  bring  a  copyright
+infringement suit  for the alleged copying of both the Lisa
+Desktop  and  the  derivative  Finder  Desktop,  because  of
+Apple’s copyright in the underlying work.  Id. at 1447–48.  In
+reaching  this  conclusion,  we cited  with  approval the  First
+Circuit’s conclusion in Gamma Audio & Video that the owner
+of an exclusive right in an underlying work could “base [an]
+infringement suit on derivative works.”  Id. (citing Gamma
+Audio & Video, Inc. v. Ean-Chea, 11 F.3d 1106, 1111–12 (1st
+Cir. 1993)).
+
+Our sister circuits also agree with this conclusion.  See,
+e.g., Montgomery v. Noga, 168 F.3d 1282, 1293 (11th Cir.
+1999);  Gamma  Audio  &  Video,  Inc.,  11  F.3d  1106.    In
+Gamma  Audio  &  Video,  the  owner  of  a  copyright  in  a
+Chinese language television program had authorized a party
+to produce a derivative work, a Cambodian language version
+
+22
+
+DC COMICS V. TOWLE
+
+of the program.  11 F.3d at 1110.  When an unauthorized
+third  party  copied  this  Cambodian  language  version  (the
+derivative work), the First Circuit concluded that the owner
+of  the  copyright  in  the  Chinese  language  version  (the
+underlying  work)  could  sue  the  third  party  for  copyright
+infringement because “[a]ny elements that the author of the
+derivative work borrowed from the underlying work, such as
+the video images in the Chinese language episodes . . . remain
+protected by the copyrights in the underlying work.”  Id. at
+1112.  Accordingly, it was “irrelevant that what was actually
+distributed  by  [the  unauthorized  third  party]  was  the
+derivative and not the underlying work.”  Id.
+
+In sum, as a leading copyright commentator explained, “if
+the  material  copied  was  derived  from  a  copyrighted
+underlying work, this will constitute an infringement of such
+work  regardless  of  whether  the  defendant  copied  directly
+from  the  underlying  work,  or  indirectly  via  the  derivative
+work.” 1 Melville B. Nimmer & David Nimmer, Nimmer on
+Copyright § 3.05, at 3-34.31 (Matthew Bender, Rev.  Ed.)
+(hereafter  Nimmer  on  Copyright).    This  conclusion  is
+consistent  with  our  determination  that  a  copyright  in  an
+authorized derivative work “must not in any way affect the
+scope of any copyright protection in” the underlying work. 
+Parts Geek, 692 F.3d at 1016 (quoting Entm’t Research Grp.,
+122 F.3d at 1220 (quoting Durham Indus., 630 F.2d at 909)).
+Accordingly, the author of an underlying work is entitled to
+sue  a  third  party  who  makes  an  unauthorized  copy  of  an
+authorized  derivative  work  to  the  extent  that  the  material
+copied derived from the underlying work.
+
+Applying these principles, we conclude that DC owns a
+copyright interest in the Batmobile character, as it is depicted
+in the 1966 and 1989 productions.  There is no dispute that
+
+DC COMICS V. TOWLE
+
+23
+
+DC is the original creator of the Batmobile character.  While
+DC  licensed  rights  to  produce  derivative  works  of  this
+character  in  the  1965  ABC  Agreement  and  the  1979  BPI
+Agreement, DC did not transfer its underlying rights to the
+Batmobile character.8  DC therefore owns the copyright in the
+Batmobile  character,  as  expressed  in  the  1966  and  1989
+productions, at least to the extent these productions drew on
+DC’s  underlying  work. 
+  Stewart,  495  U.S.  at  223. 
+Accordingly, it is irrelevant that Towle’s replica Batmobiles
+were an indirect copy of the Batmobile character, because DC
+is entitled to sue for infringement of its underlying work.9 
+See Apple  Computer,  35  F.3d  1447–48;  Gamma  Audio  &
+Video, 11 F.3d at 1111–12.
+
+   8 Indeed, DC expressly retained all rights not specifically granted to the
+licensees, including the merchandising rights to all of if its characters in
+both the 1965 ABC Agreement and the 1979 BPI Agreement.  See supra,
+at 5, 6.  As a result, DC retained the exclusive right to produce three-
+dimensional expressions of the Batmobile character.  See Durham Indus.,
+630 F.2d at 909; see also Halicki, 547 F.3d at 1218, 1223–24 (concluding
+that  because  a  party  retained  the  exclusive  merchandising  rights  in  a
+derivative  work,  she  could  assert  a  claim  for  copyright  infringement
+against a party producing “vehicles resembling the 1967 Shelby GT-500
+‘Eleanor’ character that appeared in the Remake” Gone in Sixty Seconds).
+
+      9  Because  DC  retains  its  copyright  in  the  underlying  Batmobile
+character,  we  also  reject  Towle’s  argument  that  the  version  of  the
+Batmobile that appeared in the 1966 and 1989 productions cannot be
+copyrighted because the third party producers of these vehicles obtained
+a design patent on these works.  These creators could obtain protection
+only for the original, independently copyrightable aspects of their work. 
+Parts Geek, 692 F.3d at 1016.  In any event, parties may now obtain both
+a design patent and a copyright in a work.  See Registrability of Pictorial,
+Graphic, or Sculptural Works Where a Design Patent Has Been Issued,
+60 Fed. Reg. 15605-01, 15605 (March 24, 1995).  
+
+24
+
+DC COMICS V. TOWLE
+
+Towle  argues  that  his  replicas  of  the  Batmobile  as  it
+appeared in the 1966 and 1989 productions do not infringe on
+DC’s  underlying  work  because  those  versions  of  the
+Batmobile  look  substantially  different  from  any  particular
+depiction of the Batmobile in the comic books.  We reject this
+argument.  As a copyrightable character, the Batmobile need
+not have a consistent appearance in every context, so long as
+the character has distinctive character traits and attributes. 
+See, e.g., Warner Bros. Entm’t, Inc., 644 F.3d at 599 n.8.  For
+instance, as we explained above, an automotive character may
+be copyrightable even if it appears as a yellow Fastback Ford
+Mustang in one film, and a silver 1967 Shelby GT-500 in
+another.  Halicki, 547 F.3d at 1218, 1224.  Here, DC retained
+its  copyright  in  the  Batmobile  character  even  though  its
+appearance in the 1966 and 1989 productions did not directly
+copy any comic book depiction.  Because Towle produced a
+three-dimensional  expression  of  the  entire  Batmobile
+character as it appeared in the 1966 and 1989 productions,
+and the Batmobile character in each of those productions was
+derived  from  DC’s  underlying  work,  we  conclude  that
+Towle’s replicas necessarily copied some aspects of DC’s
+underlying works.  See e.g., Durham Indus., 630 F.2d at 909
+(noting that three-dimensional “small, plastic, wind-up toys”
+of  Disney  characters  Mickey,  Donald,  and  Pluto  were
+derivative works of these characters).  Therefore, while we
+question  whether  a  derivative  work  based  on  a  character
+could ever have any independently copyrightable elements
+that would not “affect the scope of any copyright protection
+in that preexisting material,” Parts Geek, 692 F.3d at 1016,
+we need not address that issue here.
+
+For the same reason, we reject Towle’s argument that his
+replicas of the Batmobile as it appeared in the 1966 television
+series and 1989 movie did not infringe DC’s underlying work
+
+DC COMICS V. TOWLE
+
+25
+
+because the series and movies were produced by third parties,
+pursuant  to  sub-licensing  agreements  with  ABC  and  BPI. 
+Towle argues that while DC had an agreement with ABC and
+BPI  to  retain  certain  rights,  DC  failed  to  show  that  the
+agreements between ABC and BPI and the sublicensees also
+protected DC’s interests.  This argument fails because DC
+retained its rights to the underlying Batmobile character, and
+the  creation  of  derivative  works  by  sublicensees  cannot
+deprive DC of such rights.  DC may sue any third party who
+infringes  on  that  work,  even  if  the  third  party  copies
+“indirectly via the derivative work.”  Nimmer on Copyright
+§ 3.05.
+
+C
+
+Having established that the Batmobile character is entitled
+to copyright protection, and that DC owns a copyright to this
+character as it appears in the 1966 television series and 1989
+motion picture, we conclude that Towle infringed upon these
+copyrights  when  he  produced  replicas  of  the  Batmobile. 
+While we ordinarily apply a two-part “substantial similarity”
+test to determine whether a plaintiff has established “copying
+of constituent elements of the work that are original,” Funky
+Films, Inc. v. Time Warner Entm’t Co., L.P., 462 F.3d 1072,
+1076–77 (9th Cir. 2006) (internal quotation marks omitted),
+we  need  not  do  so  where,  as  here,  “the  copying  of  the
+substance of the entire work” is admitted, Narell v. Freeman,
+872 F.2d 907, 910 (9th Cir. 1989).  Based on the undisputed
+facts,  Towle’s  production  and  sale  of  replicas  of  the
+Batmobile, as it appeared in the 1966 and 1989 productions,
+infringed DC’s exclusive right to produce derivative works of
+this  character.    Therefore,  there  is  no  genuine  issue  of
+material fact as to whether he infringed DC’s copyrighted
+material.  DC is entitled to judgment, and we affirm.
+
+26
+
+DC COMICS V. TOWLE
+
+III
+
+Finally,  we  must  consider  Towle’s  argument  that  the
+district court erred when it ruled as a matter of law that he
+could  not  assert  a  laches  defense  to  DC’s  trademark
+infringement  claim  because  he  willfully  infringed  DC’s
+trademarks.    We  have  recognized  an  intracircuit  split  on
+whether the proper standard of review of a district court’s
+laches determination is de novo or for an abuse of discretion. 
+See Jarrow Formulas, Inc. v. Nutrition Now, Inc., 304 F.3d
+829, 834 (9th Cir. 2002).  We need not address this issue in
+this case, however, because under either standard of review,
+the district court did not err here.  See id.
+
+“Laches is an equitable time limitation on a party’s right
+to  bring  suit,”  and  is  a  valid  defense  to  trademark
+infringement  claims.    Jarrow,  304  F.3d  at  835  (internal
+quotation  marks  omitted).    This  doctrine  does  not  apply,
+however, “in cases of willful infringement.” Evergreen Safety
+Council v. RSA Network, Inc., 697 F.3d 1221, 1228 (9th Cir.
+2012).    Willful  trademark  infringement  occurs  when  the
+defendant’s actions are “willfully calculated to exploit the
+advantage of an established mark.”  Lindy Pen Co., Inc. v. Bic
+Pen  Corp., 982 F.2d 1400, 1406 (9th Cir. 1993) (internal
+quotation  marks  omitted),  superseded  by  statute  on  other
+grounds, Trademark Amendments Act of 1999, Pub. L. No.
+106-43, 113 Stat. 218; see also Conan Props., Inc. v. Conans
+Pizza, Inc., 752 F.2d 145, 151 n.2 (5th Cir. 1985) (explaining
+that  the  issue  with  respect  to  the  availability  of  a  laches
+defense  in  a  trademark  infringement  case  is  whether  the
+defendant “intended to derive benefit from and capitalize on
+[the plaintiff’s] goodwill” by using the mark).
+
+DC COMICS V. TOWLE
+
+27
+
+Here, the undisputed facts establish that Towle used DC’s
+Batman trademarks in order to exploit the advantage of those
+marks.  Towle’s advertisements recognize that the Batmobile
+is a famous vehicle, and boast that crowds will form around
+his replicas as a result of the Batmobile’s fame.  Additionally,
+Towle used DC’s trademarks on his website to promote his
+business.    He  also  intentionally  referred to  his  replicas as
+“Batmobiles” to attract the attention of the Batman fans who
+constitute  his  customer  base.    Indeed,  by  Towle’s  own
+admission,  most of his customers were fans who “usually
+know the entire history of the Batmobile.”  In light of this
+evidence, no reasonable juror could conclude that Towle used
+DC’s  trademarks  for  any  reason  other  than  to  exploit  the
+advantage of those marks.
+
+Indeed, Towle does not argue otherwise, instead arguing
+that he did not knowingly and subjectively intend to confuse
+his buyers.  Although evidence of intent to confuse buyers
+may be relevant to establishing that the defendant’s actions
+were  willfully  calculated  to  exploit  the  advantage  of  an
+established mark, Towle points to no authority holding that
+such evidence is necessary, nor is the court aware of any such
+authority.  Accordingly, the district court did not err when it
+concluded  that  Towle  was  barred  from  asserting  a  laches
+defense to DC’s trademark infringement claim because he
+willfully infringed DC’s trademarks.
+
+IV
+
+As Batman so sagely told Robin, “In our well-ordered
+society, protection of private property is essential.”  Batman:
+The  Penguin  Goes  Straight,  (Greenway  Productions
+television broadcast March 23, 1966).  Here, we conclude that
+the Batmobile character is the property of DC, and Towle
+
+28
+
+DC COMICS V. TOWLE
+
+infringed  upon  DC’s  property  rights  when  he  produced
+unauthorized derivative works of the Batmobile as it appeared
+in the 1966 television show and the 1989 motion  picture. 
+Accordingly, we affirm the district court.
+
+AFFIRMED.
+
+DC COMICS V. TOWLE
+
+29
+
+APPENDIX A
+
+Batmobile Depicted in the 1966 Television Series
+
+Towle Replica
+
+30
+
+DC COMICS V. TOWLE
+
+APPENDIX B
+
+Batmobile Depicted in the 1989 Motion Picture
+
+Towle Replica
+
+

@@ -58,10 +58,9 @@ def visual_art_determination(request):
 
 
 def code_determination(request):
-	if request.form.get('access') == 'no-access':
-		return (1, 'If you do not have access to the code, this is probably fair use! But be forewarned the burden of proof is extremely high (like no internet connection ever)')
+
 	if request.form.get('purpose') == 'personal-use':
-		return (1, 'If you are writing code for your own personal enjoyment, go for it!')
+		return (1, 'If you are writing  the code for your own personal enjoyment, go for it!')
 
 	if request.form.get('similar') == 'yes-sim':
 		print "yes-sim"
@@ -83,6 +82,8 @@ def code_determination(request):
 	if (functional, similarity) == (2, 1) and int(request.form.get('market-share')) < 5:
 		return (2, 'Given that the program is not cutting a huge market share, we think this could go either way!')
 	if gen_sim.get((functional, similarity)) == 0:
+		if request.form.get('access') == 'no-access':
+			return (2, 'Looks like you fail the abstraction-filtration-comparison test, but you didn\'t have access to the code! This could go either way.')
 		return (gen_sim.get((functional, similarity)), 'Sigh, looks like you need hit delete-all on your program!')
 	else:
 		return (gen_sim.get((functional, similarity)), 'Looks like you are good to go!')

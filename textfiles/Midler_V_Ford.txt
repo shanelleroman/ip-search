@@ -1,15 +1,3 @@
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Bette Midler, Plaintiff-Appellant, v. Ford Motor Company, a Dela-
 
 ware Corporation, and Young & Rubicam Inc., a New York Corpora-
@@ -31,6 +19,18 @@ February 4, 1988, Argued and Submitted
 June 22, 1988, Filed   
 
  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
  
 COUNSEL: Peter Laird, Los Angeles, California, for the Plaintiff-Appellant.   
  
@@ -43,7 +43,6 @@ OPINION BY: NOONAN
 OPINION 
 
   [*461]    JOHN T. NOONAN, Circuit Judge:   
-
 This case centers on the protectibility of the voice of a celebrated chanteuse from commercial 
 exploitation without her consent. Ford Motor Company and its advertising agency, Young & Rubi-
 cam, Inc., in 1985 advertised the Ford Lincoln Mercury with a series of nineteen 30 or 60 second 
@@ -73,7 +72,6 @@ its client by playing an edited version of Midler singing "Do You Want To Dance,
 mercial, the agency contacted Midler's manager, Jerry Edelstein. The conversation went as follows: 
 "Hello, I am Craig Hazen from Young and Rubicam. I am calling you to find out if Bette Midler 
 would be interested in doing . . .? Edelstein: "Is it a commercial?" "Yes." "We are not interested."   
-
 Undeterred, Young & Rubicam sought out Ula Hedwig whom it knew to have [**3]    been one 
 of "the Harlettes" a backup singer for Midler for ten years. Hedwig was told by Young & Rubicam 
 that "they wanted someone who could sound like Bette Midler's recording of [Do You Want To 
@@ -94,7 +92,6 @@ ager in the entertainment business not associated with Midler, declares by affid
 commercial on more than one occasion and thought Midler was doing the singing.   
 
 Neither the name nor the picture of Midler was used in the commercial; Young & Rubicam had 
-
 a [**4]    license from the copyright holder to use the song. At issue in this case is only the protec-
 tion of Midler's voice. The district court described the defendants' conduct as that "of the average 
 thief." They decided, "If we can't buy it, we'll take it." The court nonetheless believed there was no 

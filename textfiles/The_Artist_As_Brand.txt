@@ -1,0 +1,2343 @@
+218.TANG.257.DOC 
+
+ 
+
+10/11/2012 3:34:33 PM 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+xiyin tang 
+ 
+The Artist as Brand: Toward a Trademark Conception 
+of Moral Rights 
+
+abstract.  The Visual Artists Rights Act of 1990 (VARA) controversially recognized artists’ 
+“moral rights” by protecting their work from alteration or destruction and by preventing the use 
+of an artist’s name on a work he did not create. While moral rights are frequently criticized as 
+antithetical to the traditional economic framework of American intellectual property law, Henry 
+Hansmann and Marina Santilli have suggested that moral rights can be justified economically 
+because they vindicate artists’ pecuniary interests. This Note, in contrast, argues that VARA also 
+benefits  the  purchasing  and  viewing  public,  especially  in  an  era  of  factory-made  or  assistant-
+produced  art  works.  Specifically,  moral  rights,  like  trademark  law,  can  reduce  search  costs, 
+ensure truthful source identification, and increase efficiency in the art market. This comparison 
+between  trademark  law  and  moral  rights  shows  that  the  sort  of  rights  regime  established  by 
+VARA is neither unique nor unprecedented in American law, and that it is highly economic in 
+character. Thus, this Note hopes to reframe the dialogue surrounding moral rights, shifting it 
+away from the classic “personhood” or “anti-commodification” arguments that have undergirded 
+the rhetoric up to this day. 
+ 
+author.  Yale Law School, J.D. 2012; Columbia University, B.A. 2009. Thank you to Jack 
+Balkin, Ian Ayres, James Whitman, Margot Kaminski, Paul Laskow, and the editors of The Yale 
+Law  Journal  (especially  Isia  Jasiewicz)  for  their  very  helpful  comments  during  the  editing 
+process.  This  Note  benefited  greatly  from  feedback  received  at  the  Yale  Law  Journal  Student 
+Scholarship Workshop and the Information Society Project Ideas Lunch. 
+
+218 
+ 
+
+Electronic copy available at: http://ssrn.com/abstract=2168986
+
+ 
+the artist as brand 
+
+ 
+ 
+ 
+ 
+ 
+
+note contents 
+
+introduction 
+i. a brief moral rights primer 
+
+A. The Berne Convention and the Visual Artists Rights Act of 1990 
+B. Scholarly Reactions to the VARA Regime 
+
+ii. the contingent art object and the artist as brand 
+
+A. Contemporary Art and the Cult of the Authentic 
+B. The Artist as Brand: From “Reputational Externalities” to  
+
+Consumer Confusion 
+1. Identity as Branding 
+2. The Contingent Art Object 
+
+C. Authorship, Brand Building, and the Creation of Goodwill 
+
+iii. comparing moral rights and trademark law 
+
+A. Trademark Law and the Attenuation of the “First Sale Doctrine” 
+B. Source Identification and Source Confusion 
+C. Famous Artists, Famous Brands: A Brief Remark on Dilution 
+
+iv. who’s afraid of moral rights? 
+
+A. Are There Alternatives? 
+
+1. Copyright and Its Limitations 
+2. Why Not Just Use Traditional Trademark Law? 
+
+B. Can Moral Rights Advance the Public Interest? 
+
+conclusion 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+220 
+223 
+223 
+227 
+229 
+231 
+
+234 
+234 
+237 
+238 
+241 
+242 
+245 
+247 
+249 
+249 
+250 
+251 
+254 
+256 
+
+219 
+
+Electronic copy available at: http://ssrn.com/abstract=2168986
+
+ 
+the yale law journal 
+
+introduction 
+
+ 
+
+122:218 
+
+  2012 
+
+The Armory Show, the self-described “leading international contemporary 
+and modern art fair and one of the most important annual art events in New 
+York,” comes to town once a year.1 When it does, Manhattan’s Piers 92 and 94 
+are  transformed  into  a  sort  of  art  bazaar,  replete  with  buyers,  sellers, 
+tastemakers, and those generally hoping to see and be seen.2 There are fabulous 
+parties, art-world celebrities, and art objects up for sale at six-digit prices.3 It is, 
+in short, the art world’s version of New York Fashion Week—just one of many 
+parallels between art and the luxury goods market that I hope to draw in this 
+Note.4  It  is  also  another  example  of  the  type  of  money-driven  spectacle  that 
+some  art  critics  have  denounced  as  commodifying  what  should  resist 
+commodification.  Detractors  claim  the  emphasis  on  real  market  value 
+denigrates  art,  which  should  hold  itself  aloft  from  such  petty  realities  as  the 
+economy, capitalism, and commodity fetishism.5 We respond to such idealism 
+with  compassion  and  sympathy.  The  idea  of  the  starving  artist  in  pursuit  of 
+some  greater  truth,  after  all,  has  captivated  the  collective  imagination  even 
+before the oft-circulated tale of Vincent van Gogh, his poverty, his posthumous 
+fame,  and  that  bloody  ear  (a  perfect  emblem  of  artistic  madness  and 
+misunderstood genius).6 
+
+ 
+
+1.   THE ARMORY SHOW, http://www.thearmoryshow.com (last visited Sept. 3, 2012). 
+2.   See  David  Rimanelli,  Furry  Friends,  ARTFORUM  DIARY 
+13, 
+
+2005), 
+http://artforum.com/diary/id=8565 (describing the scene at the 2005 Armory Show preview 
+gala “for which ticket-holders had paid as much as $1,000 a head” and which featured “big-
+ticket early birds” including “[Museum of Modern Art] chair Ronald Lauder and his wife Jo 
+Carole,  Henry  and  Marie-Josee  Kravis,  Rosa  de  la  Cruz,  Isaac  Mizrahi,  Patti  Cisneros, 
+Donald Marron, and Kathy Fuld”). 
+
+(Mar. 
+
+3.   See, e.g., Press Release, Armory Show, The 2011 Armory Show: Fresher Content, Notable 
+Sales  and  Record  Attendance  (Mar.  14,  2011),  http://www.thearmoryshow.com/press 
+_releases/2011-03-14.pdf  (highlighting  notable  sales,  including  a  Kool-Aid  drawing  by 
+David Hammons for $325,000 and an Antony Gormley sculpture for $125,000). 
+I should note that the observation that art has become increasingly like luxury goods is not a 
+novel one. For example, Amy M. Adler, in her article Against Moral Rights, 97 CALIF. L. REV. 
+263,  298  (2009),  has  made  this  same  observation.  However,  as  one  may  guess  from  her 
+work’s title, the parallel has led her to suggest the abolition of moral rights, rather than to 
+demonstrate their importance. Id. at 298-99. 
+
+4.  
+
+5.   See, e.g., Helen Molesworth, In Memory of Static: Helen Molesworth on the Art of Klara Liden, 
+ARTFORUM, Mar. 2011, at 214, 223 (“In [contemporary artist Klara Liden’s] work, I sense a 
+tacit acknowledgment that the jig is up, that being an artist is just another way of getting by, 
+a coping strategy for living under late capitalism.”). 
+
+6.   See  Adam  Gopnik,  Van  Gogh’s  Ear:  The  Christmas  Eve  that  Changed  Modern  Art,  NEW 
+YORKER, Jan. 4, 2010, http://www.newyorker.com/reporting/2010/01/04/100104fa_fact 
+
+220 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+So  here’s  a  modern-day  anecdote  that  might  shatter  such  idealistic 
+optimism. During the 2011 Armory Show, a popular British artist, whom I will 
+call  Artist  X,  came  to  town.  When  he  arrived  in  New  York,  he  ordered  his 
+assistant  to  fill  a  cardboard  box  with  brown  clothes.  “What  kind  of  brown 
+clothes?”  the  assistant  asked.  “Any  brown  clothes,”  was  the  response.  The 
+assistant  and  his  friend  ran  around  the  city’s  thrift  shops  for  a  few  hours 
+collecting  brown  clothes  of  all  sorts—tops,  sweaters,  pants,  hats.  The  total 
+came  up  to  around  fifteen  dollars.  They  loaded  the  clothes  into  a  cardboard 
+box. They delivered the box to Artist X. A few hours later, the “art piece” was 
+sold for $40,000. 
+
+This  story  was  relayed  to  me  by  the  same  assistant’s  friend  who  had 
+collected  the  clothes,  and  yet  I  have  almost  resisted  using  it  because  of  its 
+hearsay (and heretical) character. But lore or not, the anecdote is powerful, for 
+it  manages  to  capture  a  number  of  head-shaking,  difficult  issues  with  the 
+contemporary art world. The blasphemous idea that the artist didn’t even lay a 
+hand on the finished product; the unfair markup of art that took neither skill 
+nor extensive labor to make; the pure object-ness of postmodern art that might 
+even put Duchamp and his urinal7 to shame; and the lack of comprehensibility 
+behind it all—what greater truth was Artist X getting at with his box of brown 
+clothes,  really?  After  a  while,  one  begins  to  suspect  that  perhaps  there  is  no 
+greater  truth  to  contemporary  art  at  all,  and  that  the  only  truth  is  the  artist 
+having a laugh at everyone else’s expense. 
+
+These issues are important because they have in some way either pervaded 
+or  been  evaded  by  the  dialogue  about  artists’  moral  rights,  which  have  long 
+existed  in  Europe  but  which  the  United  States  only  brought  into  law  two 
+decades  ago.  The  Visual  Artists  Rights  Act  of  1990,8  or  VARA,  was  only 
+reluctantly passed to bring the United States into compliance with the Berne 
+Convention;  indeed,  the  United  States  resisted  joining  that  international 
+copyright convention in part because of its opposition to granting artists moral 
+rights.9  Perhaps  for  this  reason,  VARA—which  protects  only  “visual  art”10—
+ 
+
+7.  
+
+_gopnik (referring to the legendary story of van Gogh severing his own ear as “a talisman 
+of modern painting” and “an inspiring story of sacrifices made and sainthood attained by 
+artists willing to lose their sanity, and their ears, on its behalf”). 
+In 1917, the French artist Marcel Duchamp famously presented a manufactured urinal in the 
+museum setting, thus giving a “readymade” object the status of “art.” See 1 HAL FOSTER ET 
+AL.,  ART  SINCE  1900:  MODERNISM,  ANTIMODERNISM,  POSTMODERNISM,  1900-1944,  at  129 
+(2004)  (detailing  how  Duchamp  chose  a  urinal,  rotated  it  ninety  degrees,  placed  it  on  a 
+pedestal, and put it on exhibition in 1917). 
+
+8.   Pub. L. No. 101-650, 104 Stat. 5128 (codified at 17 U.S.C. § 106A (2006)). 
+9.   See H.R. REP. NO. 101-514, at 8 (1990), reprinted in 1990 U.S.C.C.A.N. 6915, 6917 (“While 
+the [Berne] Convention is the premier international copyright convention, consensus over 
+
+ 
+
+221 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+has  subsequently  been  denounced  as  “doctrinally  inconsistent  with  U.S. 
+copyright and property law,” as threatening “economic investment in the arts 
+and thus constrict[ing] artistic creativity,” and as “limit[ing] editorial freedom 
+and giv[ing] artists broad grants of power over purely aesthetic matters.”11 The 
+legal debate surrounding VARA has tended to go one of two ways. Either art is 
+somehow  sacred  and  special,  and  so  we  need  moral  rights  to  express  our 
+societal belief in art as a manifestation of the innermost expression of an artist’s 
+soul; or art is a pure commodity object, much like a luxury good, and so we 
+should rid ourselves of a special class of protection for it.12 
+
+This Note will argue, on the other hand, that it is precisely because art today 
+has become a pure commodity object that we need moral rights to protect the 
+artist’s economic interests. It argues, in effect, that mere copyright protection 
+for  visual  art  is  not  enough,  cloaking  “fine  art”  objects13  with  a  class  of 
+protection  far  less  extensive  than  the  wide  plethora  of  legal  remedies  a 
+trademark  holder  has  under  trademark  law.  Instead,  a  comparison  of  moral 
+rights with trademark law will reveal that moral rights are (a) neither unique 
+nor  unprecedented  in  American  intellectual  property  law  and  (b)  highly 
+economic  in  character.  In  undertaking  this  analysis,  I  hope  to  update  the 
+outdated justifications behind moral rights for the contemporary  era of artist 
+“factories”  and  assistant-made,  rather  than  artist-made,  products.  This 
+approach frees moral rights justifications from the classic personhood and anti-
+commodification  arguments  that  have  undergirded  them  up  to  this  day.14  In 
+ 
+
+United  States  adherence  was  slow  to  develop  in  large  part  because  of  debate  over  the 
+requirements of Article 6bis [the moral rights provision].”). 
+
+10.   17 U.S.C. § 106A. 
+11.   JOHN  HENRY  MERRYMAN,  ALBERT  E.  ELSEN  &  STEPHEN  K.  URICE,  LAW,  ETHICS,  AND  THE 
+
+VISUAL ARTS 438 (5th ed. 2007). 
+
+12.   Compare  Carter  v.  Helmsley-Spear,  Inc.,  71  F.3d  77,  81  (2d  Cir.  1995)  (noting  that  moral 
+rights “spring from a belief that an artist in the process of creation injects his spirit into the 
+work”), with Adler, supra note 4, at 265-66 (questioning “the most basic premise of moral 
+rights  law”:  that  law  should  treat  visual  art  as  a  uniquely  prized  category  that  merits 
+exceptions). 
+
+13.   I use “fine art” interchangeably with “visual art,” which is the only class of art protected by 
+the  Visual  Artists  Rights  Act  of  1990  (VARA).  A  work  of  “visual  art”  is  defined  as  “a 
+painting, drawing, print, or sculpture, existing in a single copy, in a limited edition of 200 
+copies  or  fewer  that  are  signed  and  consecutively  numbered  by  the  author,”  or  “a  still 
+photographic image produced for exhibition purposes only, existing in a single copy that is 
+signed  by  the  author,  or  in  a  limited  edition  of  200  copies  or  fewer  that  are  signed  and 
+consecutively numbered by the author.” 17 U.S.C. § 101. 
+
+14.   See, e.g., THOMAS W. MERRILL & HENRY E. SMITH, PROPERTY: PRINCIPLES AND POLICIES 277 
+(2007)  (classifying  moral  rights  as  personhood  interests);  id.  at  243  (arguing  that  such 
+interests may be “inappropriate for treatment as property”). 
+
+222 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+this  economic  analysis,  I  shift  the  conversation  from  authors’  pecuniary 
+interests15  to  a  broader  focus  on  protecting  the  art  market  and  its  buyers  via 
+truthful  source  indication,  drawing  out  parallels  with  trademark  law’s 
+protection  of  consumers.  As  I  will  explain,  the  need  to  ensure  accurate 
+identification and proper display of an artist’s work to both the buying and the 
+viewing  public  has  become  even  more  dire  in  the  age  of  what  art  historian 
+Martha Buskirk calls the “contingent object”—the category of highly context-
+sensitive artworks that are easily fabricated based off of an artist’s plans.16 
+
+Part  I  will  examine  the  new,  post-1960s  industrial  art  object  and  the 
+accompanying  concept  of  the  artist  as  brand,  or  as  someone  who  carefully 
+crafts  a  corporate  image  much  like  trademark  holders  do  with  their  brand 
+names.  I  then  go  on  to  argue  in  Part  II  that  the  moral  rights  regime  under 
+VARA in fact bears many striking resemblances to trademark law. Finally, the 
+last  Part  will  discuss  the  inadequacy  of  a  pure  copyright  regime  for  fine  arts 
+given the new state of the contingent art object. 
+
+I  want  to  make  clear  that  this  Note  in  no  way  seeks  to  argue  that  this 
+current  trend  of  art-as-commodity-object,  or  artist-as-businessman, 
+is 
+preferable  to  a  world  in  which  the  inspired  artist  sets  out  to  connote  some 
+greater meaning or truth. In many ways I think (and others would likely agree) 
+that this development is lamentable. But that is a different paper, for a different 
+world that is not our own—a paper for the idealist rather than for the realist. In 
+this Note, I remain only the latter. 
+
+i. a brief moral rights primer 
+
+A. The Berne Convention and the Visual Artists Rights Act of 1990 
+
+The  Convention  for  the  Protection  of  Literary  and  Artistic  Works,  or  the 
+Berne  Convention,17  has  been  referred  to  as  the  “world’s  most  important 
+copyright  convention.”18  While  the  multilateral  treaty  was  signed  in  Berne, 
+Switzerland  on  September  9,  1886,  the  United  States  refused  to  ratify  it  for 
+about a century, partly because the United States lacked the incentive to protect 
+its  own  proprietary  interests  abroad  when  it  was  mainly  concerned  with 
+
+ 
+
+15.   See  Henry  Hansmann  & Marina  Santilli,  Authors’  and  Artists’  Moral  Rights:  A  Comparative 
+
+Legal and Economic Analysis, 26 J. LEGAL STUD. 95 (1997). 
+
+16.   See MARTHA BUSKIRK, THE CONTINGENT OBJECT OF CONTEMPORARY ART (2003). 
+17.   Sept. 9, 1886, 828 U.N.T.S. 221. 
+18.   H.R. REP. NO. 101-735, at 6 (1990), reprinted in 1990 U.S.C.C.A.N. 6935, 6937. 
+
+ 
+
+223 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+importing copyrighted goods, rather than exporting its own.19 However, by the 
+mid-1980s,  “losses  to  U.S.  copyright  proprietors  from  piracy  abroad  had 
+mounted  into  the  billions  of  dollars”  as  the  United  States  became  one  of  the 
+principal  exporters  of  copyrighted  goods  in  the  world.20  With  that  shift,  the 
+U.S.  attitude  toward  the  Berne  Convention—and  toward  securing  foreign 
+compliance  for  American  intellectual  property  abroad—began  to  change. 
+Finally,  in  1988,  after  almost  one  hundred  years  of  debate,  the  United  States 
+joined the Convention.21 
+
+Specifically,  as  Congress  acknowledged,  “[w]hile  the  Convention  is  the 
+premier  international  copyright  convention,  consensus  over  United  States 
+adherence was slow to develop . . . because of debate over the requirements of 
+Article  6bis  [of  the  Convention].  The  principal  question  was  whether  that 
+article required the United States to enact new laws protecting moral rights.”22 
+A debate ensued over whether a patchwork of existing federal and state laws, 
+both statutory and common, were sufficient to  comply with the  moral rights 
+requirements  of  Berne.23  The  enactment  of  the  Visual  Artists  Rights  Act 
+signaled  an  attempt  to  create  a  unified  federal  system  of  moral  rights  laws 
+adhering  to  the  basic  requirements  of  Berne,  though  it  is  by  no  means  as 
+comprehensive as many European systems.24 
+
+The American moral rights regime as enacted under VARA applies only to 
+a  work  of  “visual  art,”25  defined  as  “a  painting,  drawing,  print,  or  sculpture, 
+existing in a single copy, [or] in a limited edition of 200 copies or fewer,” or “a 
+still photographic image produced for  exhibition purposes only,  existing in a 
+
+ 
+
+19.   See  David  Nimmer,  Nation,  Duration,  Violation,  Harmonization:  An  International  Copyright 
+Proposal for the United States, 55 LAW & CONTEMP. PROBS. 211, 212-14 (1992). Nimmer notes, 
+for example, that a “famous exclamation” of 1820 asked: “In the four quarters of the globe, 
+who  reads  an  American  book?”  Id.  at  212  (quoting  United  Dictionary  Co.  v.  G.  &  C. 
+Merriam  Co.,  208  U.S.  260,  264  (1908)).  Nimmer  characterizes  the  nineteenth-century 
+United States as a “piracy haven” in which “U.S. publishers busied themselves bootlegging 
+the works of Dickens, Trollope, and Hugo.” Id. Indeed, “[e]ven as late as World War II, the 
+United States remained a net importer of copyrighted goods.” Id. at 214. 
+
+20.   Id. at 215. 
+21.   H.R. REP. NO. 101-514, at 8 (1990), reprinted in 1990 U.S.C.C.A.N. 6915, 6917. 
+22.   Id. 
+23.   Id. 
+24.   Id. at 10 (noting that the Act “brings U.S. law into greater harmony with laws of other Berne 
+countries,” in addition to serving “another important Berne objective—that of harmonizing 
+national copyright laws”). France, which has the most comprehensive moral rights regime, 
+grants a host of additional moral rights not just to visual artists, but also, for example, to 
+literary authors. See Hansmann & Santilli, supra note 15, at 135. 
+
+25.   17 U.S.C. § 106A (2006). 
+
+224 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+single copy . . . or in a limited edition of 200 copies or fewer that are signed and 
+consecutively  numbered  by  the  author.”26  The  Act  encompasses  three  major 
+rights: the right of integrity, or the right “to prevent any intentional distortion, 
+mutilation,  or  other  modification  of  the  work  which  would  be  prejudicial  to 
+[the artist’s] honor or reputation”;27 the right of attribution, which allows an 
+artist “to claim authorship of that work” and “to prevent the use of his or her 
+name as the author of any work of visual art which he or she did not create”;28 
+and  lastly,  for  works  “of  recognized  stature,”  the  right  to  prevent  “any 
+intentional or grossly negligent destruction” of the work.29 These rights persist 
+only for the life of the artist, and, crucially, they can be waived.30 But VARA 
+creates an opt-out, rather than an opt-in, system—meaning that the burden is 
+on the buyer to contract around moral rights, which are in place as the default. 
+This regime is designed to protect artists who are assumed, whether rightly or 
+not,  to  have  less  bargaining  power  and  to  be  less  knowledgeable  than  the 
+wealthy  buyers  of  their  work.  Congress  has  stated  that  artists  are  in  “a 
+relatively  weak[er]  economic  position”  and  hence  would  be  “better  protected 
+under  a  regime  requiring  specificity  of  waivers.”31  In  other  words,  the  VARA 
+default  is  an  information-forcing  mechanism  that  discourages  the  presumably 
+better-informed buyer from withholding valuable information from the artist.32 
+
+This Note will not focus on the right against destruction. For one, the right 
+is  slightly  anomalous,  applying  only  to  “work[s]  of  recognized  stature.”33 
+Further,  courts  have  interpreted  the  requirement  to  mean  not  only  that  the 
+artist  himself  must  be  renowned,  but  that  the  specific  artwork  subject  to 
+litigation  must  also  have  acquired  “recognized  stature”  status.34  This  object-
+specific  (rather  than  artist-specific)  focus  thus  bears  more  resemblance  to 
+historical  landmark  preservation  than  trademark  law.  I  would  point  out, 
+however, that the right to prevent destruction could be economically justified 
+
+ 
+
+26.   Id. § 101. 
+27.   Id. § 106A(a)(3)(A). 
+28.   Id. § 106A(a)(1)-(2). The right of attribution also prevents the use of the artist’s name as the 
+
+author of the work in the event of a distortion, mutilation, or other modification. 
+
+29.   Id. § 106A(a)(3)(b). 
+30.   Id. § 106A(d), 106A(e)(1). 
+31.   H.R. REP. NO. 101-514, at 17 (1990), reprinted in 1990 U.S.C.C.A.N. 6915, 6928. 
+32.   See Ian Ayres & Robert Gertner, Filling Gaps in Incomplete Contracts: An Economic Theory of 
+
+Default Rules, 99 YALE L.J. 87, 94 (1989). 
+
+33.   17 U.S.C. § 106A(a)(3)(b). 
+34.   Scott v. Dixon, 309 F. Supp. 2d 395, 400 (E.D.N.Y. 2004). 
+
+ 
+
+225 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+on its own terms by applying the real property principle of waste.35 But because 
+this  Note  focuses  on  the  signaling  effects  of  an  artist’s  name  (as  brand  or 
+trademark), I will leave a full economic discussion of what happens when an 
+artwork is destroyed for another day. 
+
+I will also point out that while examining the parallels between trademark 
+law and moral rights law, I have left out discussion of fair use,36 to which both 
+trademark  and  moral  rights  are  subject,  and  which  constitutes  an  important 
+limitation  on  a  right  holder’s  monopoly  power.37  While  there  have  been  a 
+number  of  successful  fair  use  defenses  employed  in  trademark  infringement 
+actions, I know of no cases in which defendants have asserted a fair use defense 
+under VARA. Consequently, and because fair use is determined on a case-by-
+case basis, it is difficult to tell how courts would apply the four elements of fair 
+use  inquiry38  in  the  moral  rights  context.  VARA’s  legislative  history,  at  least, 
+suggests that while Congress fully intended the fair use provisions to apply, it 
+nonetheless felt that 
+
+it  is  unlikely  that  such  claims  will  be  appropriate  given  the  limited 
+number of works covered by the Act, and given that the modification of 
+
+ 
+
+35.   Specifically, the doctrine of “waste” in real property law suggests that a property owner’s 
+decisionmaking—especially  in  the  short  run—might  be  defective,  and  therefore  collective 
+intervention is needed in order to prevent waste of culturally valuable goods in the long run. 
+See Eyerman v. Mercantile Trust Co., 524 S.W.2d 210 (Mo. Ct. App. 1975); JOSEPH L. SAX, 
+PLAYING DARTS WITH A REMBRANDT: PUBLIC AND PRIVATE RIGHTS IN CULTURAL TREASURES 
+9 (1999) (arguing that “owned objects in which a larger community has a legitimate stake 
+because they embody ideas . . . of importance,” such as art, should be privately owned, but 
+with  “several  qualifications”  to  the  “ordinary  notion  of  ownership”  so  that  community 
+interests are preserved); Lior Jacob Strahilevitz, The Right To Destroy, 114 YALE L.J. 781, 796 
+(2005)  (“Concern  about  wasting  valuable  resources  is,  by  far,  the  most  commonly  voiced 
+justification for restricting an owner’s ability to destroy her property. In cases where a living 
+person  seeks  to  destroy  her  property,  the  courts  express  concern  about  the  diminution  of 
+resources available to society as a whole.”). 
+
+36.   Fair use is often cited as one of the built-in First Amendment protections in copyright law. 
+
+See Eldred v. Ashcroft, 537 U.S. 186, 220 (2003). 
+
+37.   See 17 U.S.C. § 106A(a). For VARA, as for standard copyright protection, “fair use” includes 
+use for criticism, commentary, news reporting, and teaching purposes, all of which would 
+not constitute an infringement of an artist’s moral right. Id. § 107. In trademark law, fair use 
+includes  “a  nominative  or  descriptive  fair  use  .  .  .  including  use  in  connection  with  .  .  . 
+identifying  and  parodying,  criticizing,  or  commenting  upon  the  famous  mark  owner,”  as 
+well  as  all  forms  of  news  reporting  and  any  noncommercial  use.  15  U.S.C.  §  1125(c)(3) 
+(2006). 
+
+38.   17 U.S.C. § 107 (defining the four elements of fair use inquiry as “(1) the purpose and character 
+of the use . . . ; (2) the nature of the copyrighted work; (3) the amount . . . used . . . ; and  
+(4) the effect of the use upon the potential market for . . . the copyrighted work”). 
+
+226 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+a  single  copy  or  limited  edition  of  a  work  of  visual  art  has  different 
+implications for the fair use doctrine than does an act involving a work 
+reproduced in potentially unlimited copies.39 
+
+However,  this  is  not  to  say  that  there  have  not  been  transformative  uses 
+made of an original, single-copy artwork in the past. For example, in 1953, the 
+famous  artist  Robert  Rauschenberg  painted  over  a  work  given  to  him  by  his 
+friend Willem de Kooning, another iconic artist. The resulting work, Erased de 
+Kooning Drawing, has become a hallmark of modern art that fosters important 
+questions about authority, meaning making, and authorial touch.40 
+
+I  suggest  that  in  evaluating  a  fair  use  claim  under  VARA,  courts  should 
+look  to  the  character  of  the  use—specifically  its  transformativeness—as  the 
+most significant factor.41 Courts should also examine whether it was necessary 
+for  the  defendant  to  use  this  specific  single  or  limited  edition  work,  and  the 
+artistic  message  behind  doing  so.  It  is  important  to  keep  in  mind  the 
+possibilities  within  this  fair  use  exception  as  we  go  on  to  examine  the 
+objections that some have had to VARA’s seemingly totalitarian prohibition on 
+modifications. 
+
+B. Scholarly Reactions to the VARA Regime 
+
+Much of the legal scholarship surrounding VARA since its enactment has 
+been  pointedly  negative.42  Many  have  denounced  the  Act  as  flouting  U.S. 
+copyright  doctrine,  which  has  traditionally  recognized  only  economic,  not 
+personal,  rights.43  Conversely,  the  justifications  for  moral  rights  in  VARA  are 
+
+ 
+
+39.   H.R. REP. NO. 101-514, at 21 (1990), reprinted in 1990 U.S.C.C.A.N. 6915, 6932. 
+40.   See 2 HAL FOSTER ET AL., ART SINCE 1900: MODERNISM, ANTIMODERNISM, POSTMODERNISM, 
+
+1945 TO THE PRESENT 368 (2004). 
+
+41.   See Pierre N. Leval, Toward a Fair Use Standard, 103 HARV. L. REV. 1105, 1111 (1990) (arguing 
+
+that fair use cases should turn primarily on whether a use is transformative). 
+
+42.   See, e.g., Adler, supra note 4; Stephen L. Carter, Owning What Doesn’t Exist, 13 HARV. J.L. & 
+PUB.  POL’Y  99,  100-101  (1990)  (critiquing  legislation  based  on  moral  rights  principles 
+generally); see also Lindsey A. Mills, Note, Moral Rights: Well-Intentioned Protection and Its 
+Unintended Consequences, 90 TEX. L. REV. 443 (2011) (arguing that the right of integrity will 
+actually harm artists and the public interest in art). 
+
+43.   See, e.g., Gilliam v. Am. Broad. Cos., 538 F.2d 14, 24 (2d Cir. 1976); Justin Hughes, American 
+Moral Rights and Fixing the Dastar “Gap,” 2007 UTAH L. REV. 659, 662 n.12 (quoting H.R. 
+REP.  NO.  100-609,  at  17  (1988))  (“Under  the  U.S.  Constitution,  the  primary  objective  of 
+copyright law is not to reward the author, but rather to secure for the public the benefits 
+derived from the authors’ labors.”); Roberta Rosenthal Kwall, The Right of Publicity vs. the 
+First Amendment: A Property and Liability Rule Analysis, 70 IND. L.J. 47, 59-60 (1994); Cyrill 
+
+ 
+
+227 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+centered on the idea that art is somehow special, or sacred, and that only those 
+who  do  not  understand  the  soulful  aspirations  of  an  artist  would  deign  to 
+mutilate, destroy, or alter the work.44 This reasoning, in turn, has led others, 
+like Stephen Carter, to point out that the moral right is “elitist and despotic,” 
+for it attempts to regulate property owners from acting in “uncultured” ways.45 
+Yet, as Carter argues, “you cannot legislate culture.”46 
+
+Henry Hansmann and Marina Santilli, however, offer an outlier argument 
+in  Authors’  and  Artists’  Moral  Rights:  A  Comparative  Legal  and  Economic 
+Analysis.47 Their 1997 article is the first and only significant economic analysis 
+of  U.S.  moral  rights  doctrine.  It  recognizes  that  the  moral  rights  framework 
+creates divided property rights, or a servitude in chattels, in contravention of 
+the  law’s  general  prohibition  on  such.48  This  regime,  the  authors  argue,  is 
+justified because it protects important pecuniary interests. Namely, it prevents 
+negative  reputational  externalities—or  the  depreciation  of  the  value  of  an 
+artist’s  works  if  one  of  them  is  changed  in  a  way  that  will  damage  his 
+reputation49—affecting  both  the  artist50  and  other  owners  of  his  work.51 
+Hansmann  and  Santilli  explain  that  minimizing  negative  reputational 
+externalities is important “[g]iven this strong connection between the value of 
+a work of art and the identity of the artist who created it.”52 But their article 
+does not go far enough in explaining why this is so, partly because they do not 
+attempt an economic analysis of the contemporary art market. 
+
+ 
+
+P. Rigamonti, The Conceptual Transformation of Moral Rights, 55 AM. J. COMP. L. 67, 67-68 
+(2007). 
+
+44.   See MERRYMAN ET AL., supra note 11, at 423 (“The primary justification for the protection of 
+moral  rights  is  the  idea  that  the  work  of  art  is  an  extension  of  the  artist’s  personality,  an 
+expression of his innermost being.”); Roberta Rosenthal Kwall, Inspiration and Innovation: 
+The  Intrinsic  Dimension  of  the  Artistic  Soul,  81  NOTRE  DAME  L.  REV.  1945,  1986  (2006) 
+(extolling  the  “intrinsic  creative  quality  that  requires  the  author  to  infuse  herself  into  her 
+work”); see also Lior Zemer, Moral Rights: Limited Edition, 91 B.U. L. REV. 1519, 1523 (2011) 
+(arguing  for  a  “stronger  version  of  moral  rights  protection”  that  will  “allow  authors  to 
+realize their creative potential and contribute to social development”). 
+
+45.   Carter, supra note 42, at 100-01. 
+46.   Id. at 101. 
+47.   Hansmann & Santilli, supra note 15. 
+48.   An author’s VARA rights run with the chattel (the artwork). See id. at 101. 
+49.   Id. at 104. 
+50.   Id. (“[A]lteration of works that an artist has already sold can, by damaging his reputation, 
+
+lower the prices he can charge for other work that he sells subsequently.”). 
+
+51.   Id.  at  105  (“Damage  to  one  of  the  artist’s  works,  in  effect,  imposes  external  costs  on  the 
+
+artist’s other works.”). 
+
+52.   Id. at 109. 
+
+228 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+Part  II  of  this  Note  will  examine  why  it  is  precisely  now—in  an  era  of 
+factory-made,  industrially  fabricated,  assistant-produced  artwork—that  moral 
+rights are increasingly akin to trademark law. Hansmann and Santilli allude to 
+the  connection  between  moral  rights  and  trademark  in  passing,  when  they 
+suggest that the desire for an artist to control his work even after it has left his 
+hands  “is  analogous  to  a  franchise,”  wherein  a  company  owner  wishes  to 
+control  for  consistency  across  franchises.53  But  they  do  not  expand  upon  this 
+connection. An examination of the contemporary art market reveals, however, 
+that  the  connection  is  a  crucial  one,  and  it  provides  a  broader  economic 
+justification  for  moral  rights  than  Hansmann  and  Santilli  first  elucidated.  As 
+we will see below, an artist’s name, like the signaling mechanism of a franchise 
+bearing the name “McDonald’s,” will serve as a ready indicator of quality and 
+status to the mass public in the contemporary art market.54 
+
+ii. the contingent art object and the artist as brand 
+
+The capitalistic economy of the present day is an immense cosmos into which 
+the individual is born . . . . It forces the individual, in so far as he is involved 
+in  the  system  of  market  relationships,  to  conform  to  capitalistic  rules  of 
+action.55 
+
+As  Max  Weber  noted  almost  a  century  ago,  the  extent  to  which  any 
+individual can think himself outside the economic order is questionable. Art, of 
+course, is no different. By focusing solely on the contemporary art market, I do 
+not mean to imply that premodern artists were innocent of this form of what I 
+call  “branding.”  Authenticity  has  been,  and  will  likely  always  be,  the  sole 
+differentiator between a highly priced work and a nearly worthless one—hence 
+
+ 
+
+53.   Id. at 105. 
+54.   Others have made a similar connection in the literary context, comparing an author’s name 
+to a trademark. For example, Professor Laura Heymann suggests that we respect an author’s 
+choice  of  pseudonym as  essentially a  branding choice,  thus  turning  the  “author  function” 
+into  a  “trademark  function.”  Laura  A.  Heymann,  The  Birth  of  the  Authornym:  Authorship, 
+Pseudonymity,  and  Trademark  Law,  80  NOTRE  DAME  L.  REV.  1377  (2005).  This  raises  an 
+interesting question of whether courts would resolve a VARA claim for an artist who has 
+changed  his  name  and  creates  under  a  pseudonym.  However,  this  issue  has  yet  to  be 
+litigated. See also Jane C. Ginsburg, The Author’s Name as a Trademark: A Perverse Perspective 
+on the Moral Right of “Paternity”?, 23 CARDOZO ARTS & ENT. L.J. 379, 381 (2005) (noting that 
+an “author’s name functions like a trademark,” and therefore that the attribution right for 
+literary works properly derives from trademark law). 
+
+55.   MAX  WEBER,  THE  PROTESTANT  ETHIC  AND  THE  SPIRIT  OF  CAPITALISM  54  (Talcott  Parsons 
+
+trans., Dover 2003) (1905). 
+
+ 
+
+229 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+the insurmountably valuable judgment of art authenticators, whose very job it 
+is  to  differentiate  between  the  “real”  and  the  “fake.”56  The  allure  of  the 
+authentic  has  often  been  attributed  to  an  outdated,  Enlightenment-centric 
+brand of thinking.57 But if the critic Walter Benjamin’s famous proclamation—
+that  the  desire  for  the  original  will  soon  be  made  worthless  in  the  face  of 
+mechanical reproducibility—has come true,58 it has only held true for forms of 
+artistic production (photography,59 music, film) in which the proliferation  of 
+identical  copies  means  that  asking  for  the  “original”  makes  no  sense.60  The 
+same does not apply to fine art, the only class of art VARA protects.61 In this 
+Part, I will discuss why a trademark model for thinking about moral rights is 
+especially  apt  under  the  changed  conditions  of  the  contemporary  art  market, 
+where, oftentimes, the artist’s signature is the art. 
+
+ 
+
+56.   See  David  Grann,  The  Mark  of  a  Masterpiece,  NEW  YORKER,  July  12,  2010, 
+http://www.newyorker.com/reporting/2010/07/12/100712fa_fact_grann (“[An authenticator’s] 
+opinions carry the weight of history; they can help a painting become part of the world’s 
+cultural heritage and be exhibited in museums for centuries, or cause it to be tossed into the 
+trash. His judgment can also transform a previously worthless object into something worth 
+tens of millions of dollars.”). 
+
+57.   See,  e.g.,  Douglas  Crimp,  On  the  Museum’s  Ruins,  in  THE  ANTI-AESTHETIC:  ESSAYS  ON 
+POSTMODERN CULTURE 49, 61 (Hal Foster ed., 1998) (noting how modernism’s “[n]otions 
+of originality, authenticity and presence . . . are undermined” by postmodernism). 
+
+58.   See Walter Benjamin, The Work of Art in the Age of Its Technological Reproducibility: Second 
+Version, in THE WORK OF ART IN THE AGE OF TECHNOLOGICAL REPRODUCIBILITY, AND OTHER 
+WRITINGS ON MEDIA 19, 24 (Michael W. Jennings, Brigid Doherty & Thomas Y. Levin eds., 
+2008) (“To an ever-increasing degree, the work reproduced becomes the reproduction of a 
+work designed for reproducibility.”). One can see how well this prediction boded for audio 
+works, film, and photography. 
+
+59.   I  note,  however,  that  VARA  does  protect  photographs  existing  in  signed,  consecutively 
+numbered,  limited-edition  copies  of  two  hundred  or  less.  See  17  U.S.C.  §  101  (2006) 
+(defining “visual art”). These photographs may well be thought of as “unidentical” copies 
+precisely because each copy is numbered and signed. More interestingly, this limitation on 
+an  otherwise  infinitely  reproducible  print  aptly  summarizes  and  highlights  many  of  the 
+issues I have addressed throughout this Note: that oftentimes, the artist’s signature (in this 
+case,  on  each  numbered  print)  is  the  art,  and  that  even  an  inherently  reproducible  object 
+could  obtain  scarcity  value  merely  through  external  limits  on  production.  In  this  sense, 
+photography  as  defined  in  VARA  qualifies  perfectly  as  a  contingent  art  object.  See  infra 
+Subsection II.B.1. 
+
+60.   Benjamin, supra note 58, at 24-25 (“From a photographic plate for example, one can make 
+
+any number of prints; to ask for the ‘authentic’ print makes no sense.”). 
+
+61.   17 U.S.C. § 106A; see also id. § 101 (defining “visual art”). 
+
+230 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+A. Contemporary Art and the Cult of the Authentic 
+
+The  cult  of  the  “authentic”—the  yearning  to  have  this  work  be  stamped 
+with the artist’s name, ensuring it an original “touched” by the artist himself —
+perhaps has even more import in the modern age of celebrity culture and name-
+brand obsession than at any other  moment in art (or consumer) history.  Yet 
+when I say “touched,” I do not mean to imply that collectors today yearn for 
+the physical labor of an artist in his work. In fact, because works of art have 
+become increasingly mechanized in their production, the artist’s brand, or his 
+signature, has replaced the artist’s hand (via brushstroke, for example) as the 
+foremost signifier of a work’s value and meaning. Veteran art dealer Michael 
+Findlay  describes  this  phenomenon  as  the  commoditization  of  contemporary 
+art,  in  which  works  of  art,  no  longer  unique  entities  by  nature  of  their 
+mechanical reproducibility, instead become traded like commodities in which 
+the strength of the artist’s name alone determines the value of the work.62 A work 
+is  not  determined  to  be  “good”  or  “bad”  via  a  critical  interpretation  of  its 
+artistic  merit;  rather,  Findlay  writes,  “[s]uccessful  branding  obviates  the 
+critical  approach:  the  work  of  art  must  be  good  (i.e.,  worth  its  considerable 
+price) because the artist’s name is currently fashionable.”63 
+
+When  arguing  against  the  increased  importance  of  the  artist  in  the  era  of 
+modern  art,  many  like  to  evoke  the  original  father  of  the  death  of  the  artist, 
+Andy  Warhol.  Amy  Adler,  for  example,  points  out  that  not  only  did  Warhol 
+make “art into a consumer product” with his silkscreened sculptures imitating 
+boxes  of  Brillo  pads  and  Campbell’s  tomato  juice,  but  he  was  also  prone  to 
+purposefully  claiming  that  his  assistants  created  many  of  his  works.64  Adler 
+uses  the  example  of  Warhol’s  mechanized  production  techniques  to  suggest 
+that  the  artist’s  touch  no  longer  matters,  while  seemingly  missing  the 
+distinction  between  an  artist’s  physical  touch  and  his  very  valuable  stamp  of 
+approval: the “touch” of his signature.65 
+
+ 
+
+62.   MICHAEL  FINDLAY,  THE  VALUE  OF  ART:  MONEY,  POWER,  BEAUTY  47  (2012)  (“Large, 
+mechnically  produced  spin  paintings  signed  and  presumably  inspected  by  Damien  Hirst 
+come, like Starbucks coffee, in three sizes . . . . [T]hey are more or less interchangeable and 
+sold as branded items . . . rather than as unique works of art.”). 
+
+63.   Id. at 152. 
+64.   Adler, supra note 4, at 296. 
+65.   See  id.  (“In  [Warhol’s]  Factory,  he  mass-produced  photo-silkscreens  that  never  even 
+touched the romantic hand of the artist. (In modernism, the artist’s touch was the guarantor 
+of his sincerity and presence, investing the canvas with his magic.) Boasting of his lack of 
+connection with his own objects . . . Warhol said: ‘Why don’t you ask my assistant Gerry 
+Malanga some questions? He did a lot of my paintings.’”). 
+
+ 
+
+231 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+Indeed, Warhol’s silkscreened boxes boasting such generic store brands as 
+Campbell’s  and  Brillo,  now  being  sold  for  millions  of  dollars,  highlight  the 
+uncomfortable gap between the dedication to ordinary object-ness embodied in 
+so-called “postmodern” artworks and their very unordinary price tags.66 Thus, 
+Warhol’s  boxes  are  like  consumer  products  and  yet  not  like  consumer 
+products. The differentiating factor between an ordinary Brillo box and the box 
+you  buy  from  Warhol  is  none  other  than  the  Warhol  stamp  promising 
+authenticity—that  this  is  a  “real  Warhol.”67  In  fact,  that  is  the  only 
+differentiating  factor.  The  “artist’s  hand”  may  have  been  erased  in  the 
+production of the object, but only to resurface ever more markedly in the stamp 
+bearing  his  signature.  Or,  as  art  historian  Isabelle  Graw  emphasizes,  though 
+artists today might employ a staff of assistants, their works nonetheless “bear 
+the  mark  of  the  artist’s  own  studio/factory/enterprise.”68  Thus,  “[t]he  artist’s 
+signature remains intact, and this is the place where the promise of originality 
+essential for art is upheld.”69 
+
+As  Graw  explains,  Warhol’s  statements—for  instance,  that  his  assistant 
+Brigid Polk “actually painted his pictures”—“can be read as a provocative break 
+with  the  principle  of  ‘authorship.’”70  But  Graw  also  points  out  that  such 
+disclamations  of  the  artist’s  connection  with  a  work  can  have  an  economic 
+effect  as  well,  causing  widespread  alarm  amongst  buyers.71  After  Warhol 
+suggested Polk’s hand, and not his, was behind his work, “Warhol’s German 
+collectors 
+immediately  alarmed  and  feared  for  the 
+
+in  particular  were 
+
+ 
+
+66.   The Brillo boxes are exact reproductions of their grocery store counterparts. See STAFF  OF 
+ANDY  WARHOL  MUSEUM,  ANDY  WARHOL,  365  TAKES:  THE  ANDY  WARHOL  MUSEUM 
+COLLECTION 35 (2004) (“The process involved making wooden replicas of the original boxes, 
+painting them, and then silkscreening the commercial text and imagery. The finished box 
+sculptures were virtually indistinguishable from their cardboard models.”). 
+
+67.   Interestingly,  Warhol’s  Brillo  boxes  have  recently  been  the  subject  of  an  authenticity 
+investigation in which more than one hundred Brillo boxes have now been determined to be 
+mere “copies.” The differentiating factor between these downgraded copies and the “real” 
+Warhol Brillo boxes is, according to the Andy Warhol Art Authentication Board, that the 
+copies were not “made by Andy Warhol, to his specifications or under his supervision; and 
+there  is  no  known  documentation  that  Warhol  authorised  their  production.”  Clemens 
+Bomsdorf & Melanie Gerlis, Warhol Brillo Boxes Downgraded to “Copies,” ART NEWSPAPER, 
+Oct. 21, 2010, http://www.theartnewspaper.com/articles/Warhol-Brillo-boxes-downgraded 
+-to-copies/21573. 
+
+68.   ISABELLE GRAW, HIGH PRICE: ART BETWEEN THE MARKET AND CELEBRITY CULTURE 25 (trans. 
+
+Nicholas Grindell, 2009). 
+
+69.   Id. 
+70.   Id. at 186. 
+71.   Id. 
+
+232 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+authenticity  of  their  paintings.  Warhol  was  obliged  to  issue  an  official 
+declaration correcting this claim in order to avoid works being returned.”72 
+
+The art world’s obsession with the artist’s stamp of authenticity,73 in some 
+way meant to reflect the personality or intent of the artist, is thus no different 
+from  consumers’  attitudes  toward  luxury  cars  and  Louis  Vuitton  handbags. 
+One need only think of the certificates of authenticity issued by luxury goods 
+makers,  neatly  packaged  within  every  $2,000  bag,  and,  ironically,  often 
+counterfeited.74 Hence, trademark law works vigilantly to protect these indicia 
+of high-class consumer culture from dilution, passing off, and counterfeiting—
+all  of  which  could  harm  the  “uniqueness”  of  the  original  (its  “arresting 
+uniqueness,”  “singularity,”  and  “identity,”  together  constituting  a  mark’s 
+“selling  power”).75  For  the  same  reasons  that  a  trademarked  item’s  “selling 
+power”  stems  from  the  promise  of  its  singularity,  art’s  peculiarly  high  value 
+“derive[s]  from  a  range  of  factors:  singularity,  arthistorical  verdict,  artist’s 
+reputation,  promise  of  originality,  prospect  of  duration,  claim  to  autonomy, 
+intellectual acumen.”76 As we will see, modern artists are keenly responsive to 
+these  factors  controlling  the  high  price  of  art  objects,  and  consciously 
+manipulate them to their benefit in creating a global artistic “brand.” 
+
+ 
+
+72.   Id. 
+73.   Even the nineteenth-century artist Auguste Rodin took this view of authenticity as merely 
+the  granting  of  authority  to  produce  and  then  sell  a  sculpture  with  his  name  on  it:  “He 
+recognized as authentic only those bronze casts he had authorized. All others he condemned 
+as  counterfeit.”  ROSALIND  E.  KRAUSS,  Introductory  Note  to  Sincerely  Yours,  in  THE 
+ORIGINALITY OF THE AVANT-GARDE AND OTHER MODERNIST MYTHS 171, 171 (7th prtg. 1991). 
+74.   For example, eBay’s refusal to require its sellers to include certificates of authenticity with 
+the sale of luxury items contributed to the Tribunal de Commerce of Paris’s ultimate finding 
+that it had not done enough to combat counterfeit sales. Christian Dior Couture/eBay Inc., 
+eBay International AG, Tribunal de commerce [TC]  [commerce court] Paris, 1e ch., June 
+30, 2008, JurisData 2008-364501 (Fr.). 
+
+75.   Barton  Beebe,  The  Semiotic  Analysis  of  Trademark  Law,  51  UCLA  L.  REV.  621,  681  (2004) 
+(quoting  Frank  I.  Schechter,  The  Rational  Basis  of  Trademark  Protection,  40  HARV.  L.  REV. 
+813, 827, 830-31 (1927)). 
+
+76.   GRAW, supra note 68, at 28. 
+
+ 
+
+233 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+B. The Artist as Brand: From “Reputational Externalities”77 to 
+
+ Consumer Confusion 
+
+1. Identity as Branding 
+
+What  does  the  contemporary  artwork’s  “promise  of  originality”  mean?  It 
+might no longer mean novelty, artistic merit, skill, or bold, artistic gestures à la 
+the  Abstract  Expressionism of the 1950s,78 but it now arises sui  generis from 
+the very existence of the artist’s signature. That is the simple answer. The truth 
+of it, however, is that behind that one signature lies an entire realm of carefully 
+plotted, well-played maneuvers most often manifested in the body of an artist’s 
+work. These maneuvers are responsible for crafting a deliberate public image, 
+the success or failure of which is reflected directly in the market price for the 
+artist’s work. The desire to control one’s work by resisting curatorial dictates or 
+mutilation  at  the  hands  of  an  avaricious  buyer,  which  is  at  the  heart  of  the 
+moral right of integrity, is not unique to artists. As Laura Heymann has argued 
+about the importance of reputation construction, “This desire for control ‘is an 
+assertion of autonomy,’ an attempt to engage in self-identity creation, whether 
+by individuals [an average person] or by firms [a corporation], and a resistance 
+to definition by others.”79 
+
+Moral  rights  scholarship  has  traditionally  conceived  of  reputation  as  a 
+deeply  personal  connection  between  the  artist  and  work.  But  the  concept  of 
+reputation can now be reformulated to signify an artist’s strategic choices  on 
+how best to efficiently trade on  his public  image,80 just as trademark owners 
+trade  on  their  “goodwill”  (a  term  used  in  trademark  law  to  denote  favorable 
+public regard).81 Heymann points out that reputation can also serve as a user 
+ 
+
+77.   This is Hansmann and Santilli’s term for the idea that damaging just one of an artist’s works 
+
+imposes costs on his other works as well. See supra notes 49-52 and accompanying text. 
+
+78.   As  has  been  well  documented,  postmodernism  killed  off  these  notions.  For  the  definitive 
+primer  on  postmodern  art  and  culture,  see  FREDRIC  JAMESON,  POSTMODERNISM,  OR,  THE 
+CULTURAL LOGIC OF LATE CAPITALISM (1991). 
+
+79.   Laura  A.  Heymann,  The  Law  of  Reputation  and  the  Interest  of  the  Audience,  52  B.C.  L.  REV. 
+1341,  1358  (2011)  (quoting  Thomas  Gibbons,  Defamation  Reconsidered,  16  O.J.L.S.  587,  589 
+(1996)). 
+
+80.   In Professors Hansmann and Santilli’s economic justification for moral rights, they suggest 
+that “an artist may identify with his works as with his children: prize them for their present 
+character and not want that character changed.” Hansmann & Santilli, supra note 15, at 102. 
+If the work’s character were to change, the artist would then experience “subjective personal 
+anguish” from “seeing his work abused.” Id. 
+
+81.   This goodwill could be due to a number of factors: clever advertising, good quality, or mass 
+marketing.  See  RESTATEMENT  (THIRD)  OF  UNFAIR  COMPETITION  §  9  (1995)  (“If  the 
+
+234 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+signal,  “traded  or  borrowed  based  on  economically  motivated  transactions  in 
+which  the  transfer  of  reputational  value  is,  in  large  part,  the  point  of  the 
+agreement,”  as  is  the  case  with  luxury  goods,  which  “are  typically  purchased 
+not simply because of the higher quality of those goods but also to indicate to 
+others that the purchaser is a person of means who can afford high-quality or 
+high-status goods.”82 
+
+Others have long noted the inextricable link between an artist’s reputation 
+or identity and the value of his artwork.83 William Landes and Richard Posner, 
+for example, have suggested trademark redress, in the form of a “passing off” 
+action  for  “confusingly  similar  copies  of  original  works,  unless  they  carry  a 
+clear  disclaimer  of  authenticity,”  because  they  “violate  the  original  artist’s 
+trademark  in  his  instantly  recognizable  style.”84  I  would  like  to  tweak  for  a 
+moment how we might think of an artist’s “instantly recognizable style.” In the 
+contemporary  era,  style  might  be  referred  to  as  stylized—a  fabricated 
+construction,  a  deliberate  posing  by  the  artist  to  actively  engage  in  public 
+identity-making.85  That  is,  we  must  shift  how  we  think  about  style  from  an 
+authentic, real manifestation of an artist’s inner being86 to a carefully plotted, 
+deliberate construction that can be said to be made up of only specific objects 
+that the artist has placed into the stream of commerce with his “brand” affixed. 
+This shift is important, for it subtly alters the dialogue supporting moral rights 
+from one of religious reverence for the artist’s “original meaning”87 or “original 
+
+ 
+
+trademark  owner  succeeds  in  creating  a  favorable  image  for  its  trademark  in  the 
+marketplace, the mark itself can become a significant factor in stimulating sales. This ability 
+of a mark to generate good will through advertising has also gained recognition under the 
+law of trademarks.”). 
+
+82.   Heymann, supra note 79, at 1362. 
+83.   See,  e.g.,  Hansmann  &  Santilli,  supra  note  15,  at  104  (noting  that  adversely  affecting  an 
+artist’s reputation can also adversely affect the prices of his works); Gladys Engel Lang & 
+Kurt Lang, Recognition and Renown: The Survival of Artistic Reputation, 94 AM. J. SOC. 79, 105 
+(1988) (recognizing that “the name attached to a work of art functions much like a brand 
+label”). 
+
+84.   WILLIAM M. LANDES & RICHARD A. POSNER, THE ECONOMIC STRUCTURE OF INTELLECTUAL 
+PROPERTY  LAW  259  (2003).  This  remedy,  however,  is  rife  with  problems.  See  infra 
+Subsection IV.A.2. 
+
+85.   This is so  because postmodernism has called into question the extent  to which “a unique 
+personality and individuality . . . can be expected to generate its own unique vision of the 
+world.”  Frederic  Jameson,  Postmodernism  and  Consumer  Society,  in  THE  ANTI-AESTHETIC: 
+ESSAYS  ON  POSTMODERN  CULTURE,  supra  note  57,  at  127,  131.  In  other  words,  we  can  no 
+longer believe in the unmistakability or uniqueness of a style. 
+
+86.   See MERRYMAN ET AL., supra note 11, at 423. 
+87.   See Kwall, supra note 44, at 1986. 
+
+ 
+
+235 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+creation”  to  a  concern  for  dilution  or  misrepresentation  of  the  artist’s  brand 
+construction via modification, distortion, or mutilation. 
+
+the 
+
+While  prior  scholars  have  noted 
+
+importance  of  reputational 
+externalities  to  both  the  artist’s  goodwill  and  the  public’s  right  not  to  be 
+defrauded in the buying of artworks,88 these ideas nonetheless presume some 
+“analogy between the work and its maker.”89 That is, the prior literature has 
+assumed that for a work to be labeled a “Warhol,” for example, the artist must 
+have in some sense created it, rather than “signed off” on it. As Hansmann and 
+Santilli  see  it,  to  merely  sign  a  work  one  did  not  actually  “create”  or  “make” 
+would  be  a  deception  of  the  public  writ  large.90  But  certainly,  Duchamp’s 
+signing  off  on  a  urinal  (which  he  did  not  make)  and  then  calling  it  art  has 
+erased the belief that an artist must have “created” the work he now touts as 
+his.  Now  we  see  Artist  X’s  “creation”  of  the  box  of  brown  clothes,  lovingly 
+compiled  by  his  assistants  from  hand-me-downs  purchased  at  the  Salvation 
+Army.91 
+
+All  these  examples  should  not  bother  us  if  we  consider  the  artist’s  name 
+merely  as  source-identifying  or  “authenticating”  rather  than  indicative  of 
+authorial  touch,  and  reputation  as  commercial  goodwill  rather  than  personal 
+cachet.  As  we  will  see  below,  the  rise  of  the  “contingent”  art  object—easily 
+reproducible, mass manufactured, and industrially made—severs the presumed 
+personal connection between author and work. 
+
+ 
+
+88.   See, e.g., Hansmann & Santilli, supra note 15, at 107. 
+89.   ROSALIND E. KRAUSS, Introduction, in THE ORIGINALITY  OF  THE AVANT-GARDE  AND OTHER 
+
+MODERNIST MYTHS, supra note 73, at 1, 3. 
+
+90.   See Hansmann & Santilli, supra note 15, at 107 (“The right of integrity might to some extent 
+serve  to  protect  the  public  .  .  .  .  But  this  is  perhaps  best  seen  as  an  incidental  and  not  a 
+primary function of the right of integrity, because the doctrine does not give the public any 
+protection when the artist himself participates in the deception . . . .”); see also id. at 107 n.37 
+(“For example, both [Giorgio] De Chirico and [Salvador] Dali were said to have signed—
+presumably for compensation—paintings actually created by other artists.”). 
+
+91.   I do not mean to suggest, of course, that the phenomenon of merely “signing off” on a work 
+is unique to the contemporary sphere. Even Auguste Rodin was famously known to have 
+had little hand in the actual creation of his sculptures: “Much of it was done in foundries to 
+which  Rodin  never  went  while  the  production  was  in  progress;  he  never  worked  on  or 
+retouched  the  waxes  from  which  the  final  bronzes  were  cast.”  ROSALIND  E.  KRAUSS,  The 
+Originality  of  the  Avant-Garde,  in  THE  ORIGINALITY  OF  THE  AVANT-GARDE  AND  OTHER 
+MODERNIST MYTHS, supra note 73, at 151, 153. And, perhaps most blasphemously, Rodin had 
+granted  the  French  nation  the  right  to  make  posthumous  editions  of  his  work  from  his 
+estate’s plasters. Id. at  151. However, the practice of signing off on or merely approving  a 
+work is certainly more prominent in the contemporary age. See infra Section II.C. 
+
+236 
+ 
+
+ 
+the artist as brand 
+
+2. The Contingent Art Object 
+
+ 
+
+Art historian Martha Buskirk points out that moral rights, or, as she calls 
+them, “personality” rights, “have, if anything, gained in significance for works 
+from  which  traditional  markers  of  touch  or  presence  have  been  excluded.”92 
+Buskirk  traces  the  rise,  beginning  in  the  1960s,  of  what  she  terms  the 
+contemporary  “contingent  object”93—that  is,  an  art  object  made  from 
+industrial  materials,  easily  fabricated  and  reproduced,  and  highly  context 
+dependent.  In  the  new  art  world  of  the  contingent  object,  Buskirk  explains, 
+“[a]dherence to external conventions that limit and control the production of 
+otherwise inherently reproducible works is essential in order for such works to 
+be collected in the context of a system based on the importance of originality 
+and rarity.”94 To give just one telling example: In 1989, the Ace Gallery in Los 
+Angeles wanted to borrow a piece by Donald Judd and another by Carl Andre 
+from Italian collector Giuseppe Panza for an upcoming exhibit on minimalist 
+art. The two pieces were on display in Panza’s villa in Varese, Italy. But rather 
+than ship the works from Italy, Panza ordered unauthorized fabrications of the 
+Judd  and  Andre  works  instead.  When  the  artists  found  out  about  the 
+reproductions, both publicly disclaimed affiliation with the works.95 As we will 
+see later in Section III.B, such an incident is highly problematic because it has 
+now  increased  the  number  of  Donald  Judds  and  Carl  Andres  on  the  market, 
+decreasing  the  scarcity  effect  and  thus  threatening  to  reduce  the  value  of  the 
+artists’  other  works.  And  yet  this  instance  is  indicative  of  the  problems 
+plaguing the new contingent art object, for which “mechanical reproduction is 
+at  the  core,”  and  by  which  “original  works  of  art  [are]  made  increasingly 
+through processes in which duplication of the work is controlled not through 
+inherent limits on production (most commonly, the skill or touch of the artist) 
+but  by  external  limits.”96  Consider  the  shift  from  a  Renaissance  painting, 
+labored over by an artist’s paintbrush and bearing the distinctive brushstrokes 
+of  his  hand,  to  Judd’s  work  from  Panza’s  villa,  which  is  simply  “an 
+uninterrupted row of largely identical five-foot-high galvanized iron plates.”97 
+ 
+
+92.   BUSKIRK, supra note 16, at 49 (emphasis added). 
+93.   Id. at 211-60. 
+94.   Id. at 4. 
+95.   Id. at 3. 
+96.   Id. at 12. Photography, of course, is one of the most obvious categories of work to which this 
+applies.  However,  because  VARA  only  protects  photographs  existing  in  200  or  fewer 
+consecutively  numbered,  signed  prints,  it  acts  as  an  external  check  on  the  artist’s  own 
+potentially dilutive actions, as well. See infra note 149. 
+
+97.   BUSKIRK, supra note 16, at 2. 
+
+ 
+
+237 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+The former could in rare instances be copied by a master impostor—the latter, 
+whether  in  an  unauthorized  reproduction  or  the  authorized  “original,”  has 
+always  been  a  product  of  industrial  fabrication.  Without  internal  checks  on 
+reproduction,  only  through  an  external  legal  measure  like  VARA’s  right  of 
+attribution  may  the  artist  control  the  work’s  fabrication,  re-fabrication,  and 
+subsequent presentation under his name. 
+
+There is yet another reason the artist’s name and reputation matter more 
+now in the contemporary art market than they did in the premodern era. In the 
+age  of  Duchampian  ready-made  objects  (shovels,  urinals)  presented  as  art, 
+context  matters.  That  is,  it  is  important  that  each  object  bearing  the  artist’s 
+name  directly  signifies  a  deliberate  artistic  choice—“[p]resentation  under  an 
+artist’s name ensures not only that a range of different forms of expression will 
+be read as works, but that heterogeneity within that series of works will be read 
+as a decision that itself carries meaning.”98 It is precisely the contingent object 
+read against the entire series of an artist’s work that illuminates. Martha Buskirk 
+acutely  observed  that  “[a]n  earlier  approach  to  the  work  of  art  looked  to  the 
+object  itself  for  evidence  about  its  aesthetic.  For  many  contemporary  forms, 
+however, understanding how a work of art was realized includes far more than 
+a  knowledge  of  artistic  materials  and  their  properties.”99  Indeed,  artists’ 
+oeuvres  no  longer  depend  on  stylistic  unity,  as  Landes  and  Posner  have 
+assumed.100  The  contingent  art  object  may  now  be  just  one  in  a  highly 
+heterogeneous  body  of  works  that  could  include,  to  use  the  example  of  the 
+artist Hans Haacke, “materials as various as water evaporating and condensing 
+in an acrylic cube, suspended fabric blown by air currents from a fan, chickens 
+hatching on a farm in New Jersey, turtles set free in the south of France, and 
+many versions of information systems.”101 
+
+C. Authorship, Brand Building, and the Creation of Goodwill 
+
+Because we cannot believe in the sincerity of modern-day (or, if you prefer, 
+“postmodern”) artistic creation, it makes no sense to speak of moral rights as 
+somehow  closely  guarding  an  artist’s  “spiritual,  non-economic  and  personal 
+nature.”102  This  is  because  we  can  no  longer  assume  some  real,  one-to-one 
+correlation between the artist and his work (or, a belief that “[t]o mistreat the 
+ 
+
+98.   Id. at 10. 
+99.   Id. at 15 (emphasis added). 
+100.  See supra note 84 and accompanying text. 
+101.   BUSKIRK, supra note 16, at 129. 
+102.  Carter v. Helmsley-Spear, Inc., 71 F.3d 77, 81 (2d Cir. 1995). 
+
+238 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+work of art is to mistreat the artist”103). Instead, the deliberate control an artist 
+exerts over his body of work in order to create an identifiable brand for himself 
+has replaced personal connection as the hallmark of contemporary art-making. 
+
+The work of artist Damien Hirst offers an exemplary case study of how the 
+contemporary artist trades on his brand. Hirst is perhaps most famous for his 
+$100 million diamond-encrusted skull, which went on sale at London’s White 
+Cube  gallery  in  2007,  to  much  media  hubbub.  While  some  derision  was 
+inevitable, other critics were quick to pick up the brilliance of such a maneuver. 
+The New York Times pointed out that Hirst, having “made his name by pickling 
+sharks, cows, sheep and the like,” and thus “having created his brand,” “found 
+he could sell almost anything.”104 In fact, anyone familiar with the new artist-
+as-factory model should not be surprised that Hirst is quite honest about his 
+level of involvement in his own works—or lack thereof. For example, it is well 
+known  that  “[h]e  doesn’t  paint  his  triumphantly  vacuous  spot  paintings.”105 
+Like  name-brand  fashion  designers  who  employ  a  host  of  capable  young 
+designers toiling in anonymity behind the scenes, the “House of Hirst,” so to 
+speak, relies on marketing for its appeal. As one critic notes, “His undeniable 
+genius  consists  in  getting  people  to  buy  [the  paintings  he  didn’t  even 
+paint].”106 
+
+Yet  for  all  his  bravado,  Hirst,  like  other  mega-celebrity  artists  of  his  age, 
+including Jeff Koons and Richard Prince, is trading off of a brand built from 
+the  “goodwill”  generated  by  a  collection  of  his  earlier  works.  In  arguing  that 
+brand  building  and  skilled  business  acumen  have  taken  on  increased 
+importance in the art world today, I am not arguing that such artworks lack all 
+artistic  meaning.  Rather,  some  meaning  making  is  necessary,  some  iota  of 
+uniqueness  that  will  first  propel  the  artist  to  stardom.  Art  historian  Isabelle 
+Graw uses the term “symbolic relevance” to denote an artist’s uncanny ability, 
+at  the  beginning  of  his  or  her  career,  to  tap  into  a  specific  condition  of 
+consumer capitalism as a form of artistic commentary.107 Koons, for example, 
+made his name with his early Banality sculpture series of 1988, which “evoked 
+an idealist belief in the redemptive function of art, only to render it absurd once 
+
+ 
+
+103.  MERRYMAN ET AL., supra note 11, at 423. 
+104.  Alan Riding, Alas, Poor Art Market: A Multimillion-Dollar Head Case, N.Y. TIMES, June 13, 
+
+2007, http://www.nytimes.com/2007/06/13/arts/design/13skul.html. 
+
+105.  Germaine Greer, Germaine Greer Note to Robert Hughes: Bob, Dear, Damien Hirst Is Just One of 
+Many  Artists  You  Don’t  Get,  GUARDIAN,  Sept.  21,  2008,  http://www.guardian.co.uk 
+/artanddesign/2008/sep/22/1. 
+
+106.  Id. 
+107.  GRAW, supra note 68, at 49. 
+
+ 
+
+239 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+and for all.”108 Similarly, Richard Prince made a name for himself in the late 
+1970s with his rephotographed advertisements of “watches, pens, necklaces, or 
+living rooms” which “further heighten[ed] the intended appeal of these items 
+by  means  of  an  aesthetic  procedure  that  intensifies  the  glow  of  the  original 
+image.”109 Graw argues that both examples show that “the market value of an 
+artwork can refer to a symbolic relevance attributed to an artist at some earlier 
+moment  just  as,  conversely,  symbolic  value  once  attributed  extends  to  future 
+works, amounting to a long-term credit.”110 Replace “symbolic value” with the 
+term “goodwill,” and what you have is a classic trademark argument in which 
+the trademark holder, having shored up his reputation via early successes, can 
+now depend on his mark for future profit. That the artist might now employ 
+assistants to do the bulk of his work should upset no one—consider trademark 
+licensing  or  franchising  schemes.  And  finally,  in  what  is  an  all-too-witting 
+acknowledgment  of  the  business  of  art,  California  artist  Dan  Flavin  issues 
+graph paper certificates for all his works, “which validate[] the authenticity of 
+the  work  with  both  the  artist’s  signature  and  the  imprint  of  a  New  York 
+corporate  seal  in  the  name  of  Dan  Flavin,  Ltd.”111  Flavin’s  pieces  frequently 
+consist  of  everyday  household  objects  like  fluorescent  light  tubes.  Hence,  in 
+using his name as both artistic authority and corporation, the certificates are at 
+once  self-consciously  tongue-in-cheek  and  necessary  in  the  world  of  the 
+contingent object. Buskirk points out that the “certificates played an important 
+role in the marketability of pieces where the physical object was made from off-
+the-shelf  elements,” guaranteeing that this light tube is not just any old light 
+tube—it is a Flavin original.112 
+
+Returning to Hirst, while it is true that at the time of the diamond skull’s 
+‘Hirst  brand’  was  simply  too  established,  essentially 
+creation  “[t]he 
+guaranteeing symbolic relevance,”113 the creation of the skull itself fulfilled two 
+functions  toward  furthering  the  strength  of  the  brand.  First,  it  was 
+symbolically relevant, a nodding wink to the vanities of the art world in which, 
+indeed, “the price tag is the art.”114 And second, it represented a brilliant public 
+relations  move  in  the  ultimate  construction  of  the  Hirst  brand,  now 
+synonymous with irreverent excess and purposeful deskilling. 
+
+ 
+
+108.  Id. at 53. 
+109.  Id. at 49. 
+110.   Id. at 55. 
+111.   BUSKIRK, supra note 16, at 53. 
+112.   Id. at 56. 
+113.   GRAW, supra note 68, at 40. 
+114.   Riding, supra note 104 (quoting British journalist Nick Cohen). 
+
+240 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+iii. comparing moral rights and trademark law 
+
+So what does this all have to do with moral rights? As I have already noted, 
+we  must  begin  by  challenging  our  current  conception  of  moral  rights  as 
+protecting a unique set of artists’ interests unlike, and loftier than, any other 
+(although  the  term  “moral,”  unfortunately,  does  not  help).115  In  fact,  a  brief 
+comparison  of  moral  rights  law  and  trademark  law  will  reveal  many  more 
+parallels  than  dissimilarities.  I  find  this  comparison  significant  for  a  few 
+reasons, the most obvious being that trademark is meant to regulate consumer 
+goods—precisely  what  I  am  arguing  art  objects  are  today.  Secondly,  and 
+perhaps more significantly, part of the opposition to moral rights stems from 
+the  belief  that  these  rights  are  somehow  unique  compared  to  traditional 
+copyright  and  trademark  law.  As  commentators  never  fail  to  point  out, 
+American intellectual property law seeks to vindicate the economic, rather than 
+the personal, interests of authors.116 My argument is that moral rights, much 
+like  trademark  law  (which  I  use  to  encompass  trade  dress117  as  well),  can 
+instead regulate a set of distinctly economic rights—both by decreasing search 
+costs  for  art  buyers  and  the  art-viewing  public,  and  by  giving  artists  an 
+incentive  to  create  without  having  other  actors  unfairly  reap  the  benefits  of 
+their goodwill (which, in turn, incentivizes the creation of a consistent, quality 
+body  of  work).118  I  will  now  examine  three  unique  trademark  principles  and 
+discuss  their  relevance  to  moral  rights:  the  attenuation  of  the  “first  sale 
+doctrine,” the Lanham Act’s prohibition against source confusion (or “passing 
+off”), and, lastly, the principles of dilution and tarnishment for famous brands. 
+
+ 
+
+115.   For a brief discussion of the “assumption embedded in moral rights law . . . that works of 
+visual art deserve special treatment in the law because they are especially valuable and unlike 
+other objects,” see Adler, supra note 4, at 269. 
+
+116.   See, e.g., Gilliam v. Am. Broad. Cos., 538 F.2d 14, 24 (2d Cir. 1976); Kwall, supra note 43, at 
+59-60; see also Hughes, supra note 43, at 662 (observing that other commentators frequently 
+discuss intellectual property in terms of economic interests). 
+
+117.   Actionable under section 43(a) of the Lanham Act, 15 U.S.C. § 1125(a) (2006), “trade dress” 
+is “a category that originally included only the packaging, or ‘dressing,’ of a product, but . . . 
+has  been  expanded  .  .  .  to  encompass  the  design  of  a  product.”  Wal-Mart  Stores,  Inc.  v. 
+Samara  Bros.,  Inc.,  529  U.S.  205,  209  (2000)  (explaining  that  “trade  dress  constitutes  a 
+‘symbol’ or ‘device’ for [Lanham Act] purposes”). 
+
+118.   The  economic  justifications  for  trademark  law  are  numerous.  See,  e.g.,  Nicholas  S. 
+Economides,  The  Economics  of  Trademarks,  78  TRADEMARK  REP.  523  (1988);  Ralph  H. 
+Folsom & Larry L. Teply, Trademarked Generic Words, 89 YALE L.J. 1323 (1980); William P. 
+Kratzke,  Normative  Economic  Analysis  of  Trademark  Law,  21  MEMPHIS  ST.  U.  L.  REV.  199 
+(1991); William M. Landes & Richard A. Posner, Trademark Law: An Economic Perspective, 
+30 J.L. & ECON. 265 (1987). 
+
+ 
+
+241 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+A. Trademark Law and the Attenuation of the “First Sale Doctrine” 
+
+Americans  are  very  protective  of  their  property.  I  mean  the  term 
+“protective” to encompass the right to alter it, sell it, destroy it, transfer it—in 
+short,  the  belief  that  because  you  now  own  it,  you  should  be  able  to  do 
+whatever you’d like with it. Thus, it is unsurprising that American law disposes 
+of the notion that a trademark holder might be able to control how an owner 
+disposes  of  his  property.  That  idea  was  formally  done  away  with  by  the 
+Supreme  Court  in  the  1924  case  Prestonettes,  Inc.  v.  Coty,119  which  established 
+what is now known as the “first sale doctrine.” There, the Court held that the 
+defendant, who had originally purchased plaintiff’s perfumes, “had a right to 
+compound  or  change  what  it  bought,  to  divide  either  the  original  or  the 
+modified  product,  and  to  sell  it  so  divided.”120  Since  then,  sellers  in  the 
+“aftermarket”  for  goods  (redistributors,  for  example)  have  invoked  the 
+doctrine,  sometimes  successfully,  against  trademark  owners’  infringement 
+claims.121 
+
+But this defense is not absolute. Courts have held that aftermarket activity 
+can constitute trademark infringement, due to a likelihood of confusion on the 
+part  of  both  purchasers  and  observers  of  the  redistributed  product.  For 
+example,  in  Rolex  Watch,  U.S.A.,  Inc.  v.  Michel  Co.,122  the  Ninth  Circuit 
+affirmed the district court’s finding that the behavior of a defendant who sold 
+used  Rolex  watches  with  “reconditioned”  or  “customized”  non-Rolex  parts 
+under  the  Rolex  trademark  was  “deceptive  and  misleading  .  .  .  and  likely  to 
+cause confusion to subsequent or downstream purchasers, as well as to persons 
+observing  the  product.”123  Rolex  was  just  one  of  several  cases  holding  that  a 
+substantial  alteration  of  the  original  product  may  no  longer  be  sold  with  the 
+original trademark.124 
+
+ 
+
+119.   264 U.S. 359 (1924). 
+120.  Id. at 368. 
+121.   See, e.g., Beltronics USA, Inc. v. Midwest Inventory Distribution, LLC, 562 F.3d 1067 (10th 
+Cir. 2009); Sebastian Int’l, Inc. v. Longs Drug Stores Corp., 53 F.3d 1073 (9th Cir. 1995); 
+Alexander Binzel Corp. v. Nu-Tecsys Corp., 785 F. Supp. 719 (N.D. Ill. 1992); Scarves by 
+Vera, Inc. v. Am. Handbags, Inc., 188 F. Supp. 255 (S.D.N.Y. 1960). 
+
+122.   179 F.3d 704 (9th Cir. 1999). 
+123.   Id. at 707. 
+124.  See also Rolex Watch USA, Inc. v. Meece, 158 F.3d 816 (5th Cir. 1998) (holding that Rolex 
+watches “enhanced” with non-Rolex parts infringed on Rolex’s trademark); Bulova Watch 
+Co. v. Allerton Co., 328 F.2d 20 (7th Cir. 1964) (holding that refitting Bulova movements 
+and dials into non-Bulova diamond-decorated cases resulted in a new product). 
+
+242 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+A trademark owner’s right to enjoin use of its trademark in connection with 
+a substantial alteration of its original product is very similar to an artist’s right 
+to prevent the distortion,  mutilation, or modification of his work that would 
+subsequently be prejudicial to his honor or reputation. The phrase “prejudicial 
+to  an  artist’s  honor  or  reputation”  may  seem  tainted  with  traditional  moral 
+rights rhetoric, but it need not be so. As discussed in Part I, an artist trades in 
+his reputation—for example, that he is a “high art” artist and has sold valuable 
+pieces  before  (which  is,  in  fact,  Hirst’s  explanation  for  why  he  can  get  away 
+with  selling  art  objects  that  are  “clichés”125).  Reputation  is  what  informs  our 
+understanding  of  new  work  that  might  otherwise  remain  context-less  and 
+inexplicable, and it is also what art buyers and sellers are implicitly trading off 
+of when they sell a box of brown clothes for a five-digit price. That is, the box 
+of brown clothes is not valuable on its own, but only becomes valuable in light of 
+the  fact  that  it  is  “an  Artist  X  original”  (and,  likewise,  the  fact  that  it  is  “an 
+Artist X original” is only significant because of the entire body of work that has 
+rendered X an art-world superstar). 
+
+So, then, what if the owner of an artwork decides to cut it up into six pieces 
+and  then  sell  the  pieces  separately?  In  what  is  perhaps  the  most  famous  case 
+invoked  in  support  of  moral  rights  law,  the  French  artist  Bernard  Buffet 
+painted a refrigerator and sold it at a charity auction. A few months later, while 
+flipping  through  another  auction  catalog,  Buffet  came  across  a  piece  labeled 
+“Still Life and Fruits by Bernard Buffet.” The piece was touted as a painting on 
+metal.  However,  upon  closer  inspection,  Buffet  discovered  that  it  was  in  fact 
+one of the panels of the auctioned-off refrigerator.126 Apparently, the owner of 
+the refrigerator had cut it up into six pieces and attempted to sell the fragments 
+separately, “evidently to increase its resale value.”127 This would no doubt be a 
+“substantial” alteration that the first sale doctrine does not protect, because it 
+would  create  a  likelihood  of  confusion  both  to  the  purchaser  of  Still  Life  and 
+Fruits  and  to  any  observer  who  might  see  the  work  displayed.  Indeed,  the 
+problem of observer confusion for the fine arts is even more dire than that for 
+commodity  goods  because  any  observation  of  the  latter  is  likely  incidental, 
+while  works  of  fine  art  are  often  purposefully  displayed  at  gallery  shows, 
+loaned to museums, and the like. 
+
+Further, the use of the Buffet name creates significant free-rider problems. 
+As the Ninth Circuit explains in another first sale case (in which the defendant 
+
+ 
+
+125.   DAMIEN HIRST, NEW RELIGION 7 (2005). 
+126.  See John Henry Merryman, The Refrigerator  of Bernard  Buffet, 27 HASTINGS L.J. 1023, 1023 
+
+(1976). 
+
+127.   Hansmann & Santilli, supra note 15, at 100. 
+
+ 
+
+243 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+had purchased Volkswagen badges and subsequently affixed them to marquee 
+labels): 
+
+[Defendant]  contends  that  in  “first  sale”  cases  “the  element  of  ‘free-
+riding’  present  in  other  post-purchase  confusion  cases  disappears 
+because the producer has paid the price asked by the trademark owner 
+for  the  ‘ride.’”  This  contention  misses  the  point.  When  a  producer 
+purchases a trademarked product, that producer is not purchasing the 
+trademark. Rather, the producer is purchasing a product that has been 
+trademarked.  If  a  producer  profits  from  a  trademark  because  of  post-
+purchase confusion about the product’s origin, the producer is, to that 
+degree, a free-rider.128 
+
+Likewise, the owner who is hoping to increase resale value in his cut-up Buffet 
+panels is making an implicit free-rider assumption: that he can do so because 
+the Buffet name is valuable, and not because he means to create some newer, 
+better work. While this case may strike some as unusual, it is, unfortunately, 
+not  unique.  Others  have  cut  up,  for  example,  two  paintings  by  the  French 
+painter Henri de Toulouse-Lautrec (into ten pieces) and Pablo Picasso’s Trois 
+Femmes, which was purchased for $10,000, subsequently cut into five hundred 
+one-inch squares, and sold off for over $100 apiece—creating a hearty $40,000 
+profit.129  The  clever  “entrepreneur”  behind  the  Trois  Femmes  resale  even 
+remarked, “If this thing takes off, we may buy other masters as well and give 
+them the chop.”130 
+
+Further,  the  practice  of  cutting  up  art  and  selling  the  pieces  is  especially 
+problematic  because  it  decreases  the  scarcity  value  of  the  Buffet  brand,  with 
+respect to both the inverse quantity/price relationship (increased supply means 
+decreased price) and the “possibility that works of art are a form of ‘collectable’ 
+good  whose  value  to  its  owner  derives  in  significant  part  simply  from  its 
+scarcity.”131 Inundating the market with piecemeal art in larger quantities than 
+the original presents obvious problems for fine artists in particular, who may 
+wish to limit the number of goods they place in the market. 
+
+ 
+
+128.  Au-Tomotive Gold, Inc. v. Volkswagen of Am., Inc., 603 F.3d 1133, 1138 (9th Cir. 2010). 
+129.  See MERRYMAN ET AL., supra note 11, at 439. 
+130.  Id. 
+131.   Hansmann & Santilli, supra note 15, at 111 n.49. 
+
+244 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+B. Source Identification and Source Confusion 
+
+In  the  prior  Section’s  discussion  of  the  first  sale  doctrine,  I  have  glossed 
+over  the  “likelihood  of  confusion”  standard  that  is  necessary  to  prove 
+trademark infringement in an action under section 43(a) of the Lanham Act.132 
+The standard requires that an infringer cause confusion, mistake, or deception 
+with regard to “the affiliation, connection, or association of such person with 
+another  person,  or  as  to  the  origin,  sponsorship,  or  approval  of  his  or  her 
+goods, services, or commercial activities by another person.”133 The language of 
+“likelihood  of  confusion”  actually  serves  as  a  helpful  way  to  reframe  the 
+dialogue  regarding  authorial  intent  from  one  of  personal  interests134  to 
+economic ones. 
+
+That is, the very idea of a discernable “authorial intent” worth protecting 
+has  come  under  assault  within  postmodern  art  circles.  Commentators  have 
+argued  that  it  makes  no  sense  to  speak  of  “intent”  as  if  there  were  a  single 
+author who controlled the end product,135 and further, that authorial intent is 
+impossible to determine,136 so that a work should exist ab initio, as if divorced 
+from the author.137 The notion of lack of authorial intent makes sense. Authors 
+all build on what came before, so in that sense there is no “single” author of a 
+work, and once a work has left the artist’s hands, it can and probably should be 
+open  to  all  sorts  of  interpretations.  Yet  the  “author-as-construct”  framework 
+provides an easy weapon against moral rights law and its assumed correlation 
+between artist and work. If we sever the connection altogether, then an artist 
+
+ 
+
+132.   15 U.S.C. § 1125(a)(1)(A) (2006). 
+133.   Id. 
+134.   See,  e.g.,  Roberta  Rosenthal  Kwall,  Fame,  73  IND.  L.J.  1,  19  (1997)  (arguing  that  both  the 
+right of publicity and moral rights “seek to protect the integrity of texts by rejecting fluidity 
+of textual interpretation by the public in favor of the author’s interpretation”). 
+
+135.   The classic text is ROLAND BARTHES, The Death of the Author, in IMAGE-MUSIC-TEXT 142, 146 
+(Stephen  Heath  trans.,  1977),  in  which  Barthes  argues  that  the  only  power  of  the 
+contemporary author is to “mix writings.” See also Peter Jaszi, Toward a Theory of Copyright: 
+The  Metamorphoses  of  “Authorship,”  1991  DUKE  L.J.  455,  459  (arguing  that  authorship  is  a 
+socially constructed category reliant on the Romantic notion of an inspired genius); Martha 
+Woodmansee, The Genius and the Copyright: Economic and Legal Conditions of the Emergence of 
+the “Author,” 17 EIGHTEENTH-CENTURY STUD. 425, 428-30 (1984) (same). 
+
+136.  See Adler, supra note 4, at 277-78 (“The belief—that we can discern, let alone police, artistic 
+intention,  that  it  is  necessarily  relevant  to  the  meaning  of  a  work—is  premised  on  naïve 
+theories of interpretation.”). 
+
+137.   Vladimir  Nabokov,  for  example,  had  proclaimed  in  the  Afterword  to  Lolita  that  it  “is 
+childish  to  study  a  work  of  fiction  in  order  to  gain  information  .  .  .  about  the  author.” 
+VLADIMIR NABOKOV, THE ANNOTATED LOLITA 316 (Alfred Appel ed., 1991) (1958). 
+
+ 
+
+245 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+certainly  does  not  possess  any  more  right  to  control  the  work  than,  for 
+example, a museum curator or a clever critic who has figured out a way to alter 
+the work so as to make it more profitable.138 
+
+Yet the critique of authorial intent can also be deployed in favor of moral 
+rights, if one considers the author not acting as the ultimate creator but instead 
+serving a source-identifying function. In other words, when we say “this is a 
+Warhol,”  we  mean  to  conjure  up  all  sorts  of  associations  with  the  Warhol 
+brand—not  least  of  which  is  that  the  artwork  is  extremely  high  in  price,  but 
+also that it may be, for example, purposefully deskilled, playful, or irreverent. 
+All of these associations emerge from the deliberate choices Warhol has made 
+in putting a specific body of work into the stream of commerce, and hence, into 
+the  public  eye.  The  notion  of  “artist  name  as  source-identifying  function” 
+makes  sense  in  a  contemporary  art  market  in  which  assistants  are  frequently 
+the ones actually “making” or “creating” the art.139 Just as a fashion designer 
+would place his trademark on a host of items designed by a team of assistants, 
+so the artist himself performs the legitimating function of merely signing off 
+on the work, and thereby rendering it “a Warhol.” Yet it is misleading to label 
+a work “a Warhol” if it has been modified or mutilated and the artist himself 
+did not willfully sign off on the modification, for now the artist neither is the 
+“origin”  of  the  product  (i.e.,  the  mutilated  version  did  not  come  from  the 
+Warhol  “factory”)  nor  professes  to  sponsor  or  approve  it  in  any  way.  A 
+mutilation  thus  not  only  allows  another  party  to  reap  the  financial  rewards 
+associated  with  the  famous  Warhol  name,  but  it  also  imposes  negative 
+externalities on the art consumer by increasing search costs.140 
+
+To  return  to  Buffet’s  refrigerator,  the  labeling  of  one  of  the  refrigerator 
+panels as “Still Life and Fruits by Bernard Buffet” is misleading, because Buffet 
+ 
+
+138.   This is the case of famous modernist critic Clement Greenberg “stripping” the paint from 
+David Smith sculptures, thus actually rendering them more valuable than the painted ones. 
+See  Sarah  Hamill,  Polychrome  in  the  Sixties:  David  Smith  and  Anthony  Caro,  in  ANGLO-
+AMERICAN  EXCHANGE  IN  POSTWAR  SCULPTURE, 1945-1975,  at  91,  93  (Rebecca  Peabody  ed., 
+2011) (citing Rosalind Krauss, Changing the Work of David Smith, 62 ART IN AM. 30 (1974)). 
+However, it does not matter much if Greenberg created more market value, for the sculpture 
+may  no  longer  accurately  be  branded  a  David  Smith.  Smith  evokes  this  concept  of 
+misrepresentation in an angry letter to ARTnews: “Since my sculpture 17h’s . . . during the 
+process of sale and resale, has suffered a willful act of vandalism . . . . I renounce it as my 
+original work and brand it a ruin. My name cannot be attributed to it, and I shall exercise 
+my legal rights against anyone making this representation.” MERRYMAN  ET  AL., supra note 
+11, at 441. 
+
+139.  See supra note 68 and accompanying text. 
+140.  Cf.  Qualitex  Co.  v.  Jacobson  Prod.  Co.,  514  U.S.  159,  163-64  (1995)  (stating  trademark’s 
+goals as reducing consumer search costs and insuring “a producer that it . . . will reap the 
+financial, reputation-related rewards associated with a desirable product”). 
+
+246 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+neither  was—to  borrow  the  Supreme  Court’s  definition  of  “origin”  in  the 
+Lanham  Act  context—“the  producer  of  the  tangible  product  sold  in  the 
+marketplace,” nor had he “commissioned or assumed responsibility for (‘stood 
+behind’)  production  of  the  physical  product.”141  Buffet  created  a  painted 
+refrigerator.  By  dicing  the  refrigerator  up  into  six  parts,  the  owner  has 
+subsequently created six new works, so that he, and not Buffet, is now the new 
+producer  or  “source.”  Thus  the  owner  should  not  be  permitted  to  unfairly 
+profit off of the Bernard Buffet name in selling the new works.142 
+
+C. Famous Artists, Famous Brands: A Brief Remark on Dilution 
+
+Throughout  this  Note,  I  have  mentioned  a  trademark  owner’s  right  to 
+prevent “dilution” of his brand in passing. In this Section, I shall discuss briefly 
+the rights to prevent dilution by blurring and dilution by tarnishment, both of 
+which apply only to famous marks.143 The former, as defined by the Lanham 
+Act, prevents the association between the defendant’s mark and a famous mark 
+that  would  impair  the  distinctiveness  of  the  famous  mark.144  The  latter, 
+meanwhile,  prohibits  the  association  between  the  defendant’s  mark  and  a 
+famous mark that would harm the reputation of the famous mark.145 While the 
+only provision of VARA requiring an artist to first prove his own “fame” is the 
+right against destruction (and there, he must prove the “recognized stature” of 
+a specific work, not his general fame), the dilution right provides an interesting 
+framework  for  understanding  the  right  of  attribution  and  the  right  of 
+integrity’s  shared  requirement  that  any  distortion  or  modification  be 
+prejudicial to the artist’s honor or reputation. 
+
+First, this requirement suggests that the right of integrity standing on its 
+own—that is, as applied to a modified work that does not include the artist’s 
+name—nonetheless  requires  an  association  between  the  modified,  unmarked 
+work and the artist. Otherwise, if no association arises, it would be impossible 
+for any harm to the artist’s reputation to occur. Thus it is likely that the right of 
+integrity would apply only in cases where a “dilution by blurring” occurs—that 
+is,  where  the  unmarked  work  would  impair  the  distinctiveness  of  a  famous 
+ 
+
+141.   Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23, 31-32 (2003). 
+142.  It should be noted, too, that Buffet was an early example of the artist-as-businessman, as art 
+critics in his day called him the “Rembrandt of the stock market speculators.” GRAW, supra 
+note 68, at 194 (quoting Clemns Krümmel, Der Maler Bernard Buffet—Zwischen Verniss und 
+Rehabilitation, TEXTE ZUR KUNST, Mar. 2002, at 85). 
+
+143.   15 U.S.C. § 1125 (2006). 
+144.  Id. § 1125(a)(1)(A). 
+145.   Id. § 1125(a)(1)(B). 
+
+ 
+
+247 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+mark. This would apply more to artists painting in distinctive styles that would 
+rise  to  the  level  of  trade  dress  protection  than  for  artists  who  have  more 
+heterogeneous, eclectic oeuvres.146 Artists with more “instantly recognizable”147 
+styles, therefore, are far more likely to evoke associations between an unmarked 
+work that nonetheless retains much of the artist’s distinct style and the artist’s 
+name. 
+
+Second,  some  might  object  that  VARA’s  use  of  the  phrase  “prejudicial  to 
+the artist’s honor or reputation” is strongly tinged with personhood rhetoric.148 
+But it need not be so. When a famous artist polices his mark, he is doing more 
+than protecting his own reputation. He is also protecting other owners of his 
+work  by  ensuring  that  the  brand  they  own  stays  unique  and  untarnished.  In 
+effect,  the  artist  acts  as  the  “least  cost  avoider”  in  policing  the  mark  against 
+dilution,  exempting  owners  who  have  an  economic  interest  in  protecting  the 
+value of their work from needing to do so themselves.149 Likewise, in the case 
+of  an  up-and-coming  artist,  the  artist  can  protect  buyers’  investment  in  his 
+work, even if his work has not yet acquired distinctiveness (which trademark 
+law  refers  to  as  “secondary  meaning”).150  That  is,  while  dilution  by  blurring 
+may not be possible because there is no “distinctiveness” to impair, a dilution-
+by-tarnishment-type injury could nonetheless occur if the modification is likely 
+to  harm  the  artist’s  reputation.  The  more  untarnished  a  young  artist’s 
+reputation  stays,  the  more  likely  it  is  that  the  goodwill  accrued  early  in  his 
+career can be converted to a longer-term cash-out for both the artist and earlier 
+buyers of his work.151 
+
+It  has  been  my  hope  throughout  this  Part  to  sever  moral  rights  from  the 
+strong personhood arguments that seem to untether VARA from the economic 
+goals  of  American  copyright  law.  In  an  age  in  which  art  has  become  more 
+ 
+
+146.  See id. § 1125(c); supra notes 98-101 and accompanying text. 
+147.   LANDES  &  POSNER,  supra  note  84,  at  259  (contemplating  the  possibility  of  trademark 
+
+protection in an artist’s distinctive style); see supra note 84 and accompanying text. 
+
+148.  17 U.S.C. § 106A (2006). 
+149.  Thanks to Shaun Mahaffy for this point. Of course, it is possible that the artist’s own actions 
+might  have  a  deleterious  effect  on  an  owner  of  his  work.  A  recent  lawsuit  brought  by  a 
+collector of photographer William Eggleston’s works alleges that Eggleston has diluted the 
+resale  value  of  the  collector’s  works  by  issuing  new  large-scale  prints  of  them.  See  Kelly 
+Crow,  Collector  Sues  Artist  over  Photographs,  WALL  ST.  J.,  Apr.  5,  2012,  http://online 
+.wsj.com/article/SB10001424052702303299604577324073338603692.html.  However,  I 
+note  here  that  VARA  serves  as  an  interesting  external  check  on  an  artist’s  own  dilutive 
+actions. If Eggleston were to issue more than two hundred prints of a specific photograph, 
+he would lose his VARA rights. 
+
+150.  See infra note 170 and accompanying text. 
+151.   See supra Section II.B. 
+
+248 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+commoditized than ever, VARA’s moral rights regime is even more essential, 
+precisely because of its trademark-like ability to protect an artist’s brand from 
+subsequent  dilution  and  free  riding.  By  repositioning  romantic  concepts  like 
+authorial reputation, intent, and honor as market concerns (of avoiding post-
+sale  consumer  confusion,  promoting  truthful  source  identification,  and 
+encouraging active mark policing), moral rights can do for art what trademark 
+law  has  long  done  for  other  commodities.  Yet  some  might  wonder  whether 
+copyright—which  has  long  endowed  artists,  writers,  and  filmmakers  with  a 
+broad,  comprehensive  set  of  rights—is  already  sufficient  for  accomplishing 
+what VARA does. I take up this question below. 
+
+iv. who’s afraid of moral rights? 
+
+Critics  might  object  that  the  mere  existence  of  a  theoretical  connection 
+between art and commerce, or between moral rights and trademark law, does 
+not  necessarily  warrant  an  unprecedented  expansion  of  American  intellectual 
+property law in the form of the VARA regime. In this Part, I question whether 
+the United States can achieve the goals of VARA within a traditional copyright 
+or trademark regime. I then conclude by considering the broader question of 
+the public interest, which copyright law has long been said to benefit.152 
+
+A. Are There Alternatives? 
+
+A  question  frequently  asked  of  moral  rights  law  is:  what  is  it  about  art 
+(meaning  fine  art,  and  not  “the  arts,”  which  could  potentially  refer  to  film, 
+music,  and  books)  that  warrants  special  protection?153  We  could  answer  this 
+question with lofty statements about the importance of art to our heritage, our 
+culture, and society as a whole—and in many ways, we have done just that.154 
+But  this  is  a  debatable  point,  and  the  extent  to  which  the  vulgarities  and 
+materialist  excesses  of  the  contemporary  art  market,  as  outlined  above,  have 
+destroyed that notion is also up for debate. A better question to ask would be 
+whether  the  fine  arts  lack  important  protections  in  a  traditional  intellectual 
+property regime. I believe that they do. 
+ 
+
+152.   The Copyright Clause in the Constitution empowers Congress to “promote the Progress of 
+Science . . . by securing for limited Times to Authors . . . the exclusive Right to their . . . 
+Writings.” U.S. CONST. art. I, § 8, cl. 8. The notion of “Progress” is traditionally linked to 
+the public interest. 
+
+153.   See Adler, supra note 4, at 295. 
+154.   See  H.R.  REP.  NO.  101-514,  at  6-7  (1990),  reprinted  in  1990  U.S.C.C.A.N.  6915,  6915-17 
+
+(extolling the merits of art for society). 
+
+ 
+
+249 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+1. Copyright and Its Limitations 
+
+As  Hansmann  and  Santilli  point  out,  “[C]opyright  is  more  useful  to 
+authors of literary works than it is to visual artists as a means of controlling the 
+way  in  which  their  work  is  presented  to  the  public.”155  Because  “copyright 
+covers  principally  reproductions,”  the  fine  artist  has  “much  less  control  over 
+the uses made of his original painting or sculpture once that object is sold by 
+the  artist.”156  Copyright  would 
+significant 
+modifications of the sold work (under the derivative works right157), and it does 
+not protect against the destruction or improper display of that work at all.158 
+
+likely  only  protect  against 
+
+Indeed,  it  seems  to  me  that  the  unique  position  of  visual  artists  in  the 
+intellectual  property  sphere  derives  from  the  high  premium  placed  on  the 
+original  itself.  This  characteristic  of  the  art  market  renders  it  simply  not 
+analogous to the markets for literature, film, or music. The justifications and 
+critiques  of  the  copyright  regime  have  often  been  predicated  on  solving  the 
+problem  of  a  high  first-copy  cost  with  little  to  no  cost  in  reproduction. 
+Copyright,  therefore,  must  create  an  “artificial”  property  right  in  a  non-
+rivalrous good.159 However, because the marginal cost of making a copy of the 
+original is zero or slightly greater than zero, there are inevitably inefficiencies 
+because  the  buyer  must  pay  above  marginal  cost  in  order  for  the  seller  to 
+recoup the costs of making the original.160 Hence the protracted debates about 
+how  much  copyright  protection  is  “enough”  protection  to  incentivize  the 
+creation of that first copy: How many copies should the owner be allowed to 
+profit from so that he may create at all?161 
+ 
+
+155.   Hansmann & Santilli, supra note 15, at 114. 
+156.  Id. 
+157.   See infra note 164 and accompanying text. 
+158.   See H.R. REP. NO. 101-514, at 9, reprinted in 1990 U.S.C.C.A.N. 6915, 6918-19 (“Under the 
+American copyright system, an artist who transfers a copy of his or her work to another may 
+not, absent a contractual agreement, prevent that person from destroying the copy or collect 
+damages after the fact. Further, with respect to modifications of a work, only an artist who 
+retains  the  copyright  in  his  or  her  work  is  able  to  invoke  title  17  rights  in  defense  of  the 
+integrity  of  that  work,  and  then  only  where  a  modification  amounts  to  the  creation  of  a 
+derivative work.”). 
+
+159.  Non-rivalrous goods can be shared without any loss in value. For instance, many can listen 
+to the same MP3 of a song at once; my listening to this copy does not prohibit your listening 
+to the exact same copy. 
+
+160.  See NEIL WEINSTOCK NETANEL, COPYRIGHT’S PARADOX 84-86 (2008). 
+161.   See Eldred v. Ashcroft, 537 U.S. 186, 248 (2003) (Breyer, J., dissenting) (stating that costs to 
+the public imposed by the Copyright Term Extension Act and the royalties it generates “may 
+be higher than necessary to evoke creation of the relevant work”). 
+
+250 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+Visual artists cannot hope to benefit much, if at all, from this copy-based 
+regime.162 Almost all the market value for their work resides within the original 
+copy. This distinctive feature of visual art creates what I have termed “the cult 
+of the authentic” that has rendered Benjamin’s prediction of a world without 
+fetishism for the original163 simply untrue for the fine arts (though visual art 
+still permits secondary markets for prints, mugs, tote bags, postcards, and the 
+like). This renders an art object similar to a luxury good in that it is rivalrous 
+(once I own this Hirst, you may not own the same Hirst). At the same time, 
+the art object is even more covetable for its scarcity (this is the only diamond 
+skull that is out there, while Prada may have made at least five thousand of its 
+Spring 2011 bags). 
+
+Given  the  inadequacy  of  a  traditional  copyright  regime  governing 
+subsequent  copies  rather  than  the  original  itself,  then,  it  seems  that  moral 
+rights, or a regime according the artist more control over the original, serves as 
+an adequate solution for the problems arising from the uniqueness of the fine 
+art  object.164  That  is,  the  moral  rights  regime  shifts  the  incentive  mechanism 
+from  a  promise  of  control  over  the  copies  to  a  promise  of  control  over  the 
+original—which is, really, the only copy that matters to the fine artist. 
+
+2. Why Not Just Use Traditional Trademark Law? 
+
+As  noted  throughout  this  Note,  numerous  scholars  have  suggested 
+trademark  redress  for  artists.165  However,  courts  do  not  seem  especially 
+ 
+
+162.  See  H.R.  REP.  NO.  101-514,  at  9,  reprinted  in  1990  U.S.C.C.A.N.  6915,  6919  (“Motion 
+pictures  and  other  audiovisual  works  are  generally  produced  and  exploited  in  multiple 
+copies.  They  are 
+licensed  for 
+broadcasting,  shown  on  airplanes,  and  sold  as  videocassettes.  Each  market  has  its  own 
+commercial  and  technological  configuration  that  affects  how  the  work  will  appear  when 
+presented. In contrast, the works of visual art covered by H.R. 2690 are limited to originals: 
+works  created  in  single  copies  or  in  limited  editions.  They  are  generally  not  physically 
+transformed to suit the purposes of different markets.”). 
+
+leased  for  theatrical  and  non-theatrical  exhibition, 
+
+163.  See Benjamin, supra note 58. 
+164.  Hansmann and Santilli have also suggested that a significant alteration of a work may result 
+in a violation of the “derivative works” right. See Hansmann & Santilli, supra note 15, at 114-
+16. Landes and Posner have also made this comparison between the integrity right and the 
+derivative works right. See LANDES & POSNER, supra note 84, at 279. 
+
+165.  See  Hansmann  &  Santilli,  supra  note  15,  at  116  (“Further  expansive  interpretation  of 
+trademark  law might  be  sufficient  to  give  artists  the  same  type  of  reputational protection 
+afforded  by  the  right  of  integrity.”);  see  also  LANDES  &  POSNER,  supra  note  84,  at  276 
+(“Attribution  rights  are  closely  related 
+trademark  
+infringement . . . so that much of what they seek to prevent is already forbidden . . . .”). 
+However, the recent case of Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23 
+
+to  rights  against 
+
+fraud  and 
+
+ 
+
+251 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+hospitable  to  this  argument.  John  Henry  Merryman  states  that  there  is  no 
+known 
+
+case  in  which  the  Lanham  Act  has  been  used  to  provide  moral  right 
+protection to a work of visual art. The closest approach is Visual Artists 
+and  Galleries  Association  v.  Various  John  Does,  80  Civ.  4487  (S.D.N.Y. 
+1980)  .  .  .  .  There,  Picasso’s  signature  appeared  on  T-shirts  without 
+authorization of the artist’s heir, and an action was brought to enjoin the 
+manufacture, distribution, or sale under § 43(a) of the Lanham Act.166 
+
+However, as that case involved the literal use of Picasso’s name as a trademark 
+on  a  non-art  product,  it  does  little  in  the  way  of  redress  for  alterations  or 
+modifications  of  original  artwork.167  The  question  remains  whether  an  actual 
+Picasso  painting  that  has  been  cut  up  into  several  pieces  would  still  qualify 
+under a section 43(a) action. 
+
+Further,  there  are  other  significant  reasons  that  section  43(a)  is  an 
+inadequate solution to the problems addressed by VARA. For one, the Lanham 
+Act requires that a name be used in commerce in connection with the sale of 
+goods or services, so it would likely not cover situations where a not-for-profit 
+museum displays an unauthorized work of art. This was the approach the court 
+took 
+involved  the 
+unauthorized  reproduction  of  an  artist’s  work  in  a  series  of  pamphlets.  The 
+district  court  held  that  “[b]ecause  the  pamphlet  was  not  employed  in  the 
+‘advertising or promotion’ of goods or services, plaintiff has failed to satisfy a 
+prerequisite to invocation of the Lanham Act.”169 
+
+in  Wojnarowicz  v.  American  Family  Ass’n,168  which 
+
+Secondly, both trade dress and personal names (in this case, the name of 
+the  artist)  require  secondary  meaning—that  is,  acquired  distinctiveness—in 
+order to be actionable as a trademark under section 43(a).170 For artists who are 
+not yet established, this creates large barriers to bringing a section 43(a) claim, 
+which is unfortunate because up-and-coming artists have a special interest in 
+protecting the integrity of their works and name in order to establish symbolic 
+
+ 
+
+(2003),  may  have  eviscerated  at  least  some  attribution  claims.  See  infra  notes  174-177  and 
+accompanying text. 
+
+166.  MERRYMAN ET AL., supra note 11, at 438. 
+167.  Interestingly,  here  we  see  a  section  43(a)  claim  being  brought  after  the  artist’s  death, 
+whereas  a  VARA  claim  could  only  be  brought  while  an  artist  is  still  alive.  See  17  
+U.S.C. § 106A (2006). 
+
+168.  745 F. Supp. 130 (S.D.N.Y. 1990). 
+169.  Id. at 142. 
+170.  See RESTATEMENT (THIRD) OF UNFAIR COMPETITION § 14 (1995). 
+
+252 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+value early on.171 Further, the requirement that an artist acquire distinctiveness 
+in his trade dress would demand that an artist paint in a consistent, repetitive 
+style—while  many  of  the  most  famous  artists  today  work  in  largely 
+heterogeneous styles across a wide variety of media.172 
+
+The interest in trademark law as a potential remedy for “moral rights”-type 
+violations  (misattribution,  modification,  etc.)  has  gained  more  ground  since 
+the  2003  Supreme  Court  decision  Dastar  Corp.  v.  Twentieth  Century  Fox  Film 
+Corp.,173 in which the defendant repackaged the plaintiff’s television series and 
+sold it as its own. The plaintiff sued under the Lanham Act (since VARA only 
+applies to fine artists), but the Court ruled that because the series’s copyright 
+had  expired,  the  work  was  now  effectively  in  the  public  domain  and  anyone 
+was free to use it as they pleased.174 The decision has been roundly criticized 
+because  the  Court  conflated  copyright  and  trademark  rights  for  authors  by 
+suggesting that if an author does not have a right to the former, he does not 
+have  a  right  to  the  latter,  either.175  The  decision  is  interesting  in  relation  to 
+VARA, which applies only to physical works of art, yet specifically disaggregates 
+copyright and moral rights, ensuring the author some degree of control even if 
+he  has  transferred  his  copyright  with  the  work.176  While  Dastar  does  not 
+mention moral rights or VARA, it at least implies that we are unlikely to see an 
+expansion  of  moral  rights-type  protections  for  works  outside  of  visual  art, 
+specifically  because  the  Court  has  eviscerated  at  least  a  portion  of  possible 
+section 43(a) claims for authors.177 
+
+ 
+
+171.   See supra notes 81-110 and accompanying text. 
+172.   See supra note 101 and accompanying text. 
+173.   539 U.S. 23 (2003). 
+174.   Id. at 33-34. 
+175.   See  Ginsburg,  supra  note  54,  at  380  (“Because  there  is  no  general  copyright  protection  of 
+authors’ names, authors had resorted to trademark law to fill the gap [with] a remedy for 
+the  false  attribution  of  [an  author’s]  work  to  another  person  .  .  .  on  the  ground  that  the 
+conduct constituted ‘reverse passing off.’ . . . But, in Dastar, the Supreme Court rejected the 
+application  of  this  text.”);  Jane  C.  Ginsburg,  The  Right  To  Claim  Authorship  in  U.S. 
+Copyright and Trademarks Law, 41 HOUS. L. REV. 263, 268 (2004). 
+
+176.  17 U.S.C. § 106A(e)(2) (2006). 
+177.   However, in other situations where an author is likely to prevail on his copyright claim, he 
+could  have  an  additional  cause  of  action  under  section  43(a),  as  well.  Plaintiffs  used  this 
+approach in Gilliam v. American Broadcasting Cos., 538 F.2d 14 (2d Cir. 1976), where the court 
+applied the Lanham Act to a significant modification of a Monty Python work. 
+
+ 
+
+253 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+B. Can Moral Rights Advance the Public Interest? 
+
+The  economic 
+
+lies 
+
+incentive  behind  copyright 
+
+in  the  belief  that 
+“encouragement of individual effort by personal gain is the best way to advance 
+public  welfare  through  the  talents  of  authors.”178  Thus,  it  is  at  least  arguable 
+that  if  a  modification  of  copyright  does  not  advance  “the  Progress  of 
+Science,”179  that  modification 
+is  unconstitutional.180  Likewise,  VARA’s 
+legislative  history  is  highly  concerned  with  elucidating  the  important  public 
+benefits that will emerge from according moral rights to artists: 
+
+Artists must sustain a belief in the importance of their work if they are 
+to do their best. If there exists the real possibility that the fruits of this 
+effort will be destroyed after a mere ten to twenty years the incentive to 
+excel is  diminished and replaced with  a purely profit motivation. The 
+Visual  Artists  Rights  Act  mitigates  against  this  and  protects  our 
+historical legacy.181 
+
+This  Note,  however,  has  argued  that  a  “pure  profit  motivation”—in  clever 
+branding,  advertising,  and  general  celebrity-type  antics  to  which  the 
+contemporary art world today is prone182—is all that’s left, and the moral rights 
+regime  is  the  inadvertent,  inaptly  named  legal  system  that  protects  those 
+economic, trademark-like interests. 
+
+Yet perhaps what is most interesting about the comparisons between moral 
+rights law and trademark law is that both can serve a distinctly public function: 
+rather than incentivize creators, trademark law  means to protect  consumers, or 
+the  buying  public,  by  ensuring  accurate  source  identification  and  reducing 
+search  costs.  Further,  the  viewing  public  also  benefits  from  accurate  source 
+identification, as they must read each work, intact and as the artist intended it, 
+against the whole of an artist’s oeuvre. The benefit to the public, however, is 
+necessarily  predicated  on  the  individual  viewer’s  encounter  with  the  work, 
+rather  than  a  shared  sense  of  community  ethos.  This  Note  has  thrown  into 
+
+ 
+
+178.   Mazer v. Stein, 347 U.S. 201, 219 (1954). 
+179.  U.S. CONST. art. I, § 8, cl. 8. 
+180.  See  Eldred  v.  Ashcroft,  537  U.S.  186,  211-12  (2003)  (noting  petitioners’  argument  that  the 
+Copyright Term Extension Act fails to promote the “Progress of Science” because it does not 
+incentivize the creation of new works (quoting U.S. CONST. art. I, § 8, cl. 8)). 
+181.   H.R. REP. NO. 101-514, at 7 (1990), reprinted in 1990 U.S.C.C.A.N. 6915, 6916. 
+182.  Jeff  Koons,  for  example,  made  advertising  his  mode  of  art  making  by  launching  an 
+advertising campaign in different international art magazines, where he posed “in them as a 
+slightly perverse-looking teacher.” GRAW, supra note 68, at 53. 
+
+254 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+doubt  whether  we  can  expect  art  to  serve  a  broader  social  function  that  
+consists  of  “common  reference  points  or  icons  .  .  .  widely  shared  in  social 
+communication.”183  Whether  the  often  obscure  contemporary  art  objects  of 
+today will resonate the way Picasso or Rembrandt paintings did in their day is 
+a  topic  for  a  different  article.  I  only  mean  to  suggest  that  the  industrial 
+processes through which the contingent art object is made rely on the artist to 
+perform  quality  control  measures,  for  which  “signing  off”  on  the  finished 
+product  is  key.  In  the  event  that  a  poor  fabrication  is  made  off  an  artist’s 
+original  plans—as  was  the  case  with  the  reconstruction  of  Carl  Andre’s  1969 
+piece Fall,184 in which the bend in the steel curved less dramatically than Andre 
+had  intended—VARA  would  allow  the  artist  to  prevent  use  of  his  name  in 
+connection with the work.185 
+
+Lastly,  the  fact  that  trademark  law  has  also  been  acknowledged  to 
+incentivize producers by facilitating investment in goodwill186 may serve a more 
+traditionally  socially  beneficial  artistic  function  as  well.  Like  copyright  law, 
+thinking  of  art  making  as  brand  making  may  encourage  artists  to  develop  a 
+unique, path-making style and garner symbolic value early on in their careers, 
+ 
+
+183.   Hansmann & Santilli, supra note 15, at 106. 
+184.  See supra note 95 and accompanying text. 
+185.   However, as Andre’s Fall was fabricated well before VARA’s enactment, the artist could do 
+nothing to prevent its showing at the Ace Gallery in Los Angeles. His only recourse was to 
+disavow connection of his name with the piece after the fact. “After finding out about the 
+refabrication  from  a  review,  Andre  insisted  in  a  letter  to  Art  in  America  that  ‘No  such 
+“refabrication” of [his] work has been authorized by [him] and any such “refabrication” is a 
+gross falsification of [his] work.’” BUSKIRK, supra note 16, at 45. However, the damage had 
+already been done. For visitors to the Ace Gallery, their encounter with the Andre piece had 
+necessarily  been  what  I  might  venture  to  call  a  “false”  one—a  different  fabrication  of  the 
+piece,  with  the  dramatic  curves  Andre  had  intended,  would  have  produced  the  desired 
+engagement  with  the  object.  Though  a  slight  change  in  the  curvature  of  a  sculpture  may 
+seem trivial to some, it is precisely minimalist art’s focus on the object as experience—the 
+object’s ability to confront the viewer with its specific shape and materiality as the viewer 
+moves around the piece—that constitutes its power. Michael Fried, in his famous article on 
+minimalist sculpture, discusses this fact: 
+
+[Minimalist] sensibility is theatrical because, to begin with, it is concerned with 
+the  actual  circumstances  in  which  the  beholder  encounters  literalist  work  .  .  .  . 
+[Minimalist  artist  Robert]  Morris  believes  that  this  awareness  is  heightened  by 
+“the  strength  of  the  constant,  known  shape,  the  gestalt,”  against  which  the 
+appearance  of  the  piece  from  different  points  of  view  is  constantly  being 
+compared. 
+
+MICHAEL FRIED, Art and Objecthood, in ART AND OBJECTHOOD: ESSAYS AND REVIEWS 148, 153 
+(1998). 
+
+186.  Stacey  L.  Dogan  &  Mark  A.  Lemley,  The  Merchandising  Right:  Fragile  Theory  or  Fait 
+
+Accompli?, 54 EMORY L.J. 461, 466 (2005). 
+
+ 
+
+255 
+
+ 
+the yale law journal 
+
+ 
+
+122:218 
+
+  2012 
+
+in  turn  propelling  forward  the  Progress  of  Science  via  stylistic  innovation.187 
+Whether  meant  as  a  serious  offer  or  a  satirical  message,  Hirst’s  grotesque 
+gesture of the $100 million skull has accurately captured “the essence of [our] 
+culture and record[ed] it for future generations,”188 resulting in a new form of 
+art for the contemporary era. As it turns out, “it is often through art that we are 
+able to see truths, both beautiful and ugly.”189 
+
+conclusion 
+
+Part  of  the  reason  that  the  myth  of  van  Gogh’s  ear  and  of  the  romantic 
+modernist  painter  have  persisted  through  the  ages  is  because  it  is  a  story  we 
+want to believe in, and, subsequently, vicariously experience. Even as recently 
+as the 1950s, Jackson Pollock, that art-world superstar, was still the lone wolf, 
+chugging whiskey and splashing paint wildly about on his floor-laid canvases. 
+We  see  brazen  action  painting  like  Pollock’s  as  risk-taking:  “[W]e  rely  on 
+[artists]  to  make  up  for  our  own  timidity,  on  their  courage  to  dignify  our 
+caution.”190 And while we  may “all make our wagers,” the  “artist does  more. 
+He bets his life.”191 
+
+And  so  it  is.  If  the  stakes  of  the  game  have  changed  since  high 
+modernism—if it is now “cool” to be economically successful192—so, too, have 
+the  times.  Warhol  may  have  been  the  first  artist  to  successfully  capitalize  on 
+and  foreshadow  the  power  of  modern  media  and  consumer  culture  for  the 
+artist-as-businessman model,193 but he is just one of many postmodern artists 
+who  now  look  to  the  conditions  of  the  market  as  talisman  and  guide,  rather 
+than  creating  artworks  from  the  spontaneous,  inspired  depths  of  their  own 
+tortured souls.194 In some ways, this may make sense. Isn’t art on some level 
+ 
+
+187.   See supra Section II.B. 
+188.  H.R. REP. NO. 101-514, at 7 (1990), reprinted in 1990 U.S.C.C.A.N. 6915, 6917 (quoting 135 
+
+CONG. REC. S6811-13 (daily ed. June 16. 1989) (statement of Rep. Markey)). 
+
+189.  Id. 
+190.  Gopnik, supra note 6. 
+191.   Id. 
+192.  See GRAW, supra note 68, at 95-100. 
+193.  It is well known, of course, that Warhol was a commercial illustrator before he launched his 
+
+art career. See 2 FOSTER ET AL., supra note 40, at 486. 
+
+194.  This  statement,  however,  calls  for  a  caveat.  I  don’t  mean  to  imply  that  all  contemporary 
+artists are modeling themselves in the Hirst, Koons, or Prince fashion. But those who do 
+not—the  so-called  “artist’s  artists,”  admired  for  their  formal  rigor,  their  romantic  beliefs, 
+and, best of all, their death in near-obscurity—will benefit little, if at all, from moral rights, 
+since the right only persists for the duration of an artist’s life. “Artist’s artists,” like the post-
+
+256 
+ 
+
+ 
+the artist as brand 
+
+ 
+
+always reflective of the times we live in? If this is the case, I do not know how 
+the dialogue surrounding moral rights may be justified in the future. In fact, 
+the pendulum may just swing back again at some later date, in which art once 
+again  becomes  lofty,  and  moral  rights  thus  become  a  special  subset  of  rights 
+somehow justifiable of their own accord. For now, I propose that moral rights 
+are  probably  no  more  or  less  than  trademark  law—that  great  engine  of 
+consumerism, beating ceaselessly on in the name of commerce, capitalism, and 
+yes, even culture. 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+conceptualist sculptor Paul Thek, will often be “rediscovered” and launched into art world 
+favor  posthumously,  when  galleries  and  museums  scramble  to  hold  “long-overdue” 
+retrospectives of their work. See Paul Thek: Diver, a Retrospective, WHITNEY MUSEUM OF AM. 
+ART, http://whitney.org/Exhibitions/PaulThek (last visited Sept. 3, 2012) (noting that the 
+Whitney’s  2010-11  show  is  Thek’s  first  retrospective  in  the  United  States);  see  also  Peter 
+Schjeldahl, Out-There Man, NEW YORKER, Nov. 1, 2010, at 116 (“He died, of AIDS, in 1988, 
+at  the  age  of  fifty-four;  he  is  too  little  known,  and  his  rediscovery  promises  to  have  a 
+galvanizing effect on young artists.”). 
+
+257 
+
+

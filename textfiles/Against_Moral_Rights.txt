@@ -1,0 +1,2667 @@
+California Law Review
+
+Volume 97 | Issue 1
+
+2-28-2009
+
+Against Moral Rights
+
+Amy M. Adler
+amy.adler@nyu.edu
+
+Article 6
+
+Follow this and additional works at: http://scholarship.law.berkeley.edu/californialawreview
+
+Part of the Law Commons
+
+Recommended Citation
+Amy M. Adler, Against Moral Rights, 97 Cal. L. Rev. 263 (2009).
+Available at: http://scholarship.law.berkeley.edu/californialawreview/vol97/iss1/6
+
+Link to publisher version (DOI)
+http://dx.doi.org/doi:10.15779/Z380X3H
+
+This Article is brought to you for free and open access by the California Law Review at Berkeley Law Scholarship Repository. It has been accepted for
+inclusion in California Law Review by an authorized administrator of Berkeley Law Scholarship Repository. For more information, please contact
+jcera@law.berkeley.edu.
+
+Against  Moral Rights
+
+Amy M.  Adler't*
+
+"Art has become a  synonym for the destruction  of art."
+
+"[T]o  imagine  a new art,  one must break the  ancient  art."
+
+-Marcel  Schwob2
+
+-Bruno  Latour'
+
+"A  picture  is a sum of its destructions."
+
+- Picasso
+
+3
+
+INTRODUCTION
+
+Normally  when  you buy  something,  you  can do  what you want  with  it.  If
+you  buy a  chair,  or  a  dress,  or  a  car,  you  can  alter  it,  embellish  it,  neglect  it,
+abuse  it,  destroy  it,  or  throw  it  away.  But  if you  buy  a  work  of  art,  your
+freedom to do what you want with that object-your own property-is  severely
+curtailed.  This  is  because  artists  have  powerful  special  rights,  called  "moral
+
+Copyright  ©  2009  California  Law Review,  Inc.  California  Law Review,  Inc.  (CLR) is  a
+California  nonprofit  corporation.  CLR  and  the  authors  are  solely  responsible  for  the  content  of
+their publications.
+
+t  Professor  of  Law,  N.Y.U.  School  of  Law.  For  helpful  conversations  or  generous
+comments on previous  drafts, or both,  I  would like to thank: Cynthia Adler,  David Adler,  Jonathan
+Adler,  Sam  Ball,  Matthew  Benjamin,  Bennett  Capers,  Susan  Crawford,  Anne  Dailey,  Rochelle
+Dreyfuss,  Barry Friedman,  Abner  Greene,  Moshe  Halbertal,  Charles  Halpern,  Andy  Koppelman,
+Christopher  Kutz,  Roberta  Kwall,  Jessica  Litman,  Kyle  Logue,  Chase  Madar,  Willajeanne
+McLean,  James  Meyer,  Rick  Pildes,  Judith  Prowda,  Anthony  Reese,  Lenn  Robbins,  Seana
+Shiffrin,  Geoffrey  Stone,  Yofi  Tirosh,  Rebecca  Tushnet,  Steven  Wilf,  Katrina  Wyman,  Donn
+Zaretsky, and  Diane Zimmerman.  I  would  also like  to thank  the  participants  in faculty  workshops
+at U.C.  Berkeley,  the  University  of Michigan,  U.C.L.A.,  the  University  of  Connecticut,  N.Y.U
+School  of Law, the  Hosier  Scholar  Series  at DePaul  and  Sotheby's  Institute of Fine  Arts.  Thanks*
+to Julie  Ehrlich, Nicole Field, Peter Nelson,  Charlotte  Taylor, David Young,  and Dylan  Yaeger  for
+outstanding  research assistance. The  D'Agostino/Greenberg Fund  provided generous  support.
+
+* 
+
+In  keeping  with  the  conventions  of the  Essay  format,  the  footnotes  in  this  piece  are
+relatively sparse.  I  would be pleased  to provide a  fuller  list of sources  or a fuller  explication  of my
+arguments to anyone who  writes to me  at amy.adler@nyu.edu.
+
+1.  BRUNO  LATOUR,  ICONOCLASH:  BEYOND  THE  IMAGE  WARS  IN  SCIENCE  RELIGION  AND
+
+ART  21  (Bruno Latour & Peter Weibel eds.,  2002).
+
+2.  DARIO  GAMBONI,  THE  DESTRUCTION  OF  ART 257  (2004).
+3.  Christian  Zervos,  Conversations avec Picasso, CAHIERS  D'ART,  1935,  at  173,  175  (quote
+
+translated from  the original  French by  Amy Adler).
+
+CALIFORNIA  LAW REVIEW
+
+[Vol.  97:263
+
+rights,"  unlike  the  creators  of other  objects.  Moral  rights  allow  an  artist  to
+control  what  you  do with  his work  of art  even  after  he  has  sold  it and  even  if
+you  are  not  in  privity  of contract  with  him.  European  in  origin,  moral  rights
+have  been  part  of U.S.  federal  law  since  the  enactment  of the  Visual  Artists
+Rights  Act of 1990 ("VARA"),  an amendment  to the Copyright Act.4
+
+Moral  rights  scholarship  is  startling  in  its  uniformity.  Scholars  take  it as
+gospel that  moral  rights  are  crucial  for art  to  flourish  and that,  if anything,  we
+need  a  more  robust  moral  rights  doctrine. 5 Commentators  routinely  lament  the
+gap  between  our  modest American  moral  rights  laws  and  the  more  expansive
+European ones.6 In  contrast  to  copyright  law,  which  has  produced  a  vibrant
+body  of scholarship  critical  of the  law's excesses,  the  main scholarly  criticism
+of moral  rights  is  that  they  do  not  reach  far  enough.7  Wading  through  the
+largely  repetitive  law  review  literature,  it doesn't  take  long  to  get  the  implicit
+message:  if you  don't  support  moral  rights,  you're  a  philistine  who  doesn't
+
+4.  Visual Artists  Rights Act  of 1990,  17  U.S.C.  §  106A  (2000).  For a  discussion  of various
+
+state  statutes  enacted  prior to VARA,  see  infra note  12  and accompanying  text.
+
+5. 
+
+For just a few  examples  of important  scholarship  on  moral rights,  see  Roberta  R. Kwall,
+Inspiration and Innovation: The Intrinsic Dimension of the Artistic Soul, 81  NOTRE DAME  L. REV.
+1945,  1986  (2006)  [hereinafter  Kwall,  Inspiration]; Roberta  R.  Kwall,  "Author-Stories":
+Narrative's Implications for Moral Rights and Copyright's Joint Authorship Doctrine, 75  S.  CAL.
+L.  REV.  1 (2001)  (describing  the  urgent  importance  of moral  rights  as  a  way  to  encourage  the
+creative  process)  [hereinafter  Kwall,  Author Stories]; Susan  P.  Liemer,  Understanding Artists'
+Moral Rights:  A  Primer, 7  B.U.  PUB. INT.  L.J.  41,  41-42,  44  (1998);  John  H.  Merryman,  The
+Refrigerator of  Bernard Buffet,  27  HASTINGS  L.J.  1023  (1976)  (pre-VARA  article  urging
+American  adoption  of  moral  rights).  See  generally  JOSEPH  SAX,  PLAYING  DARTS  WITH  A
+REMBRANDT:  PUBLIC  AND  PRIVATE  RIGHTS  IN  CULTURAL  TREASURES  (1999)  (explaining  the
+urgent public  interest in preserving  important cultural  objects,  including art).
+
+6. 
+
+See,  e.g.,  Jane  C.  Ginsburg,  Have Moral Rights  Come  of (Digital) Age  in  the  United
+States?,  19  CARDOZO  ARTS  &  ENT.  L.J.  9  (2001);  Kwall,  Author  Stories, supra note  5,  at  22;
+Roberta  R. Kwall,  The  Attribution Right in  the  United States:  Caught in  the  Crossfire Between
+Copyright and Section  43(A),  77  WASH.  L.  REV. 985  (2002);  Roberta  R.  Kwall,  How Fine Art
+Fares Post VARA,  1 MARQ.  INTELL.  PROP.  L.  REV. 1  (1997)  [hereinafter  Kwall,  How Fine Art
+Fares Post VARA];  Robert  J.  Sherman,  Note,  The  Visual Artists Rights Act  of 1990: American
+Artists Burned Again, 17  CARDOZO  L.  REV. 373,  416-17  (1995).  Cf  Lior Jacob  Strahilevitz,  The
+Right To Destroy, 114  YALE  L.J.  781,  853  (2005)  (praising VARA's  "balanced  and  sophisticated
+approach").  Several  important  articles  predating  VARA  urged  the  United  States  to  adopt  moral
+rights  laws.  See  Edward  J.  Damich,  The  Right  of  Personality: A  Common-Law  Basis for
+Protection of the Moral Rights ofAuthors, 23  GA.  L. REV. 1 (1988);  Roberta  R. Kwall,  Copyright
+and the Moral Right: Is an American Marriage Possible?, 38  VAND.  L. REV.  1 (1985).
+
+For one  of a handful  of articles  criticizing  VARA  from  a  free  speech perspective,  see  Eric E.
+Bensen,  Note,  The  Visual Artist's Rights Act  of 1990:  Why  Moral Rights Cannot be  Protected
+Under the United States Constitution, 24 HOFSTRA  L. REV.  1127  (1996).
+
+7. 
+
+See,  e.g.,  Robert  C.  Bird,  Moral Rights: Diagnosis and Rehabilitation (Nov.  27,  2007)
+http://ssm.com/abstract=1033021  (predominant  trend  in  scholarship  urges  "adopting...  stronger
+protection  of [moral]  rights  in the  United  States").  Even  the  fiercest,  most  influential  copyright
+critic,  Lawrence  Lessig,  has  refrained  from  criticizing  moral  rights.  Lessig  wrote:  "I  don't  see
+where  I've  ever  said  anything  against  moral  rights  .... [T]he  moral rights  tradition  has  actually
+proven  to  be  an  important  check  on  .. .publishers."  Lessig  Blog:  On  the  Challenge  of Moral
+Rights,  http://lessig.org/blog/2005/02/on  he challenge-of  moral-righ.html  (Feb.  26,  2005,  8:30
+a.m.).
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+understand  the sanctity of art.
+
+This essay  seeks to undermine  the  foundations  of moral rights  scholarship,
+law,  and  theory.  My  argument  is  that  moral  rights  laws  endanger  art  in  the
+name of protecting it. Drawing  on contemporary  art theory  and practice,  I  focus
+on  the  moral  right  of  "integrity,"  called  "the  heart  of  the  moral  rights
+doctrine."  This  right  allows  an  artist  to  prevent  modification  and,  in  some
+cases, destruction  of his art work.  As  I show,  the  right  of integrity  threatens  art
+because  it  fails  to  recognize  the  profound  artistic  importance  of  modifying,
+even  destroying,  works  of art,  and  of freeing  art  from the  control  of the  artist.
+Ultimately,  I  question  the  most  basic  premise  of moral  rights  law:  that  law
+should  treat visual  art as a  uniquely prized  category  that  merits exceptions  from
+the normal rules  of property and contract.
+
+To  put  it mildly,  this  is  not  a  popular  argument.  Indeed,  it challenges  the
+key  assumptions  of  virtually  all  moral  rights  scholarship.  But  moral  rights
+scholars  have  overlooked  a  surprising  problem: 
+the  conception  of  "art"
+embedded  in moral rights law  has  become  obsolete.  As a  result,  the  law  is  on  a
+collision  course  with  the  very  art  it  seeks  to  defend.  In  fact,  as  I  will  show,
+moral  rights  are  premised  on  the  precise  conception  of "art"  that  artists  have
+been  rebelling  against  for the  last forty  years.  Moral  rights  law  thus  purports  to
+protect  art, but does  so by  enshrining a vision  of art that  is directly  at  odds with
+contemporary  artistic  practice.  It protects  and reifies  a notion  of art that  is  dead.
+In this  Essay  I ask  the  question:  does  moral  rights  law  make  sense  in  an  era  in
+which  "art,"  at  least  as we  have known it for centuries,  is  over?
+
+My  goal  is  to  provoke  us  to  rethink  our  fundamental  assumptions  about
+moral  rights  law.  Rather  than  offering a  detailed  proposal  for legal  reform,  this
+Essay  attacks  the  very  foundations  of the  law.  Part  I  offers  a brief introduction
+to  moral rights  doctrine  in  the  United  States, and  outlines  the  doctrine's  major
+theoretical  tenets. Parts  II  and  III  set  forth  my claim  that  moral  rights  endanger
+art  in  the  name  of protecting  it.  Specifically,  Part  II  challenges  the  premise  in
+moral  rights  law  that the  artist  is  the  proper person  in whom we  should  vest  the
+power  to  enforce  moral  rights.  Here  I  dispute  the  pivotal  assumption  in moral
+rights  law that  an  artist's  interests  and the public's  interest  in a  work  of art will
+be  aligned.  Ultimately  I  question  the  romantic  assumptions  about  authorship
+and  meaning  embedded  in  moral  rights  law.  In  my  view,  these  assumptions
+threaten  to  freeze  the  vitality  of artistic  discourse.  Part  III  in  turn argues  that
+moral  rights  law  obstructs  rather  than  enables  the  creation  of art  because  the
+law  fails  to  recognize  the  defining  role  that  destruction  has  come  to  play  in
+contemporary  artistic  practice.  In Part  IV, I challenge  the most basic  premise  of
+moral  rights  law:  that  visual  art  is  an  exalted  and  distinct  category  of property
+
+8.  Kwall,  How Fine Art Fares Post VARA,  supra note  6; see also Neil Netanel,  Alienability
+Restrictions  and  the  Enhancement  of  Author  Autonomy  in  United  States  and  Continental
+Copyright Law,  12  CARDOZO  ARTS  & ENT.  L.J.  1, 37  (1994)  ("The  right  of integrity  is  generally
+seen as the  central  tenet  of moral rights jurisprudence.").
+
+CALIFORNIA  LA W REVIEW
+
+[Vol.  97:263
+
+that deserves  special legal  treatment.
+
+A  note  about  the  definition  of "art":  I use  the  term "art"  to describe  work
+that  critics,  scholars,  galleries,  museums,  and  "artists"  generally  discuss  as
+"art."  But  I  also  use  the  term  "art"  to  include  works  that  make  us  ask  the
+question  "what  is  art?"  in the  first place. 9  By using  the term  so broadly,  I mean
+to illustrate  a  central  point  of this piece:  attacks  by  "artists"  on  the  category  of
+"art"  have at once  constituted and begun to destroy  the meaning  of that term.10
+
+I
+
+THE RATIONALES  FOR  MORAL  RIGHTS
+
+A  Brief Introduction to  U.S. Moral Rights Doctrine
+
+Moral  rights  were  only  recently  and  grudgingly  accepted  in  the  United
+States.  The  concept of moral rights  originated in nineteenth  century France  and
+has  long  been  recognized  by  most  civil  law  countries.  Moral  rights  are  a
+centerpiece  of the  international  Berne  Convention  for the Protection  of Literary
+and  Artistic  Works,11  which  the  United  States  resisted  signing  for years  in part
+because  of the moral  rights provision  in the  Convention.  In the  interim,  several
+states  filled  the  gap;  led  in  1979  by  California,  eleven  states  enacted  various
+forms  of moral  rights  protections  for  visual  artists.' 2  Eventually,  in  1988,  the
+United  States  ratified  the  Berne  Convention. 13  Two  years  later,  Congress
+enacted VARA  as an  amendment to the Copyright  Act.14
+
+VARA  grants three  basic  moral  rights  to artists who  create  "visual  art,"  a
+narrowly  defined  statutory  category  that  I  describe  below.  The  first  and most
+important  moral right  is  the  right of "integrity"  of the  work of art,  which  grants
+an  artist  "the  right  ... 
+to prevent  any intentional  distortion,  mutilation, or other
+modification  of that  work  which  would  be  prejudicial  to  his  or  her  honor  or
+reputation,  and  any  intentional  distortion,  mutilation,  or  modification  of that
+work  is  a violation  of that  right.' 5  The  second  right, which  I  do  not address  in
+any  depth  in  this  Essay,  is  traditionally  known  as  the  right  of "paternity"  or
+
+9. 
+
+I discuss  this  in  depth  in Amy Adler,  The Folly of Defining "Serious " Art, in THE  NEW
+IN  THE  ARTS  90  (Christopher
+
+GATEKEEPERS:  EMERGING  CHALLENGES  TO  FREE  EXPRESSION 
+Hawthorne,  Andrfs  Szdnt6  et  al. eds., 2003).
+
+10.  As  I  will  show, these  attacks  include  both  conceptual  attacks  on the  category  of "art,"
+
+and physical  attacks  on  works  of art.
+
+11.  Berne  Convention  for  the  Protection  of  Literary  and  Artistic  Works,  art.  6bis,  as
+amended on  Sept. 28,  1979,  S.  Treaty Doc.  No. 99-27,  1161  U.N.T.S.  3. Article  6bis became  part
+of the Convention  in 1928.
+
+12. 
+
+For a discussion of the  state statutes  and  the  extent to which VARA  preempts them,  see
+
+WILLIAM F.  PATRY,  4 PATRY  ON  COPYRIGHT  §  16:44  (2007).
+
+13.  Congress  passed  the  Beme  Convention  Implementation  Act of  1988,  Pub.  L.  No.  100-
+
+568,  102  Stat.  2853  (1988)  (codified as  amended in scattered  sections of 17  U.S.C.)
+
+14.  Visual Artists  Rights Act  of 1990,  17  U.S.C. §  106A  (2000).
+15. 
+
+Id. § 106A  (a)(3)(A).
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+"attribution."  It allows the  artist to  insist that his work  be properly  attributed  to
+him  and that  works  not  be  misattributed  to  him. 6  Finally,  to  artists  who  have
+created  works  of visual  art  that are  "of recognized  stature,"  VARA  expands  the
+right  of  integrity,  allowing  the  artist  to  prevent  not  merely  modification  but
+outright destruction  of the  work.17
+
+What  qualifies  as  a  work  of "visual  art"  for  purposes  of  VARA?  The
+statute  defines  visual  art  to  include  "a  painting,  drawing,  print,  or  sculpture,
+existing  in a  single  copy,  or in a  limited  edition of 200  copies  or fewer that  are
+signed  and  consecutively  numbered  by  the  author."' 8  The  definition  includes
+photography  that  has  been  "produced  for  exhibition  purposes  only"  and  exists
+"in  a  single  copy  that  is  signed  by  the  author,  or  in  a  limited  edition  of 200
+copies  or  fewer  that  are  signed  and  consecutively  numbered  by  the  author."', 9
+VARA  explicitly  excludes  from  its  definition  of  visual  art  a  number  of
+materials  such  as  motion  pictures,  audiovisual  works,  books,  magazines,
+electronic  publications,  and  advertising  or promotional  materials. 20  And,  aside
+from  a  few  exceptions,  VARA  applies  only  to  visual  art  created  after  its
+
+16. 
+
+Id. §  106A  (a)(1).  This Essay focuses  on the  right of integrity,  which is  considered  to be
+the  central  moral right,  and  not on  the  right  of attribution.  Nonetheless,  I want  to  briefly note that
+the  right  of attribution,  while  not unproblematic,  see,  e.g.,  infra note  201,  can  serve  some  of the
+same  goals  as the  integrity  right  while  avoiding  the  major  problems  addressed  in  this  Essay.  By
+allowing an  artist to remove  his name  from  a modified  artwork,  the right of attribution protects  the
+artist's  reputational  interest  while  not  interfering  with  the  public  interest  in  modification.  The
+mutilated work,  a new  and potentially  valuable  work  of art, can  still exist, but the  artist can protect
+his reputation  (albeit  imperfectly)  by choosing  to disassociate  himself from  the altered  work.
+
+17. 
+
+Id. §  106A(a)(3)(B).  VARA  does  not  define  "recognized  stature."  For a  few  opinions
+interpreting  the  term's  meaning,  see  Martin v.  City of Indianapolis,  192  F.3d  608  (7th  Cir.  1999);
+Scott  v.  Dixon,  309  F.  Supp.  2d 395  (E.D.N.Y.  2004);  Pollara  v.  Seymour,  150  F.  Supp.  2d  393
+(N.D.N.Y.  2001);  Carter  v.  Helmsley-Spear,  Inc.,  861  F.  Supp.  303  (S.D.N.Y.  1994),  rev'd on
+other grounds, 71  F.3d  77 (2d  Cir. 1995).
+
+The  right to prevent  destruction  is  not universal  in civil  law  countries. See  Carter, 71  F.3d at
+81.  This  variation illustrates  the  different purposes  that moral rights  laws  serve.  To the extent that
+the  right  of integrity  serves primarily  to  protect the  artist's  reputational  interest, destruction  tends
+not  to  be  prevented;  the  theory  is  that  continued  display  of  mutilated  work  misrepresents  an
+artist's  intention  and  thus  harms  him  more  than  if  the  work  were  destroyed  altogether.  To  the
+extent  that  the  right  of integrity  is  seen  as  primarily  protecting  the  public  interest  in  preserving
+cultural  heritage,  destruction  is prohibited.
+
+18. 
+
+17  U.S.C.  §  101.  The  statute protects  "multiple  cast,  carved,  or fabricated  sculptures  of
+200  or  fewer  that  are  consecutively  numbered  by  the  author  and  bear  the  signature  or  other
+identifying  mark  of the  author."  Id.  VARA's  legislative  history  directs  courts  to  "use  common
+sense  and  generally  accepted  standards  of  the  artistic  community  in  determining  whether  a
+particular  work  falls  within  the  scope  of the  definition."  H.R.  REP.  No.  101-514,  at  11  (1990),
+reprinted in  1990  U.S.C.C.A.N.  6915,  6921.  But  my argument  in Part IV  suggests  that in light of
+the  direction  of  contemporary  art,  "common  sense"  and  "generally  accepted  standards  of  the
+artistic community"  could  lead to opposite  outcomes.
+
+19. 
+20. 
+
+17  U.S.C.  §  101.
+Id. For  some  cases  finding  material  did  not  meet  the  definition  of "visual  art"  under
+VARA,  see  Nat'l Ass'n for Stock  Car Auto  Racing, Inc.  v. Scharle,  356  F.  Supp. 2d  515  (E.D.  Pa.
+2005);  Lilley v.  Stout, 384  F. Supp.  2d  83 (D.D.C. 2005);  Pollara, 344  F.3d  265.
+
+Section  113(d)  of  VARA  makes  special  provisions  for  works  attached  to  buildings;  this
+
+category raises  a particular  set  of problems.  17  U.S.C. §  113(d).
+
+CALIFORNIA LAW REVIEW
+
+[Vol.  97:263
+
+effective  date, June  1, 1991. 21
+
+European  moral  rights  laws  are  far  more  extensive  than  their  U.S.
+in  a  number  of  important  ways.22  Most  prominently,  many
+counterparts 
+European  countries  grant  artists  other  moral  rights  in  addition  to  integrity  and
+paternity. 23 Most  recognize  a  right  of divulgation,  giving  the  artist the  right to
+decide  when  (and  whether)  the  work  is  complete  and  can  be  shown. 24  The
+rights can  even extend  to allowing  an  artist to  compel construction  of a not-yet-
+built, commissioned  work.  For example,  Jean  Dubuffet  sued Renault  to force  it
+to  construct  a  2,000  square  foot  "environmental  sculpture"  designed  by  the
+artist  on  a  commission  from the  company.  A  French  Court  ordered  Renault  to
+complete  the  sculpture,  even  though  Dubuffet  had  received  his  fee. 25  French
+law  also  provides  a  "right  to repent  or  retake"  a  work  at  any  time  in  exchange
+for  payment. 26  In  addition,  moral  rights  in  most  countries  are  inalienable; 27  in
+28
+In  contrast,  under  VARA,  moral  rights  are
+France  the  rights  are  perpetual. 
+waivable  and endure  only for the  life  of the  artist.29
+
+Unlike  those  countries,  the  United  States  has  never  fully  embraced  moral
+rights.  VARA  extends  to  a  limited  class  of material.  Critics  lament  that  even
+within  that  limited  class,  VARA  is  under-enforced;  courts  tend  to  read  the
+statute  narrowly.  Because  of  this  and  other  pressures,  legal  scholars  have
+
+See infra note 29.
+
+21. 
+22.  For  a  comparative  analysis  of U.S.  and European  moral  rights,  see  Netanel,  supra note
+8;  Cyrill  P.  Rigamonti,  Deconstructing Moral Rights, 47  HARV.  INT'L  L.J.  353  (2006);  Martin  A.
+Roeder,  The  Doctrine of Moral Right: A  Study  in the Law of Artists, Authors  and Creators, 53
+HARV.  L.  REV.  554,  557  (1940).  John  Merryman's  1976  article,  supra note  5,  was  profoundly
+influential  on American  scholars.
+
+23.  European  moral  rights  doctrine  is  broader  in  scope  than VARA,  sometimes  extending
+to reproductions  of original works.  See,  e.g.,  Bernard-Rousseau  v. Galeries  Lafayette,  Tribunal de
+grande  instance  [T.G.I.]  [ordinary court  of original jurisdiction],  Mar.  13,  1973,  J.C.P.  1974,  IV,
+48,  at  224  (Fr.).  New  York  moral  rights  law  also  extends  to reproductions.  See  Wojnarowicz  v.
+Am.  Family  Ass'n.,  745 F.  Supp.  130 (S.D.N.Y.  1990).
+
+JOHN  H.  MERRYMAN  &  ALBERT  ELSEN,  LAW,  ETHICS  AND  THE  VISUAL  ARTS  423  (5th
+
+24. 
+
+ed.  2007).
+
+25. 
+
+Id.  at  443  (describing  Dubuffet  v.  Renault,  Supreme  Court  of  Cassation.)  Dubuffet
+didn't enforce  the judgment.  Compare Flack v.  Friends  of Queen  Catherine  Inc.,  139  F.  Supp.  2d
+526,  535  (S.D.N.Y.  2001)  (denying  artist's  VARA  claim  to  have  commissioned  sculpture
+completed).  In  the  recent  litigation  between  Christoph  Buchel  and  Mass  Moca,  the  court  found
+in  that  case.  Mass.  Museum  of
+VARA  inapplicable  to 
+Contemporary  Art  Found.,  Inc.  v. Buchel,  No. 07-30089-MAP,  2008  WL  2755842,  at  *13  (D.
+Mass. July  11,  2008).
+
+the  unfinished  sculpture  at  issue 
+
+See Netanel, supra note 8,  at 2.
+
+26.  MERRYMAN  & ELSEN,  supra note 24,  at 423.
+27. 
+28.  This  is  true  in  some  other  civil  law  countries.  Adolf Dietz,  The  Moral Right of the
+Author:  Moral Rights and the Civil Law Countries, 19  COLUM.-VLA  J.L.  & ARTS  199,  213-217
+(1995).
+
+29.  This  applies  to  artworks  created  after  the  effective  date  of  VARA,  June  1,  1991.  17
+U.S.C.  §  106A(d)  (2000).  Works  created  prior  to  that  date  but  not  transferred  enjoy  longer
+protection:  life  of  the  author  plus  70  years  (copyright  term).  VARA  does  not  apply  to  works
+created  and  transferred  prior to  the  effective  date.  Cf  California Art  Preservation  Act,  CAL.  CIv.
+CODE  § 987 (West  2006)  (granting rights for  life plus  fifty years).
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+increasingly  called  for the expansion  U.S. moral rights. 30
+
+B. Moral Rights Theory
+
+Why do  we wish to preserve  the integrity  of art?  And why do we  grant moral
+rights  only  to  the  rarified  category  of  "visual  art"  and  not  to  other  objects?
+Embedded  in moral  rights law  are  two basic  assumptions  about  visual art. First
+is  that  a  work  of  art  is  an  extension  of  the  artist  himself.  I  use  the  term
+"himself'  rather than "herself'  advisedly  because  of the  language of "paternity"
+that  is  a  refrain  in  moral  rights  scholarship. 3 1 Scholars  invoke  the  metaphor  of
+paternity  to  explain  the  artist's profound  connection  with  his  work:  he  cares  so
+deeply  about  the  fate  of his  art  because  it  is  somehow  his  child  and  not just
+another  object.32  Thus  the  artist  feels  personal  anguish  when  someone  else
+modifies  his  artwork/child.  This  is  so  even  though  the  child  has  grown  up  and
+left  home,  and  even  though  the  artist/father  has  sold his  child  (more  about
+commerce  later).33  The  work  of art  is  not just  another  product he  has  sold, but
+rather  an  "expression  of  his  innermost  being."3 4  As  the  Second  Circuit
+observed,  moral  rights  "spring  from  a  belief  that  an  artist  in  the  process  of
+creation  injects his  spirit into  the work. 35
+
+Indeed,  moral  rights  advocates  sometimes  speak  of art  works  as  if they
+were  living  things:  "To  mistreat  the  work  is  to  mistreat  the  artist." 36  It is  as  if
+the  work  has  a  magical  connection  to its  maker;  hurting  the piece  will  hurt  the
+artist  as if you  were sticking  pins in  a  voodoo  doll.  Because  of this emphasis  on
+the  artist's  (and  indeed,  the  art's)  personhood,  moral  rights  are  said  to  have  a
+"spiritual,  non-economic  and personal nature." 37
+
+The  second  assumption  embedded  in  moral  rights  law,  deeply  related  to
+the  first, is  that  works of visual  art deserve  special  treatment in the  law because
+they  are  especially  valuable  and  unlike  other  objects.  As  a  prominent  French
+
+30.  See,  e.g.,  Bird,  supra note  7  (surveying  scholarship  and  finding  predominant  trend
+
+urges "stronger  protection  of rights  in the  United States").
+
+31.  On  this  and other points,  moral rights law  seems to  invite a  feminist  analysis.
+32. 
+
+See, e.g.,  Morris  E.  Cohn,  Author's Moral Rights: Film and Radio, 1 HOLLYWOOD  Q.
+
+69,  69-70 (1945).
+
+33.  The  relationship  between  art  and  commerce  is  so  rich  and  complex  that  I  could  not
+begin  to  do  it justice  within  the  confines  of this  piece.  I  look at  one  aspect  of the relationship  in
+Part  IV, where  I  show  that  contemporary  art  questions  the  distinction  between  art  and  ordinary
+commercial  products.
+
+34.  MERRYMAN  & ELSEN,  supra note 24,  at 423.
+35.  Carter  v.  Helmsley-Spear,  Inc.,  71  F.3d  77,  81  (2d  Cir.  1995).
+36.  MERRYMAN  & ELSEN,  supra note 24,  at 423.
+37.  Carter, 71  F.3d  at  81.  Although  moral  rights  are  almost  always  described  as  non-
+economic,  Professors  Hansmann  and  Santilli  have  argued  that  the  rights  protect  pecuniary
+interests. Henry  Hansmann  & Marina Santilli,  Authors' and Artists'  Moral Rights: A  Comparative
+Legal and Economic Analysis, 26  J.  LEGAL STUD.  95,  106  (1997);  see also William  Landes,  What
+Has the Visual Artists Rights Act Accomplished? (John M.  Olin Law  & Economics  Working Paper
+No. 
+http://papers.ssm.com/sol3/
+papers.cfim?abstractid=270985  (providing economic  analysis  of moral  rights).
+
+available 
+
+2001), 
+
+at 
+
+123 
+
+(2d 
+
+Series, 
+
+CALIFORNIA LA WREVIEW
+
+[Vol.  97:263
+
+legal  decision  explained,  moral  rights  protect  "the  superior  interests  of human
+genius.' 38  We  must  preserve  a  work as  the  artist intended  it so  that  his  genius
+can be  "conveyed  to posterity  without damage." 39 Thus  moral  rights  protect  not
+only the  personality  interests of the individual  artist;  they  also protect the  public
+interest  by preserving  for posterity the object  that immortalizes  the traces  of the
+artist's  greatness. 40  As  Professor  Merryman,  a  great  champion  of  American
+moral  rights  law  has  argued:  "[T]here  is  more  at  stake  than the  concern  of the
+. . There  is  also  the  interest  of others  in  seeing,  or  preserving  the
+artist  . .
+opportunity  to see,  the work  as the  artist intended  it, undistorted ....  We yearn
+for the  authentic,  for contact  with the work in its  true version., 4 1
+
+Members  of Congress  invoked  the  "special  societal  need"  and "important
+42
+public  interest"  served  by  the  arts  as  a  justification  for  enacting  VARA.
+Members  repeatedly noted  the dual  purposes of the bill to protect "not  only...
+the  artistic  community,  but  also  . . . the  American  public['s]  . . . access  to
+artistic  creations. ' A3  Describing  art  as  necessary  for  the  "integrity  of  our
+culture,"  one  representative  claimed  that "[a]rtists  in  this  country  play  a  very
+important  role  in  capturing  the  essence  of culture  and  recording  it  for  future
+generations. 44  A  prominent  witness 
+importance  of
+"preserving  [the  public's]  cultural  legacy,"  arguing  that  "[a]ny  distortion  of
+cheats  the  public  of an  accurate  account  of the  culture  of our
+[art]  works  ... 
+In  this sense,  it would be  a  crime against  society  as  a  whole  to modify
+time.' 
+or  destroy  a  significant  work  of art.  Professors  Hansmann  and  Santilli,  in  an
+important  economic  analysis of moral  rights,  describe  the  public  interest  in the
+integrity  right  as follows:
+
+testified  about 
+
+the 
+
+[W]orks  of  art  often  become  important  elements  in  a  community's
+culture:  other  works  of art  are  created  in  response  to  them,  and  they
+become  common  reference  points  ....  The  loss  or alteration  of such
+works  would  therefore  be  costly to  the  community  at  large,  depriving
+. of a  widely  used  part  of its  previously  shared
+that  community  .
+vocabulary.  46
+
+.
+
+38.  Merryman,  supra note  5, at  1029  (quoting  Millet, Tribunal  de  la Seine,  May  20,  1911,
+
+Amm.  I. 271).
+Id.
+
+39. 
+40.  This emphasis  on public  interest  is not universal  in moral rights  laws.  See supra note  22
+
+and infra notes  50-54 and  accompanying  text.
+
+41.  Merryman,  supra note  5, at  1041.
+42.  H.R.  REP.  No.  101-514,  at  5-6  (1990),  reprinted in  1990  U.S.C.C.A.N.  6915,  6915-16
+(footnote omitted).  The California  moral rights statute significantly  emphasizes the  public  interest.
+See CAL.  CIV.  CODE  § 987(a)  (West  2006); cf  MASS.  GEN.  LAWS,  ch. 231,  §  85S  (2008)  (serving
+dual  purpose of protecting  public and private  interests).
+
+43. 
+44. 
+45. 
+
+1990 U.S.C.C.A.N. at  6920.
+Id. at 6916  (statement ofRep. Markey).
+Id.  (statement  of  Weltzin  Blix,  a  representative  of  the  National  Artists  Equity
+
+Association).
+
+46.  Hansmann  & Santilli, supra note 37,  at  106.
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+Thus,  moral  rights  laws  serve  the  public  interest  by  preserving  our  shared
+cultural  heritage,  the best in our society  and, by extension,  in  us.
+
+47
+
+II
+
+THE ARTIST  AND THE  PUBLIC:
+
+FREEING  ART FROM THE  CONTROL  OF  THE ARTIST
+
+Does  the  artist  know  what's  best  for  his  art?  Is  he  the  right  person  to
+entrust  with  the  enforcement  of  moral  rights?  Should  his  intent  govern  the
+"meaning"  of the  piece?  And  for that matter,  who  is  the  artist  anyway?  In  this
+Part  I focus  on a  notion  that predominates  in U.S.  moral  rights law:  by  granting
+moral  rights  to the  individual  artist,  the law  assumes  he  will  act not only  in his
+own  interest, but  in the  interest  of the  public  in general.  I  believe  moral  rights
+I  begin  by  exploring
+law  is  wrong 
+circumstances  in  which  an  artist's  interests  have  conflicted  with  those  of the
+public.  I  then  question  the  fundamental  assumptions  about  authorship  and
+meaning  at the  foundation  of moral  rights  laws. Ultimately,  I argue  that the  best
+thing  for the public's  interest  in art  might be to free  art  from the  shackles  of the
+artist--or more precisely,  from our fantasies  of the  solo genius  artist.
+
+to  assume  those  interests  converge. 
+
+Of  course  to  suggest,  as  I  do,  that  the  artist  doesn't  necessarily  know
+what's  best  for his  own art  seems  like  sacrilege.  The understandably  indignant
+response  typically  will  be  something  like  this:  The  artist  should  have  the  last
+word  on  his  art  because  it  is  his  unique  expression.  He  is  the  genius  without
+whom  there  would  be  nothing  worth  protecting  in  the  first  place.  Wresting
+control  of a  work away  from the artist  would be  like  wresting  control  of a  child
+from his parent.
+
+But  I  believe  this  response  relies  on  assumptions  about  art  that  are
+overbroad,  historically contingent,  and at odds  with  the way people  create.  This
+view  overlooks  that the  child/artwork has  grown up  and left  home-that  works
+continue  to evolve  over time  based  on  how they  are  presented  and  received.  It
+overlooks  that  the  child/artwork  left  home  because  the  father sold him/it.  It also
+overlooks  numerous  instances  in  which  artists  are  not  the  best judges  of their
+work, of whether  it is  good  or bad  or worth  preserving,  or of what  would make
+it even  better.  (Parents  can't  always  see  their children  clearly  either.)  But on  a
+deeper  level,  as I will  argue  below,  moral  rights  law  is premised on  a transitory,
+albeit  deeply  powerful  notion  of artistic  authorship:  the  romantic  myth  of the
+solo genius  artist. I  am not sure that this vision of authorship  was ever true. 4 8  In
+
+47.  Compare  the  limited  protection  in  the  United  States  for  film  provided  by the  National
+Film  Preservation  Act  of  1996,  2  U.S.C.  §  179  (2000),  and  the  more  robust  protection  for
+architectural  landmarks. National  Historic  Preservation Act,  16 U.S.C.  § 470 (2000).
+
+48.  For  some  of  the  important  scholarship  attacking  romantic  notions  of  authorship
+embedded  in  intellectual property  law,  see  MARK  ROSE,  AUTHORS  AND  OWNERS:  THE  INVENTION
+OF  COPYRIGHT  (1993);  Peter  Jaszi,  Toward a  Theory  of  Copyright:  The  Metamorphoses of
+
+CALIFORNIA LA W REVIEW
+
+[Vol.  97:263
+
+any  event,  it  is  a  relatively  new  concept.  For just  one  example,  consider  that
+prior  to  the  Romantics,  Samuel  Johnson  described  the  artist  as  a  "skilled
+manual  worker."49  But  even 
+true,
+contemporary  artists have  been  relentlessly  attacking it for at  least the  last  forty
+years.  Moral  rights  law  enshrines  notions  of  art  directly  at  odds  with
+contemporary  artistic practice.
+
+romantic  vision  were  once 
+
+if  the 
+
+A.  The Assumed Convergence of Public and Private Interests in Moral Rights
+
+Laws
+
+VARA  and  most  U.S.  state  moral  rights  laws  are  premised  on  the  view
+that  moral  rights  serve  not  only  the  interests  of individual  artists,  but  also  a
+shared public interest  in art.5° VARA's concern  for the public  interest is evident
+in  its  legislative  history  as  well  as  its  heightened  protection  for  certain  works
+that  have  achieved  "recognized  stature."  And  yet,  although  VARA  and  most
+state  statutes  purport  to  protect  both  public  and  individual  interests,  these
+statutes  vest  sole  power  to  enforce  the  moral  right  in  the  individual  artist.51
+They do  so based on the  assumption that there is  an unproblematic  convergence
+between  the  public interest  and the  interest  of the  artist  who  created  the  work.
+His  decisions,  according  to  the  assumption,  will  inevitably  be  in  the  public
+interest.52  Thus,  even  in  the  case  of a  work  of  "recognized  stature"  under
+VARA,  only  the  artist  can  enforce  or  not  enforce  the  right  of integrity.  The
+public  has  no  cause  of action. 53  Moreover,  the  artist  always  has  the  right  to
+destroy  his  work,  even  if it  is  a  work "of recognized  stature"  and  thus  the  kind
+of work that the  public presumably  has  an interest  in preserving. 54
+
+"Authorship,"  1991  DUKE  L.J.  455  (1991);  Martha  Woodmansee,  The  Genius  and Copyright:
+Economic and Legal Conditions of the Emergence of 'Author,'  17  EIGHTEENTH-CENTURY  STUD.
+425  (1984);  James  D.A.  Boyle,  The  Search for an Author: Shakespeare and the Framers, 37 AM.
+U.  L.  REV.  625  (1988).
+
+For my  scholarship exploring  postmodern  notions of authorship in First Amendment  law, see
+Amy  Adler,  What's Left? Hate Speech, Pornography and the Problem for Artistic Expression, 84
+CALIF.  L. REV.  1499  (1996)  [hereinafter Adler,  What's Left?]; Amy  Adler, Note,  Post-Modern Art
+and the Death of Obscenity Law, 99  YALE L.J.  1359  (1990)  [hereinafter Adler, Post-Modern Art].
+49.  ALEXANDER  STURGIS  ET  AL.,  REBELS  AND  MARTYRS:  THE  IMAGE  OF  THE  ARTIST  IN
+
+THE  NINETEENTH  CENTURY  (2006).
+
+50.  New  York's  law does  not purport  to protect the public  interest. See N.Y.  ARTS  & CULT.
+AFF.  LAW  §  14.03  (McKinney  2006).  Note  that  VARA  significantly  preempts  state  moral  rights
+laws.  See, e.g.,  PATRY,  supra note  12.
+
+51.  California's  statute  is an exception.  See infra note  53.
+52.  See, e.g.,  Hansmann &  Santilli, supra note 37,  102-07  (seeing  harmony between  private
+and  public  models  of moral  rights  laws).  Strahilevitz also defends  VARA's  grant  of control  to the
+artist.  Strahilevitz, supra note 6,  at 853.
+
+53.  California,  however,  allows  an  "organization  acting  in  the  public  interest"  to  bring  a
+cause  of action  to protect  a  work  of "fine  art"  if  it merits  "substantial  public  interest."  CAL.  CIv.
+CODE  § 989(a)(1),  (c)  (West 2006).
+
+54.  This  is  true  even  in  California,  where  the  moral  rights  law  goes  much  further  than
+VARA  to protect  the  public  interest.  See  supra note  53  (describing  public  interest  provisions  of
+California  law).  But  even  in  California,  if  the  artist  wishes  to  destroy  his  own  masterpiece,
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+B.  The Conflict Between Artist and Public: The Myth of the Artist
+
+Here  I  explore  a  series  of examples  in  order  to  unravel  the  assumed
+
+harmony  between  the  artist's and the public's  interests in works  of art.
+
+1. Artists Who Destroy Their Work
+
+First, there  are  cases  in which  artists  wish  to destroy  work  that  the  public
+arguably  has  an  interest  in preserving.  Moral  rights laws  permit  an  artist to  do
+so.  But  history  is  rife  with  examples  of artists  who  destroyed  or attempted  to
+destroy  what we  now see  as masterpieces.  Alberto  Giacometti,  George  Rouault,
+and  Jasper  Johns,  among  others,  attacked  their  own  works. 55  In  the  literary
+realm,  Kafka  famously  told his  friend  Max  Brod,  the  executor  of his  estate,  to
+bum  his unpublished  manuscripts  upon his  death. Brod  defied  Kafka's wishes,
+saving for the  public  The Trial and  The Castle among other works.56
+
+This  tendency  of artists  to  destroy  their  work  is  not  uncommon;  it  goes
+hand in hand with  the  romantic  myth of the tortured  artist.  For example,  Chaim
+Soutine,  an  artist  who  took  that  myth  to  great  extremes  during  the  early
+twentieth  century,  spent  much  of  his  anguished,  brilliant,  and  short  career
+destroying  his  own  canvasses  in  fits  of  self-loathing.  Soutine  developed  a
+hatred  for  paintings  he  had  created  during  an  early  period  of his  career.  He
+spent  considerable  energy  toward  the  end  of  his  short  life  trying  to  recover
+those  early  paintings  so  he  could  destroy  them.  Museums,  scholars,  and critics
+now prize  what remains  of the work  from  that period.
+
+Where  is  the  public  interest  in  this  example?  Of course,  one  could  argue
+that  laws  giving  the  painter  what  he  wanted,  that  is,  the  ability  to  destroy  his
+work,  would  encourage  the  production  of  more  art  by  creating  favorable
+conditions  for  artists  in  general.  This  argument  assumes,  as  I  do,  that  most
+artists would  wish to retain  control  over  their works.  But one  could  also  argue
+that the  public  interest  is  served by saving the  paintings, contrary  to  the  artist's
+wishes.  Whatever  the  answer  may  be,  these  conflicting  arguments  show  that
+VARA  is  wrong  to assume  an  unproblematic  harmony between  the  interests  of
+the  artist  and  the  public.  VARA  would  allow an  artist to destroy  his own  work
+even  if it were  a  masterpiece.  Even  the  California  moral  rights  statute,  which
+emphasizes  the  public  interest  more  than  VARA  does,  still  allows  an  artist  to
+
+presumably  the  type  of work  that  the  phrase "substantial  public  interest"  is  intended  to protect,  he
+would  have the  right to do  so  even if the public  tried  to stop  him. See CAL. CIv.  CODE  § 987(c)(1)
+(West  2006)  ("No person,  except  an  artist who  owns  and  possesses  a  work  of fine  art  which  the
+artist  has  created,  shall  intentionally  commit,  or  authorize  the  intentional  commission  of,  any
+physical  defacement,  mutilation, alteration,  or  destruction of a work of fine art.").
+
+55. 
+
+See,  e.g.,  CECILE  NEBEL,  THE  DARK  SIDE  OF  CREATIVITY:  BLOCKS,  UNFINISHED
+WORKS,  AND  THE  URGE  TO  DESTROY  95-132  (1988);  Louis  Menand,  Capture the Flag: Jasper
+Johns's Own  Private Icon, SLATE,  Oct.  30,  1996,  http://www.slate.com/id/2905.  In  the  realm  of
+music, Brahms,  who famously  destroyed  more  work than he published, provides  another  example.
+
+56.  See  Strahilevitz,  supra note  6,  at 830-38  (discussing authors  who destroy  their  work).
+
+CALIFORNIA  LA W REVIEW
+
+[Vol.  97:263
+
+destroy his work regardless  of the  public  interest  in  its preservation.5 7
+
+2.  The Public Interest in Destroying Work the Artist Wants to Preserve
+
+Sometimes,  the  clash of interests  between  artist  and  public  is  reversed:  as
+I will  argue  in  Part  III,  the  public  interest may  sometimes  lie  in  the  destruction
+of art,  even  when  the  artist  favors  preservation.  The  case  of Richard  Serra's
+famous  Tilted Arc,  involving  the  removal  of his  site-specific  sculpture  from
+Federal  Plaza  in  downtown  Manhattan,  provides  an  interesting  example. 58
+Although  there  was  by no  means  a  public consensus  about the  work, 59 it is  fair
+to  say that  many,  many  people  detested  Tilted Arc.60  Some  of them,  including
+people  who  worked  in  the  building  where  the  sculpture  stood,  waged  a
+campaign  against 
+the
+government  removed  Tilted Arc;  in  Serra's  view,  the  removal  constituted
+destruction  because  the  piece  was  site-specific. 61  He  fought  the  government's
+action,  bringing  a  variety  of  unsuccessful  claims,  but  was  unable  to  invoke
+VARA  because  his  piece  was  destroyed  before  the  statute  was  enacted.  Had
+Tilted Arc been  created  after VARA's  effective  date,  it might  still be  in  Federal
+Plaza. 62 This case  illustrates  that  artists  will  sometimes  want  to preserve  works
+that  many if not most members  of the public  wish to destroy or modify.63
+
+to  this  public  vehemence, 
+
+the  piece.  In  response 
+
+57.  Compare the  "right  to repent"  in  some  civil-law countries,  which  in  theory  allows some
+authors  to  withdraw  already-published  written  work.  See  Merryman,  supra note  5,  at  1028  (and
+source cited therein).
+
+58.  Serra v.  U.S.  Gen'l Servs.  Admin.,  847  F.2d  1045  (2d  Cir.  1988).
+59.  Many  members of the  art world testified on behalf of Serra. Id.
+60.  They detested  it  on  a variety  of grounds,  only  some  aesthetic.  Id. at  1047.  I believe  it
+
+was  an extremely  aggressive  sculpture.
+
+61.  Based  on the  design of the piece,  I find his claim  convincing.
+62.  Could  Serra have  won  had  he  created  the work  after  VARA?  Serra would  have  had  to
+convince  the  court  that the  government  had destroyed  the work  rather  than  merely relocated  it, as
+the  government  argued.  If  Tilted Arc  had  been  relocated,  then  the  government's  actions  might
+arguably  have  been  a modification  of placement,  excepted under  VARA  Section  106A(c)(2).  Cf
+Bd.  of Managers  of Soho  Int'l  Arts Condominium  v.  City  of N.Y.,  No.  01  Civ.  1226,  2005  WL
+1153752  (S.D.N.Y.  May  13,  2005)  (considering  if relocating  sculpture  constituted  destruction).
+Serra  would  also  have  had  to  prove  the  work  was  of  "recognized  stature."  Because  Serra  is
+arguably  the  greatest  living  American  sculptor,  Tilted  Arc  should  have  easily  qualified  for
+"recognized  stature."  I am  less  confident that  a court  would  have accepted  the  artistic importance
+of site specificity,  although  I think  the  piece was  clearly site  specific.  The rationale  articulated in a
+2006  First  Circuit  decision  further  undermines  the  possibility  that  Serra  would  have  received
+VARA protection.  Phillips  v.  Pembroke  Real  Estate,  Inc.,  459  F.3d  128  (1st Cir.  2006)  (holding
+VARA inapplicable  to site-specific  art).
+
+63. 
+
+See  also  Carter  v.  Helmsley-Spear,  71  F.3d  77  (2d  Cir.  1995)  (holding  that  lobby
+installation  was  a  work  for  hire  and  allowing removal).  The  Second  Circuit's  decision  in  Carter
+that  the  sculpture  was  outside  VARA's  scope  was  not  inevitable.  I  suspect  unstated  policy
+implications  affected  the  decision.  To  the  extent  there  was  an  identifiable  public  interest,  it
+arguably  lay  on the  side of removal.
+
+2009]
+
+AGAINST  MORAL  RIGHTS
+
+3. Making "Better" Art by  Violating the Artist's Intent
+
+Sometimes  violating  the  artist's  intent  makes  the  work  better  from  an
+artistic  perspective.  For example,  Clement  Greenberg,  the  great modernist  critic
+and  champion  of  master  sculptor  David  Smith,  reportedly  changed  some  of
+Smith's  sculptures after  the  artist's death  in direct  violation  of Smith's wishes.
+Smith's  most  famous  sculptures  are  in  unpainted  steel,  but  he  sometimes
+executed  painted  steel  forms  as  well.  Greenberg  found  the  unpainted  work
+artistically  superior.  After  Smith  died,  Greenberg,  as  executor  of  his  estate,
+stripped  several  of the  painted  sculptures  and  exposed  others  to  the  elements,
+destroying  their  painted  surfaces.  He  did  so  in  direct  violation  of  Smith's
+intent.64  The  art  world  was  horrified,  labeling  Greenberg's  act  vandalism.65
+These  accusations  were well  founded;  there  is  clear  evidence  that  Smith would
+have  been  outraged  by  Greenberg's  violations  and  would  have  disowned  the
+sculptures.
+
+66
+
+And  yet,  consider  this:  Greenberg's  vandalism,  his  flagrant  violation  of
+the  artist's  intent,  made  the  sculptures  "better." 67 The  art market  (although  not
+necessarily  a  good  indicator  of  artistic  merit)68  agreed  with  Greenberg:
+unpainted  Smiths  are  more  valuable  than painted  ones. 69  Critics, museums  and
+collectors  prize  the  unpainted  over the painted  sculptures.7 °
+
+4. From Romantic Genius to Multiple Authors
+
+The  example  of Smith and Greenberg  shows  that  we  might sometimes  get
+"better"  art if we  allow  subsequent  users  to  violate  the  artist's  intentions.7"  But
+in
+this  example  also  suggests  something  deeper  about  authorship,  and 
+
+64.  Rosalind  Krauss,  Changing the  Work  of David Smith,  ART  IN AMERICA,  Sept.-Oct.
+
+1974,  at  30, 31.
+
+art "better."
+
+65.  Merryman, supra note 5,  at  1040  (internal  citations  omitted).
+66. 
+67. 
+
+Id.
+See infra Part V  for discussion  of the  extraordinary  complexity  of defining  what  makes
+
+68.  Perhaps it should  not even be  a relevant  one.  In battles over  government funding  for art,
+the  pro-funding  side argues  that the  market cannot  begin  to  support  worthy  art.  And  the  market
+fluctuates  and  can be  "wrong"  or  slow.  Van  Gogh  is but  one  famous  example  of an  artist  prized
+today but  impoverished  in his  lifetime.  See  infra, notes  200,  209  accompanying  text,  discussing
+the present art market's peculiarities.
+
+69.  Richard  Serra, Art and Censorship, 17  CRITICAL  INQUIRY  574, 576  (1991).
+70.  Even critic  Rosalind  Krauss,  arguing  for the  importance  of the painted  work in Smith's
+
+oeuvre,  still recognized  the  stripped work's appeal. Krauss,  supra note 64, at  30.
+Of course  it is  nearly  impossible, as  I have  argued  elsewhere,  to pinpoint  the  proper  method
+to evaluate  artistic merit.  See generally, Adler, Post-Modern Art, supra note 48 (analyzing  lack  of
+critical  consensus  for  evaluating  art  and  shifting  evaluations  of  art  over  time;  showing
+the  critical  consensus  favored  Greenberg's
+implications  for  obscenity  law).  In  this  case, 
+preferences,  but  this  observation  may  be  circular  since  Greenberg's  sensibility  held  such  sway
+over  critics.  Merryman,  supra note  5, at  1038  (arguing  that  higher  prices  may  have  reflected
+Greenberg's  power).
+
+71.  Compare  our  attitude  toward Greek  sculpture,  which we often  forget  was  once  painted.
+
+Krauss, supra note 64.
+
+CALIFORNIA LA W REVIEW
+
+[Vol.  97:263
+
+particular,  about  the  assumptions  regarding  authorship  that  undergird  moral
+rights  law.  Most  of us  share  a  fantasy  of artistic  creation, particularly  in those
+moments  of awe  we  feel  when  looking  at  works  that  move  us.  We  imagine  a
+solo genius  author  who had a  vision and  expressed  it in the  work. The  work he
+touched now bears  some  trace of his  genius.  It is  as if we  can be  in his presence
+by being in the presence  of the work.  It follows  that  we  must preserve the  work
+as  he  intended  it  to  access  his  singular  vision.  This  fantasy  of artistic  creation
+has  persisted  even  though  it  has  been  under  assault  for  a  very  long  time,  not
+only  by scholars,  but by artists themselves
+
+Although  assaults  against  the  author  as  romantic  genius  tend  to  be
+associated  with  postmodernism,  one  does  not  need  to  resort  to  postmodern
+jargon  about  the  "death  of the  author"  to  see  that  the  romantic  concept  of a
+singular,  all-knowing  artist was  always  a distortion.  If we  look  into the  heart  of
+modernism  itself,  to  the  greatest  icon  of  modernist  poetry,  T.S.  Eliot's  The
+Waste  Land, we  find  an  example  of how  complex  authorship  can  be.  In  the
+dedication  to  the  poem,  Eliot  writes  "to  Ezra  Pound,  il  miglior  fabbro"  ("the
+better craftsman").72  Why  did  Eliot, author  of one  of the  greatest  poems of the
+century,  call  Pound  "the  better  craftsman"?  Apparently,  Pound  edited  Eliot's
+manuscript  so  heavily  that  Eliot  credited  Pound  with  turning  The  Waste Land
+"from  a jumble  of good and  bad passages  into a  poem." 73  Pound  rescued  from
+Eliot's  hand parts  of the  poem  that  now  seem  essential,  as  if Pound-not  the
+author-understood  better what  the poem  ultimately  "meant." 74  Why was Eliot
+"the  author"  and  Pound  merely  "the  editor"?  When  does  writing  stop  and
+editing  begin?  Were  they  co-authors?  And  did  The  Waste Land have  authors
+other than  Eliot or Pound?
+
+Eliot  willingly  collaborated  with  his  editor.  In  contrast,  the  moral  rights
+problems  I  examine 
+in  this  Essay  involve  what  I  might  charitably  call
+"unwilling  collaboration."  But  the  Eliot  example  still  shows  something
+important  about authorship:  even  though  we  might imagine  The  Waste Land as
+a  product  of a  singular  artistic  vision,  its  creation  was  far  more  complicated.
+From  this  perspective,  we  can  begin  to  see  many  creative  endeavors  as  the
+product  of collaboration.  The  relationship  between  Pound  and  Eliot  is  merely
+one  example  of  how  multiple  authors  might  lie  beneath  the  surface  of  the
+singular author.
+
+This  hidden multiplicity  of authorship  has led  to significant  controversy  in
+the  realm  of photography,  where  the  printer  of a  photograph  (often  someone
+other  than  the  photographer)  exercises  dramatic  control  over  the  resulting
+work.75  Similar  controversies  about  authorship  arise  in  other  realms  where
+
+72. 
+73. 
+
+T.S.  ELIOT,  THE WASTE  LAND  AND  OTHER  POEMS  28  (1930).
+RICHARD  BADENHAUSEN,  T.S.  ELIOT  AND  THE  ART  OF  COLLABORATION  76  (2004)
+
+(quoting T.S.  Eliot, On a Recent Piece of Criticism, 10  PURPOSE  93 (1938)).
+
+74. 
+75. 
+
+Id. at 75-79.
+See  Michael  Rips,  Who  Owns  Seydou  Keita?, N.Y.  TIMES,  Jan.  22,  2006;  see  also
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+artists  delegate  the  fabrication  of  their  work  to  others.  Consider  the  recent
+litigation  between  MASS  MoCA  (the  Massachusetts  Museum  of
+VARA 
+Contemporary  Art)  and  Swiss  artist Christoph  Biichel  over  the  museum's  right
+to  display  the  artist's  enormous,  unfinished  installation. 76  The  judge  at  oral
+argument  questioned  the  artist's claim  of sole  authorship  of the  work given  the
+process  of  its  creation.  Dwelling  on  the  months  spent  by  museum  workers
+assembling  the  piece  and  acquiring  objects  for  display,  compared  to  the  mere
+six  weeks  spent  on  site  by  the  artist,  the  judge  asked,  "Who  owns  the  work
+when what  is  being created  is collaborative  art?  The museum  spent  most of the
+money and did most of the work.",77
+
+As the  next section  will show, it is not only what happens in the process  of
+creation,  but  also  the  continuing  life  of the  work  that  further  complicates  the
+notion  of authorship.
+
+5.  Multiple Authors and Multiple Meanings: The Curator as Artist
+
+At its  most basic  level, moral  rights  law  assumes  that the  artist rather than
+subsequent  users  should control  the  meaning  of his  work. Moral rights  scholars
+repeatedly  invoke  the  need  to protect  authorial  intention.  Professor  Merryman
+explained that the purpose  of the  right  of integrity  was to preserve "the  work  as
+the  artist  intended  it."'78  Professor  Kwall,  one  of  the  most  important  and
+passionate  moral  rights  scholars,  wrote  that  "the  essence  of  moral  rights
+protection  is  the  idea  of respect  for  the  author's  original  meaning." 79  As  she
+explained:  "Assaults  upon  a work's  integrity  damage  authorial  dignity  because
+the  author's  external  embodiment  of  his  message  no  longer  represents  his
+intended  meaning."80  Thus  the  right  of integrity  is  fundamentally  a  right  that
+protects  authorial  intention.
+
+The  belief-that we  can  discern,  let  alone  police,  artistic  intention,  that it
+is necessarily  relevant to the  meaning  of a work-is premised  on naive  theories
+
+Michael  Kimmelman,  Walker Evans. Or Is It?, N.Y.  TIMES,  Aug. 25,  2006.  Cf  SHL  Imaging, Inc.
+v.  Artisan  House,  Inc.,  117  F.  Supp.  2d  301,  310  (S.D.N.Y.  2000)  (copyright  dispute  between
+printer and photographer).
+
+76.  Mass.  Museum  of  Contemporary  Art  Found.,  Inc.  v.  Buchel,  No.  07-30089-MAP,
+
+2008 WL 2755842,  at *13  (D.  Mass. July  11,  2008).
+
+77. 
+
+Posting  of  Paul  Schmelzer 
+
+2007/09/22/mass-moca-wins-show-buchel-work/ 
+Michael  Ponsor).
+
+to  Off  Center,  http:/iblogs.walkerart.org/offcenter/
+(Sep.  22,  2007,  11:26  CDT)  (quoting  Judge
+
+78.  Merryman,  supra note 5,  at  1041.
+79.  Kwall,  Inspiration, supra  note  5,  at  1986  (emphasis  added);  see  also  id.  at  1972
+("Central  to moral rights  is the  idea of respect  for the  author's meaning and message as embodied
+")  (emphasis  added).  The  French  court  in  Millet  stated that  work
+in  a  tangible  commodity  ....
+must be  preserved exactly  as  "it  emerged from  the  imagination  of its author and  later  conveyed to
+posterity  without  damage."  Merryman,  supra note  5  (quoting  Millet,  Tribunal  de  la  Seine,  May
+20,  1911,  Amm.  I.  271).  Merryman  describes  violating  integrity  as "misrepresent[ing]  the  artist's
+intention."  Id.
+
+80.  Kwall, Inspiration, supra note 5,  at  1975.
+
+CALIFORNIA LA W REVIEW
+
+[Vol.  97:263
+
+of interpretation. 81  But  more  importantly  for  our  purposes,  this  belief is  also
+particularly  inapt  when  thinking  about  contemporary  art.  As  I  have  argued
+previously  elsewhere,  one  of the  virtues  of artistic  expression  is  its  capacity  to
+convey  multiple  meanings. 82  Even  when  left  intact,  a  work  of art  is constantly
+reworked  and re-authored,  depending  on who views it and in  what context. 83
+
+This  multiplicitous  quality  of a  work-its  openness  to  being  re-infused
+with meaning-permits  us to  imagine that there  are  multiple  artists,  even  when
+only  one artist created  the  original piece.  Think of curating  with this  in mind. I
+propose that the  curator (along  with the  "original"  artist) is always  an author  of
+the  art she  displays.  From the  initial  act of choosing  to place an object  in an  art
+setting,  to  deciding  on  its  lighting  or placement,  all  curatorial  choices  change
+the  meaning  of a  work. The  growing  reliance  on  wall  text  only  highlights  the
+curator's  ability  to  affect  art's  meaning. 84  And all  of these  are  changes  that  we
+should celebrate  rather than mourn.  In short, the  curator is an artist.
+
+Consider  the conflict  that arose  in the  1990s  around  a traveling  exhibition
+about  artists'  responses  to the  pioneering photographer  of movement  Eadweard
+Muybridge.  Included  in  the  original  exhibition  was  an  early  work  by  artist  Sol
+Lewitt  that  used  optics  to  show  a  woman's  nude  body  advancing  toward  the
+viewer.  When  the  show  came  to  the  Museum  of  American  Art,  Elizabeth
+Broun,  a  curator  there,  objected  to  the  Lewitt  piece,  claiming 
+it  raised
+associations  of peepholes  and was  degrading  to women.  She proposed  to move
+it to  a  separate room  with  wall  text  explaining  the  issue  and  a blank  book  for
+visitors  to  record  their  thoughts.  Critics  demonized  Broun  for  her  act  of
+"censorship." 85 Although I strongly disagree  with Broun's cramped  interpretive
+stance-that  the  piece  was  necessarily degrading  to women-I  want to  defend
+her actions  on another level. Putting  aside that she was  altering  a prior curator's
+choices,  her  work  was  no  more  censorship  than  other  decisions  that curators
+make  every  day.  The  very  choice  of putting  a  Lewitt  in  a  Muybridge  show
+changed  the  meaning  of the  Lewitt.  Putting  it  in  a  room  and  making  it  about
+objectification  of female  bodies  would have  changed  its meaning  as  well.  Even
+though Lewitt  may  have  intended  the  work to  be  about  Muybridge,  surely  that
+was not  all  he  intended, nor should  his  intent hold the  work  hostage  from other
+meanings or interpretations.
+
+This  example  illustrates  a  problem  with  the  assumption  in  moral  rights
+
+81.  This Section  depends heavily  on my  previous work.  Adler,  What's Left?, supra note  48.
+82. 
+I treat these  arguments  in depth  in Adler,  What's Left?, supra note  48,  and  also in Amy
+Adler,  The Thirty-Ninth Annual Donley Memorial Lectures: The Art of Censorship, 103  W. VA.  L.
+REV.  205  (2000).
+
+83.  Adler,  What's Left?, supra note 48, at  1541-46.
+84.  Blake Gopnik,  Read All About It:  With  Explanatory Labels Papering Museum  Walls,
+Are  We  Still Looking at the Pictures They Explain?, WASH.  POST,  Dec.  9, 2001  at G01 (describing
+the  expanding role of wall  text in the  museum visitor's experience).
+
+85.  Barbara  Gamarekian,  Show  Closing Demanded at  Washington Museum,  N.Y.  TIMES,
+
+July  13,  1991.
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+scholarship  that  a major purpose  of the  right  of integrity  is  to protect an  artist's
+intent  about the  meaning  of his work."  It is  important  to note,  however, that  in
+spite  of this  theoretical  foundation,  VARA  does  not  go  so  far  as  to  allow  an
+artist  to  sue  a curator.87 The statute  provides  that  the  "modification  of a work  of
+the  public  presentation,  including  lighting
+visual  art which  is  the  result  of ... 
+and  placement,  of  the  work"  is  not  a  violation  of  the  right  of  integrity. 88
+Notwithstanding  this  limitation,  however,  the  theoretical  foundations  of moral
+rights,  advanced  in  the  scholarship,  rest  on  assumptions  about  meaning  and
+authorship  that  are  incompatible  with the  way we  view  and interpret art. As  this
+example  shows,  art  is  constantly  changing  and  we  are  constantly  changing  it.
+Rather  than  see  such  change  as  a  violation  of the  spirit  if not  the  letter  of the
+law, we  should  see  it as commitment  to the vitality  of art.
+
+Some  European  moral  rights  laws  might  allow artists to  sue  their curators
+in circumstances  similar to the  example  described  above.  Recently,  the  highest
+court in Germany  protected a  painter's control  over the  display of his paintings.
+The court held that  "adding  customized frames  to paintings  that extended"  their
+patterns  violated  the  painter's  right  of integrity. 89  In  a  famous  Italian  case,  de
+later  work  and  under-
+Chirico  sued  a  curator  for  over-representing  his 
+representing  his  earlier  work  in  a  1950  exhibition  at  the  Venice  biennale.  The
+lower  court  found  for  de  Chirico,  but  the  appellate  court  reversed  the  decision
+on other  grounds.90  In  spite of the victory,  the very  possibility  of such  a lawsuit
+disrupts  the necessary  collaboration,  willing or not,  between  artist  and curator.
+
+AGAINST  INTEGRITY:  THE VALUE  OF  DESTROYING  AND ALTERING  WORKS OF
+
+III
+
+"Use  a Rembrandt  as  an ironing board"
+
+ART
+
+-art  work by Marcel  Duchamp 91
+
+Here  I  make  a  claim  that  many  might  find  repugnant:  that  there  is  an
+artistic  value  in modifying,  defacing  and  even  destroying  unique  works  of art.
+In  fact, these  actions  may reflect  the essence  of contemporary-art  making.  As a
+result,  moral  rights  law  endangers  art  in  the  name  of protecting  it.  But  is  this
+
+See supra note 79.
+
+86. 
+87.  Professor  Merryman  expressed  clear  disapproval  of this  possibility.  Merryman,  supra
+note  5,  at  1048.  He strictly  limits  his concern  for artistic intentions  to physical  violations  of works.
+17  U.S.C.  §  106A(c)(2)  (2000).  Such  modification  is  actionable  if  caused  by  gross
+
+88. 
+
+negligence.  Id.
+
+89.  See  Rigamonti,  supra  note 
+
+Bundesgerichtshof 
+Bundesgerichtshofes  in Zivilsachen  [BGHZ]  32 (F.R.G.)).
+
+[Federal  Court 
+
+[BGH] 
+
+8,  at  366 
+of 
+
+(describing 
+Justice], 
+
+the  Hundertwasser  case,
+des
+
+150  Entscheidungen 
+
+90.  MERRYMAN  & ELSEN,  supra note 24,  at  316.
+91.  Marcel  Duchamp,  Apropos  of "Ready-mades,"  Talk  at  the  N.Y.  Museum  of  Modem
+
+Art (Oct.  19,  1961),  in ART  AND  ARTISTS  (July  1966), at 47.
+
+CALIFORNIA LA  W REVIEW
+
+[Vol.  97:263
+
+danger  at  least justified  by  a  countervailing  benefit?  In  the  last  section  of this
+Part,  I argue  that moral rights  law does  less good  than we might assume. This  is
+because  the  urgency  of preserving  contemporary  works  of art-the  only  kinds
+of  works  that  VARA  protects-has  diminished  in  the  wake  of  changes  in
+contemporary  culture.
+
+A.  The Artistic Value of Attacking Art
+
+is 
+to  symbolize  change.92  In  revolutionary  France, 
+
+Of  course,  there  may  be  a  non  artistic  value  in  destroying  or  defacing
+works  of art. The  history of regime change  attests to this.  Often the  first  act of a
+new  regime 
+to  destroy  the  prior  one's  art  works,  particularly  public
+monuments, 
+the  painter
+Jacques-Louis  David  wrote:  "Thus  we  shall  pile  up  in  Paris  the effigies  of the
+kings  and  their  vile  attributes  to  serve  as  the  pedestal  for  the  emblem  of the
+French  people." 93  Although  there  are  compelling  arguments 
+in  favor  of
+preserving  the remnants  of an  old regime,  there  is  also  a  strong symbolic  value
+to  altering  or  destroying  them,  particularly  when  the  fallen  regime  was  a
+repressive  one.
+
+An  analogous  problem  in  this  country  is  the  question  of  whether  to
+preserve racist  public monuments  from our history. 94 For example,  in his book,
+Written in Stone, Sandy  Levinson describes  the  dilemma faced by New Orleans
+in  deciding  what  to do  with  a  nineteenth-century  monument  to  racism.  On  the
+one  hand, there  is  a public interest  in  destroying the  monument  to symbolically
+repudiate the  racist past. Destroying it would  also avoid the  risk of spreading its
+hateful  message  or  seeming  to endorse  it. Yet  on the  other hand,  if we destroy
+the  monument,  we  lose  a chance  to  study  it as  history or to be  reminded  of the
+continued  need to fight racism.  I submit  that the best solution  is one  that draws
+on  the  principles  of  "creative  destruction": 
+to  "create"  a  new  work  by
+vandalizing  the  monument.95 Indeed,  this  is  precisely  what  happened  in  2004
+when  anti-racist  vandals  attacked  the  statue,  defacing  it  with  angry  graffiti.
+Such  mutilation  preserves  the  memory  of the  past,  but  with a violent  statement
+of repudiation,  allowing both messages  to co-exist. 96
+
+92.  Consider  the  history  of  the  Soviet  Union,  the  vast  destruction  of  monuments  in
+revolutionary  France,  or  the  symbolically  fraught  choices  made  during  the  invasion  of  Iraq
+regarding  the  Saddam statue.
+
+93. 
+
+JAKE  &  DINOS  CHAPMAN,  Introduction to  INSULT  TO  INJURY  (2004)  (quoting  David
+
+Proposes  a Monument  to the  French People  (1793)).
+
+94.  Compare  the  treatment  of other  remnants  of  racism,  such  as  racist  memorabilia.  See
+Adler,  What's Left?,  supra note  48,  at  1559,  n.252  (comparing  artists  David  Levinthal  and  Fred
+Wilson, both of whom  work with racist  memorabilia).
+
+95.  Cf  JOSEPH  A.  SCHUMPETER,  CAPITALISM  SOCIALISM  AND  DEMOCRACY  (3d  ed.  1962)
+
+(employing the concept  of creative  destruction).
+
+96.  A  significant  trend  in  European  monument  design  is  to  re-use  or  mutilate  vestiges  of
+the  tainted  past.  James  E.  Young,  The  Counter-Monument: Memory Against Itself in  Germany
+Today, 18  CRITICAL  INQUIRY  267  (1992);  Allan Cochrane,  Making up Meanings in a Capital City:
+Power, Memory and Monuments in Berlin, 13  EUR.  URB.  & REG'L  STUD.  5 (2006).
+
+2009]
+
+AGAINSTMORAL  RIGHTS
+
+Moral  rights  law  assumes  that  the  "public  interest"  in  a  work  of art  is
+always  uniform  and  readily  discernible,  and that  it always  favors  preservation.
+But as  this example  shows,  the  public may  vehemently  disagree  about whether
+to preserve  a  work;  the  public  interest  may also  change  over  time.  Amidst  the
+uncertainty,  one  can argue  that  it is  sometimes  in  the public  interest  to  mutilate
+a work rather than to preserve  it.9 7
+
+More  to  the  point,  there  are  vital  artistic interests,  not  merely  social  or
+political  ones,  in  altering,  vandalizing  or  even  destroying  unique  works.  Of
+course,  it  is  much easier to  grasp the  value  of alteration  or destruction  when  we
+think  of  changing  reproductions of  art  rather  than  original,  unique  objects
+themselves.  (One  state's  moral  rights  law  protects  reproductions  of artworks,
+not  merely  originals.) 98  The  copyright  concept  of fair  use  attempts  to  capture
+this  interest  in  altering  reproductions.99  Thus  it  is  easy  for  law  professors  to
+describe  dutifully the value  of Duchamp  drawing on a  copy of the  Mona  Lisa in
+his  famous  L.H.O.O.Q.  But it  is  one  thing to  draw  on a  copy of the  Mona Lisa
+and  quite  another  to  draw  on  the  Mona  Lisa  itself. That would  be-perhaps-
+unbearable.  The Mona  Lisa is  a  masterpiece,  a  unique  work,  part of our  shared
+cultural  history,  with  an  aura  that  persists  even  in  this  age  of  mechanical
+reproduction-isn't  it?' 00
+
+Yet  I  want to  argue  that  there  is  a  value  in  modifying  or even  destroying
+the  original artwork  itself, not just the  copy.  Consider  an example  that  straddles
+the border between  modifying  a reproduction  and an original:  the alteration  of a
+revered,  extremely rare,  limited edition print  series by  Goya.
+
+In 2001,  artists Jake  and Dinos  Chapman  bought  one of the  few remaining
+sets  of Francisco  de  Goya's canonical  Disasters of War series.  A  meditation  on
+the  horrors  of war,  Goya's  prints  are  agonizing  in  their  portrayal  of brutality.
+
+97.  The  complete  destruction  of a  monument  could  also  result  in  a  new  work;  the  absence
+of  the  sculpture  becomes  meaningful.  As  Vincent  Scully  mournfully  observed  about 
+the
+destruction  of  the  twin  towers,  "the  vacancy  becomes  a  presence  we  must  recognize."  Alec
+Applebaum,  A  Professor Learns to Love  the Twin  Towers-and Hate the  Void They  Left Behind
+(Q  &  A: 
+available  at
+http://www.metropolismag.comhtm/content_120  1/scu/index.html.
+
+Scully),  METROPOLIS 
+
+Vincent 
+
+MAG,  Dec. 
+
+2001, 
+
+98. 
+
+See  N.Y.  ARTS  & CULT.  AFF.  LAW  §  14.03  (McKinney  2006).  VARA  doesn't protect
+
+reproductions,  but does  protect limited editions.  17  U.S.C.  § 106  (A) (1)  (2000).
+
+99.  Although  the  fair  use  provisions  of the  Copyright  Act  technically  apply  to VARA,  no
+fair  use  defense  to  a  moral  rights  case  has  been  adjudicated.  I  doubt  a  court  would  extend  the
+provisions  very  far  in  the  case  of a  permanent  alteration  of  a  unique  work  of  art.  The  fair  use
+concept  seems  to  depend  on  copying.  The  original  remains 
+intact.  Permanently  defacing
+someone's  work to  create  a  new  one  seems  far more  troubling  than  market  damages  caused  by
+unauthorized  copies.  The  hearings  on  VARA  hint  that  Congress  didn't  envision  the  fair  use
+exception  being  easily invoked  in this context:  "The  Committee  does  not want  to preclude fair  use
+claims  in  this  context.  However,  it  recognizes  that  it  is  unlikely  that  such  claims  will  be
+appropriate .... " H.R. REP.  No.  101-514, reprinted in  1990  U.S.C.C.A.N.  6915,  6932  (emphasis
+added).  The  House  Report  stated  that  the  "modification  of a  single  copy  or  limited  edition  of a
+work  of visual  art has  different  implications  for the  fair  use  doctrine  than does  an act  involving  a
+work  reproduced  in  potentially unlimited  copies."  Id.
+
+100.  But see infra Part III.C.
+
+CA LIFORNIA  LA W RE VIE W
+
+[Vol.  97:263
+
+Robert  Hughes  deemed the  series  "the  greatest  antiwar manifesto  in the  history
+of  art."''1 1 It  has  been  idolized  by  artists,  inspiring,  for  example,  Picasso's
+Guernica.10 2 Indeed,  the series  has been called "the  most revered set  of prints in
+existence."' 0 3 It is  also extremely  rare:  the Goya  Foundation produced  forty  sets
+in total  as  a  limited  edition  in  1937  from  the  artist's original  plates.'04  The set
+that  Jake and  Dinos Chapman  acquired  was  all the  more  extraordinary  because
+it was  complete  and  in  mint condition. A critic  said  of the  set  they bought:  "In
+terms  of print connoisseurship,  in  terms  of art  history,  in  any  terms,  this  is  a
+treasure  .. 
+
+. ,, 05
+
+The  Chapman  brothers  took  this  "treasure"-this  rare  and  precious
+expression  of art's  moral power-and  systematically  defaced  it.  Instead of the
+faces  of Goya's  agonized  victims  of war, the  artists  superimposed  drawings  of
+puppies  and  clowns.  Claiming  that they  had "rectified"  the  images,  they  called
+the  new  work "Insult  to Injury."  Critic Jonathan  Jones  wrote  of the  Chapman's
+act of vandalism:  "To  destroy a work of art is  a  genuinely nasty, insane,  deviant
+thing  to  do.  What  the  Chapmans  have  released  is  something  nasty,  psychotic
+and value-free."' 0 6
+
+But,  curiously,  as  Jones  thought  about  the  piece,  he  began  to  see
+redemption  in the  Chapmans'  act of shocking  deviance.  Viewing  their  work as
+an  extension  rather than  desecration  of Goya's  despair,  he  wrote:  "What  they
+share  with  [Goya]  is  the  most primitive  and  archaic  and  Catholic  pessimism  of
+his  art-the  sense  not  just  of  irrationality  but  something  more  tangible  and
+diabolic.  The  Chapmans  have  remade  Goya's masterpiece  for  a  century which
+has  rediscovered  evil.  And  I  have  fallen  into  their  trap."10 7  The  Chapmans'
+"insanity"  and "deviance"  become  essential  to the  work, a way  of recreating the
+the  horror  becomes  more
+horror 
+complicated:  the  Chapmans  also  assaulted  the possibilities  of art.  Goya,  as  the
+Chapmans  remind  us,  was  a  symbol  of the  "individuated  Romantic  artist.' l0 8
+Goya  held  out  hope  that  art  could  address  our  deepest  humanity. 109  By
+attacking  the  ultimate  expression  of art's  moral  voice, Insult to Injury becomes
+a  meditation  on  the  loss  of  that  conception  of art. 10  The  Chapmans'  work
+proclaims  that the  romantic  idea  of art  as  an  exalted  realm,  expressive  of our
+humanity and  imbued  with  the creative  spirit  of the  author, is over.  Their work
+
+that  Goya  conveyed.  But 
+
+this 
+
+time, 
+
+ROBERT  HUGHES,  GOYA  304 (2003).
+
+101. 
+102.  Alan  Riding,  Goya Probably Would not be Amused, N.Y. TIMES,  Apr.  6,  2003.
+103. 
+104.  Goya  produced  the  plates  between  1810-1829,  but  they  were  too  daring  to  print
+
+Jonathan Jones,  Look  What  We Did, GUARDIAN,  March  31,  2003
+
+during his  lifetime. KERSTIN  MEY,  ART  AND OBSCENITY  58  (2007).
+
+Jones, supra note  103.
+Id.
+Id.
+CHAPMAN,  Introduction to INSULT  TO  INJURY,  supra note  93.
+
+105. 
+106. 
+107. 
+108. 
+109.  Hughes, supra note  101.
+110.  To  fully understand  this loss,  see Part  IV.
+
+2009]
+
+AGAINST MORAL RIGHTS
+
+attacks the  very  idea  of art that moral rights seek to protect.
+
+With  this  in  mind,  consider  now  a  "creative"  attack  on  a  unique  work:
+Robert Rauschenberg's  "Erased  de  Kooning  Drawing."  In  1953,  Rauschenberg
+took  a  drawing  by  Willem  de  Kooning  and  spent  a  month  erasing  it. 111  The
+resulting  work  is  a  "sheet  of paper  bearing  the  faint,  ghostly  shadow  of  its
+former  markings."' 112  Entitling  the  work  "Erased  de  Kooning  Drawing/Robert
+Rauschenberg/1953,"  Rauschenberg  exhibited  the  erasure  as  his  own  art.
+Rauschenberg  wrote:  "I wanted  to  create  a work  of art  by  [erasing]  .... Using
+my  own  work  wasn't  satisfactory  ... I  realized  that  it  had to  be  something  by
+someone who  everybody  agreed  was great,  and the  most logical  person  for that
+was de  Kooning.'" 3
+
+Here  is  an  example  of how art  can emerge  from the  near  destruction  of a
+previous  piece.  The  Rauschenberg  work  depends  on  the  fact  that  he  violated
+not  a  reproduction  of a  work  but  an  original,  and  not just  any  original,  but  an
+original  by  Willem  de  Kooning. 114  To  fully  grasp  the  radical  quality  of
+Rauschenberg's  work,  one  must  remember  the  place  of de  Kooning  in  1950s
+America.  At that  time,  abstract  expressionism  so dominated  American  art  (and
+our artistic  place  in the  world)  that de  Kooning and his  compatriots  had come to
+be  viewed  as  heroic  and  almost godlike.  In  that  climate,  erasing  a  drawing  by
+de  Kooning  was  a  shocking,  sacrilegious  act.  It  captured,  perhaps  better  than
+anything  else  Rauschenberg  did,  his  scandalous  assault  on  a  particular
+conception  of "art."  For  the  generation  of artists after de  Kooning  the  question
+was:  how  would  it  be  possible  to  make  art  in  the  wake  of the  godlike  artists
+who  came  before  them?1 15  Rauschenberg's  answer  was  that  new  art  might  be
+about  its  own  failure  to  achieve  greatness,  its  impotent  rebellion  against  the
+heroic  past.  Rauschenberg  began  to  make  art  that,  in  the  words  of Douglas
+Crimp,  was about  "its  own  destruction."' 116
+
+111. 
+
+It  is important  that De  Kooning gave  the drawing  to  Rauschenberg.  Thus,  even  if  the
+drawing  had  been  protected  by  VARA,  this  was  a  willing  collaboration,  not  a  moral  rights
+violation.  As with  the  example  of Goya,  above,  I  offer  this  example  to establish  that  destruction
+and modification  are central  modes of creation.
+
+112.  CALVIN  TOMKINS,  OFF THE  WALL 97  (1980).
+113.  CALVIN  ToMKINs,  THE  BRIDE  AND  THE  BACHELORS:  FIVE  MASTERS  OF  THE  AVANT
+
+GARDE  210 (Penguin  Books,  1976) (1965).
+
+114. 
+
+It  may  be  hard  for  us  to  appreciate  now  how  radical  Rauschenberg  was.  We  might
+have  some  insight  into  the  issue  from  the  current  valuation  of  de  Kooning  in  the  art  market:  a
+small  de Kooning  drawing  was recently  on  view at  Christie's for three million  dollars.
+
+115.  My  reading  here,  pun  half-intended,  is  influenced  by HAROLD  BLOOM,  THE ANXIETY
+
+OF  INFLUENCE  (2d  ed.  1997).
+
+116.  DOUGLAS  CRIMP,  ON  THE  MUSEUM'S  RUINS  56 
+
+(1993) 
+
+(explaining 
+
+Rauschenberg's  work, "photography  began to conspire with  painting in its own destruction").
+
+that 
+
+in
+
+CALIFORNIA  LA W REVIEW
+
+[Vol.  97:263
+
+B. Reconceiving Art as the Destruction ofArt
+
+"I  was trying to make art  and therefore  I had to erase  art."
+
+-Rauschenberg
+
+17
+
+As  I  contend  above,  destroying  art  can  be  a  valuable  way  of making  art.
+But I  want to claim  something  more.  Destruction  is  not  simply  an  occasionally
+valuable  thing, but  rather,  a  central  quality  of "art"  itself. This  is because  of a
+surprising  development  within  art  history:  "art"  as  a  category  has  come  to  be
+about  its  own  metaphorical  destruction.  If we  accept  this  precept,  then  the
+physical  destruction  of  works  of  art  becomes  a  powerful  expression  of the
+metaphorical  essence of art.  In  the  following  sections,  I  begin  by arguing  that
+metaphorical  destruction  lies  at  the  heart  of contemporary  art.  I  then  offer  a
+glimpse  of the broader place  of destruction  in art history. 1
+
+1. From Dada and Pop to Postmodernism: Contemporary Art as the
+
+Destruction of "Art"
+
+"[T]he  most  ambitious  art  will  henceforth  'make  history'  by  . . .
+committing  acts of destruction  against what is  most valued."
+
+-Alan  Liu,  The Laws of Cool 119
+In  2006,  a  French  performance  artist  used  a  hammer  to  attack  the
+venerated  1917  sculpture  Fountain by  Marcel  Duchamp.120  Duchamp's  most
+notorious  work,  Fountain was  a  "readymade"  manufactured  urinal  which  he
+elevated  to the  status  of art by placing it in a gallery  setting. 121 The French  artist
+who  attacked  Fountain, Pierre  Pinoncelli,  claimed  upon  his  arrest  that  his
+vandalism  was  itself  a  work  of art.  He  also  claimed  that  the  new  art work  he
+made  in his  attack was in the spirit  of Duchamp 1 22
+
+I  think he  was right  on both  counts.  Crazy,  but  right.  Like  Rauschenberg
+or the  Chapman  brothers,  Pinoncelli  made  a  new  work  of art  by  attacking  an
+
+117. 
+51  (1987).
+
+ROBERT  RAUSCHENBERG,  BARBARA  ROSE  &  ELIZABETH  AVEDON,  RAUSCHENBERG
+
+118.  Two  exceptionally  important  caveats  are  necessary.  First,  for the  sake of argument,  I
+have  dramatically  oversimplified  my  narrative  about  contemporary  art  and  art  history.  This  is
+essential  to emphasize  because  of the  extreme  pluralism  that  characterizes  recent  art.  Second,  my
+argument  is  also  contentious.  I  have  taken  a  strong  position  on  the  state  of  affairs  in  art,  and
+although some  scholars,  critics,  curators and  artists  would  likely  agree  with  me,  I  have  no  doubt
+that others would  vigorously contest my account.
+
+119.  ALAN  Liu, THE  LAWS OF  COOL  8  (2004).
+120.  Note that  no  "original"  of the  1917  work exists.  Eight  are  in  existence.  See  Part III.C.
+discussing  preservation  and  authenticity.  Duchamp  turned  the  urinal  on  its  side  and  submitted  it
+under  the pseudonym  "R.  Mutt"  to  a  1917  exhibition.  It was refused.
+
+121.  Duchamp's  pseudonymous  signature  was  also  significant 
+
+it
+simultaneously  transformed  the  urinal  into  "art" while  undermining  the  concept  of "art."  This  was
+not  the  first  attack  against  Fountain. In  2001,  two  artists  urinated  on  the  Fountain in  the  Tate
+Modern.  Alan  Riding,  Conceptual Artist  as  Vandal:  Walk  Tall and Carry a Little Hammer (or
+Ax),  N.Y. TIMES,  Jan.  7,  2006.
+
+regard; 
+
+in 
+
+this 
+
+122. 
+
+Id.
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+old  one.  But  while  both  Rauschenberg  and  the  Chapmans  chose  art  that  was
+romantic  and heroic,  Pinoncelli's  choice  of target  gave  his  creation  a  different
+meaning. By  attacking  a Duchamp,  he  was indeed  working  in that  artist's spirit.
+This  spirit  exposes  something  deeper  about  the  centrality  of  destruction  to
+contemporary  art-making.
+
+Consider  the  work  that  was  the  target  of Pinoncelli's  attack.  Duchamp's
+initial  intervention  into  artistic  discourse-inserting  a  lowly,  commercially
+manufactured  urinal  into  gallery  space  and  calling  it  art-was  itself an  act  of
+metaphorical  destruction.  French  sociologist  Pierre  Bourdieu  spoke  of  the
+Duchampian  readymade  as  "a  ritual  desecration"  of art.  Duchamp's  Fountain
+was  an  assault  on  the  sacred  boundary  between  art  and  everyday  objects.  By
+violating this  boundary,  his work  attacked  the  category  of "art"  itself. Another
+work of Duchamp's  underscores  the  shocking violence  of his stance.  That  work
+was  a  proposed  "reciprocal  readymade"  consisting  of  an  injunction  to  the
+viewer:  "Use  a Rembrandt as an  ironing board." Duchamp's  oeuvre  is  aptly
+called "anti-art." 123
+
+least 
+
+Anti-art  was  not  a  passing  creed.  Although  out  of  vogue  for  several
+decades,  Duchamp's  work caught  the  attention of pop  artists like Rauschenberg
+at  mid-century.  And  since  at 
+the  1980s,  Duchamp  has  become
+transcendent  in  his  influence.  Renowned  critic  and  philosopher  Arthur  Danto
+describes  the  contemporary  art  world  as  almost  completely  "defined  by
+Duchamp  as  its generative  thinker."'' 24  A  recent  poll  of five  hundred  art  critics
+called  Duchamp's  Fountain "the  most  influential  work  of modem  art"  by  any
+artist.125  Contemporary  artists  (postmodem  and  post-postmodem)  have  taken
+up his destructive  spirit with a  vengeance.
+
+.
+
+.
+
+.
+
+the 
+
+'destruction  of  destruction' 
+
+For  instance,  critic  Alan  Liu  writes  that  the  strong  art  of the  future  "will
+the  recognition  of  the
+be  about 
+destructiveness  in creation."' 26 He  argues that the  art  of destruction  has become
+the  central  theme of digital  art,  evident, for example,  in art from collectives  like
+Critical  Art  Ensemble,  which  makes  "hacktivism"  or  disturbance  art.12 7  These
+artists  draw  on  a  rich  late  twentieth  century  history  of "Destruction  Art,"  the
+name of the  school  associated  with  artist  Gustav  Metzger.  Jean Tinguely's  self-
+destroying  sculptures  and  machine  happenings  are  another  paradigm.  For
+example,  Tinguely  created  a  "machine  for  the  destruction  of sculptures"  that
+
+123. 
+
+For background,  see,  for example,  JANIS  MINK,  MARCEL  DUCHAMP,  1887-1968:  ART
+AS  ANTI-ART  (1995);  HANS  RICHTER,  DADA:  ART  AND  ANTI-ART  (David  Britt  trans.,  1997)
+(1965).
+
+124.  ARTHUR  DANTO,  AFTER  THE  END  OF  ART  85  (1997)  [hereinafter  DANTO,  AFTER  THE
+
+END  OF  ART].
+
+125.  BBC  News,  Duchamp  Urinal  Tops  Survey,  Dec. 
+
+1,  2004,  available  at
+
+http://news.bbc.co.uk/1/hi/entertainment/arts/4059997.stm.
+
+126.  Liu, supra note  119,  at  8-9
+127. 
+
+Id.
+
+CALIFORNIA LAW REVIEW
+
+[Vol.  97:263
+
+was itself later destroyed. 128
+
+Walking  through  Chelsea  galleries  today,  one  can  sense  this  destructive
+spirit.129  Consider  one  of  the  most  celebrated  shows  of  2007,  Turner  Prize
+winner  Simon  Starling's  exhibition.13  Starling  took  a  boat  into the  water  and
+hacked  it into pieces  until  it was  gone. The  "work  of art,"  such as  it is,  consists
+of nothing  more  than  a  lone  slide  projector  showing  still  images  of Starling
+destroying  his boat until it sinks. Two prominent group  shows from  the summer
+of 2008  were  organized  to  display  destruction  as  a  mode  of artistic  creation.
+"Cancelled,  Erased,  Removed,"  at  the  Sean  Kelly  Gallery,  showed  artists
+whose  creative  process  depended  on  erasing  or  removing  images;  the  show
+took  its  "conceptual  point  of departure  [from]  Robert  Rauschenberg's  Erased
+de Kooning."' 31 "Who's  Afraid of Jasper  Johns,"  the  critical  hit  of the  summer
+season,  was  a  meditation  on art as  a kind  of "vandalism  updated for  our digital
+age. ''132  Inspired  by  a  notorious  attack  against  an  artwork,  the  mind-bending
+show  consisted  of  one  exhibition  displayed  on  top  of  a  precise  replica  of a
+previous  one  that had itself raised the issue of vandalism.'1 33
+
+Destruction  is also at the heart  of a  controversy  unfolding  in New York. In
+2007,  a  mysterious  vandal  began  attacking  the  work  of  street  artists  in
+Brooklyn  by  throwing  colorful  buckets  of  paint  on  them.  The  vandal  was
+quickly  dubbed  "the  Splasher."  His  choice  of target  was  not  run-of-the-mill
+graffiti  but  rather  pieces  by  highly-acclaimed  street  artists,  such  as  Swoon' 3 4
+and  Faile, 135  whose  works  appear  on  the  street---often  illegally-but  also  in
+major  museums  and  galleries. 136  Although  we  don't  know  the  Splasher's
+
+128.  A wide  range  of recent  artists,  from  Gordon  Matta-Clark,  to  Felix Gonzalez-Torres,  to
+Urs  Fischer,  make  work  that seems  indebted  to Tinguely.  Cf Man  Ray's  1923  assemblage  Object
+to  Be  Destroyed.  The  piece  was  stolen  and  destroyed.  Man  Ray  recreated 
+it
+Indestructible Object.
+
+it,  naming 
+
+129.  Once  again,  I  describe  these  works  not  because  they  necessarily  involve  technical
+violations  of VARA  but rather  because  they expose  the  vital importance  of destruction  as a  mode
+of creation in the contemporary  art world.
+
+130.  Simon 
+
+http://chelseaartgalleries.com/Casey+Kaplan/
+Simon+Starling+2007.html.  Starling  used  the wooden pieces  chopped from  the boat to  fuel it as  it
+sank.
+
+Starling 
+
+2007, 
+
+131. 
+
+Press  Release, 
+
+Cancelled, 
+
+Erased  &  Removed 
+
+(June 
+
+21, 
+
+2008),
+
+http://www.skny.com/exhibitions/2008-06-2  1_cancelled-erased-and-removed/pressrelease/.
+
+132.  R.C.  Baker,  Digital Vandalism  at Shafrazi  Gallery, VILLAGE  VOICE,  June  3,  2008,
+
+available at http://www.villagevoice.com/2008-06-03/art/lies-all-lies/.
+
+133.  Roberta  Smith,  When Artworks Collide, N.Y.  TIMES,  May  16,  2008,  at  E25.  The  show
+was  inspired,  in part, by the history of the  Tony Shafrazi  Gallery where  it took place:  Shafrazi  rose
+to  fame  for  defacing  Picasso's  Guernica. See infra note  153  and  accompanying  text.  The  title  of
+the  show  also  alludes  to  a  famous  painting  that  had  been  vandalized,  Barnett  Newman's  Who's
+Afraid of Red, Yellow  and Blue? Furthermore,  the underlying  exhibition,  featuring  four prominent
+graffiti  artists,  also  implicated  vandalism;  some  of their  works  originally  appeared  in  subway
+stations  and other public  spaces.
+
+134.  Kirk Scmple,  Lawbreakers, Armed with Paint and Paste; Underground Artists Take to
+
+the Streets, N.Y.  TIMEs,  July 9,  2004,  at  B1.
+
+Id.
+
+135. 
+136.  Colin  Moynihan,  Defacer with  Mystery Agenda Is Attacking Street Art, N.Y.  TIMES,
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+identity,  we  do  know  that  he137 considers  himself  an  artist.  His  manifesto,
+deposited  at  the  site  of  his  attacks,  includes  the  motto  "The  passion  for
+destruction  is  a  creative  passion."' 38  The  art  collective  Faile  offered  an
+extraordinary  response  to the  Splasher's  attacks  on their  artworks.  Faile  created
+the  Splasher's
+new  pieces 
+modifications.  A  member  of Faile  said, "We're  going  to start  co-opting  it  and
+just embracing  [the  attacks].' 39
+
+the  violated  originals, 
+
+incorporating 
+
+from 
+
+This is a  vision of art completely at odds with the  moral rights regime. Art
+becomes  a  dialogue  among  vandals,  in  which  destruction  and  creation  merge.
+The  initial  artist/vandal  creates  work  by  "destroying"  property;  the  Splasher
+mutilates  the  initial  artist's  work  in an  act of "creative  passion";  the  first  artist
+builds  upon  the  previous  destruction,  modifying  it  to  create  yet  another
+artwork.  In  my  view,  this  model  of creative  vitality  captures  the  ethos  of the
+present  era. Yet  it is  worlds  away  from  the  model  of creation  that moral rights
+law  presumes.
+
+The  interest  in  destruction  is  so  pervasive  in  contemporary  art  that,  in
+2002,  French  critic Bruno  Latour  declared:  "Art has become  a  synonym  for the
+destruction  of  art."' 14 0  In  fact,  as  I  argue  in  Part  IV,  the  defining  feature  of
+contemporary  art  has been its  attack  on the  coherence  of "art"  as a  category.  In
+this  light, physical  attacks  against  art objects  can  be understood  as  particularly
+valuable  forms of expression.  Moral  rights law therefore  rests  on a vision  of art
+at  odds  with  contemporary  art practice.  The  law  obstructs  rather  than  enables
+the  creation of art.
+
+I  return  to  the  contemporary  assault  on  "art"  in  Part  IV.  In  the  next
+Section,  however,  I  look  at  art's  past,  briefly  exploring  the  importance  of
+destruction  in art  history.  Although  the metaphorical  (and  sometimes  physical)
+destruction  of  art  is  a  central  tenet  of  postmodernism,  art's  reliance  on
+destruction has a  longer history. Destruction  was also  central to modernism,  the
+very movement  against  which contemporary  art rebels.
+
+2. Situating Destruction within the History ofArt
+
+itself  may  be  constituted  of several  interventions  ....
+"'Creation' 
+Some  of  these  interventions  aimed  at  lengthening  [the  object's]
+. at  terminating  it,  and  many-maybe  all-at
+existence,  others  .
+modifying  it."
+
+.
+
+-Dario  Gamboni
+
+14 1
+
+Mar.  7,  2007,  at B2.
+
+137.  Rumor has it that the  Splasher is  a  man.
+138.  Alex  Mindlin,  For  Vandals,  an  Ironic Target: Street  Artists, N.Y.  TImES,  Jan.  28,
+
+2007,  §  14, at  6.
+
+Id. (quoting a member  of Faile).
+
+139. 
+140.  Latour, supra note  1, at 21.
+141. 
+
+GAMBONI,  supra note 2,  at 25.
+
+CALIFORNIA LAW REVIEW
+
+[Vol.  97:263
+
+"The  desire  to create  art  always  expresses itself as  the desire  to destroy
+art."
+
+-NewYorkisDead.biz 
+
+(Gavin Brown Gallery)
+
+"I want to assassinate  painting."
+
+-Joan  Mir614 2
+Describing  how  "intimate  destructivity  has  always  been  to  creativity,"
+Alan  Liu writes that "the  history  of art is  incomprehensible  without  a matching
+history  of  'de-arting. ' '" 143  Certainly,  one  could  see  destruction  as  a  central
+principle  of twentieth  century  modernism.  Inherent  in  the  idea  of the  avant-
+garde,  valorized  by  modernism,  is  the  idea  of continually  breaking  with  the
+past.  Modernism depended  on  shattering  tradition;  the progress  of art entailed  a
+kind  of metaphorical  iconoclasm.' 44
+
+Other  periods  in  the  history  of  art  have  also  pictured  destruction  as
+integral  to  creation.  In  the  nineteenth  century,  for example,  the  idea  arose  that
+artists  needed  to  destroy  past  art  to  free  themselves  from  its  weight.  A  blank
+slate  would  liberate 
+the  individual  genius  to  create  something  new.  Thus
+novelist  Joris-Karl  Huysmans  wrote  at  the  turn  of the  century:  "Fire  is  the
+essential  artist  of our time.  And the  architecture  of the  [past]  so pitiful  when  it
+is  raw, becomes  imposing,  almost  splendid,  when  it  is  baked., 145 Similarly,  in
+1851,  anarchist  philosopher  Pierre-Joseph  Proudhon  called  for  burning
+museums.  He  explained  that  it was  only "once  the  past was  forgotten  [that]  we
+would  do  something."' 146  One  striking  modem  example  of  the  idea  that
+creativity  requires  destruction  of the  past  comes  from  Jasper  Johns.  While  he
+was  still  an  unknown  artist,  Johns  decided  to  destroy  all  of his  work  "with  a
+view  to  purging  himself of influence." 147  The  strategy  seems  to  have  worked.
+After  destroying  his  art,  Johns  had  a  dream  about  painting  a  flag.  Thus  began
+his iconic  flag  series,  the  work that established  his greatness. 148
+
+142.  MoMA.org,  Exhibitions  2008,  Joan  Mir6:  Painting  and  Anti-Painting  1927-1937,
+http://www.moma.org/exhibitions/exhibitions.php?id=3993 
+(last  visited  Nov.  24,  2008).  A
+reviewer of this  exhibition  wrote:  "Amputate  tradition, torture  the past,  terrorize  the present. The
+impulse  to  destroy  was  part  of what"  defined  early  modem  art.  Holland  Cotter,  Mir6,  Serial
+Murderer ofArtistic Conventions, N.Y. TIMES,  Oct. 30,  2008,  at  C23.
+
+143.  Liu, supra note  119,  at 327.
+144.  Although  I note a commonality  between  modernism  and postmodemism,  their targets
+of  destruction  differ.  Modernism  destroyed  tradition, not 
+the  artist/genius.  Postmodernism
+destroyed  the  latter  as  part  of a  broader  attack  on  individuality.  One  might  also  consider  the
+ascetic,  anti-representational  turn  in  art,  evident  in  works  by  such  varied  artists  as  Mondrian,
+Kandinsky, Rothko,  Hoffmann, Reinhardt,  Motherwell, as  evidencing an  iconoclastic impulse.
+
+145. 
+
+J-K  HUYSMANS,  CERTAINS  29  (1889)  (quote  translated  from  the  original  French  by
+
+Amy Adler).
+
+146. 
+
+JAMES  M.  THOMPSON,  TWENTIETH  CENTURY  THEORIES  OF  ART  277  (1990).
+Similarly,  Italian  Futurists  such  as Marinetti  wanted  to demolish  museums.  GAMBONI,  supra note
+2,  at 259.
+
+147.  Louis  Menand, 
+
+Capture 
+
+the 
+
+Flag, 
+
+SLATE, 
+
+Oct. 
+
+30, 
+
+1996,
+
+http://www.slate.com/id/2905.
+
+148. 
+
+Id.
+
+20091
+
+AGAINST MORAL  RIGHTS
+
+that  mutilation  would  revive  art  that  had  been  entombed 
+
+Another rationale  for destruction in the  name  of advancing  art  arose  in the
+modem  period:  modifying  the  original artists'  efforts would renew  works  of art
+and  rescue  them  from  death  in  the  museum/mausoleum.1 49  As  artist  Felix
+Gmelin  observed,  when  we  turn  a  picture  into  a  "masterpiece,  the  museum
+the  picture  historic,  thereby  rendering  it  invisible  in  the
+helps  to  make 
+present." 150  Asgor  Jorn,  a  post-war  artist,  took  this  view  a  step  further,
+in
+contending 
+museums.  He  argued  that  artists should  "improve  old canvases,  collections  and
+entire  museums"  by  painting  over  pictures. 151  This  vandalism  would  not
+destroy the  works;  rather,  it would  "preserve  their  actuality  and ...  help them
+from  falling into  oblivion."' 52  When  art  critic  Tony  Shafrazi  defaced  Picasso's
+Guernica by  spray-painting  on  it  the  year  after  Picasso's  death,  his  actions
+could  be  interpreted  as  putting  this  theory  into  practice.  He  claimed  that  he
+attacked the  painting because  he  wanted to  "bring the  art  absolutely  up to  date,
+to retrieve  it from art history and give it  life.' 53 In a similar gesture, artist  Hans
+Haacke  broke replicas  of Duchamp's readymades  because  he  believed they had
+been transformed  from vital  art into "relics." 154
+
+the 
+
+inspiration 
+
+for  Fluxus. 155  The  recent  and 
+
+There  is  even  a  movement  in  contemporary  scholarship  to  reclaim
+iconoclasm  itself as  a  form  of art.  There  is  precedent  for  this position.  One  of
+the  leading  artists  of the  Fluxus  movement  of the  1960s  described  Byzantine
+important
+iconoclasm  as 
+"Iconoclash"  exhibition in Germany  began  from  this principle.  Bruno  Latour,  a
+curator  of  the  show,  wrote  that  the  exhibition's  premise  was  to  picture
+iconoclasm  as  not  merely  the  destruction  of art, but  rather  as  a  "source  of new
+images."'1 56  In the  same  vein,  W.J.T.  Mitchell,  the father  of the  field of "visual
+studies"  wrote  in  2005:  "[I]conoclasm  is  more  than  just  the  destruction  of
+images;  it is  a  'creative  destruction'  in which  a  secondary  image  of defacement
+image  is
+or  annihilation  is  created  at  the  same  moment  that  the  'target' 
+
+149.  Adomo  called  museums  "sepulchers"  of art.  THEODOR  W.  ADORNO,  Valkry  Proust
+Museum,  in  PRISMS  175,  181  (Samuel  &  Shierry  Weber  trans.,  1981)  (1967).  See  also CRIMP,
+supra note 116.
+
+Dario  Gamboni,  Image to Destroy, Indestructible Image, in  ICONOCLASH,  supra note
+
+150 
+
+1, at 88,  127.
+
+151. 
+152. 
+153. 
+
+Id. at  124.
+Id.
+Id. Although most in the art world  decry  attacks  on  art, there have  been defenders.  For
+example,  in  1997,  performance  artist  Alexander  Brener  sprayed  a  dollar  sign  on  a  Malevich
+painting  in  Amsterdam,  calling  his  action  "'a  political  and  cultural  action against  corruption  and
+elitism  in culture."'  Id. at  127.  The  editor  and  publisher  of Flash Art defended  the  artist/vandal,
+calling  his arrest  "an  offense  to the  artist's freedom  of expression."  Id.
+
+Id. at  124.
+
+154. 
+155.  KEN  FRIEDMAN,  THE  FLUxus  READER  95  (Ken Friedman  ed.,  1998).  Fluxus  was  an
+international,  experimental  art  movement  dating  from  the  early  1960s.  A  highly  eclectic
+movement  that  traversed  different  media,  Fluxus  drew  on  (and  in  some  cases  influenced)  other
+artistic  movements  including  performance  art, conceptual  art and Dada.
+
+156.  Latour, supra note  1, at 21  (emphasis  omitted).
+
+CALIFORNIA  LA W REVIEW
+
+[Vol.  97:263
+
+attacked."' 157
+
+than  the  subsequent  one  produced  from 
+
+This  history suggests  that moral rights'  quest to preserve physical  integrity
+overlooks  the  central  role  of metaphorical  and  indeed  physical  destruction  in
+art.  I  do  not  claim,  however,  that  destruction  and  mutilation  are  always
+valuable.  In  many cases,  perhaps  most, it  may turn  out  that  the  original  object
+its  destruction.158
+was  "better" 
+Furthermore,  there  is  a  long  and  sinister  history  of attacks  on  art,  shown,  for
+example,  in the  Taliban's  recent,  tragic  destruction  of the  Bamiyan Buddhas  in
+Afghanistan  or the  hateful  Nazi  attacks  on  "degenerate  art. ,159 But  this history
+is  not  the  only  one.  At least  when  we  are  dealing  with  contemporary  art,  we
+should  seek  a  deeper  and  more  complicated  understanding  of  integrity  and
+destruction.  And  contemporary  art-art  created  since  June  1991-is  the  only
+kind  of art  that  VARA  protects.  We  may  be  truer  to  the  spirit  of contemporary
+art  if we  start  from the  premise  that it exists  to be  violated,  reworked,  and even
+destroyed  rather than  to be  embalmed and  preserved just as the artist  intended.
+Thus  the right  of integrity  imposes a cost  on art.  And as I argue  in the next
+
+section, its  benefit to art is  surprisingly less  significant  than we  might expect.
+
+C. The Diminished Value ofAuthenticity and Preservation
+
+"Whatever  art is,  it is  no longer something primarily to be looked  at."
+
+-Arthur  Danto, After the End ofArt 160
+
+Have  you  ever  seen the  Mona  Lisa?  Isn't it disappointing?  There  you  are,
+seeking  to be  in the  presence  of greatness,  and instead,  there  are  fifty people  in
+your way,  cameras  whirring,  and there's  bulletproof glass  blocking  your  view,
+and the  picture itself is so  surprisingly  small. But perhaps  the biggest letdown is
+that  you've  already  seen  the  Mona  Lisa,  even  if this  is  your  first  time  in the
+Louvre.  You've  seen  the  Mona  Lisa  so  many  times  that  you  can't even  "see"
+the  real  one  anymore.  What  do we hope  for when we  go  to  see  it  at the  Louvre
+in  the  first  place?  What  is  this magic  we  seek  in the  presence  of the  painting?
+Perhaps  we  hope  that  the  thing  itself will  exceed  anything  conveyed  by  its
+reproductions.  Perhaps  we  hope  that by  being  near the  original  object,  we  will
+be  in the  presence  of Leonardo's  genius.  It is  as  if we  seek  some  sort of grace.
+
+157.  W.J.T. MITCHELL,  WHAT  Do PICTURES  WANT?  18  (2005).
+158.  Of  course,  as  I  discuss  in  Part  V,  defining  which  is  "better"  is  extraordinarily
+complex.  We  would  have  to  worry  about  who  should  make  the  determination,  and  also  when  it
+should be made,  since our estimation  of art often shifts  dramatically over  time.
+
+See  GAMBONI,  supra  note  2,  at  45-47  (discussing  Nazi  attacks  on  so  called
+"degenerate  art");  LATOUR,  supra note  1, at  18-19  (describing  Taliban  destruction  of Buddhas  in
+2001).
+
+159. 
+
+160.  DANTO,  AFTER  THE END  OF ART, supra note  124,  at  16;  see also SYLVtRE  LOTRINGER
+& PAUL  VIRILIO,  THE  ACCIDENT  OF  ART  73  (Michael  Taormina  trans.  2005)  ("The  visual  arts no
+longer speak  to the eyes.").
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+Walter Benjamin  would say that we  seek the painting's  "aura."
+
+Yet  as  Benjamin  presciently  saw,  endless  reproductions  of unique  works
+of art  would ultimately  destroy  their  aura.'  61  Writing  in  1936,  Benjamin  could
+never have  imagined  how true his  vision would become  in our  digital culture  of
+endless  copying.  There  is no  more  aura.  We can't fully  experience  the  magic of
+the  Mona  Lisa because  it  is  gone;  it  is  a  casualty  of the triumph  of mechanical
+reproduction. 162 And  it is  not only  mechanical  reproduction-with  its relentless
+mediation  of  our  vision-that  has  ushered  in  this  loss.  The  loss  might  also
+come from the  very act of honoring  and revering the work. As  noted above,  one
+artist  warned  that  when  we  turn  a  picture  into  a  masterpiece,  we  render  it
+"invisible in the  present."'163
+
+This  reality  has  influenced  my analysis  of moral  rights  law.  Moral  rights
+law  seeks to preserve  unique objects,  but  these  objects are  already  in some  way
+lost.  The  desire  to preserve  the  real  thing  made  sense  when  moral  rights  were
+bom  in  nineteenth  century  France.  As  Professor  Merryman  has  argued,
+preserving  works  of art  exactly  as  the  artist  intended  them  is  crucial  because
+S  ,,164
+"[w]e  yearn  for  the  authentic,  for  contact  with  the  work  in  its  true  version.
+But if we  cannot  see the  "true"  Mona  Lisa anymore,  the value  of preserving  the
+painting  diminishes.  At  the  same  time,  those  very  reproductions  that  destroyed
+the  aura  of the original  have  become rivals  to the  thing  itself. To  the  extent that
+we  want  to  preserve  great  works  of  art  in  order  to  protect  our  shared
+vocabulary-the  primary  rationale  advanced in moral  rights scholarship  for the
+in  preservation-reproductions  are  no  longer  as  paltry  an
+public  interest 
+alternative  to  the  real  thing  as  we  might  believe. 165  Furthermore,  since  these
+
+161.  Walter  Benjamin,  The  Work  of Art  in  the  Age  of Mechanical  Reproduction,  in
+ILLUMINATIONS  217  (Hannah  Arendt  ed.,  Harry  Zohn  trans.,  1968)  (1955)  ("The  situations  into
+which  the  product  of mechanical  reproduction  can  be  brought  may  not  touch  the  actual  work  of
+[T]hat  which withers  in  the  age  of
+art,  yet  the  quality  of its presence  is always  depreciated  .... 
+mechanical  reproduction  is the  aura  of the  work of art.").
+
+In  1911,  after the Mona Lisa was  stolen, people  lined  up to  look  at the empty space  on
+the  wall  where  it  had been  in the  Louvre.  See  RoY  MCMULLEN,  MONA  LISA:  THE  PICTURE  AND
+THE  MYTH  200 (1975).  I  believe  our  modem  pilgrimage  to  the  painting  bears  an  echo  of this-
+among  the things  we look  at is  a marker  of what is  lost.
+
+162. 
+
+163.  Gamboni,  supra note 150,  at  127  (emphasis  supplied).
+164.  Merryman,  supra note  5, at  1041.  Cf  HAL  FOSTER,  Preface to THE  ANTI-AESTHETIC
+10  (Hal  Foster  ed.,  1983)  (describing  shift  from  viewing  artifacts  as  modernist  "works"  to
+"contingent"  postmodernist "texts").  It  follows that the  importance  of preservation  diminishes.
+
+165. 
+
+I  am  most  comfortable  with  this  argument  when  applied  to  painting  and  two
+dimensional  art  forms.  Sculpture  and  architecture  pose  deeper  problems  because  of the  difficulty
+their  spatial  components  into  two  dimensions.  (Sculptures  are  more  easily
+of  translating 
+reproduced  in  three  dimensions  than  architecture,  but  neither  can be  satisfactorily  reproduced  in
+the  2D  world  of  cyberspace.)  Finally,  my  argument  responds  to  the  claim  in  moral  rights
+scholarship  that preservation  is important because  it assures  our common vocabulary.  Thus I  focus
+on  the  aesthetic  value  of  works  of  art.  Reproductions  deny  scholars  important  historical
+information  (as  well  as  other  kinds  of  valuable  information,  for  example  about  authenticity).
+Furthermore,  although  the  aura  is  lost,  we  don't  easily admit  it.  Perhaps  the  sense  of authenticity
+that many  feel  before  the  "real  thing"  might still be  valuable,  even  if it is  based  on what  I believe
+
+CALIFORNIA  LAW  REVIEW
+
+[Vol.  97:263
+
+reproductions  are  so  widely  available,  and  to  the  extent  we  cannot  see  the
+"real"  Mona  Lisa  anymore,  the  value  of the  original  as  opposed  to  the  copy
+diminishes.  Yes,  I  know  that  a  digital  reproduction  can't  convey  lushness,
+texture,  the true color of paint,  the power  of scale,  and other  unique aspects of a
+particular  work. 166 Of course,  I  recognize  the  limits  of reproductions  compared
+to  the  real  thing.  But  we  also  must  recognize  the  limits  of the  real  thing  in a
+world of reproductions.1 67
+
+In  fact,  although 
+
+they  certainly  don't 
+
+inveigh  against  preservation,
+theorists as diverse  as Jean  Baudrillard,168 Ludwig Feuerbach,169  and Bill  Miller
+have  observed  that  we  sometimes prefer reproductions  to originals.  Miller,  for
+example,  describes  our "shame  of having felt  more  for a  photo  or reproduction
+than  for the thing  itself."' 70
+
+There  are  further reasons  why the  concept  of integrity  in moral rights  law
+seems  less  urgent  to  me  than  it might  once  have. This  is  because  when  dealing
+with  contemporary  art  works-again,  the  only  kind  that  VARA  protects-we
+must  consider the  difference  between  what "art"  means today and what it meant
+in  the  past. The  word  "art"  used to  invoke  beauty,  mastery  and transcendence.
+But postmodern  art,  drawing on  Dada  and Pop, moved art from  the realm  of the
+beautiful,  physical,  or even  visual  to  the  realm  of the  conceptual.  Arthur  Danto
+writes  that in  contemporary  art,  "visuality  drops  away,  as  little relevant  to  the
+essence  of art  as  beauty  proved  to  have  been." 171  Compare  the  experience  of
+viewing  a  Duchamp  urinal  with  the  experience  of  viewing  a  Rembrandt
+painting. I  am not  saying that  viewing  the  former  is  devoid  of value  (although
+Duchamp  himself  was  dismayed  when  people 
+evaluated  Fountain
+aesthetically). 172  But,  in  contrast  to  the  Rembrandt,  it is  clear  that  a  great  deal
+of the  value  of the  Duchamp  is  conveyed  simply  by describing  it  and  how  it
+was made  (or not)  by  the  artist:  "Duchamp  took a manufactured  urinal  and  put
+
+is a  fantasy.
+
+167. 
+
+166.  Of  course,  good  digital  reproductions  could  reproduce  scale  and  color.  And  non-
+digital  reproductions-forgeries,  for  example-can  capture  texture  and  can  be  astonishingly
+convincing.
+
+Important  questions arise:  if the  aura is  gone,  why do artists need to  destroy originals?
+Won't  copies  suffice?  I think  that  someday,  perhaps,  copies  will  suffice.  Indeed  the  interest  in
+destruction  may soon  wane.  We  are  in  a moment  of transition  as  we  are  bombarded  by  limitless
+reproduction.  It  is  hard  to  predict  how  we  will  one  day  regard  the  notions  of  "original"  and
+"copy."  But  for  now,  many  of  us  still  believe  in  the  aura,  or  at  least  still  long  for  it.  The
+destruction  of the  original  still  hurts. Thus,  the  shock  of such destruction  forces  us,  perhaps  better
+than any other conceivable  artistic action,  to confront the  aura's  decline.
+
+168. 
+
+See  Jean  Baudrillard,  The  Precession of Simulacra,  in  ART  AFTER  MODERNISM:
+
+RETHINKING  REPRESENTATION  253  (Brian  Wallis ed.,  1984).
+
+169. 
+
+LUDWIG  FEUERBACH,  Preface to  THE  ESSENCE  OF  CHRISTIANITY  (Harper  Torchbook
+ed.,  George  Eliot trans.,  1957)  (stating that our  era "prefers  the  image to the  thing, the  copy to the
+original,  the representation  to the reality").
+
+170.  WILLIAM I.  MILLER,  FAKING  IT  161  (2003).
+171. 
+172.  Duchamp  complained  in  dismay  that  critics  "admire  [my  readymades]  for  their
+
+DANTO,  AFTER THE  END  OF  ART,  supra note  124,  at  16.
+
+aesthetic  beauty."  Id. at  84.
+
+20091
+
+AGAINST MORAL  RIGHTS
+
+it  in  a  gallery  space."  Given  this  move  of  art  from  the  physical  to  the
+conceptual  realm,  the  value  of  preserving  physical  objects  that  artists  make
+today is  diminished.
+
+I 
+
+saw 
+
+of 
+
+the 
+
+evidence 
+
+abundant 
+
+Indeed,  much  contemporary  art reflects  this  loss of interest  in  the  object.
+The  curators  of the  recent  Whitney  Biennial 173  described  two  major  themes  of
+the  show  as  "failure"  and  "ephemerality." 174  On  a  recent  trip  to  Chelsea
+theoretically-touted
+galleries, 
+"dematerialization  of art."' 175  I saw gallery  after gallery  of works  that  reveled  in
+their  physical  contingency:  self-destroying  boats,  gnawed  piles  of chocolates,
+and  crumpled  notes  casually  tacked  to  the  wall.  Of course  there  are  still  many
+artists  who  continue  to  make  lushly  beautiful,  virtuosic  work.  But  often  their
+work  exists  on  conceptual  as  well  as  formal  levels. 176  For  example,  the  "hot"
+contemporary  painter  John  Currin  isn't just  a  great  painter;  part  of the point  of
+his  work  is  that  he  paints  so  masterfully  after  painting  was  pronounced  dead.
+Currin  paints  as  if there  were  quotation  marks  around  the  word  "painter,"
+marking  it off as a  sly conceptual  move.
+
+Finally,  moral  rights'  focus  on  preservation  glosses  over  what  a  deeply
+unstable  concept  "preservation"  is.  As  noted  above,  some  critics  and  artists
+maintain  that  "preservation"  of  a  work  in  a  museum  is  itself  a  form  of
+destruction.  Adorno  called  museums  "sepulchers"; 177  Pissarro  called  them
+"necropolises."' 178  Some  artists  intend  their  work  to  age  ungracefully,  to  show
+the  vagaries  of time.  Brice  Marden  has  directed  preservationists  not  to  repair
+accidental  scuffs  and  other  damage  done  to  his  monochromatic  paintings.' 79
+For  other  artists,  part  of the  point  of the  work  may  be  that  it will  fall  apart.
+George  Herms  called  his  early  assemblage  works  an  "indictment  of
+materialism";  preserving  them  might then be a  contradiction.! 80
+
+Sculptor  Eva  Hesse  did  pioneering  work  in  the  1960s  in  fragile,  new
+materials  such  as  resin,  latex,  and  fiber.' 8'  Hesse  died,  tragically  young,  in
+1970.  Some  of her  sculptures  are  disintegrating;  they  may not  last.  Was  it part
+of  the  art  that  the  pieces  would  degrade?  Or  was  it  her  intent  to  have  them
+somehow  preserved?  Would  "preservation"  destroy  her  sculptures?  Would  we
+
+173.  The  Whitney  Museum's  Biennial  exhibitions  are  important  attempts  to  capture  the
+essence  of the  art world  every  two  years.  See Adler,  What's Left?,  supra note  48,  at  1543  n.181
+(noting  importance  of Biennials).
+
+174.  Holland  Cotter, Art's Economic Indicator, N.Y.  TIMES,  Mar.  7.  2008,  at  E31  (quoting
+
+curators).
+
+175.  See,  e.g.,  MARTHA  BUSKIRK,  THE  CONTINGENT  OBJECT  OF  CONTEMPORARY  ART
+
+(2003).
+
+176.  Or it exists  as commodity.  See infra Part IV.
+177.  ADORNO,  supra note  149.
+178.  GAMBONI,  supra note 2, at  256 (quoting Pissarro).
+179.  Randy  Kennedy,  Giving the Artists a  Voice in  Preserving Their  Work,  N.Y.  TIMES,
+
+June  29,  2006, at El.
+
+Id.
+
+180. 
+181.  Lucy R. LIPPARD,  EVA  HESSE (1976).
+
+CALIFORNIA LA W REVIEW
+
+[Vol.  97:263
+
+"preserve"  them  by  letting  them  fall  apart?' s2  The  answers  are  unclear.  The
+uncertainties  surrounding  Hesse's work  raise  deeper  questions that moral rights
+law  glosses  over:  should  the  artist's  wishes  always  determine  the  fate  of the
+object?  What  is  the  value  of the  unique  physical  object  itself?. Does  the  work
+cease  to be  authentic  if we "preserve"  it by re-creating  it, removing the  trace of
+the  artist's  hand?  These  are  deeply  complex  questions.  Moral  rights  law
+enshrines  a simplistic notion  of integrity  without recognizing  the  complexity  of
+the concept.
+
+THE END  OF ART:  DESTROYING  "ART"  AS  A CATEGORY
+
+"There  seems to be something  in the  air that art is commerce  itself."
+
+IV
+
+"Art?  Isn't that a  man's name?"
+
+Jasper  Johns1 83
+
+-
+
+-Andy  Warhol184
+
+"Will the last painter please  turn off the  light when  leaving art?"
+
+-Peter  Weibel, An  End to the  "End ofArt"18 5
+
+Throughout  this essay, I have argued  that moral rights law  is incompatible
+with  contemporary  artistic  practice  because  the  law  is  based  on  romantic  and
+outdated  assumptions about art.  Here I want to confront  a deeper  problem at the
+heart of moral  rights law:  the  doctrine's very  existence  is premised  on  the  idea
+that  "the  bond between  an artist  and his work is  different  from that between  any
+other craftsman  and  his product." ' 8 6 In my view, this premise is problematic.
+
+What  is  so  special  about visual art? 18 7  Why do  we  grant it special  rights  and
+treat  it  differently  from  other  objects,  excepting  it  from  the  normal  rules  of
+property  and  contract?  At  its  heart,  moral  rights  law  rests  on  the  notion  that  a
+work  of  visual  art  is  not  merely  another  product  in  our  capitalist  society.
+
+182.  From  Jean  Tinguely's  self  destroying  sculptures,  described  supra,  to  Robert
+Smithson's  earthworks,  some  artworks  are  designed  to  be  ephemeral.  Others  are  meant  to
+constantly  change.  For  example,  Hesse  made  some  sculptures  that  would  change  with  each
+installation. 
+at
+http://www.guggenheimcollection.org/site/artist-work-md_63_1  .html.
+
+Expansion 
+
+Expanded 
+
+available 
+
+See, 
+
+e.g., 
+
+(1969), 
+
+183.  Carol  Vogel,  The  Gray Areas  of Jasper Johns, N.Y.  TiMEs,  Feb.  3,  2008,  at  C1
+
+(quoting Johns).
+
+184.  ARTHUR  C.  DANTO,  ENCOUNTERS  AND  REFLECTIONS  286-87  (1990)  [hereinafter
+
+DANTO,  ENCOUNTERS].
+
+185. 
+
+Peter  Weibel,  An  End to  the  "End of Art"?  On  the  Iconoclasm of Modern Art,  in
+
+ICONOCLASH,  supra note  1, at 614.
+
+186.  Cohn,  supra note 32, 69-70.
+187.  Hansmann  and  Santilli justify  the special  treatment  of art  by explaining that  "creators
+of..  . 'art'.  . . typically  [create]  unique  and  highly  individual  works  that  require substantial  skill
+and  effort,  [and]  commonly  feel  a  peculiarly  strong  attachment"  to  their  work.  Hansmann  &
+Santilli,  supra note 37,  at  103.
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+Instead,  it is  alive  with the  creative  spirit of the  individual  genius/artist  who,  to
+quote  the  Second Circuit,  "injects"  himself into the  work.18 8  His interests  in the
+work are  loftier  and richer than mere  pecuniary  ones.  Indeed they transcend  his
+individual  interests  and  become  interests  shared  by  the  public.  The  mundane
+laws  of  copyright  protect  only  economic  interests.  They  could  never  fully
+capture  what  the  artist  and  all  of us  value  about  artistic  expression.  Thus  we
+must make special  rules for works of art.
+
+But does  visual  art as  a  category  merit  this  special  treatment?  I  think  the
+answer  might  be  no.  It  once  seemed  obvious  that  there  was  a  distinction
+between  art and  other  objects.  But  that  is  no  longer  the  case.  Indeed,  I  would
+argue  that  the  incoherence  of the  category  of "art"  has  become  the  subject of
+contemporary  art. The  lack  of distinction  between  art and other  objects is now  a
+central  preoccupation  in contemporary  art.
+
+Moral  rights  law  thus  protects  art  under  a  justification  that  is  the  very
+target  of  the  art  it  purports  to  protect.  Think  back  to  the  discussion  of
+Duchamp's urinal in Part  III, the  piece  selected by  critics-as  the most influential
+work  of  modem  art,  the  work  that  defines  the  ethos  of  our  era.  Earlier  I
+discussed  Duchamp  to  establish  the  central  place  of destruction  in  art.  I  now
+want  to focus  on  the  target of Duchamp's  destruction.  His  Fountain, like  most
+of his oeuvre,  attacked  the  boundary  between  art and  everyday  objects.  And by
+attacking  this  boundary,  Duchamp  began  to  destroy  the  category  of "art."' ' 89
+Contemporary  artists  have renewed  his attack with  a vengeance. 190  Moral  rights
+law, by  insisting  that  art  is  special,  reifies  the  boundary  these  artists  attack.  It
+enshrines  in  law  the  precise  vision  of art  against  which  contemporary  artists
+rebel.
+
+It  is  important to note that  Duchamp's  attack  was  not an  initial  success.  In
+fact,  it  was  rejected  by  artists  and  theorists  for  several  decades.  Instead,  a
+different  vision  of art  flourished:  modernism.  Moral  rights  seem  rooted  in  this
+vision. 191  To  understand  it,  contrast  Duchamp's  work  with  the  paradigmatic
+artist  of mid-century  America,  Jackson  Pollock.  The  theory  of  moral  rights
+makes  sense  when  we  think  of Pollock,  both because  of the  deeply  expressive
+character of his  works  and because  they  fit  so clearly  within  the  lofty  realm  of
+high art.
+
+When we  think  of Pollock, we  think  not only  of his canvasses,  but  also  of
+tortured  genius  in  an  existential
+the  process  of  his  creation: 
+confrontation  with  his  art,  pouring  his  soul  onto  canvas  in  a  burst  of creative
+
+the  great, 
+
+188.  Carter v. Helmsley-Spear,  Inc.,  71  F.3d  77, 81  (2d Cir.  1995).
+189.  Adler,  Post-Modern Art,  supra note  48,  at  1364-69  (discussing  Duchamp  and  his
+
+relation  to postmodemism).
+
+190.  Once  again,  I  should note  that by  emphasizing  the  importance  of this movement,  I  do
+
+not mean to claim  that it is  universal  in contemporary art. See supra note  118.
+
+191.  And in romanticism,  as I  have  explained  above.
+
+CALIFORNIA  LAW REVIEW
+
+[Vol.  97:263
+
+angst. 192 Pollock's  paintings became  hallmarks  of modernism. Not only was his
+work  a  formal  breakthrough, 93  it  was  also  a  record  of his  individual  will.  It  is
+easy  to  see  why  we  would  consider  Pollock's'  art  "an  expression  of  his
+innermost  being. ' 94  Pollock's  paintings,  aptly  called  "action  paintings,"  are  a
+record of his transcendent  struggle;  we  feel him  in his work.
+
+Pollock's paintings  belonged  firmly  in the  domain  of high  art  as  opposed
+to popular  culture.  Indeed, the  boundary  between  these  realms  was  an  essential
+feature  of  modernism.  The  defining  characteristic  of late  modernism  was  its
+insistence on  the purity and  sanctity  of art.' 95 For  example,  Clement Greenberg,
+the critic  who ruled mid-century  American  art with  "papal  authority"'196 insisted
+that  "art  . . .in  its  'purity'  [would]  find  the  guarantee  of  its  standards  of
+quality."'
+
+' 97
+
+It was  against  this heroic  backdrop  that  artists  renewed  Duchamp's  attack
+on  the  category  of "art."  The  revival  began  in  the  1950s  and  60s  with  artists
+like  Rauschenberg,  discussed  above,  and  Jasper  Johns.  But  no  one  was  more
+important  in  this regard  than  Andy Warhol,  who  attacked  the  idea  that  art was
+somehow  worthy  of more  reverence  than other  objects.  Instead  of the  tortured
+artist baring his  soul on canvas  as  an expression  of his innermost being,  Warhol
+gave  us  the  vacant  artist,  reproducing  celebrity  photographs,  Brillo  boxes  and
+cans  of soup,  rolling  them  off the  production  line  in  the  studio  he  called  the
+"Factory."  Warhol  did  not only  render  consumer  products  as art;  he  also  made
+art  into  a  consumer  product.  He  turned  the  hallowed  artist  into  just  another
+businessman.  Warhol's  subject  matter  and  his  technique  were  depersonalized
+and commercial.  In  his  Factory,  he  mass-produced photo-silkscreens  that  never
+even  touched  the  romantic  hand  of the  artist.  (In  modernism,  the  artist's  touch
+was the  guarantor  of his  sincerity  and  presence,  investing  the  canvas  with  his
+magic.)  Boasting  of his  lack  of connection  with  his  own  objects,  addressing  a
+group of admiring  interviewers,  Warhol  said:  "Why  don't you  ask my  assistant
+Gerry Malanga  some questions?  He  did a  lot of my paintings."' 198 No wonder de
+Kooning was  rumored to have  uttered to Warhol  at  a  cocktail  party:  "You're  a
+
+192.  This  is  primarily  because  the  pictures  themselves-action  paintings-record  the
+artist's  movement,  but  also  because  Pollock  was  famously  photographed 
+in  the  process  of
+painting.  When  Life  featured  him  in  1949,  he  became  a  "pinup  of  seething  manhood."  Peter
+Schjeldahl, American Abstract: Real Jackson Pollock, NEW YORKER,  Jul.  31,  2006.
+
+193.  That  is,  reducing painting  to line  and  to action.
+194.  To  quote  Merryman's justification  for  the  special  treatment  of art  in moral rights  law.
+
+MERRYMAN  & ELSEN,  supra note 24,  at 423.
+
+See Adler, Post-Modern Art, supra note  48,  at  1363-64.
+
+195. 
+196.  Barry  Gewen,  State of the Art, N.Y.  TIMES,  Dec.  11,  2005,  §  7  (Book  Review),  at  28
+
+(quoting art historian  Robert Rosenblum).
+
+197.  Clement  Greenberg,  Modernist  Painting, in  MODERN  ART  AND  MODERNISM:  A
+
+CRITICAL  ANTHOLOGY  5,  6 (Francis  Frascina  & Charles  Harrison  eds.,  1982).
+
+198. 
+
+CAROLI  E  A.  JONES,  MACHINE  IN  THE  STUDIO  422  n.35  (1996)  (quoting  interview
+
+with  Warhol).
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+killer of art:  you're a killer of beauty."' 199
+
+The  present  era  owes  its  spirit  to  Warhol. ° °  Consider  the  trend  toward
+artists  working  as  collectives  and under  fictional  identities.  For example,  Reena
+Spaulings,  the  toast  of  the  last  Whitney  Biennial,  is  a  fictional  artist  (and
+dealer). 2° 1 A  shifting  group  of collaborators  produce  "Spaulings's"  work.  Like
+so  much  contemporary  work,  Spaulings's  art 
+is  often  manufactured
+commercially,  emphasizing  the  artist's  distance  from  the  process  of creation.
+For  example,  "her"  Biennial  piece  was  a  manufactured  store  canopy  that  the
+"artist"  ordered  from  a  Chinatown  company.20 2  Similarly,  the  Bernadette
+Corporation,  another  prominent  Whitney 
+is  also  a  shifting
+collaborative  that  brands  itself  a  corporate  entity. 
+There  is  no  artist.  Or,  if
+there  is, the  artist is  a corporation  and its work just another  product.
+
+"artist," 
+
+203
+
+What  are the implications  of this shift  in art  for moral rights?  Moral rights
+law  depends  on  and  glorifies  a  line  between  art  and  everyday  objects  that  no
+longer  exists.  The  New  York  Times  recently  reported  that  youth  culture  now
+views  brands  as  "an  artistic  medium."  Eschewing  the  non-existent  or  at  least
+tired  category  of "art,"  future  "artists"  may  find  their  medium  in  consumer
+4
+products,  making  T-shirts  and  sneakers  instead  of paintings  and  sculptures. 2
+0
+Indeed,  young  artists  seem  to  embrace  commercialism  in  a  casual  way  that
+previous  generations  would have  considered  heresy.  Downtown  art  star  du jour
+Dash  Snow  maintains  his  hipster  "cred"  while  modeling  for  AG  jeans. 20 5
+Richard  Prince, 
+is  busily
+collaborating  on  a  handbag  line  with  Marc  Jacobs,  while  Takashi  Murakami's
+latest  exhibition  featured  a  Murakami-Louis  Vuitton  boutique  in the  middle  of
+the  Brooklyn  Museum.20 6  Of course,  Warhol's  spirit reigns  over  this merger  of
+retail  and  art.  It  was  Warhol  who  wrote  that  "[b]eing  good  in  business  is  the
+
+fresh  from  his  Guggenheim  one-man  show, 
+
+199.  VICTOR  BOCKRIS,  WARHOL:  THE  BIOGRAPHY  320  (1989).
+200.  And to his  inspiration  in Duchamp.  Danto wrote  that  we  live  in the  "age  of Warhol."
+DANTO,  ENCOUNTERS,  supra note  184,  at  293.  Auction  prices  reflect  this.  Paul  Virilio  wrote:
+"When  you look  at  Christie's or  Sotheby's  auction  prices,  Rembrandt  comes  after  Warhol,  Monet
+after  Duchamp."  LOTRINGER  & VIRILIO,  supra note  160,  at 64.
+
+201. 
+
+CHRISSIE  ILES  &  PHILIPPE  VERGNE,  WHITNEY  BIENNIAL  2006:  DAY  FOR  NIGHT  334
+(2006).  This  model  of  production  raises  significant  questions  not  addressed  here  about  the
+necessity  of paternity  rights  as  incentives  to  creation.  More  fundamentally,  an  incompatibility
+appears  between  the  paternity  right's  valorization  of the  author  and  the  rejection  of the  author  in
+the kind  of contemporary art that Reena  Spaulings exemplifies.
+
+Id.
+
+202. 
+203.  Reena  Spaulings is  in fact a creation/product  of the  Bernadette  Corporation. Id. at  178.
+204.  Rob  Walker,  The Brand Underground, N.Y.  TIMES,  July  30,  2006  §  6 (Magazine),  at
+29.  The recent  copyright  skirmish between  Barney's  "window dresser"  Simon Doonan,  and "high
+artist"  Jack  Pierson  evidences  the  increasing  absurdity  of trying  to  separate  art  from  commerce.
+Simon Doonan, How Did I Become the Typhoid Mary of the Art  World?, N.Y.  OBSERVER,  Apr.  17,
+2006, (Culture),  at  1.
+
+205. 
+
+ILES  &  VERGNE,  supra  note  201,  at  330  (describing  Snow's  self-presentation  as
+"artist/outlaw").  This  is remarkable  considering  that his  work is  all  about cred-documenting  his
+life of coke,  sex,  and stealing.
+
+206.  Ruth La  Ferla,  The Artist's Fall Collection, N.Y. TIMES,  Nov.  8, 2007, at  G1.
+
+CALIFORNIA  LA W REVIEW
+
+[Vol.  97:263
+
+most fascinating  kind  of art." 207
+
+208
+
+215
+
+to  conceptualize  art  as  a  category 
+
+In  the  wake  of  soaring  prices  in  the  contemporary  art  market,  it  has
+that  transcends
+become  even  harder 
+One could  argue  that  contemporary  art functions  less  as  creative
+commerce. 
+personal  expression  and  more  as  a  luxury  good  marketed  to  the  very  rich.209
+Artworks  have  become  de  rigueur  trophies  for  newly  minted  billionaires. 210
+Several  of  the  most  highly  acclaimed  contemporary  artists  make  work  that
+simultaneously  critiques  and caters to this new market  reality. Consider  a recent
+piece  by  Damien  Hirst,  a  critical  darling  and  the  best-selling  living  artist.211
+Endeavoring  to  produce  the  "most  expensive  piece  of contemporary  art  ever
+created, 212 Hirst  encrusted  a  skull  with diamonds  and  sold it to an investor  for
+a hundred million dollars  cash.213 A critic said that  Hirst "uses  the  art market as
+his medium., 21 4 Works  like  this participate  in and  mock  the market's  excesses.
+And  collectors  want  more:  contemporary  art  now.  outpaces  old  masters  at
+auction.  As  art  increasingly  functions  like  other  luxury  commodities,  this
+shift undermines  the notion  that art  is distinct  from other products  and therefore
+merits special protection.
+
+Just  as  art  has  merged  with  commerce,  the  merger  between  art  and
+pornography,  once  a  scandalous  assault  on  the  demarcation  between  art  and
+non-art, high and  low, has  become so  commonplace  as to be  dull. 26 Artist John
+Currin,  in  an  interview  about  his  latest  exhibition  with  its  de  rigueur  blend  of
+art  and  hard-core  pornography  explains:  "It's  not  a  shock  tactic.  In  every  art
+school  in  the  world  there's  a  guy  doing  porn. As  a  failed  shock  tactic,  that's
+kind of interesting  to me." 217
+
+The  foundation  of moral  rights  law  depends  on  a  boundary  between  art
+and  other objects,  but  it is  this precise  boundary  that contemporary  artists have
+that  art  has  been  (almost)  successful  in
+attempted 
+destroying  the  line  separating  art  from  everything  else.  In  an  ultimate  act  of
+
+to  destroy.  I  believe 
+
+207.  ANDY  WARHOL,  THE  PHILOSOPHY  OF  ANDY  WARHOL  92  (1975).
+208.  Ula  Ilnytzky,  No  End in  Sight for Soaring Art Market, ABC  News,  Dec.  25,  2007,
+
+available at http://abcnews.go.com/Business/wireStory?id=4050458.
+
+209.  Calvin  Tomkins, A  Fool for Art,  NEW  YORKER,  Nov.  12,  2007,  at 64-75.  For more  on
+the  extraordinary  state  of the  art  market,  see Artforum's  recent  issue  devoted  to  the  subject.  Ai
+Weiwei  et al.,  Art and Its Markets: A  Roundtable Discussion, ARTFORUM,  Apr.  2008.
+
+210. 
+211. 
+
+Id.
+Colin Gleadell,  Hirst's £16m  for  a  Slice  of Bacon,  TELEGRAPH,  Nov.  20,  2007,
+(Features:  Art  Sales),  at  30.  Jeff Koons  and Hirst  have  both  laid  claim  to  the  title  of best-selling
+living artist at auction.
+
+212.  Id.
+213.  William  Shaw,  The Iceman Cometh, N.Y. TIMES,  June  3,  2007 § 6  (Magazine),  at  30.
+214.  Tomkins, A Fool for Art, supra note 209.
+215.  Id.
+216.  See Adler, Post-Modern Art, supra note  48,  at  1369-75  (analyzing  merger between  art
+
+and  pornography).
+
+217.  Karen  Rosenberg,  Influences: John Currin, N.Y.  MAG.,  Nov.  19,  2006,  available at
+
+http://nymag.com/arts/art/features/24355/.
+
+2009]
+
+AGAINST MORAL  RIGHTS
+
+iconoclasm,  the great achievement  of contemporary  art,  has  been  to destroy  the
+category  of art as  we know  it.218
+
+CONCLUSION
+
+The  reader  may have  noticed  that  this  piece  resembles  the  art  I  describe:
+an  exercise  in  destruction.  The  main  goal  of this Essay  has  been  to undermine
+the  foundations  of moral  rights  law  and scholarship.  But here, I pause  briefly to
+assess  what's  left  in  the  wake  of  my  assault.  Eliminating  moral  rights  and
+treating  artworks  like  ordinary  objects  would  solve  some  of the  problems  I
+describe,  but  it  would  also  leave  other  problems  unsolved  and,  in  fact,  create
+new  ones. 219  Perhaps  the  most  significant  drawback 
+to  any  "solution,"
+including  eliminating  moral  rights  is  this:  problems  will  always  arise  from
+enshrining  in law  a  particular,  inevitably  transitory,  understanding  of art.  I  am
+wary  of blithely etching  in  stone  a  vision of art,  reflecting  the  current  moment,
+that is  doomed to become just as  outmoded  as the romantic  concepts  underlying
+moral  rights.  Furthermore,  artists  are  not  necessarily  the  best  ones  to  make
+decisions  about  the  future  of their  art.  But  who  should  make  these  decisions?
+And  when  should  they  be  made?  These  are  urgent  and  yet  extraordinarily
+difficult  questions.  Whether  art  is  good  or bad,  valuable  or not,  varies  greatly
+depending  on whom  you  ask  and when  you  ask.  Although  it's  unlikely,  it  may
+turn  out  that  future  generations  reject  every  "important"  contemporary  artist
+who  would  be  entitled  to  VARA's  protections.  It  wouldn't  be  the  first  time  in
+the  history  of art  that  critics  got  it  "wrong"  or  that  an  entire  generation  was
+
+218.  Or at least,  to have  come  close  to  destroying  it. Adorno  wrote  that "art  revolts  against
+its  essential  concepts  while  at  the  same  time  being  inconceivable  without  them."  THEODOR  W.
+ADORNO,  AESTHETIC  THEORY  465  (Gretel  Adorno  &  Rolf Tiedemann  eds.,  C.  Lenhardt  trans.,
+1984)  (1970).  Has  the  contemporary  revolt  against  the  category  of art  been  so successful  that  it
+has  destroyed  art's "essential  concepts"?  Has  contemporary  art turned "art"  into a  category  that is
+"inconceivable"?
+
+219.  Eliminating  moral  rights  would  have  the  virtue  of treating  art  like  other  objects  and
+thus  would  comport  with  a  central  thematic  concern  of  contemporary  art.  It  would  also  free  art
+from  the  control  of  the  artist.  But new  problems  would  arise:  most  prominently,  this  "solution"
+would  merely  shift  control  to  buyers  and  to  the  art  market.  (For  those  artists  who  waive  their
+moral  rights,  which  few  in  fact  do,  Landes,  supra note 37,  buyers  already  make  these  decisions.)
+Eliminating  moral rights  would  expose  decisions  about  destruction  or  preservation  to  the  market,
+which  is  notoriously  bad  at predicting  which art  will  stand  the  test of time.  See  supra notes  200,
+209  and  accompanying  text.  The  overheated  current  art  market,  in  which  contemporary  artists
+outsell  old  masters,  seems  particularly  unsound  to  many  critics.  See,  e.g.,  supra note  200  and
+accompanying  text (describing  price disparity between  contemporary  works and  old masters).
+
+My  goal in  this  Essay has  been  diagnostic  rather than prescriptive.  Nonetheless,  my diagnosis
+points  to  how  difficult  any  solution  to  the  problem  of  moral  rights  will  be.  If  we  accept  my
+argument,  that  preservation  as  achieved  through  moral  rights  laws  imposes  a  cost  on  artistic
+innovation,  then  how  should  we  craft  a  set  of rules  that  strikes  the  proper  balance  between  the
+conflicting  goals  of  artistic  preservation  and  innovation?  It  is  particularly  hard  to  answer  this
+question  if you  start  from the  premise,  as I  do, that  no one-certainly  not judges, but not  even  art
+critics  or the  art market-knows  what  art will stand the  test of time.
+
+CALIFORNIA  LAW  REVIEW
+
+[Vol.  97:263
+
+completely  written  off.2 20  And the  art  that  the  current  generation  destroys  may
+be judged "better"  by future  generations,  at  least for a  while.  For these  reasons,
+it is  extremely  hard to  predict  what  kind  of rules  will  produce  the  "best"  art.  I
+want  lawyers  and  legislators  who  draft  moral  rights  laws  to  be  sufficiently
+daunted  by  these  problems.  And  although  I do  not  purport to  solve  them,  I  do
+know  at  least  this:  contemporary  art,  to  the  extent  that  we  care  about  it,  is
+distinctly  ill served by the present  moral rights regime.
+
+Let  me  end  with  a  story.  In  2001,  Damien  Hirst,  the  wildly  celebrated
+artist  and  winner  of England's  prestigious  Turner  Prize,  exhibited  a  work  of
+"trash"  at  a  well-known  London  gallery. 221  The  piece  consisted  of garbage-
+coffee  cups,  empty  beer  bottles,  candy  wrappers,  full  ash  trays,  newspapers-
+strewn  on  a  gallery  floor.  It  was  valued  at  six  figures. 222  After  Hirst  installed
+the  work,  a janitor  arrived  at the  gallery  and  promptly  cleaned  up  by throwing
+out the art.  Gallery  staffers  later  salvaged  it from  the  garbage  and meticulously
+reconstructed  the  installation  from  photographs  taken  earlier.  Remember  that
+Hirst  is  no  marginal  figure.  His  garbage  art  would  surely  be  described  as  a
+work  of  "substantial  artistic  merit"  no  matter  how  you  measure  it-critical
+acclaim,  prizes,  market  value,  fame,  or  museum  and  gallery  attention.  Is
+Damien  Hirst  making  work  that  merits  a  special  right  of  integrity,  that  is
+distinct  from  other  kinds  of objects  in  the  world  in  the  way  that  moral  rights
+envision?  Did the  janitor  violate  Hirst's  work  in  a  way  that  would be  akin  to
+violating  Hirst's child?  Did  he  harm  Hirst's  soul,  his  innermost  being?  Has he
+robbed  us  of what  Merryman  describes  as  our  shared public  interest  in  seeing
+"the  work  as the  artist  intended  it, undistorted"  in  satisfying  our "yeam[ing]  for
+the  authentic, for contact  with the  work in  its true version"? 223
+
+Hirst's work  begs us, or  at least me,  to ask  the question that VARA  cannot
+fathom:  who  is  the better  artist in  this story,  Hirst  or  the janitor who  threw  the
+art  out?  I  take  the janitor.  He  is  the  true artistic  heir  of Warhol  and  Duchamp
+and  Hirst  himself.  And  with  his  gesture,  perhaps  we  should  consign  moral
+rights  law  to  the  dustbin  as  well.  It  is  a  relic  of a  moment  when  "art"  meant
+something  that is  now long gone.
+
+220.  See  MARC J.  GOTLIEB,  THE  PLIGHT  OF  EMULATION  (1996).
+221.  Hirst  was  not  the  first to  display trash  as  art.  Gustav Metzger  did  it in  1960.  Nor was
+Hirst  the  first  to  have  his  trash/art  thrown  out-Metzger  achieved  that  too. See  Sam  Jones,  How
+Auto-Destructive Art  Work Got Destroyed Too Soon, GUARDIAN,  Aug. 27,  2004.
+
+222.  Gewen, supra note  196.
+223.  Merryman,  supra note  5,  at  1041.
+
+

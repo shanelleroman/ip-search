@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block title %}
+README
+{% endblock %}
+
+{% block section %}
+<div class="row">
+	<div class="box">
+		<section>
+			<h2 class="intro-text text-center"><strong>Readme</strong></h2>
+			<p> This page elaborates on the various technologies and resources used in creating the website. We have linked our github with all of the code written as well as a Google doc of our research that went into developing the algorithm. This is a python Flask application hosted on Heroku.In order to create the search engine, we made pdfs of all of the class resources and uploaded the titles to a SQL database. Our search engine has full-text search capability, so we utilized PDFMiner to transform all of the pdfs into textfiles that could be uploaded to the database. We then utilized whoosh_alchemy, which is a python library, to search the database and allow for natural language queries. Many thanks as well to Bootstrap libraries for the beautiful design. 
+			</p>
+			<div class= "RelevantLinks">
+				<ul id="list-group">
+					<li class="list-group-item"> <a href="https://github.com/shanelleroman/ip-search">Github Repository</a></li>
+					<li class="list-group-item"> <a href="https://docs.google.com/document/d/1O5F9-1fo8z1M2atxgN0enEnG1cqScC_TN1YxAfOpGp0/edit?usp=sharing">Project Notes</a></li>
+				</ul>
+			</div>
+
+
+		</section>
+	</div>
+</div>
+
+{% endblock %}
+

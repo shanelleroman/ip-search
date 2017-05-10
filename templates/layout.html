@@ -54,13 +54,13 @@
                             <a href="{{url_for('index')}}">Home</a>
                         </li>
                         <li>
-                            <a href="about.html">Algorithm</a>
+                            <a href="{{url_for('algorithm')}}">Algorithm</a>
                         </li>
                         <li>
-                            <a href="readme.html">README</a>
+                            <a href="{{url_for('readme')}}">README</a>
                         </li>
                         <li>
-                            <a href="acknowledgements.html">Thanks!</a>
+                            <a href="{{url_for('thanks')}}">Thanks!</a>
                         </li>
                     </ul>
                 </div>
@@ -71,19 +71,7 @@
 
         <div class="container">
 
-        <div class="row">
-            <div class="box">
-                <div class="col-lg-12">
-                    <hr>
-                    <h2 class="intro-text text-center">Want to know if your great new idea runs amuck with copyright law? </h2>
-                    <h2 class="intro-text text-center">
-                    <strong>Take this quiz to find out and learn more!</strong>
-                    </h2>
-                    <hr>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+        
 
         {% block section %}
         {% endblock %}
@@ -125,9 +113,28 @@
         $("#" + $(this).val()).show().siblings().hide();
     })
     </script>
+    <script>
+    function validate(x)
+    {  
+         console.log('does this work')
+         var flag = true;
+        $(x).each(function() {
+            if ($(this).find(':radio:checked').length == 0) {
+                flag = false;
+                return false;
+            }
+        });
+
+        if (flag)
+            return true
+        else
+            alert("Please fill out every single question!");
+
+        return false
+    }
+    </script>
     <!--  <script src="{{url_for('static', filename='bootstrap.js')}}"> </script> -->
-
-
+   
     </body>
 
 </html>

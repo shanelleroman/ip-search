@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Search Results
+{% endblock %}
+
+{% block section %}
+<div class="row">
+	<div class="box">
+		<section>
+		<h2 class="intro-text text-center"><strong>Algorithm</strong></h2>
+		<br>
+		<h4> Project Goals</h4>
+		<p> This application hopes to help people decipher copyright laws and gain a better understanding of what constitutes a copyright infringement.  Given the wide and varied scope of intellectual property law,  we focused on creating a quick and easy quiz to determine whether a potentially infringing idea is a fair use of copyrighted material. </p>
+		</section>
+	</div>
+</div>
+
+<div class="row">
+	<div class="box">
+		<section>
+		<h4> What is Fair Use?</h4>
+		<p> Fair use is an affirmative defense against copyright infringement. As stated in US Code 17 106, Congress has defined fair use under four categories: 
+			<ol>
+				<li>the purpose and character of the use, including whether such use is of a commercial nature of is for nonprofit educational purposes;</li>
+				<li>the nature of the copyrighted work;</li>
+				<li>the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and</li>
+				<li>the effect of the use upon the potential market for or value of the copyrighted work.</li>
+			</ol>
+		</p>
+		</section>
+	</div>
+</div>
+
+<div class="row">
+	<div class="box">
+		<section>
+		<h4> Our Method</h4>
+		<p> Due to different weighing of the above factors and other nuances, in practice fair use determination is highly subjective and decided on a case by case basis. Our algorithm seizes upon this rich case law to help determine additional hidden factors that may impact copyright infringement cases. Specifically, we analyzed all of the readings for CPSC 184 to learn hidden trends for how fair use is determined. In our research, we found the following cases particularly instructive: Bleistein v. Donaldson Lithographing Co., Anderson v. Stallone, Nichols v. Universal Pictures Corp., Gaye v. Thicke, Roger v. Koons, Computer Associates v. Altai, DC Comics v. Towle, Prince v. Cariou, The Wind Done Gone, Salinger, Bridgeport v. Dimension, and the Blurred Lines controversy. What follows is a brief outline of our logic:
+		</p>
+
+		<p>After reading the cases again, we found that the fair use factors are weighed and applied differently in different mediums. As such, we created distinct logic and modified the questions asked to the user to better determine whether their idea is potential infringement. </p>
+		<br>
+		<h5> Visual Art</h5>
+		<br>
+		<p>
+		For visual art, we looked specifically to Bleistein v. Donaldson Lithographing Co., Roger v. Koons, and Cariou v. Prince. Utilizing these cases, we tried to ask questions that approximated the various tests that came out of the decisions. Given the decision in Bleistein v. Donaldson Lithographing Co., we distinguish between two artists copying the same subject and one artist copying another's interpretation of the original subject (e.g. copying the copy). When looking to Roger v. Koons and Cariou v. Prince, we noticed the decisions had some tension because the court ruled in Koons that the derivative work must comment on the orginal, whereas the court ruled to the contrary in Cariou. In Cariou v. Prince, however, the court made the distinction that the derivative work must be transformative and sufficiently distinct. As such, in formulating our algorithm, we first considered whether the work was parody or satire. If it sufficiently commented on the original, we marked it as a fair use under the determination of it being a parody. If a satire, which utilizes the work to comment on society instead, we defaulted to the substantial similarity test in which we asked whether an ordinary observer would think the work is substantially similar or sufficiently transformative. 
+		</p>
+		<br>
+
+		<h5> Computer Programs</h5>
+		<br>
+		<p>
+		For computer programming, the nuances are a little different. We used Computer Associates v. Altai to formulate specific questions regarding programming. We first looked to whether the code was for personal use or for educational purposes. Given the hacking culture, it seems unlikely this would be ruled as infringement. Then, we implemented the abstraction-filtration-comparison test that was used in Computer Associates v. Altai in conjunction with the original four fair use factors. To explain, we considered specifically, whether it cuts into the original work's market share, whether the user had access to the original code, or made his own work publicly available online. 
+		</p>
+		<br>
+
+		<h5> Books et al. </h5>
+		<br>
+		<p>
+		Our algorithm to deal with literary works was by the far the most complicated to determine fair use. We considered DC Comics v. Towle, The Wind Done Gone, the parody of <i> Catcher in the Rye </i>, Anderson v. Stallone, and Nichols v. Universal Pictures Corp. We distinguished between fan-fiction and two works with similar story elements. If the fan-fiction, similar to the parody-satire test, significantly critiques basic precepts in the work, we marked as fair use. Otherwise, we defaulted to the following analysis for both. We attempted to simulate the substantial similarity Krofft test utilized in Anderson v. Stallone. The original test was comosed of an extrinsic test measuring similarity of story elements and an intrinsic test that measured audience intuition. We decided to focus our analysis on plot, characters, and setting. For each, we looked to the uniqueness and fame of the story element in question similar to the analysis done in Nichols v. Universal Corp and DC Comics v. Towle. We weighed similarity of characters and setting over that of plot and intuition given that there is a higher bar for unique plots.  
+		</p>
+		<br>
+
+		<h5>Music </h5>
+		<br>
+		<p>
+		For music, our approach is a bit different because Hollywood is very stringent about copyright enforcement (excluding the Hip Hop industry). We focused instead on guiding the user through the necessary licensing for their intended project. We distinguished between recorded covers, live performance, broadcasts, sampling, and orginal sound compositions.
+		For covers, we found that it is necessary to always attain a music composition license, and a synchronization license is needed if setting the music to video. For broadcasting and live performance, the venues need to attain a performance license, which include blanket licenses and specific song licenses depending on the purpose of the venue. For live performance, the singer must also buy the composition license to sing the live cover. For sampling, we considered Bridgeport v. Dimension, which the court ruled that fair use for sampling is basically nonexistent. The court effectively ruled, "Get a [music composition and sound recording] license or don't sample". However, sampling is particularly widespread in the Hip Hop industry, so we warned the user to proceed at their own risk. Finally, for determining similarity of orginal songs, we considered Gaye v. Thicke. In this case, the verdict strongly considered the overall ubiquity of the original song and similarities in groove, style, melody, and lyrics. If the original was famous, we weighed similarities in song elements more heavily. Othewise, we considered how many of the song elements were similar - if more than one was similar, we deemed it an infringement. If only one element was similar, we called it a toss-up! 
+		</p>
+		<br>
+	
+
+		</section>
+	</div>
+</div>
+
+{% endblock %}
+

@@ -1,0 +1,1542 @@
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+Page 1
+
+United States Court of Appeals,
+
+Ninth Circuit.
+
+Vanna WHITE, Plaintiff-Appellant,
+
+v.
+
+SAMSUNG ELECTRONICS AMERICA, INC., a New
+
+York corporation, and David Deutsch
+
+Associates, Inc., a New York corporation,
+
+Defendants-Appellees.
+
+No. 90-55840.
+
+Argued and Submitted June 7, 1991.
+
+Decided July 29, 1992.
+
+As Amended Aug. 19, 1992.
+
+Celebrity sued electronic manufacturer alleging that
+its
+product ads violated California Civil Code, common-law
+right of publicity, and Lanham Act. The United States
+District Court for the Central District of California, Ronald
+S.W. Lew, J., granted summary judgment
+in favor of
+manufacturer on each claim. Celebrity appealed. The Court
+of Appeals, Goodwin, Senior Circuit Judge, held that: (1)
+robot was not celebrity's "likeness" within meaning of
+California Civil Code provision authorizing award of
+damages against person who knowingly uses another's
+likeness for purposes of advertising without consent; (2)
+issue of material fact precluded summary judgment in favor
+of manufacturer on claim for violation of common-law right
+of publicity; and (3) issue of fact precluded summary
+judgment on Lanham Act claim.
+
+Affirmed in part; reversed in part and remanded.
+
+Alarcon, Circuit Judge, filed opinion concurring in part and
+dissenting in part.
+
+West Headnotes
+
+[1] Torts
+379k8.5(6) Most Cited Cases
+
+8.5(6)
+
+Robot with mechanical features which manufacturer used in
+advertisements
+to sell electronic products and which
+caricatured or made impressionistic resemblance to celebrity
+was not celebrity's "likeness," for purposes of action under
+California Civil Code provision authorizing award of
+damages against person who knowingly uses another's
+likeness without consent for purposes of advertising or
+selling. West's Ann.Cal.Civ.Code §§ 3344, 3344(a).
+
+[2] Federal Civil Procedure
+170Ak2515 Most Cited Cases
+
+2515
+
+Genuine issue of material fact as to whether manufacturer
+misappropriated celebrity's identity for use in ad to sell
+electronic product precluded summary judgment in favor of
+manufacturer
+suit alleging violation of
+California common-law right of publicity; the individual
+aspects of the advertisement viewed together left little doubt
+about which celebrity ad was meant to depict, even though
+ad did not use celebrity's name or likeness.
+
+in celebrity's
+
+[3] Torts
+379k8.5(6) Most Cited Cases
+
+8.5(6)
+
+Under California law, right of publicity does not require that
+appropriations
+through
+particular means to be actionable; it is not important how
+defendant has appropriated plaintiff's identity, but whether
+defendant has done so.
+
+accomplished
+
+identity
+
+be
+
+of
+
+[4] Trade Regulation
+382k722 Most Cited Cases
+
+722
+
+Genuine issue of material fact as to whether manufacturer's
+electronic product ads created likelihood of confusion as to
+celebrity's endorsement of product precluded summary
+judgment in favor of manufacturer on celebrity's Lanham
+Act claim. Lanham Trade-Mark Act, § 43(a), 15 U.S.C.A. §
+1125(a).
+
+[5] Trade Regulation
+382k334.1 Most Cited Cases
+(Formerly 382k334)
+
+334.1
+
+Facts relevant to likelihood of confusion for purposes of
+Lanham Act claim include: strength of plaintiff's mark;
+relatedness of goods; similarity of marks; evidence of actual
+confusion; marketing channels used;
+likely degree of
+purchaser care; defendant's intent in selecting mark; and
+likelihood
+lines. Lanham
+Trade-Mark Act, § 43(a), 15 U.S.C.A. § 1125(a).
+
+expansion
+
+product
+
+of
+
+of
+
+[6] Trade Regulation
+382k34 Most Cited Cases
+
+34
+
+In trademark cases involving confusion over endorsement
+by celebrity plaintiff, "mark" means celebrity's persona;
+"strength" of mark refers to level of recognition celebrity
+enjoys among members of society. Lanham Trade-Mark
+Act, § 43(a), 15 U.S.C.A. § 1125(a).
+
+[7] Constitutional Law
+92k90.3 Most Cited Cases
+
+90.3
+
+[7] Trade Regulation
+382k375.1 Most Cited Cases
+(Formerly 382k375)
+
+375.1
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+Page 2
+
+Manufacturer's electronic product advertisements using
+female shaped robot, wearing long gown, blonde wig, large
+jewelry and turning letters in what appeared to be "Wheel of
+Fortune" game show set was not "parody" of advertisement
+so as to be defense to trademark violation suit and protected
+by First Amendment. Lanham Trade-Mark Act, § 43(a), 15
+U.S.C.A. § 1125(a); U.S.C.A. Const.Amend. 1.
+*1396 Blaine Greenberg, John Genga, Hill Wynne Troop &
+Meisinger, Los Angeles, Cal., for plaintiff-appellant.
+
+Anthony Liebig, Kenneth Kulzick, Liebig & Kulzick, Los
+Angeles, Cal., for defendants-appellees.
+
+Appeal from the United States District Court for the Central
+District of California.
+
+Before: GOODWIN, PREGERSON,
+Circuit Judges.
+
+and ALARCON,
+
+The advertisement which prompted the current dispute was
+for Samsung video- cassette recorders (VCRs). The ad
+depicted a robot, dressed in a wig, gown, and jewelry which
+Deutsch consciously selected to resemble White's hair and
+dress. The robot was posed next to a game board which is
+instantly recognizable as the Wheel of Fortune game show
+set, in a stance for which White is famous. The caption of
+the ad read: "Longest-running game show. 2012 A.D."
+Defendants referred to the ad as the "Vanna White" ad.
+Unlike the other celebrities used in the campaign, White
+neither consented to the ads nor was she paid.
+
+Following the circulation of the robot ad, White sued
+Samsung and Deutsch in federal district court under: (1)
+California Civil Code § 3344; (2) the California common
+law right of publicity; and (3) § 43(a) of the Lanham Act, 15
+U.S.C. § 1125(a). The district court granted summary
+judgment *1397 against White on each of her claims. White
+now appeals.
+
+GOODWIN, Senior Circuit Judge:
+
+I. Section 3344
+
+This case involves a promotional "fame and fortune"
+dispute.
+In running a particular advertisement without
+Vanna White's permission, defendants Samsung Electronics
+America, Inc. (Samsung) and David Deutsch Associates,
+Inc. (Deutsch) attempted to capitalize on White's fame to
+enhance their fortune. White sued, alleging infringement of
+various intellectual property rights, but the district court
+granted summary judgment in favor of the defendants. We
+affirm in part, reverse in part, and remand.
+
+Plaintiff Vanna White is the hostess of "Wheel of Fortune,"
+one of the most popular game shows in television history.
+An estimated forty million people watch the program daily.
+Capitalizing on the fame which her participation in the show
+has bestowed on her, White markets her identity to various
+advertisers.
+
+The dispute in this case arose out of a series of
+advertisements prepared for Samsung by Deutsch. The
+series ran in at
+least half a dozen publications with
+widespread, and in some cases national, circulation. Each of
+the advertisements in the series followed the same theme.
+Each depicted a current item from popular culture and a
+Samsung electronic product. Each was set in the twenty-first
+century and conveyed the message that
+the Samsung
+product would still be in use by that time. By hypothesizing
+outrageous future outcomes for the cultural items, the ads
+created humorous effects. For example, one lampooned
+current popular notions of an unhealthy diet by depicting a
+raw steak with the caption: "Revealed to be health food.
+2010 A.D." Another depicted irreverent "news"-show host
+Morton Downey Jr. in front of an American flag with the
+caption: "Presidential candidate. 2008 A.D."
+
+[1] White first argues that the district court erred in rejecting
+her claim under section 3344. Section 3344(a) provides, in
+pertinent part,
+that "[a]ny person who knowingly uses
+another's name, voice, signature, photograph, or likeness, in
+any manner, ... for purposes of advertising or selling, ...
+without such person's prior consent ... shall be liable for any
+damages sustained by the person or persons injured as a
+result thereof."
+
+White argues that
+the Samsung advertisement used her
+"likeness" in contravention of section 3344. In Midler v.
+Ford Motor Co., 849 F.2d 460 (9th Cir.1988), this court
+rejected Bette Midler's section 3344 claim concerning a
+Ford television commercial in which a Midler "sound-alike"
+sang a song which Midler had made famous. In rejecting
+Midler's claim, this court noted that "[t]he defendants did
+not use Midler's name or anything else whose use is
+prohibited by the statute. The voice they used was [another
+person's], not hers. The term 'likeness' refers to a visual
+image not a vocal imitation." Id. at 463.
+
+features, and not,
+
+In this case, Samsung and Deutsch used a robot with
+mechanical
+for example, a manikin
+molded to White's precise features. Without deciding for all
+purposes when a caricature or impressionistic resemblance
+might become a "likeness," we agree with the district court
+that the robot at issue here was not White's "likeness" within
+the meaning of section 3344. Accordingly, we affirm the
+court's dismissal of White's section 3344 claim.
+
+II. Right of Publicity
+
+[2] White next argues that the district court erred in granting
+summary judgment to defendants on White's common law
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+Page 3
+
+identity;
+
+the plaintiff's
+
+right of publicity claim. In Eastwood v. Superior Court, 149
+Cal.App.3d 409, 198 Cal.Rptr. 342 (1983), the California
+court of appeal stated that the common law right of publicity
+cause of action "may be pleaded by alleging (1)
+the
+defendant's use of
+the
+(2)
+appropriation of plaintiff's name or likeness to defendant's
+advantage, commercially or otherwise; (3) lack of consent;
+and (4) resulting injury." Id. at 417, 198 Cal.Rptr. 342
+(citing Prosser, Law of Torts (4th ed. 1971) § 117, pp.
+804-807). The district court dismissed White's claim for
+failure to satisfy Eastwood's second prong, reasoning that
+defendants had not appropriated White's "name or likeness"
+with their robot ad. We agree that the robot ad did not make
+use of White's name or likeness. However, the common law
+right of publicity is not so confined.
+
+The Eastwood court did not hold that the right of publicity
+cause of action could be pleaded only by alleging an
+appropriation of name or likeness. Eastwood involved an
+unauthorized use of photographs of Clint Eastwood and of
+his name. Accordingly, the Eastwood court had no occasion
+to consider the extent beyond the use of name or likeness to
+which the right of publicity reaches. That court held only
+that the right of publicity cause of action "may be" pleaded
+by alleging, inter alia, appropriation of name or likeness,
+not that the action may be pleaded only in those terms.
+
+The "name or likeness" formulation referred to in Eastwood
+originated not as an element of the right of publicity cause
+of action, but as a description of the types of cases in which
+the cause of action had been recognized. The source of this
+formulation is Prosser, Privacy, 48 Cal.L.Rev. 383, 401-07
+(1960), one of the earliest and most enduring articulations of
+the common law right of publicity cause of action. In
+looking at the case law to that point, Prosser recognized that
+right of publicity cases involved one of two basic factual
+scenarios: name appropriation, and picture or other likeness
+appropriation. Id. at 401-02, nn. 156-57.
+
+Even though Prosser focused on appropriations of name or
+likeness in discussing the right of publicity, he noted that
+"[i]t is not impossible that there might be appropriation of
+the plaintiff's identity, as by impersonation, without the use
+of either his name or his likeness, and that this would *1398
+be an invasion of his right of privacy." Id. at 401, n. 155.
+[FN1] At the time Prosser wrote, he noted however, that
+"[n]o such case appears to have arisen." Id.
+
+FN1. Under Professor Prosser's scheme, the right
+of publicity is the last of the four categories of the
+right to privacy. Prosser, 48 Cal.L.Rev. at 389.
+
+Since Prosser's early formulation, the case law has borne out
+his insight that the right of publicity is not limited to the
+appropriation of name or likeness. In Motschenbacher v.
+R.J. Reynolds Tobacco Co., 498 F.2d 821 (9th Cir.1974),
+
+the defendant had used a photograph of the plaintiff's race
+car
+in a television commercial. Although the plaintiff
+appeared driving the car in the photograph, his features were
+not visible. Even though the defendant had not appropriated
+the plaintiff's name or likeness, this court held that plaintiff's
+California right of publicity claim should reach the jury.
+
+In Midler, this court held that, even though the defendants
+had not used Midler's name or likeness, Midler had stated a
+claim for violation of her California common law right of
+publicity because "the defendants ... for their own profit in
+selling their product did appropriate part of her identity" by
+using a Midler sound-alike. Id. at 463-64.
+
+In Carson v. Here's Johnny Portable Toilets, Inc., 698 F.2d
+831 (6th Cir.1983), the defendant had marketed portable
+toilets under
+the brand name "Here's Johnny"--Johnny
+Carson's signature "Tonight Show" introduction--without
+Carson's permission. The district court had dismissed
+Carson's Michigan common law right of publicity claim
+because the defendants had not used Carson's "name or
+likeness." Id. at 835. In reversing the district court, the sixth
+circuit found "the district court's conception of the right of
+publicity ...
+the right was
+implicated because the defendant had appropriated Carson's
+identity by using, inter alia, the phrase "Here's Johnny." Id.
+at 835-37.
+
+too narrow" and held that
+
+[3] These cases teach not only that the common law right of
+publicity reaches means of appropriation other than name or
+likeness, but that the specific means of appropriation are
+relevant only for determining whether the defendant has in
+fact appropriated the plaintiff's identity. The right of
+publicity does not require that appropriations of identity be
+accomplished through particular means to be actionable. It
+is noteworthy that the Midler and Carson defendants not
+only avoided using the plaintiff's name or likeness, but they
+also avoided appropriating the celebrity's voice, signature,
+and photograph. The photograph in Motschenbacher did
+include the plaintiff, but because the plaintiff was not visible
+the driver could have been an actor or dummy and the
+analysis in the case would have been the same.
+
+Although the defendants in these cases avoided the most
+obvious means of appropriating the plaintiffs'
+identities,
+each of their actions directly implicated the commercial
+interests which the right of publicity is designed to protect.
+As the Carson court explained:
+
+[t]he right of publicity has developed to protect
+the
+commercial interest of celebrities in their identities. The
+theory of the right is that a celebrity's identity can be
+valuable in the promotion of products, and the celebrity
+has
+that may be protected from the
+unauthorized commercial exploitation of that identity.... If
+the celebrity's identity is commercially exploited, there
+
+an interest
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+Page 4
+
+has been an invasion of his right whether or not his "name
+or likeness" is used.
+
+is not
+
+Carson, 698 F.2d at 835. It
+important how the
+defendant has appropriated the plaintiff's identity, but
+whether the defendant has done so. Motschenbacher,
+Midler, and Carson teach the impossibility of treating the
+right of publicity as guarding only against a laundry list of
+specific means of appropriating identity. A rule which says
+that the right of publicity can be infringed only through the
+use of nine different methods of appropriating identity
+merely challenges the clever advertising strategist to come
+up with the tenth.
+
+*1399 Indeed, if we treated the means of appropriation as
+dispositive in our analysis of the right of publicity, we
+would not only weaken the right but effectively eviscerate
+it. The right would fail to protect those plaintiffs most in
+need of its protection. Advertisers use celebrities to promote
+their products. The more popular the celebrity, the greater
+the number of people who recognize her, and the greater the
+visibility for the product. The identities of the most popular
+celebrities are not only the most attractive for advertisers,
+but also the easiest to evoke without resorting to obvious
+means such as name, likeness, or voice.
+
+the
+
+Consider a hypothetical advertisement which depicts a
+mechanical robot with male features, an African-American
+complexion, and a bald head. The robot is wearing black
+hightop Air Jordan basketball sneakers, and a red basketball
+uniform with black trim, baggy shorts, and the number 23
+(though not revealing "Bulls" or "Jordan" lettering). The ad
+depicts
+robot dunking a basketball one-handed,
+stiff-armed, legs extended like open scissors, and tongue
+hanging out. Now envision that this ad is run on television
+during
+Considered
+individually, the robot's physical attributes, its dress, and its
+stance tell us little. Taken together, they lead to the only
+conclusion that any sports viewer who has registered a
+discernible pulse in the past five years would reach: the ad
+is about Michael Jordan.
+
+professional
+
+basketball
+
+games.
+
+of
+
+the
+
+aspects
+
+individual
+
+separately,
+
+Viewed
+the
+advertisement in the present case say little. Viewed together,
+they leave little doubt about the celebrity the ad is meant to
+depict. The female-shaped robot is wearing a long gown,
+blond wig, and large jewelry. Vanna White dresses exactly
+like this at times, but so do many other women. The robot is
+in the process of turning a block letter on a game-board.
+Vanna White dresses like this while turning letters on a
+game-board but perhaps similarly attired Scrabble-playing
+women do this as well. The robot is standing on what looks
+to be the Wheel of Fortune game show set. Vanna White
+dresses like this, turns letters, and does this on the Wheel of
+Fortune game show. She is the only one. Indeed, defendants
+themselves referred to their ad as the "Vanna White" ad. We
+
+are not surprised.
+
+Television and other media create marketable celebrity
+identity value. Considerable energy and ingenuity are
+expended by those who have achieved celebrity value to
+exploit it for profit. The law protects the celebrity's sole
+right to exploit this value whether the celebrity has achieved
+her fame out of rare ability, dumb luck, or a combination
+thereof. We decline Samsung and Deutch's invitation to
+permit the evisceration of the common law right of publicity
+through means as facile as those in this case. Because White
+has alleged facts showing that Samsung and Deutsch had
+appropriated her
+the district court erred by
+rejecting, on summary judgment, White's common law right
+of publicity claim.
+
+identity,
+
+III. The Lanham Act
+
+[4] White's final argument is that the district court erred in
+denying her claim under § 43(a) of the Lanham Act, 15
+U.S.C. § 1125(a). The version of section 43(a) applicable to
+this case [FN2] provides,
+that "[a]ny
+person who shall ... use, in connection with any goods or
+services ... any false description or representation ... shall be
+liable to a civil action ... by any person who believes that he
+is or is likely to be damaged by the use of any such false
+description or designation." 15 U.S.C. § 1125(a).
+
+in pertinent part,
+
+FN2. The statute was amended after White filed
+her complaint. The amendments would not have
+altered the analysis in this case however.
+
+To prevail on her Lanham Act claim, White is required to
+show that in running the robot ad, Samsung and Deutsch
+created a likelihood of confusion, Academy of Motion
+Picture Arts v. Creative House, 944 F.2d 1446, 1454 (9th
+Cir.1991); Toho Co. Ltd. v. Sears Roebuck & Co., 645 F.2d
+788, 790 (9th Cir.1981) *1400New West Corp. v. NYM Co.
+of California, 595 F.2d 1194, 1201 (9th Cir.1979), over
+whether White was endorsing Samsung's VCRs. HMH
+Publishing Co. v. Brincat, 504 F.2d 713 (9th Cir.1974);
+612
+Allen
+(D.C.N.Y.1985).
+
+v. National Video,
+
+610 F.Supp.
+
+Inc.,
+
+[5] This circuit recognizes several different multi-factor
+tests for determining whether a likelihood of confusion
+exists. See Academy, 944 F.2d at 1454, n. 3. None of these
+tests is correct
+to the exclusion of the others. Eclipse
+Associates Ltd. v. Data General Corp., 894 F.2d 1114, 1118
+(9th Cir.1990). Normally, in reviewing the district court's
+decision, this court will look to the particular test that the
+district court used. Academy, 944 F.2d at 1454, n. 3;
+Eclipse, 894 F.2d at 1117-1118. However, because the
+district court in this case apparently did not use any of the
+multi-factor tests in making its likelihood of confusion
+determination, and because this case involves an appeal
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+from summary judgment and we review de novo the district
+court's determination, we will look for guidance to the 8-
+factor test enunciated in AMF, Inc. v. Sleekcraft Boats, 599
+F.2d 341 (9th Cir.1979). According to AMF, factors relevant
+to a likelihood of confusion include:
+(1) strength of the plaintiff's mark;
+(2) relatedness of the goods;
+(3) similarity of the marks;
+(4) evidence of actual confusion;
+(5) marketing channels used;
+(6) likely degree of purchaser care;
+(7) defendant's intent in selecting the mark;
+(8) likelihood of expansion of the product lines.
+
+599 F.2d at 348-49. We turn now to consider White's claim
+in light of each factor.
+
+[6] In cases involving confusion over endorsement by a
+celebrity plaintiff, "mark" means the celebrity's persona. See
+Allen, 610 F.Supp. at 627. The "strength" of the mark refers
+to the level of recognition the celebrity enjoys among
+members of society. See Academy, 944 F.2d at 1455. If
+Vanna White is unknown to the segment of the public at
+whom Samsung's robot ad was directed, then that segment
+could not be confused as to whether she was endorsing
+Samsung VCRs. Conversely, if White is well-known, this
+would allow the possibility of a likelihood of confusion. For
+the purposes of the Sleekcraft
+test, White's "mark," or
+celebrity identity, is strong.
+
+In cases concerning confusion over celebrity endorsement,
+the plaintiff's "goods" concern the reasons for or source of
+the plaintiff's fame. Because White's fame is based on her
+televised performances, her "goods" are closely related to
+Samsung's VCRs.
+reinforced the
+relationship by informing its readers that they would be
+taping the "longest-running game show" on Samsung's
+VCRs well into the future.
+
+the ad itself
+
+Indeed,
+
+The third factor, "similarity of the marks," both supports and
+contradicts a finding of likelihood of confusion. On the one
+hand, all of the aspects of the robot ad identify White; on
+the other, the figure is quite clearly a robot, not a human.
+This ambiguity means that we must look to the other factors
+for resolution.
+
+The fourth factor does not favor White's claim because she
+has presented no evidence of actual confusion.
+
+Fifth, however, White has appeared in the same stance as
+the robot from the ad in numerous magazines, including the
+covers of some. Magazines were used as the marketing
+channels for
+the robot ad. This factor cuts toward a
+likelihood of confusion.
+
+Sixth, consumers are not likely to be particularly careful in
+determining who endorses VCRs, making confusion as to
+
+Page 5
+
+their endorsement more likely.
+
+in running the robot ad,
+
+Concerning the seventh factor, "defendant's intent," the
+district court found that,
+the
+defendants had intended a spoof of the "Wheel of Fortune."
+The relevant question is whether the defendants "intended to
+profit by confusing consumers" concerning the endorsement
+of Samsung VCRs. Toho, 645 F.2d 788. We do not disagree
+that defendants intended to spoof Vanna White and "Wheel
+of Fortune." That does not preclude, however,
+the
+possibility that defendants also *1401 intended to confuse
+consumers regarding endorsement. The robot ad was one of
+a series of ads run by defendants which followed the same
+theme. Another ad in the series depicted Morton Downey Jr.
+as a presidential candidate in the year 2008. Doubtless,
+defendants intended to spoof presidential elections and Mr.
+Downey through this ad. Consumers, however, would likely
+believe, and would be correct in so believing, that Mr.
+Downey was paid for his permission and was endorsing
+Samsung products. Looking at the series of advertisements
+as a whole, a jury could reasonably conclude that beneath
+the surface humor of the series lay an intent to persuade
+consumers
+like celebrity
+that celebrity Vanna White,
+Downey, was endorsing Samsung products.
+
+Finally, the eighth factor, "likelihood of expansion of the
+product
+lines," does not appear apposite to a celebrity
+endorsement case such as this.
+
+Application of the Sleekcraft factors to this case indicates
+that the district court erred in rejecting White's Lanham Act
+claim at the summary judgment stage. In so concluding, we
+emphasize two facts, however. First, construing the motion
+papers in White's favor, as we must, we hold only that
+White has raised a genuine issue of material fact concerning
+a likelihood of confusion as to her endorsement. Cohen v.
+Paramount Pictures Corp., 845 F.2d 851, 852-53 (9th
+Cir.1988). Whether White's Lanham Act claim should
+succeed is a matter for the jury. Second, we stress that we
+reach this conclusion in light of the peculiar facts of this
+case. In particular, we note that the robot ad identifies White
+and was part of a series of ads in which other celebrities
+participated and were paid for
+their endorsement of
+Samsung's products.
+
+IV. The Parody Defense
+
+[7] In defense, defendants cite a number of cases for the
+proposition that their robot ad constituted protected speech.
+The only cases they cite which are even remotely relevant to
+this case are Hustler Magazine v. Falwell, 485 U.S. 46, 108
+S.Ct. 876, 99 L.Ed.2d 41 (1988) and L.L. Bean, Inc. v.
+Drake Publishers, Inc., 811 F.2d 26 (1st Cir.1987). Those
+cases involved parodies of advertisements run for
+the
+purpose of poking fun at Jerry Falwell and L.L. Bean,
+respectively. This case involves a true advertisement run for
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+Page 6
+
+the purpose of selling Samsung VCRs. The ad's spoof of
+Vanna White and Wheel of Fortune is subservient and only
+tangentially related to the ad's primary message: "buy
+Samsung VCRs." Defendants' parody arguments are better
+addressed
+[FN3] The
+difference between a "parody" and a "knock-off" is the
+difference between fun and profit.
+
+non-commercial
+
+parodies.
+
+to
+
+evoke
+effective
+
+the advertisement.
+
+advertisement must
+
+the
+identity. The more
+the better
+
+FN3. In warning of a first amendment chill
+to
+expressive conduct, the dissent reads this decision
+too broadly. See Dissent at 1407. This case
+concerns only the market which exists in our
+society for the exploitation of celebrity to sell
+products, and an attempt to take a free ride on a
+celebrity's celebrity value. Commercial advertising
+which relies on celebrity fame is different from
+other forms of expressive activity in two crucial
+ways.
+First, for celebrity exploitation advertising to be
+the
+effective,
+the
+celebrity's
+evocation,
+If, as
+Samsung claims, its ad was based on a "generic"
+game-show hostess and not on Vanna White, the ad
+would not have violated anyone's right of publicity,
+but it would also not have been as humorous or as
+effective.
+Second, even if some forms of expressive activity,
+such as parody, do rely on identity evocation, the
+first amendment hurdle will bar most right of
+publicity actions against
+those activities. Cf.
+Falwell, 485 U.S. at 46, 108 S.Ct. at 876. In the
+case of commercial advertising, however, the first
+amendment hurdle is not so high. Central Hudson
+Gas & Electric Corp. v. Public Service Comm'n of
+New York, 447 U.S. 557, 566, 100 S.Ct. 2343,
+2351, 65 L.Ed.2d 341 (1980). Realizing this,
+Samsung attempts to elevate its ad above the status
+of garden-variety commercial speech by pointing
+to the ad's parody of Vanna White. Samsung's
+argument
+is unavailing. See Board of Trustees,
+State Univ. of N.Y. v. Fox, 492 U.S. 469, 474-75,
+109 S.Ct. 3028, 3031, 106 L.Ed.2d 388 (1988);
+Bolger v. Youngs Drug Products Corp., 463 U.S.
+60, 67-68, 103 S.Ct. 2875, 2880-81, 77 L.Ed.2d
+469 (1983). Unless the first amendment bars all
+right of publicity actions--and it does not, see
+Zachini v. Scripps-Howard Broadcasting Co., 433
+U.S. 562, 97 S.Ct. 2849, 53 L.Ed.2d 965
+(1977)--then it does not bar this case.
+
+*1402 V. Conclusion
+
+In remanding this case, we hold only that White has pleaded
+claims which can go to the jury for its decision.
+
+AFFIRMED IN PART, REVERSED IN PART, and
+REMANDED.
+
+ALARCON, Circuit Judge, concurring in part, dissenting in
+part:
+
+Vanna White seeks recovery from Samsung based on three
+theories: the right to privacy, the right to publicity, and the
+Lanham Act. I concur in the majority's conclusions on the
+right to privacy. I respectfully dissent from its holdings on
+the right to publicity and the Lanham Act claims.
+
+RIGHT TO PRIVACY (CAL.CIV.CODE § 3344(a))
+
+I.
+
+I agree with the majority's conclusion that no reasonable
+jury could find that the robot was a "likeness" of Vanna
+White within the meaning of California Civil Code section
+3344(a).
+
+II.
+
+RIGHT TO PUBLICITY
+
+I must dissent from the majority's holding on Vanna White's
+right to publicity claim. The district court found that, since
+the commercial advertisement did not show a "likeness" of
+Vanna White, Samsung did not
+improperly use the
+plaintiff's identity. The majority asserts that the use of a
+likeness is not required under California common law.
+According to the majority, recovery is authorized if there is
+an appropriation of one's "identity." I cannot find any
+holding of a California court that supports this conclusion.
+Furthermore,
+the majority's
+finding that Vanna White's "identity" was appropriated.
+
+the record does not support
+
+The district court relied on Eastwood v. Superior Court, 149
+Cal.App.3d 409, 198 Cal.Rptr. 342, (1983), in holding that
+there was no cause of action for infringement on the right to
+publicity because there had been no use of a likeness. In
+Eastwood, the California Court of Appeal described the
+elements of the tort of "commercial appropriation of the
+right of publicity" as "(1)
+the
+plaintiff's identity; (2) the appropriation of plaintiff's name
+or likeness to defendant's advantage, ...; (3) lack of consent;
+and (4) resulting injury." Id. at 417, 198 Cal.Rptr. 342.
+(Emphasis added).
+
+the defendant's use of
+
+All of the California cases that my research has disclosed
+hold that a cause of action for appropriation of the right to
+publicity requires proof of the appropriation of a name or
+likeness. See, e.g., Lugosi v. Universal Pictures, 25 Cal.3d
+813, 603 P.2d 425, 160 Cal.Rptr. 323 (1979) ("The so-called
+right of publicity means in essence that the reaction of the
+public to name and likeness ... endows the name and
+likeness of
+the person involved with commercially
+exploitable opportunities."); Guglielmi v. Spelling-Goldberg
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+Prods., 25 Cal.3d 860, 603 P.2d 454, 457, 160 Cal.Rptr.
+352, 355 (1979) (use of name of Rudolph Valentino in
+fictional biography allowed); Eastwood v. Superior Court,
+supra (use of photo and name of actor on cover of tabloid
+newspaper); In re Weingand, 231 Cal.App.2d 289, 41
+Cal.Rptr. 778 (1964) (aspiring actor denied court approval
+to change name to "Peter Lorie" when famous actor Peter
+Lorre objected); Fairfield v. American Photocopy Equip.
+Co., 138 Cal.App.2d 82, 291 P.2d 194 (1955), later app.
+158 Cal.App.2d 53, 322 P.2d 93 (1958) (use of attorney's
+name in advertisement); Gill v. Curtis Publishing Co., 38
+C.2d 273, 239 P.2d 630 (1952) (use of photograph of a
+couple in a magazine).
+
+the California law. The first
+
+Notwithstanding the fact that California case law clearly
+limits the test of the right to publicity to name and likeness,
+the majority concludes that "the common law right of
+publicity is not so confined." Majority opinion at p. 1397.
+The majority relies on two factors to support its innovative
+extension of
+the
+Eastwood court's statement of the elements was permissive
+rather than exclusive. The second is that Dean Prosser, in
+describing the common law right to publicity, stated that it
+might be *1403 possible that the right extended beyond
+name or likeness. These are slender reeds to support a
+federal court's attempt to create new law for the state of
+California.
+
+is that
+
+In reaching its surprising conclusion,
+the majority has
+ignored the fact that the California Court of Appeal in
+Eastwood specifically addressed the differences between the
+common law right to publicity and the statutory cause of
+action codified in California Civil Code section 3344. The
+court explained that "[t]he differences between the common
+law and the statutory actions are:
+(1) Section 3344,
+subdivision (a) requires knowing use whereas under case
+law, mistake and inadvertence are not a defense against
+commercial appropriation and (2) section 3344, subdivision
+(g) expressly provides that its remedies are cumulative and
+in addition to any provided by law." Eastwood, 149
+Cal.App.3d at n. 6, 198 Cal.Rptr. 342 (emphasis in original).
+include appropriations of identity by
+The court did not
+means other
+likeness among its list of
+differences between the statute and the common law.
+
+than name or
+
+The majority also relies on Dean Prosser's statement that
+"[i]t is not impossible that there might be an appropriation
+of the plaintiff's identity, as by impersonation, without the
+use of either his name or his likeness, and that this would be
+an invasion of his right of privacy." Prosser, Privacy, 48
+Cal.L.Rev. 383, 401 n. 155 (1960). As Dean Prosser noted,
+however, "[n]o such case appears to have arisen." Id.
+
+The majority states that the case law has borne out Dean
+Prosser's insight that the right to publicity is not limited to
+
+Page 7
+
+name or likeness. As noted above, however, the courts of
+California have never found an infringement on the right to
+publicity without the use of the plaintiff's name or likeness.
+
+The interest of the California Legislature as expressed in
+California Civil Code section 3344 appears to preclude the
+result reached by the majority. The original section 3344
+protected only name or likeness. In 1984, ten years after our
+decision in Motschenbacher v. R.J. Reynolds Tobacco
+Company, 498 F.2d 821 (9th Cir.1974) and 24 years after
+Prosser speculated about the future development of the law
+of the right of publicity, the California legislature amended
+the statute. California law now makes the use of someone's
+voice or signature, as well as name or likeness, actionable.
+Cal.Civ.Code sec. 2233(a) (Deering 1991 Supp.). Thus,
+California,
+in Motschenbacher
+specifically contemplated protection for interests other than
+name or likeness, but did not include a cause of action for
+appropriation of another person's identity. The ancient
+maxim, inclusio unius est exclusio alterius, would appear to
+bar the majority's innovative extension of the right of
+publicity. The clear implication from the fact
+the
+California Legislature chose to add only voice and signature
+to the previously protected interests is that it wished to limit
+the cause of action to enumerated attributes.
+
+decision
+
+that
+
+after
+
+our
+
+The majority has focused on federal decisions in its novel
+extension of California Common Law. Those decisions do
+not provide support for the majority's decision.
+
+In each of the federal cases relied upon by the majority, the
+advertisement affirmatively represented that
+the person
+depicted therein was the plaintiff. In this case, it is clear that
+a metal robot and not the plaintiff, Vanna White, is depicted
+in the commercial advertisement. The record does not show
+an appropriation of Vanna White's identity.
+
+In Motschenbacher, a picture of a well-known race driver's
+car,
+including its unique markings, was used in an
+advertisement. Id. at 822. Although the driver could be seen
+in the car, his features were not visible. Id. The distinctive
+markings on the car were the only information shown in the
+ad regarding the identity of the driver. These distinctive
+markings compelled the inference that Motschenbacher was
+the person sitting in the racing car. We concluded that
+"California appellate courts would ... afford legal protection
+to an individual's proprietary interest in his own identity."
+(Emphasis added). Because the distinctive
+Id. at 825.
+markings on the racing car were sufficient
+to identify
+Motschenbacher as the driver of the car, *1404 we held that
+an issue of fact had been raised as to whether his identity
+had been appropriated. Id. at 827.
+
+In Midler v. Ford Motor Co., 849 F.2d 460 (9th Cir.1988), a
+singer who had been instructed to sound as much like Bette
+Midler as possible, sang a song in a radio commercial made
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+famous by Bette Midler. Id. at 461. A number of persons
+told Bette Midler that they thought that she had made the
+commercial. Id. at 462. Aside from the voice, there was no
+information in the commercial from which the singer could
+be identified. We noted that "[t]he human voice is one of the
+most palpable ways identity is manifested." Id. at 463. We
+held that, "[t]o impersonate her voice is to pirate her
+identity," id., and concluded that Midler had raised a
+question of fact as to the misappropriation of her identity.
+
+In Carson v. Here's Johnny Portable Toilets, Inc., 698 F.2d
+831 (6th Cir.1983), the Sixth Circuit was called upon to
+interpret Michigan's common-law right to publicity. The
+case involved a manufacturer who used the words, "Here's
+Johnny," on portable toilets. Id. at 832-33. These same
+words were used to introduce the star of a popular late-night
+television program. There was nothing to indicate that this
+use of the phrase on the portable toilets was not associated
+with Johnny Carson's television program. The court found
+that "[h]ere there was an appropriation of Carson's identity,"
+which violated the right to publicity. Id. at 837.
+
+The common theme in these federal cases is that identifying
+characteristics unique to the plaintiffs were used in a context
+in which they were the only information as to the identity of
+the individual. The commercial advertisements in each case
+showed attributes of the plaintiff's identities which made it
+appear that the plaintiff was the person identified in the
+commercial. No effort was made to dispel the impression
+that the plaintiffs were the source of the personal attributes
+at issue. The commercials affirmatively represented that the
+plaintiffs were involved. See, e.g., Midler at 462 ("The
+[Motschenbacher] ad suggested that it was he.... In the same
+way the defendants here used an imitation to convey the
+impression that Midler was singing for them."). The proper
+interpretation of Motschenbacher, Midler, and Carson is
+that where identifying characteristics unique to a plaintiff
+are the only information as to the identity of the person
+appearing in an ad, a triable issue of fact has been raised as
+to whether his or her identity as been appropriated.
+
+The case before this court is distinguishable from the factual
+showing made in Motschenbacher, Midler, and Carson. It is
+patently
+commercial
+advertisement that Vanna White was not being depicted. No
+reasonable juror could confuse a metal robot with Vanna
+White.
+
+viewing
+
+anyone
+
+clear
+
+to
+
+the
+
+The majority contends that "the individual aspects of the
+advertisement ... [v]iewed together leave little doubt about
+the celebrity the ad is meant to depict." Majority Opinion at
+p. 1399. It derives this conclusion from the fact that Vanna
+White is "the only one" who "dresses like this, turns letters,
+and does this on the Wheel of Fortune game show." Id. In
+reaching this conclusion,
+the majority confuses Vanna
+
+Page 8
+
+White, the person, with the role she has assumed as the
+current hostess on the "Wheel of Fortune" television game
+show. A recognition of the distinction between a performer
+and the part he or she plays is essential for a proper analysis
+of the facts of this case. As is discussed below, those things
+which Vanna White claims identify her are not unique to
+her. They are, instead, attributes of the role she plays. The
+representation of
+therefore, does not
+constitute a representation of Vanna White. See Nurmi v.
+(C.D.Cal.1989)
+Peterson,
+(distinguishing between performer and role).
+
+those attributes,
+
+U.S.P.Q.2d
+
+1775
+
+10
+
+Vanna White is a one-role celebrity. She is famous solely
+for appearing as the hostess on the "Wheel of Fortune"
+television show. There is nothing unique about Vanna
+White or the attributes which she claims identify her.
+Although she appears to be an attractive woman, her face
+and figure are no more distinctive than that of other equally
+comely women. She performs her *1405 role as hostess on
+"Wheel of Fortune" in a simple and straight-forward
+manner. Her work does not require her to display whatever
+artistic talent she may possess.
+
+it
+
+layout,
+
+the Wheel of Fortune
+
+The majority appears to argue that because Samsung created
+a robot with the physical proportions of an attractive
+woman, posed it gracefully, dressed it in a blond wig, an
+evening gown, and jewelry, and placed it on a set that
+resembles
+thereby
+appropriated Vanna White's identity. But an attractive
+appearance, a graceful pose, blond hair, an evening gown,
+and jewelry are attributes
+shared by many women,
+especially in Southern California. These common attributes
+are particularly evident among game-show hostesses,
+models, actresses,
+singers, and other women in the
+entertainment field. They are not unique attributes of Vanna
+White's identity. Accordingly, I cannot join in the majority's
+conclusion that, even if viewed together, these attributes
+identify Vanna White and, therefore, raise a triable issue as
+to the appropriation of her identity.
+
+The only characteristic in the commercial advertisement that
+is not common to many female performers or celebrities is
+the imitation of the "Wheel of Fortune" set. This set is the
+only thing which might possibly lead a viewer to think of
+Vanna White. The Wheel of Fortune set, however, is not an
+attribute of Vanna White's identity. It
+is an identifying
+characteristic of a television game show, a prop with which
+Vanna White interacts in her role as the current hostess. To
+say that Vanna White may bring an action when another
+blond female performer or robot appears on such a set as a
+hostess will, I am sure, be a surprise to the owners of the
+show. Cf. Baltimore Orioles, Inc. v. Major League Baseball
+Players Ass'n, 805 F.2d 663 (7th Cir.1986)
+to
+publicity in videotaped performances preempted by
+copyright of owner of telecast).
+
+(right
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+The record shows that Samsung recognized the market
+value of Vanna White's identity. No doubt the advertisement
+would have been more effective if Vanna White had
+appeared in it. But the fact that Samsung recognized Vanna
+White's value as a celebrity does not necessarily mean that it
+appropriated her identity. The record shows that Samsung
+dressed a robot in a costume usually worn by television
+game-show hostesses, including Vanna White. A blond wig,
+and glamorous clothing are not characteristics unique to the
+current hostess of Wheel of Fortune. This evidence does not
+support the majority's determination that the advertisement
+was meant to depict Vanna White. The advertisement was
+intended to depict a robot, playing the role Vanna White
+currently plays on the Wheel of Fortune. I quite agree that
+anyone seeing the commercial advertisement would be
+reminded of Vanna White. Any performance by another
+female celebrity as a game-show hostess, however, will also
+remind the viewer of Vanna White because Vanna White's
+celebrity is so closely associated with the role. But the fact
+that an actor or actress became famous for playing a
+particular role has, until now, never been sufficient to give
+the performer a proprietary interest in it. I cannot agree with
+the majority that
+the California courts, which have
+consistently taken a narrow view of the right to publicity,
+would extend law to these unique facts.
+
+III.
+
+THE LANHAM ACT
+
+Vanna White's Lanham Act claim is easily resolved by
+applying the proper legal standard. Vanna White seeks
+damages for violation of section 43(a) of the Lanham Act.
+To succeed, Vanna White must prove actual deception of
+the consuming public. Harper House,
+Inc. v. Thomas
+Nelson, Inc., 889 F.2d 197, 208 (9th Cir.1989) (claim for
+damages under section 43(a) requires showing the defendant
+"actually deceived a significant portion of the consuming
+public."); see also PPX Enterprises, Inc. v. Audiofidelity
+Enterprises, Inc., 818 F.2d 266, 271 (2d Cir.1987) ("to
+establish entitlement to damages for violation of section
+43(a):
+[Plaintiffs] must establish actual confusion or
+deception resulting from the violation.");
+J. Gilson,
+Trademark Protection *1406 and Practice section 7.02[8] at
+7-137 to 7-138 (1991)
+show actual
+deception to obtain damages under section 43(a)). Vanna
+White offered no evidence that any portion of
+the
+consuming public was deceived. The district court was
+correct in granting summary judgment on Vanna White's
+Lanham Act claim.
+
+(plaintiffs must
+
+The majority finds that because a majority of factors set
+forth in AMF, Inc. v. Sleekcraft Boats, 599 F.2d 341 (9th
+Cir.1979), favor Vanna White, the district court erred in
+granting summary judgment.
+
+Page 9
+
+attempt
+
+to use
+
+The AMF test is designed to aid in determining whether two
+marks are so sufficiently similar that it is likely that a
+consumer would confuse them. Where the marks are so
+obviously different that no confusion could possibly occur,
+the test is unnecessary. That is the situation in this matter.
+The
+to prevent
+"misappropriations" of which a court does not approve
+results in the distortion of the law which makes it more
+difficult to apply the law in appropriate cases. See Hanson
+& Walls, Protecting Trademark Goodwill: Towards a
+Federal Standard of Misappropriation, 81 Trademark Rep.
+480, 511-513 (1991). This case is an example of such
+distortion.
+
+the Lanham Act
+
+The majority assumes the conclusion that the AMF test is
+designed to disclose. In repeatedly stating that the robot
+"identifies" Vanna White, the majority has usurped the fact
+finding function of the district court.
+
+The majority holds that the first factor of the AMF test,
+strength of the mark, weighs in Vanna White's favor. It
+equates this factor with the strength of Vanna White's fame,
+citing Allen v. National Video, Inc., 610 F.Supp. 612
+(D.C.N.Y.1985). Allen involved a celebrity look-alike who
+bore a remarkable resemblance to Woody Allen. Id. at 617.
+The instant matter
+that bears no
+resemblance to Vanna White.
+
+involves a robot
+
+It is unclear whether the "mark" for which Vanna White
+seeks protection is her screen image or the imitation Wheel
+of Fortune. Although Vanna White is certainly famous for
+being famous,
+there is no evidence in the record that
+consumers identify the specific characteristics at issue, i.e.,
+blond hair and fancy dress, solely with Vanna White. The
+majority ignores this important distinction.
+
+has
+
+the
+
+over
+
+glossed
+
+The majority
+third AMF
+factor--similarity of the marks--the most important factor in
+this case. The majority finds this factor "ambiguous"
+because the common characteristics
+"identify" Vanna
+White. Majority Opinion at p. 1400. We are required,
+however, to compare marks in their entirety. California
+Inc. v. Loretto Winery, 774 F.2d 1451 (9th
+Cooler,
+Cir.1985). In this matter, the consumer is confronted with
+two entities. One is Vanna White. The other is a robot. No
+one could reasonably confuse the two.
+
+has
+
+certain
+
+a mark
+
+aspects. When
+
+Certain aspects of a mark may have a greater impact than
+other
+salient
+they are given greater weight. Country
+characteristics,
+Floors, Inc. v. Gepner, 930 F.2d 1056 (3d Cir.1991);
+Henri's Food Products Co. v. Kraft, Inc., 717 F.2d 352 (7th
+Cir.1983); Giant Food, Inc. v. Nations' Foodservice, Inc.,
+710 F.2d 1565 (Fed.Cir.1983). The face of Vanna White
+and the features of the robot are obviously more important
+characteristics than their hair, dress, physical proportions,
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+jewelry, or the decoration of the set. Thus, the features of
+the robot and Vanna White should be given great weight in
+the analysis. It should be clear to anyone viewing the
+commercial advertisement that the crude features of the
+robot are very dissimilar to Vanna White's attractive and
+human face.
+
+The majority's analysis of the intent or seventh factor in
+AMF is similarly suspect. The question presented here is
+whether there is any evidence in the record that Samsung
+intended to confuse consumers. It did not.
+
+("Bagzilla" garbage bags did not
+
+Where the circumstances are sufficient to eliminate any
+likelihood of confusion, this court has repeatedly held that
+there is no claim for a violation of the Lanham Act. See
+Toho Co., Ltd. v. Sears, Roebuck & Co., 645 F.2d 788 (9th
+Cir.1981)
+infringe
+"Godzilla" mark); *1407Walt Disney Prods. v. Air Pi rates,
+581 F.2d 751 (9th Cir.1978), cert. denied sub nom O'Neill v.
+Walt Disney Prods, 439 U.S. 1132, 99 S.Ct. 1054, 59
+L.Ed.2d 94 (1979) ("Silly Sympathies" in adult comic books
+did not infringe on Disney's "Silly Symphonies"). The use
+of a robot in the commercial advertisement makes it clear
+that Vanna White did not endorse Samsung's product.
+
+Although likelihood of confusion may usually be a factual
+question, "courts retain an important authority to monitor
+the outer limits of substantial similarity within which a jury
+is permitted to make the factual determination whether there
+is a likelihood of confusion." Warner Bros.,
+Inc. v.
+American Broadcasting Cos., Inc., 720 F.2d 231, 246 (2d
+Cir.1983). "[S]ummary judgment is appropriate if the court
+is satisfied that the products or marks are so dissimilar that
+no question of fact is presented." Universal City Studios,
+Inc. v. Nintendo Co., Ltd., 746 F.2d 112 (2d Cir.1984).
+
+"There is no issue for trial unless there is sufficient evidence
+favoring the nonmoving party for a jury to return a verdict
+for that party." Anderson v. Liberty Lobby, Inc., 477 U.S.
+242, 249, 106 S.Ct. 2505, 2510, 91 L.Ed.2d 202 (1986).
+Vanna White has presented no evidence of actual deception.
+Thus, she has failed to raise a genuine issue of material fact
+that would support her Lanham Act claim.
+
+SAMSUNG'S FIRST AMENDMENT DEFENSE
+
+IV.
+
+shrift
+
+"[t]his
+
+case
+
+because
+
+The majority gives Samsung's First Amendment defense
+short
+true
+advertisement run for the purpose of selling Samsung
+VCRs." Majority opinion at p. 1401. I respectfully disagree
+with the majority's analysis of this issue as well.
+
+involves
+
+a
+
+The majority's attempt to distinguish this case from Hustler
+Magazine v. Falwell, 485 U.S. 46, 108 S.Ct. 876, 99
+L.Ed.2d 41 (1988), and L.L. Bean, Inc. v. Drake Publishers,
+
+Page 10
+
+Inc., 811 F.2d 26 (1st Cir.1987),
+is unpersuasive. The
+majority notes that the parodies in those cases were made
+for the purpose of poking fun at the Reverend Jerry Falwell
+and L.L. Bean. But the majority fails to consider that the
+defendants in those cases were making fun of the Reverend
+Jerry Falwell and L.L. Bean for the purely commercial
+purpose of selling soft-core pornographic magazines.
+
+Generally, a parody does not constitute an infringement on
+the original work if it takes no more than is necessary to
+"conjure up" the original. Walt Disney Prods. v. Air Pirates,
+581 F.2d 751, 756 (9th Cir.1978). The majority has failed to
+consider these factors properly in deciding that Vanna
+White may bring an action for damages solely because the
+popularity of the fame show, Wheel of Fortune.
+
+The effect of the majority's holding on expressive conduct is
+difficult to estimate. The majority's position seems to allow
+any famous person or entity to bring suit based on any
+commercial advertisement that depicts a character or role
+performed by the plaintiff. Under the majority's view of the
+law, Gene Autry could have brought an action for damages
+against all other singing cowboys. Clint Eastwood would be
+able to sue anyone who plays a tall, soft- spoken cowboy,
+unless, of course, Jimmy Stewart had not previously
+enjoined Clint Eastwood. Johnny Weismuller would have
+been able to sue each actor who played the role of Tarzan.
+Sylvester Stallone could sue actors who play blue- collar
+boxers. Chuck Norris could sue all karate experts who
+skills
+display
+pictures. Arnold
+Schwarzenegger
+could sue body builders who are
+compensated for appearing in public.
+
+in motion
+
+their
+
+The majority's reading of the Lanham Act would provide a
+basis for "commercial" enterprises to maintain an action for
+section 43(a) violations even in the absence of confusion or
+deception. May Black and Decker, maker of
+the
+"Dustbuster" portable vacuum, now sue "Bust-dusters," the
+Los Angeles topless cleaning service. Can the Los Angeles
+Kings hockey team state a cause of action against the City
+of Las Vegas for its billboards reading "L.A. has the Kings,
+but we have the Aces."
+
+*1408 Direct competitive advertising could also be affected.
+Will BMW, which advertises its automobiles as "the
+ultimate driving machine," be able to maintain an action
+against Toyota for advertising one of its cars as "the
+ultimate saving machine"? Can Coca Cola sue Pepsi
+because it depicted a bottle of Coca Cola in its televised
+"taste test"? Indeed, any advertisement which shows a
+competitor's product, or any recognizable brand name,
+would appear to be liable for damages under the majority's
+view of the applicable law. Under the majority's analysis,
+even the depiction of an obvious facsimile of a competitor's
+product may provide sufficient basis for the maintenance of
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+Page 11
+
+971 F.2d 1395
+23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+(Cite as: 971 F.2d 1395)
+
+an action for damages.
+
+V.
+
+CONCLUSION
+
+The protection of intellectual property presents the courts
+with the necessity of balancing competing interests. On the
+one hand, we wish to protect and reward the work and
+investment of those who create intellectual property. In so
+doing, however, we must prevent
+the creation of a
+monopoly that would inhibit the creative expressions of
+others. We have traditionally balanced those interests by
+allowing the copying of an idea, but protecting a unique
+expression of
+it. Samsung clearly used the idea of a
+glamorous female game show hostess. Just as clearly, it
+avoided appropriating Vanna White's expression of that
+role. Samsung did not use a likeness of her. The performer
+depicted in the commercial advertisement is unmistakably a
+lifeless robot. Vanna White has presented no evidence that
+any consumer confused the robot with her identity. Indeed,
+no reasonable consumer could confuse the robot with Vanna
+White or believe that, because the robot appeared in the
+advertisement, Vanna White endorsed Samsung's product.
+
+I would affirm the district court's judgment in all respects.
+
+971 F.2d 1395, 23 U.S.P.Q.2d 1583, 20 Media L. Rep. 1457
+
+END OF DOCUMENT
+
+Copr. © West 2004 No Claim to Orig. U.S. Govt. Works
+
+
