@@ -148,7 +148,7 @@ def lit_determination(request):
 	if s or p or intuition or c:
 		if noncommercial:
 			return (2, 'It sounds like this might be infringement but you might get a cease-and-desist letter at most!')
-		return (0, 'Not fair use! You are selling this even though it has a highly recognizable element from the source material')
+		return (0, 'Not fair use! You are selling your work even though it contains a highly recognizable element from the source material')
 
 	return(1, 'Fair Use! Good job :)')
 
